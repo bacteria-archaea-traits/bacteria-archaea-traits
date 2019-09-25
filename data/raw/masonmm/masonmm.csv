@@ -1,0 +1,51 @@
+original_name,mw_ncbi_scientific_name,mw_ncbi_name,medium,generation_time_min,growth_temperature,org_ref,mw_comment
+Azotobacter chroococcum,Azotobacter chroococcum Beijerinck 1901,Azotobacter chroococcum,Glucose broth,27,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University",NA
+Rhizobium trifolii,Rhizobium leguminosarum,Rhizobium leguminosarum,Mannitol-mineral-yeast extract,101,NA,"SHERMAN, J. M., AND CAMERON, G. M. 1932 Unpublished data, Cornell University.",NA
+Diplococcus mucosus,Neisseria mucosa,Neisseria mucosa,Milk,32,NA,"HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.",NA
+Diplococcus pneumoniae I,Streptococcus pneumoniae,Streptococcus pneumoniae,Broth + serum,20.5,NA,"CHESNEY, M. M. 1916 Jour. Exp. Med., 24, 381.",NA
+Streptococcus lactis,Lactococcus lactis (Lister 1873) Schleifer et al. 1986,Lactococcus lactis,Milk,23.5,NA,"HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.",NA
+Streptococcus fecalis,Enterococcus faecalis (Andrewes and Horder 1906) Schleifer and Kilpper-Balz 1984,Enterococcus faecalis,Milk,23,NA,"FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.",NA
+Streptococcus thermophilus,Streptococcus thermophilus (Orla-Jensen 1919) Schleifer et al. 1995,Streptococcus thermophilus,Milk,27,NA,"FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.",NA
+Streptococcus hemolyticus,Streptococcus pyogenes Rosenbach 1884,Streptococcus pyogenes,Glucose broth,26,NA,"FOSTER, L. F. 1921 Jour. Bact., 6, 143.",NA
+Streptococcus liquefaciens,Enterococcus faecalis (Andrewes and Horder 1906) Schleifer and Kilpper-Balz 1984,Enterococcus faecalis,Milk,27,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",NA
+Streptococcus mastitidis,Streptococcus agalactiae Lehmann and Neumann 1896,Streptococcus agalactiae,Milk + glucose,36,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",NA
+Staphylococcus aureus,Staphylococcus aureus Rosenbach 1884,Staphylococcus aureus,Broth,27,NA,"GRAHAM-SMITH, G. S. 1920 Jour. Hyg., 19, 133.",NA
+Staphylococcus albus,Staphylococcus epidermidis (Winslow and Winslow 1908) Evans 1916,Staphylococcus epidermidis,Glucose broth,24.5,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",Reported to have changed name to S. epidermis
+Vibrio cholerae,Vibrio cholerae Pacini 1854,Vibrio cholerae,Broth,21.2,NA,"HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.",NA
+Vibrio costatus,NA,NA,Broth,42,NA,"LLOYD, B., AND CRANSTON, J. A. 1930 Biochem. Jour., 24, 529.",Could not translate
+Serratia marcescens,Serratia marcescens Bizio 1823,Serratia marcescens,Milk,37,NA,"HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.",NA
+Pseudomonas fluorescens,Pseudomonas fluorescens Migula 1895,Pseudomonas fluorescens,Glucose broth,34.3,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",NA
+Pseudomonas pyocyanea,Pseudomonas aeruginosa (Schroeter 1872) Migula 1900,Pseudomonas aeruginosa,Glucose broth,31,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",NA
+Erwinia carotovora,Pectobacterium carotovorum (Jones 1901) Waldee 1945 (Approved Lists 1980) emend. Gardan et al. 2003,Pectobacterium carotovorum,Glucose broth,42,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",NA
+Phytomonas angulata,Pseudomonas syringae van Hall 1902,Pseudomonas syringae,Broth,76,25,WOLF AND FOSTER 1921 North Carolina Agr. Exp. Sta. Tech. Bul. 20.,"name according to Bacterial diseases of crop plants, Suresh Borkar, Rupert Anand Yumlembam: synonym for Pseudomonas syringae pv. Tabaci (Wolf & Foster) Young et al.. Not listed in NCBI browser, so reducing to species level."
+Phytomonas tabacum,Pseudomonas syringae van Hall 1902,Pseudomonas syringae,Broth,81,25,WOLF AND FOSTER 1921 North Carolina Agr. Exp. Sta. Tech. Bul. 20.,"name according to Bacterial diseases of crop plants, Suresh Borkar, Rupert Anand Yumlembam: synonym for Pseudomonas syringae pv. Tabaci (Wolf & Foster) Young et al.. Not listed in NCBI browser, so reducing to species level."
+Phytomonas sojae,NA,NA,Broth,82,25,WOLF AND FOSTER 1921 North Carolina Agr. Exp. Sta. Tech. Bul. 20.,NA
+Phytomonas glycinea,Pseudomonas savastanoi (Janse 1982) Gardan et al. 1992,Pseudomonas savastanoi,Broth,95,25,WOLF AND FOSTER 1921 North Carolina Agr. Exp. Sta. Tech. Bul. 20.,According to DSMZ name change:  <- ATCC (Pseudomonas syringae pvar. glycinea) <- W.H. Burkholder; PG2 (Phytomonas glycinea) 
+Phytomonas campestris,Xanthomonas campestris (Pammel 1895) Dowson 1939 (Approved Lists 1980) emend. Vauterin et al. 1995,Xanthomonas campestris,Broth,165,25,WOLF AND FOSTER 1921 North Carolina Agr. Exp. Sta. Tech. Bul. 20.,"This is likely to be Bacterium campestre, which is recorded as a synonym for Xanthomonas campestris. But not sure."
+Phytomonas campestre,NA,NA,Broth,74,25,"WERNHAM, C. C. 1933 Unpublished data, Cornell University.",NA
+Phytomonas phaseoli,NA,NA,Glucose broth,138,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",May be Xanthomonas phaseoli (ex Smith 1897) Gabriel et al. 1989 emend. Constantin et al. 2016
+Lactobacillus acidophilus,Lactobacillus acidophilus Johnson et al. 1980,Lactobacillus acidophilus,Milk,66,NA,"FOTER, M. J. 1933-4 Unpublished data, Cornell University.",NA
+Lactobacillus bulgaricus,Lactobacillus delbrueckii subsp. bulgaricus (Orla-Jensen 1919) Weiss et al. 1984,Lactobacillus delbrueckii subsp. bulgaricus,Yeast extract,37,NA,"COHEN, B., AND CLARK, W. M. 1917 Jour. Bact., 4, 409.",NA
+Lactobacillus casei,Lactobacillus casei (Orla-Jensen 1916) Hansen & Lessel 1971 (Approved Lists 1980) emend. Dicks et al. 1996,Lactobacillus casei,Milk,38,NA,"FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.",NA
+Lactobacillus delbrucki,Lactobacillus delbrueckii (Leichmann 1896) Beijerinck 1901,Lactobacillus delbrueckii,Wort,83,45,"SLATOR, A. 1916 Jour. Chem. Soc., 109, 2.",NA
+Lactobacillus pentoaceticus,NA,NA,Yeast extract,57,NA,"ANDERSON, J. A., FRED, E. B., AND PETERSON, W. H. 1920 Jour. Inf. Dis., 27, 281.","May be Plocamobacterium pentoaceticus, but not sure."
+Pasteurella lepiseptica,NA,NA,Broth + blood,24.4,NA,"WEBSTER, L. T. 1925 Jour. Exp. Med., 41, 571.","Pasteurella haemolytica is now called Mannheimia haemolytica, but no similar information on name change can be found fo P. lepiseptica"
+Escherichia coli,Escherichia coli (Migula 1895) Castellani and Chalmers 1919,Escherichia coli,Milk,12.5,NA,"FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.",NA
+Escherichia communior,NA,NA,Broth,16,NA,"HEHEWERTH 1901 Arch. Hyg., 39, 321.",Seems to possibly be another E. coli strain variation previously named E. coli communior
+Aerobacter aerogenes,Klebsiella aerogenes (Hormaeche and Edwards 1960) Tindall et al. 2017,Klebsiella aerogenes,Peptone + glucose,17.2,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",NA
+Proteus vulgaris,Proteus vulgaris Hauser 1885 (Approved Lists 1980) emend. Judicial Commission 1999,Proteus vulgaris,Broth,21.5,NA,"STARK, C. B. 1923 Doctor's Thesis, Cornell University.",NA
+Salmonella enteritidis,Salmonella enterica subsp. enterica serovar Enteritidis,Salmonella enterica subsp. enterica serovar Enteritidis,Broth,21.5,42,"LANE-CLAYPON, J. E. 1909 Jour. Hyg., 9, 239.",NA
+Salmonella paratyphi,Salmonella enterica subsp. enterica serovar Paratyphi A,Salmonella enterica subsp. enterica serovar Paratyphi A,Broth,23,NA,"REICHENBACH, H. 1911 Z. f. Hyg., 69, 171.",NA
+Salmonella suipestifer,Salmonella enterica (ex Kauffmann and Edwards 1952) Le Minor and Popoff 1987,Salmonella enterica,Broth,26,NA,"WILSON, G. S. 1922 Jour. Bact., 7, 405.","According to Posch et al. 1943 also known as Salmonella cholerae-suis, which is today a synonym for Salmonella enterica"
+Eberthella typhosa,Salmonella enterica subsp. enterica serovar Typhi,Salmonella enterica subsp. enterica serovar Typhi,Broth,23.5,NA,"MULLER, M. 1895 Zeit. Hyg., 20, 245.","Also known as Eberth's bacillus, named after its discoverer. The bacterium that is the causative agent of Typhoid fever"
+Shigella dysenteriae,Shigella dysenteriae (Shiga 1897) Castellani and Chalmers 1919,Shigella dysenteriae,Milk,23,NA,"HEINEMANN, D. G., AND GLENN, T. H. 1908 Jour. Inf. Dis., 5, 534.",NA
+Bacillus mycoides,Bacillus mycoides Flugge 1886,Bacillus mycoides,Broth,28,NA,"WARD, M., AND FRANKLAND 1895 Proc. Royal Soc. London, 58, 265.",NA
+Bacillus megatherium,Bacillus megaterium de Bary 1884,Bacillus megaterium,Broth,31,NA,"HENRICI, A. T. 1928 Morphologic Variation and Rate of Growth of Bacteria, Springfield, C. C. Thomas.",
+Bacillus cereus,Bacillus cereus Frankland and Frankland 1887,Bacillus cereus,Glucose broth,17,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",NA
+Bacillus thermophilis,NA,NA,Glucose broth,16,55,"HANSEN, P. A. 1932 Arch. Microbiol., 4, 23.",Cannot confirm whether this is identical to Bacillus thermophilus
+Bacillus subtilis,Bacillus subtilis (Ehrenberg 1835) Cohn 1872,Bacillus subtilis,Glucose broth,26,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",NA
+Clostridium botulinum,Clostridium botulinum (van Ermengem 1896) Bergey et al. 1923,Clostridium botulinum,Glucose broth,35,NA,"WAGNER, E., MAYER, K. F., AND DOZIER, C. C. 1925 Jour. Bact., 10, 321.",NA
+Clostridium welchii,Clostridium perfringens (Veillon and Zuber 1898) Hauduroy et al. 1937,Clostridium perfringens,milk,35,NA,"FRAZIER, W. C., AND WHITTIER, E. 0. 1931 Jour. Bact., 21, 239.",NA
+Clostridium amylobacter,Clostridium butyricum Prazmowski 1880,Clostridium butyricum,Corn mash,51,NA,"McCoY, E., FRED, E. B., ET AL. 1926 Jour. Inf. Dis., 39, 451.",Likely synonym of Bacillus amylobacter which is a synonym for Clostridium butyricum
+Corynebacterium diphtheriae,Corynebacterium diphtheriae (Kruse 1886) Lehmann and Neumann 1896,Corynebacterium diphtheriae,Seum + glucose broth,34,NA,"MASON, M. M. 1934 Master's Thesis, Cornell University.",NA
+Corynebacterium pseudodiphtheriae,Corynebacterium pseudodiphtheriticum Lehmann and Neumann 1896,Corynebacterium pseudodiphtheriticum,Boroth,37,NA,"HENRICI, A. T. 1928 Morphologic Variation and Rate of Growth of Bacteria, Springfield, C. C. Thomas.","Likely Corynebacterium pseudodiphthericum, but cannot find evidence of such a name change"

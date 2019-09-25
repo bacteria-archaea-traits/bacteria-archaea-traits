@@ -1,0 +1,29 @@
+Original,New,Priority,Category
+"motile, but unspecified structure",yes,1,2
+NA,NA,0,0
+flagella,flagella,2,2
+non-motile,no,1,1
+gliding,gliding,2,2
+axial filament,axial filament,2,2
+yes,yes,1,2
+Yes,yes,1,2
+"Yes, gliding",gliding,2,2
+no,no,1,1
+No,no,1,1
+NO,no,1,1
+nd,NA,0,0
+unavailable,NA,0,0
+variable,yes,1,2
+no data,NA,0,0
+0,NA,0,0
+No data,NA,0,0
+Motile,yes,1,2
+motile,yes,1,2
+Chemotactic,yes,1,2
+Nonmotile,no,1,1
+Non-motile,no,1,1
+Non motile,no,1,1
+nonmotile,no,1,1
+N,no,1,1
+weakly,yes,1,2
+-,no,1,1

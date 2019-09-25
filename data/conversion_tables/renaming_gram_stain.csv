@@ -1,0 +1,22 @@
+Original,New,Priority,Category
+positive,positive,1,1
+Positive,positive,1,1
+Posotive,positive,1,1
+negative,negative,1,2
+Negative,negative,1,2
+positiv,positive,1,1
+variable,NA,0,0
+No data,NA,0,0
+unknown (cell lysis),NA,0,0
+no data,NA,0,0
+NA,NA,0,0
+Gram-,negative,1,2
+gram -,negative,1,2
+Gram+,positive,1,1
+gram +,positive,1,1
+0,negative,1,2
+1,positive,1,1
+2,NA,0,0
+_,NA,0,0
+-,negative,1,2
++,positive,1,1

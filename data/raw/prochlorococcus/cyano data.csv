@@ -1,0 +1,25 @@
+﻿Genus,strain,16S accession,doubling time (hrs),growth rate reference,d1_lo,d1_up,d2_lo,cell size reference
+Prochlorococcus,MED4,AF001466,26.61,1,0.537,0.73,,"4,5"
+Prochlorococcus,MIT9201,AF115268,20.67,2,,,,
+Prochlorococcus,MIT9202,AF115269,19.67,2,,,,
+Prochlorococcus,MIT9215,AF115271,21.54,2,,,,
+Prochlorococcus,MIT9302,AF053396,21.6,2,,,,
+Prochlorococcus,MIT9312,AF053398,21.32,2,,,,
+Prochlorococcus,NATL2A,AF001467,28.66,3,,,,
+Prochlorococcus,NATL1,AF133834,25.2,18,0.568,0.666,,4
+Prochlorococcus,SS120,AF397701,28.35,1,0.568,0.7,,"4, 9"
+Prochlorococcus,MIT9211,AF115270,26.12,2,,,,
+Prochlorococcus,MIT9303,AF053397,31.65,2,,,,
+Prochlorococcus,MIT9313,AF053399,30.52,2,0.7,,1.6,10
+Synechococcus,WH7803 (DC2),AF311291,14.46,8,1.074,,,4
+Synechococcus,ROS04,none,55.44,16,0.966,1.074,,4
+Synechococcus,MAX01,none,22.78,17,0.812,0.924,,4
+Synechococcus,WH8012,AF539812,16.31,11,0.87,,,5
+Synechococcus,WH8103,AF397712,16.63,1,1.17,,,5
+Synechocystis sp. ,PCC 6803,AY224195,6.6,6,1.34,1.69,,5
+Synechococcus elongatus sp. ,PCC 7942,AF132930,4.9,6,1,1.2,2,"6,15"
+Synechococcus sp. ,PCC 7002,AJ000716,3.8,12,,,,
+Synechococcus sp. ,UTEX 2973,CP006471,2.1,6,,,2,6
+Synechococcus sp. ,PCC 6301 (Anacystis nidulans),NR_074309,5.4,6,1,1.2,,15
+Synechococcus sp. ,CCMP 839,AY946244,24.68,7,1.5,,,5
+Synechococcus,"WH6501 (Syn48, CCMP833)",AF397706,30.24,13,0.5,1,,

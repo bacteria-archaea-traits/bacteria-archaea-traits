@@ -1,0 +1,17 @@
+Original,New,Priority,Category
+NonHalophilic,non-halophilic,1,1
+Non-halophilic,non-halophilic,1,1
+halophilic,halophilic,1,2
+Halophilic,halophilic,1,2
+Halophile,halophilic,1,2
+ModerateHalophilic,moderate-halophilic,1,3
+Moderate halophilic,moderate-halophilic,1,3
+Mesophilic,moderate-halophilic,1,3
+Moderate Halophilic,moderate-halophilic,1,3
+ExtremeHalophilic,extreme-halophilic,1,4
+Extreme halophilic,extreme-halophilic,1,4
+Extreme Halophilic,extreme-halophilic,1,4
+Halotolerant,halotolerant,1,5
+Stenohaline,stenohaline,1,6
+Euryhaline,euryhaline,1,7
+Unknown,NA,1,0

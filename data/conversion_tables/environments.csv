@@ -1,0 +1,93 @@
+Main group,Type,Water,water variability,Nutrients,Gradients,Organic,Structural,Pressure,Temperature,temp variability,Salinity,salinity variability,pH,Cobo-Simon habitat,WvS,CSadj,ENVO_terms,ENVO_ids
+Terrestrial,soil,NA,NA,NA,high,NA,high,low,NA,medium,NA,NA,NA,soil,NA,soil,soil,ENVO:00001998
+Terrestrial,soil_mineral,NA,NA,NA,high,low,high,low,NA,high,NA,small,NA,soil,NA,soil,"soil, mineral material","ENVO:00001998, ENVO:01000256"
+Terrestrial,soil_arid,low,occasionally wet,low,high,low,high,low,NA,high,low,small,NA,soil,NA,soil,"soil, arid","ENVO:00001998, ENVO:01000230"
+Terrestrial,soil_grassland,medium,occasionally dry,medium,high,medium,high,low,NA,medium,low,small,medium,soil,NA,soil,grassland soil,ENVO:00005750
+Terrestrial,soil_forest,medium,occasionally dry,medium,high,medium,high,low,NA,medium,low,small,NA,soil,NA,soil,forest soil,ENVO:00002261
+Terrestrial,soil_agricultural,medium,occasionally dry,medium,high,medium,high,low,NA,high,low,small,NA,soil,NA,soil,agricultural soil,ENVO:00002259
+Terrestrial,soil_marshland,high,occasionally dry,NA,high,high,hlgh,low,NA,high,NA,NA,NA,soil,NA,soil,"soil, marsh","ENVO:00001998, ENVO:00000035"
+Terrestrial,soil_saline,NA,NA,NA,high,NA,high,low,NA,high,high,small,high,soil,NA,soil,"soil, saline environment","ENVO:00001998, ENVO:01001040"
+Terrestrial,soil_organic,NA,NA,high,high,high,high,low,medium,medium,NA,small,NA,soil,NA,soil,"soil, organic material","ENVO:00001998, ENVO:01000155"
+Terrestrial,soil_organic_peat,medium,occasionally dry,high,high,high,high,low,medium,medium,low,small,low,soil,NA,soil,peat soil,ENVO:00005774
+Terrestrial,soil_organic_tundra,medium,occasionally dry,low,high,high,high,low,low,low,low,small,low,soil,NA,soil,"soil, tundra","ENVO:00001998, ENVO:00000112"
+Terrestrial,soil_organic_permafrost,low,permanently wet,low,NA,high,high,low,low,low,low,small,low,soil,NA,soil,"soil, permafrost"," ENVO:00001998, ENVO:00000134"
+Terrestrial,soil_contaminated,NA,NA,NA,high,NA,high,low,NA,medium,NA,small,NA,NA,NA,soil,"soil, soil pollution","ENVO:00001998, ENVO:02500038"
+Terrestrial,soil_hydrocarbon_contaminated,NA,NA,NA,high,high,high,NA,NA,medium,NA,small,NA,NA,NA,soil,"soil, soil pollution, hydrocarbon","ENVO:00001998, ENVO:02500038, CHEBI:24632"
+Terrestrial,litter,NA,occasionally wet,medium,high,high,h,low,medium,medium,low,small,NA,soil,NA,NA,plant litter,ENVO:01000628
+Terrestrial,rock,NA,NA,NA,NA,low,high,NA,NA,NA,NA,small,NA,rock,NA,NA,rock,ENVO:00001995
+Terrestrial,rock_endolithic,low,dry,low,high,low,high,low,NA,medium,NA,small,NA,rock,NA,NA,endolithic environment,ENVO:01000303
+Terrestrial,rock_surface,NA,occasionally wet,low,high,low,high,low,NA,high,NA,small,NA,rock,NA,NA,"rock, exposed","ENVO:00001995, PATO:0002425"
+Terrestrial,rock_deep,low,NA,low,low,low,high,high,high,low,NA,small,NA,rock,NA,NA,"rock, increased depth","ENVO:00001995, PATO:0001596"
+Terrestrial,volcanic_active,low,occasionally wet,high,high,low,high,low,high,high,NA,small,NA,therm,NA,thermal,volcano,ENVO:00000247
+Aquatic,water,high,permanently wet,NA,low,NA,low,NA,NA,NA,NA,NA,NA,NA,NA,NA,liquid water,ENVO:00002006
+Aquatic,water_saline,high,permanently wet,NA,NA,NA,low,NA,NA,NA,high,small,high,NA,NA,NA,saline water,ENVO:00002010
+Aquatic,water_marine,high,permanently wet,NA,low,NA,low,NA,NA,NA,high,small,high,marine,marine_water,marine_water,sea water,ENVO:00002149
+Aquatic,water_marine_deep,high,permanently wet,medium,low,low,low,high,low,low,high,small,high,marine,marine_water,marine_water,"sea water, increased depth","ENVO:00002149, PATO:0001596"
+Aquatic,water_marine_hydrothermal,high,permanently wet,high,low,low,low,high,high,high,high,wide,high,therm,marine_water,marine_water,hydrothermal vent,ENVO:00000215
+Aquatic,water_marine_cold,high,permanently wet,NA,low,NA,low,NA,low,low,high,small,high,marine,marine_water,marine_water,"sea water, reduced temperature","ENVO:00002149, PATO:0001306"
+Aquatic,water_fresh,high,permanently wet,NA,low,NA,low,low,NA,medium,low,small,medium,fresh,fresh_water,fresh_water,fresh water,ENVO:00002011
+Aquatic,water_fresh_deep,high,permanently wet,low,low,low,low,high,low,low,low,small,medium,fresh,fresh_water,fresh_water,"fresh water, increased depth","ENVO:00002011, PATO:0001596"
+Aquatic,water_fresh_alkaline,high,permanently wet,NA,low,medium,low,low,NA,NA,low,small,high,fresh,fresh_water,fresh_water,"fresh water, alkaline water","ENVO:00002011, ENVO:01000357"
+Aquatic,water_fresh_cold,high,permanently wet,NA,low,NA,low,low,low,NA,low,small,medium,fresh,fresh_water,fresh_water,"fresh water, reduced temperature","ENVO:00002011, PATO:0001306"
+Aquatic,water_brackish,high,permanently wet,medium,low,NA,low,low,NA,medium,medium,wide,medium,NA,NA,NA,brackish water,ENVO:00002019
+Aquatic,water_hotspring,high,permanently wet,NA,low,low,low,low,high,high,NA,small,NA,therm,NA,thermal,hot spring,ENVO:00000051
+Aquatic,water_hypersaline,low,permanently wet,NA,low,low,low,NA,NA,medium,high,small,NA,NA,NA,NA,hypersaline water,ENVO:00002012
+Aquatic,water_groundwater,high,permanently wet,NA,low,low,medium,NA,NA,low,low,small,medium,fresh,NA,NA,groundwater,ENVO:01001004
+Aquatic,water_groundwater_surface,high,permanently wet,NA,low,low,medium,NA,NA,low,low,small,medium,fresh,NA,fresh_water,"groundwater, decreased depth","ENVO:01001004, PATO:0001472"
+Aquatic,water_groundwater_deepsubsurface,high,permanently wet,NA,low,low,medium,high,high,low,low,small,NA,fresh,NA,NA,"groundwater, increased depth","ENVO:01001004, PATO:0001596"
+Aquatic,sediment,high,permanently wet,NA,NA,NA,medium,NA,NA,NA,NA,small,NA,NA,NA,NA,sediment,ENVO:00002007
+Aquatic,sediment_wetland,high,permanently wet,NA,high,high,medium,low,medium,low,low,small,low,fresh,NA,fresh_sediment,"sediment, wetland ecosystem","ENVO:00002007, ENVO:01001209"
+Aquatic,sediment_marine,high,permanently wet,NA,NA,NA,medium,NA,NA,low,high,small,high,marine,marine_sediment,marine_sediment,marine sediment,ENVO:03000033
+Aquatic,sediment_marine_hot,high,permanently wet,NA,NA,NA,medium,NA,high,medium,high,small,high,therm,marine_sediment,marine_sediment,"marine sediment, increased temperature","ENVO:03000033, PATO:0001305"
+Aquatic,sediment_marine_cold,high,permanently wet,NA,NA,NA,medium,NA,low,low,high,small,high,marine,marine_sediment,marine_sediment,"marine sediment, reduced temperature","ENVO:03000033, PATO:0001306"
+Aquatic,sediment_marine_contaminated,high,permanently wet,NA,high,NA,medium,NA,NA,NA,high,small,high,marine,marine_sediment,marine_sediment,"marine sediment, contaminated sediment","ENVO:03000033, ENVO:00002114"
+Aquatic,sediment_marine_deep,high,permanently wet,NA,high,NA,medium,high,low,low,high,small,high,marine,marine_sediment,marine_sediment,deep marine sediment,ENVO:00002113
+Aquatic,sediment_marine_deepsubsurface,high,permanently wet,low,low,low,medium,high,high,low,high,small,high,marine,marine_sediment,marine_sediment,,
+Aquatic,sediment_marine_hydrothermal,high,permanently wet,medium,high,low,medium,high,high,high,high,small,high,therm,marine_sediment,marine_sediment,"marine sediment, hydrothermal vent","ENVO:03000033, ENVO:00000215"
+Aquatic,sediment_marine_organic,high,permanently wet,high,high,high,medium,NA,NA,low,high,small,high,marine,marine_sediment,marine_sediment,"marine sediment, organic material","ENVO:03000033, ENVO:01000155"
+Aquatic,sediment_hypersaline,low,permanently wet,low,high,low,medium,NA,NA,low,high,small,NA,NA,NA,NA,"sediment, hypersaline water","ENVO:00002007, ENVO:00002012"
+Aquatic,sediment_fresh,high,permanently wet,NA,high,medium,medium,NA,NA,low,low,small,medium,fresh,fresh_sediment,fresh_sediment,"sediment, freshwater environment","ENVO:00002007,ENVO:01000306"
+Aquatic,sediment_fresh_cold,high,permanently wet,NA,high,medium,medium,NA,low,low,low,small,medium,fresh,fresh_sediment,fresh_sediment,"sediment, freshwater environment, reduced temperature","ENVO:00002007, ENVO:01000306, PATO:0001306"
+Aquatic,sediment_fresh_contaminated,high,permanently wet,NA,high,medium,medium,NA,NA,low,low,small,medium,fresh,fresh_sediment,fresh_sediment,"sediment, freshwater environment, water pollution","ENVO:00002007, ENVO:01000306, ENVO:02500039"
+Aquatic,sediment_fresh_deep,high,permanently wet,medium,high,medium,medium,high,NA,none,low,small,medium,fresh,fresh_sediment,fresh_sediment,"sediment, freshwater environment, increased depth","ENVO:00002007, ENVO:01000306, PATO:0001596"
+Aquatic,sediment_fresh_deepsubsurface,high,permanently wet,low,low,low,medium,high,high,low,low,small,medium,fresh,fresh_sediment,fresh_sediment,,
+Aquatic,sediment_fresh_alkaline,high,permanently wet,medium,high,medium,medium,NA,NA,low,low,small,high,fresh,fresh_sediment,fresh_sediment,"sediment, freshwater environment, alkaline","ENVO:00002007, ENVO:01000306, PATO:0001430"
+Aquatic,sediment_brackish,high,permanently wet,NA,high,NA,medium,low,NA,low,medium,wide,medium,NA,fresh_sediment,fresh_sediment,"sediment, brackish water","ENVO:00002007, ENVO:00002019"
+Aquatic,sediment_brackish_cold,high,permanently wet,NA,high,NA,medium,low,low,low,medium,wide,medium,NA,NA,NA,"sediment, brackish water, reduced temperature","ENVO:00002007, ENVO:00002019, PATO:0001306"
+Host_associated,host,NA,NA,NA,NA,NA,NA,low,NA,NA,NA,NA,medium,host,NA,NA,multicellular organism,UBERON:0000468
+Host_associated,host_fungus,high,permanently wet,high,high,high,high,low,NA,medium,low,small,NA,host,NA,NA,fungi-associated environment,ENVO:01001041
+Host_associated,host_algae,high,permanently wet,high,high,high,high,low,NA,low,NA,NA,NA,host,NA,NA,alga,ENVO:02500019
+Host_associated,host_animal,NA,NA,NA,NA,NA,NA,low,NA,low,NA,NA,NA,host,NA,NA,animal-associated environment,ENVO:01001002
+Host_associated,host_animal_ectotherm,NA,NA,NA,NA,NA,NA,low,NA,NA,NA,small,medium,host,NA,host_internal,,
+Host_associated,host_animal_endotherm,NA,NA,NA,NA,NA,NA,low,medium,low,NA,small,medium,host,NA,host_internal,,
+Host_associated,host_animal_endotherm_oral,high,permanently wet,high,high,high,high,low,medium,low,NA,medium,medium,host,NA,oral,mouth environment,ENVO:08000002
+Host_associated,host_animal_endotherm_nasopharyngeal,NA,occasionally dry,medium,high,high,high,low,medium,low,NA,small,medium,host,NA,oral,respiratory tract,UBERON:0000065
+Host_associated,host_animal_endotherm_vagina,high,permanently wet,high,high,high,high,low,medium,low,medium,small,low,host,NA,host_internal,vagina,UBERON:0000996
+Host_associated,host_animal_endotherm_blood,high,permanently wet,high,high,high,high,low,medium,low,medium,small,medium,host,NA,host_internal,blood,UBERON:0000178
+Host_associated,host_animal_endotherm_rumen,high,permanently wet,high,low,high,low,low,medium,low,medium,small,low,host,NA,gut,,
+Host_associated,host_animal_endotherm_intestinal,medium,permanently wet,high,high,high,medium,low,medium,low,medium,small,NA,host,NA,gut,intestine environment,ENVO:2100002
+Host_associated,host_animal_endotherm_intracellullar,high,permanently wet,NA,NA,high,NA,low,medium,low,medium,small,medium,host,NA,host_internal,,
+Host_associated,host_animal_endotherm_surface,NA,occasionally wet,NA,NA,high,high,low,medium,high,NA,NA,NA,host,NA,NA,skin environment,ENVO:2100003
+Host_associated,host_animal_endotherm_intratissue,high,permanently wet,high,NA,high,medium,low,low,low,medium,small,medium,host,NA,host_internal,,
+Host_associated,host_animal_endotherm_feces,medium,NA,high,high,high,medium,low,medium,medium,medium,NA,medium,host,NA,NA,fecal environment,ENVO:01001029
+host_associated,host_plant,NA,NA,NA,high,NA,NA,low,NA,NA,NA,small,NA,host,NA,NA,plant-associated environment,ENVO:01001001
+Host_associated,host_plant_root-associated,NA,occasionally dry,NA,high,high,high,low,NA,medium,NA,small,NA,host,NA,NA,root,NCBITaxon:1
+Host_associated,host_plant_leaf-associated,NA,NA,NA,high,NA,NA,low,NA,high,NA,small,medium,host,NA,NA,leaf,PO:0025034
+Host_associated,host_plant_vasculature,high,permanently wet,NA,high,NA,high,low,NA,medium,NA,small,medium,host,NA,host_internal,"part of plant, vasculature","FOODON:03420174, UBERON:0002049"
+Host_associated,host_plant_rootnodule,high,permanently wet,high,high,high,high,low,NA,medium,NA,small,medium,host,NA,host_internal,root nodule,ENVO:01000164
+Other,sludge,high,permanently wet,high,low,high,medium,NA,medium,medium,NA,NA,NA,NA,NA,NA,sludge,ENVO:00002044
+Other,sludge_acidic,high,permanently wet,high,low,high,medium,NA,medium,medium,NA,NA,low,NA,NA,NA,"sludge, acidic","ENVO:00002044, PATO:0001429"
+Other,biofilm,high,NA,high,high,high,medium,NA,NA,NA,NA,small,NA,NA,NA,NA,biofilm,ENVO:00002034
+Other,biofilm_marine,high,permanently wet,high,high,high,medium,NA,NA,NA,high,small,high,NA,NA,NA,"biofilm, marine environment","ENVO:00002034, ENVO:01000320"
+Other,biofilm_fresh,high,permanently wet,high,high,high,medium,NA,NA,NA,low,small,NA,NA,NA,NA,"biofilm, freshwater environment","ENVO:00002034, ENVO:01000306"
+Other,built_environment_surfaces,low,occasionally wet,low,high,low,medium,low,NA,NA,low,small,NA,NA,NA,NA,building,ENVO:00000073
+Other,bioreactor/digester,high,permanently wet,high,low,high,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bioreactor,ENVO:00002123
+Other,compost,medium,occasionally dry,high,high,high,medium,low,NA,medium,low,small,low,NA,NA,NA,compost,ENVO:00002170
+Other,food,NA,NA,high,NA,high,NA,low,medium,NA,NA,small,NA,NA,NA,NA,food,CHEBI:33290
+Other,food_fermented,high,low,high,NA,high,NA,low,medium,NA,low,NA,low,low,NA,NA,,
+Other,milk,high,permanently wet,high,low,high,low,low,medium,medium,low,small,medium,NA,NA,NA,milk,UBERON:0001913
+Other,petroleum,low,NA,low,low,high,low,NA,NA,NA,low,small,NA,NA,NA,NA,petroleum,ENVO:00002984
+Other,petroleum_biofilm,low,NA,low,high,high,medium,NA,NA,NA,low,small,NA,NA,NA,NA,"biofilm, petroleum","ENVO:00002034, ENVO:00002984"
+Other,hypersaline,low,permanently wet,NA,NA,low,NA,NA,NA,NA,high,small,NA,NA,NA,NA,"saline environment, increased concentration","ENVO:01001040, PATO:0001162"
+Other,wastewater,high,permanently wet,high,NA,NA,NA,low,medium,NA,NA,NA,NA,NA,NA,NA,waste water,ENVO:00002001
+Other,unclassified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,3154 @@
+Original,New
+"host-associated, human",host_animal_endotherm
+"host-associated, human, respiratory system, nasopharyngeal",host_animal_endotherm_nasopharyngeal
+"host-associated, plants",host_plant
+"environmental, terrestrial, soil",soil
+"host-associated, human, circulatory system, blood",host_animal_endotherm_blood
+"host-associated, human, respiratory system",host_animal_endotherm_nasopharyngeal
+"host-associated, human, digestive system, large intestine, fecal",host_animal_endotherm_intestinal
+"host-associated, arthropoda",host_animal_ectotherm
+"host-associated, human, free living",host_animal_endotherm
+soil,soil
+"host-associated, mammals",host_animal_endotherm
+"host-associated, microbial, bacteria",host
+"engineered, food production",food
+"host-associated, free living",host
+"host-associated, human, respiratory system, pulmonary system, sputum",host_animal_endotherm_nasopharyngeal
+free living,unclassified
+host-associated,host
+"environmental, aquatic, marine",water_marine
+"engineered, food production, meat products",food
+"host-associated, human, excretory system, urethra, urine",host_animal_endotherm
+"host-associated, birds",host_animal_endotherm
+"environmental, aquatic",water
+"host-associated, mollusca",host_animal_ectotherm
+seawater,water_marine
+"host-associated, human, digestive system, large intestine, fecal, free living",host_animal_endotherm_intestinal
+"host-associated, human, digestive system, oral",host_animal_endotherm_oral
+"engineered, lab synthesis",bioreactor/digester
+"host-associated, animal",host_animal
+marine sediment,sediment_marine
+"host-associated, human, digestive system, oral, free living",host_animal_endotherm_oral
+"host-associated, animal, digestive system",host_animal_endotherm_intestinal
+plant associated,host_plant
+"engineered, wastewater",wastewater
+"engineered, food production, fermented beverages",food_fermented
+"host-associated, human, digestive system",host_animal_endotherm_intestinal
+"environmental, terrestrial, soil, free living",soil
+"host-associated, mammals, digestive system, large intestine, fecal",host_animal_endotherm_intestinal
+"engineered, built environment, hospital",built_environment_surfaces
+"host-associated, fish",host_animal_ectotherm
+"host-associated, human, skin, free living",host_animal_endotherm_surface
+freshwater,water_fresh
+"environmental, aquatic, marine, free living",water_marine
+"host-associated, insecta",host_animal_ectotherm
+"engineered, food production, dairy products",food
+"host-associated, invertebrates",host_animal_ectotherm
+"host-associated, plants, free living",host_plant
+"host-associated, mammals, free living",host_animal_endotherm
+"host-associated, plants, rhizoplane",host_plant_root-associated
+"environmental, aquatic, freshwater, ponds",water_groundwater_surface
+"environmental, aquatic, marine, oceanic, sediment",sediment_marine
+"host-associated, mammals, milk",milk
+environmental,unclassified
+"host-associated, animal, respiratory system",host_animal_endotherm_nasopharyngeal
+"host-associated, human, reproductive system, vagina, free living",host_animal_endotherm_vagina
+"environmental, aquatic, freshwater",water_fresh
+"host-associated, plants, roots",host_plant_root-associated
+"host-associated, human, nervous system, brain",host_animal_endotherm_intratissue
+"environmental, aquatic, thermal springs",water_hotspring
+"environmental, terrestrial",unclassified
+"host-associated, plants, rhizoplane, endophytes",host_plant_root-associated
+"host-associated, birds, digestive system, fecal",host_animal_endotherm_intestinal
+"host-associated, human, excretory system",host_animal_endotherm_intestinal
+hypersaline environment,water_hypersaline
+"host-associated, human, skin",host_animal_endotherm_surface
+"environmental, aquatic, thermal springs, free living",water_hotspring
+"host-associated, animal, digestive system, fecal",host_animal_endotherm_intestinal
+"host-associated, fungi",host_fungus
+"host-associated, plants, leaf",host_plant_leaf-associated
+"host-associated, human, digestive system, free living",host_animal_endotherm_intestinal
+hotspring,water_hotspring
+"environmental, aquatic, sediment",sediment
+human - mouth,host_animal_endotherm_oral
+"environmental, aquatic, freshwater, lentic",water_groundwater_surface
+"host-associated, animal, circulatory system",host_animal_endotherm_intratissue
+"host-associated, human, circulatory system, blood, free living",host_animal_endotherm_intratissue
+food product,food
+"host-associated, plants, rhizoplane, symbiotic, mutualistic",host_plant_root-associated
+"host-associated, human, respiratory system, free living",host_animal_endotherm_nasopharyngeal
+wastewater,wastewater
+"host-associated, mammals, digestive system, foregut, rumen",host_animal_endotherm_rumen
+"host-associated, mammals, digestive system, oral cavity",host_animal_endotherm_oral
+"environmental, aquatic, freshwater, drinking water",water_groundwater_surface
+"environmental, aquatic, marine, hydrothermal vents",sediment_marine_hydrothermal
+"environmental, terrestrial, soil, agricultural land",soil
+"engineered, built environment",built_environment_surfaces
+"engineered, food production, free living",unclassified
+"host-associated, animal, digestive system, symbiotic, parasitic",host_animal_endotherm_intestinal
+"host-associated, mammals, digestive system",host_animal_endotherm_intestinal
+freshwater sediment,sediment_fresh
+"host-associated, human, free living, commensal",host_animal_endotherm
+"environmental, aquatic, freshwater, lake",water_groundwater_surface
+"engineered, wastewater, free living",wastewater
+"environmental, aquatic, marine, coastal",water_marine
+"environmental, aquatic, marine, oceanic",water_marine
+"environmental, aquatic, marine, hydrothermal vents, free living",sediment_marine_hydrothermal
+"environmental, aquatic, marine, pelagic",water_marine
+"engineered, solid waste, solid animal waste",host_animal_endotherm_feces
+"host-associated, plants, phylloplane",host_plant_leaf-associated
+"host-associated, human, respiratory system, pulmonary system, trachea",host_animal_endotherm_nasopharyngeal
+bioreactor,bioreactor/digester
+"engineered, built environment, house",built_environment_surfaces
+"environmental, terrestrial, geologic",rock_deep
+"engineered, solid waste, composting",compost
+"host-associated, human, respiratory system, nasopharyngeal, free living",host_animal_endotherm_nasopharyngeal
+"host-associated, mammals, tissue",host_animal_endotherm_intratissue
+"engineered, lab synthesis, free living",bioreactor/digester
+"environmental, terrestrial, soil, contaminated",soil_contaminated
+"host-associated, symbiotic, parasitic",host
+"host-associated, animal, reproductive system",host_animal_endotherm
+"host-associated, mammals, digestive system, fecal",host_animal_endotherm_intestinal
+"engineered, laboratory developed, genetically modified",unclassified
+"host-associated, invertebrates, nematoda",host_animal_ectotherm
+"environmental, aquatic, non-marine saline and alkaline, salt crystallizer ponds",water_hypersaline
+"environmental, terrestrial, geologic, mine",rock_deep
+"host-associated, animal, digestive system, free living",host_animal_endotherm_intestinal
+"engineered, wastewater, activated sludge",sludge
+"environmental, terrestrial, soil, forest soil",soil_forest
+"host-associated, animal, circulatory system, free living",host_animal_endotherm_blood
+"environmental, aquatic, freshwater, lake, sediment",sediment_fresh
+"environmental, aquatic, non-marine saline and alkaline, hypersaline",water_hypersaline
+"environmental, aquatic, marine, oceanic, sediment, free living",sediment_marine
+"host-associated, annelida",host_animal_ectotherm
+soil,soil
+"engineered, biotransformation",unclassified
+"host-associated, human, ear",host_animal_endotherm_surface
+"environmental, air",unclassified
+"engineered, food production, dairy products, free living",food
+"environmental, terrestrial, agricultural field",soil_agricultural
+"host-associated, algae",host_algae
+"host-associated, birds, digestive system",host_animal_endotherm_intestinal
+"host-associated, mammals, digestive system, stomach",host_animal_endotherm_intestinal
+"host-associated, mammals, respiratory system, lung",host_animal_endotherm_nasopharyngeal
+"host-associated, plants, rhizosphere",host_plant_root-associated
+"symbiotic, parasitic",host
+"engineered, lab synthesis, genetic cross",unclassified
+"host-associated, cnidaria",host_animal_ectotherm
+"host-associated, insecta, digestive system",host_animal_ectotherm
+"host-associated, mammals, nervous system, brain",host_animal_endotherm_intratissue
+"environmental, aquatic, non-marine saline and alkaline",water_hypersaline
+"host-associated, animal, skin",host_animal_endotherm_surface
+"engineered, wastewater, industrial wastewater",wastewater
+"host-associated, animal, digestive system, fecal, free living",host_animal_endotherm_intestinal
+human - fecal,host_animal_endotherm_feces
+"environmental, aquatic, freshwater, lentic, free living",water_groundwater_surface
+"host-associated, human, reproductive system, vagina",host_animal_endotherm_vagina
+"environmental, aquatic, freshwater, lentic, sediment",sediment_fresh
+"environmental, terrestrial, oil reservoir",petroleum
+"environmental, aquatic, freshwater, free living",water_fresh
+"environmental, aquatic, non-marine saline and alkaline, hypersaline, sediment",sediment_hypersaline
+"environmental, aquatic, sediment, free living",sediment
+"host-associated, human, nervous system, cerebrospinal fluid",host_animal_endotherm_intratissue
+"host-associated, mammals, respiratory system",host_animal_endotherm_nasopharyngeal
+"environmental, terrestrial, soil, oil-contaminated",soil_hydrocarbon_contaminated
+built environment,built_environment_surfaces
+estuarine sediment,sediment_brackish
+"environmental, aquatic, freshwater, lotic",water_fresh
+plant endophyte,host_plant
+"engineered, industrial production",bioreactor/digester
+"environmental, aquatic, free living",water
+"host-associated, birds, free living",host_animal_endotherm
+"host-associated, human, circulatory system",host_animal_endotherm_blood
+"host-associated, mammals, respiratory system, nasopharyngeal",host_animal_endotherm_nasopharyngeal
+"environmental, aquatic, freshwater, groundwater",water_fresh
+"host-associated, fish, free living",host_animal_ectotherm
+"host-associated, human, nervous system, cerebrospinal fluid, free living",host_animal_endotherm_intratissue
+"host-associated, plants, rhizoplane, free living",host_plant_root-associated
+"environmental, terrestrial, soil, grasslands",soil_grassland
+"host-associated, mammals, digestive system, foregut, rumen, free living",host_animal_endotherm_rumen
+"symbiotic, mutualistic",host
+"other, air sample",unclassified
+"environmental, aquatic, freshwater, river",water_fresh
+"host-associated, mammals, reproductive system",host_animal_endotherm_vagina
+symbiotic,host
+"environmental, aquatic, marine, intertidal zone, estuary",sediment_marine
+"environmental, aquatic, marine, neritic zone",water_marine
+"host-associated, animal, free living",host_animal_endotherm
+"host-associated, birds, reproductive system",host_animal_endotherm_vagina
+"host-associated, human, digestive system, oral, throat",host_animal_endotherm_oral
+"host-associated, plants, roots, nodule",host_plant_rootnodule
+"host-associated, plants, symbiotic, mutualistic",host_plant
+"engineered, wastewater, industrial wastewater, petrochemical",wastewater
+"environmental, aquatic, freshwater, pond",water_fresh
+"environmental, aquatic, marine, intertidal zone, sediment",sediment_marine
+"host-associated, microbial",
+"other, compost",compost
+"environmental, aquatic, freshwater, ponds, free living",water_fresh
+"environmental, terrestrial, soil, contaminated, free living",soil_contaminated
+"host-associated, insecta, symbiotic",host_animal_ectotherm
+"host-associated, mammals, symbiotic, parasitic",host_animal_endotherm
+"host-associated, fish, digestive system",host_animal_ectotherm
+"host-associated, human, respiratory system, pulmonary system, sputum, free living",host_animal_endotherm_nasopharyngeal
+"host-associated, reptilia",host_animal_ectotherm
+"other, sludge",sludge
+"engineered, built environment, free living",built_environment_surfaces
+"environmental, terrestrial, soil, desert",soil_arid
+"host-associated, birds, skin",host_animal_endotherm_surface
+"host-associated, human, symbiotic, parasitic",host_animal_endotherm
+estuarine water,water_brackish
+"other, tidal flat sediment",sediment_marine
+"environmental, aquatic, freshwater, lotic, free living",water_fresh
+"environmental, aquatic, marine, pelagic, free living",water_marine
+"environmental, free living",unclassified
+"environmental, terrestrial, geologic, free living",rock_deep
+"environmental, terrestrial, soil, agricultural land, free living",soil_agricultural
+"host-associated, animal, reproductive system, free living",host_animal_endotherm_vagina
+"environmental, aquatic, freshwater, lentic, sediment, free living",sediment_fresh
+"environmental, aquatic, freshwater, lotic, sediment",sediment_fresh
+"environmental, aquatic, marine, marginal sea",water_marine
+"environmental, terrestrial, geologic, mine, free living",rock_deep
+"host-associated, human, reproductive system",host_animal_endotherm_vagina
+"environmental, terrestrial, soil, permafrost",soil_organic_permafrost
+"host-associated, insecta, free living",host_animal_ectotherm
+"host-associated, porifera",host_animal_ectotherm
+"other, marine solar saltern",water_hypersaline
+"host-associated, mammals, skin",host_animal_endotherm_surface
+"engineered, solid waste",unclassified
+"environmental, aquatic, aquaculture",water
+"environmental, aquatic, marine, coastal, sediment",sediment_marine
+"host-associated, echinodermata",host_animal_ectotherm
+"host-associated, mammals, digestive system, large intestine, fecal, free living",host_animal_endotherm_intestinal
+"environmental, aquatic, non-marine saline and alkaline, alkaline, sediment",sediment_fresh_alkaline
+"host-associated, algae, free living",host_algae
+"host-associated, mammals, reproductive system, free living",host_animal_endotherm_vagina
+"host-associated, plants, rhizosphere, soil",host_animal_ectotherm
+"other, human blood",host_animal_endotherm_blood
+"environmental, aquatic, non-marine saline and alkaline, saline",water_hypersaline
+"environmental, terrestrial, soil, desert, free living",soil_arid
+"host-associated, human, reproductive system, free living",host_animal_endotherm_vagina
+"host-associated, insecta, symbiotic, parasitic",host_animal_ectotherm
+"host-associated, mammals, digestive system, free living",host_animal_endotherm_intestinal
+"host-associated, plants, symbiotic",host_plant
+"symbiotic, commensal",host
+"other, salt lake",water_hypersaline
+"other, salt mine",rock_deep
+seawater,water_marine
+water,water
+"engineered, food production, fermented beverages, free living",food_fermented
+"engineered, industrial production, free living",bioreactor/digester
+"environmental, terrestrial, oil reservoir, free living",petroleum
+"environmental, terrestrial, soil, sand",soil_mineral
+"host-associated, horse",host_animal_endotherm
+"host-associated, human, excretory system, urethra, urine, free living",host_animal_endotherm_vagina
+"host-associated, plants, rhizoplane, symbiotic, syntrophic",host_animal_ectotherm
+"other, air",unclassified
+"other, glacier",unclassified
+"other, hydrothermal vent",water_marine_hydrothermal
+"other, marine sponge",host_animal_ectotherm
+"other, solar saltern",water_hypersaline
+engineered,unclassified
+"engineered, food production, fermented vegetables",food_fermented
+"engineered, lab enrichment",unclassified
+"engineered, solid waste, composting, free living",compost
+"environmental, aquatic, freshwater, lotic, sediment, free living",sediment_fresh
+"environmental, aquatic, freshwater, wetlands, bog",water_fresh
+"environmental, terrestrial, volcanic, free living",volcanic_active
+"host-associated, animal, respiratory system, free living",host_animal_endotherm_nasopharyngeal
+"host-associated, fish, skin",host_animal_ectotherm
+"host-associated, human, circulatory system, free living",host_animal_endotherm_blood
+"host-associated, protists",host_animal_ectotherm
+human - skin,host_animal_endotherm_surface
+not provided; submitted under migs 2.1,unclassified
+"engineered, bioreactor",bioreactor/digester
+"engineered, industrial production, engineered product",unclassified
+"environmental, air, indoor air",unclassified
+"environmental, aquatic, freshwater, sediment, free living",sediment_fresh
+"environmental, aquatic, marine, intertidal zone, beach",sediment_marine
+"environmental, aquatic, marine, intertidal zone, estuary, free living",sediment_marine
+"environmental, aquatic, marine, intertidal zone, salt marsh",water_marine
+"environmental, terrestrial, agricultural field, free living",soil_agricultural
+"environmental, terrestrial, soil, agricultural",soil_agricultural
+"host-associated, plants, phylloplane, free living",host_plant_leaf-associated
+"host-associated, protozoa",host_animal_ectotherm
+"host-associated, symbiotic, mutualistic",host
+"other, human faeces",host_animal_endotherm_feces
+"other, sea urchin",host_animal_ectotherm
+"environmental, aquatic, freshwater, wetlands",water_fresh
+"environmental, aquatic, marine, neritic zone, free living",water_marine
+"environmental, terrestrial, soil, forest soil, free living",soil_forest
+"host-associated, porifera, sponge",host_animal_ectotherm
+"other, tidal flat",sediment_marine
+"engineered, food production, silage fermentation",food
+"engineered, food production, symbiotic",food
+"engineered, solid waste, landfill",unclassified
+"environmental, aquatic, marine, hydrothermal vents, sediment",water_marine_hydrothermal
+"environmental, aquatic, marine, intertidal zone",water_marine
+"environmental, terrestrial, free living",unclassified
+"host-associated, birds, symbiotic, parasitic",host_animal_endotherm
+"host-associated, mollusca, symbiotic",host_animal_ectotherm
+"other, activated sludge",sludge
+"other, fermented seafood",food_fermented
+"other, root nodules",host_plant_rootnodule
+biological product [envo:02000043],unclassified
+"engineered, wastewater, activated sludge, free living",sludge
+"engineered, wastewater, industrial wastewater, petrochemical, free living",wastewater
+"environmental, aquatic, freshwater, sediment",sediment_fresh
+"environmental, aquatic, freshwater, wetlands, bog, free living",water_fresh
+"environmental, aquatic, marine, coastal, free living",water_marine
+"environmental, aquatic, non-marine saline and alkaline, free living",water_fresh_alkaline
+"environmental, terrestrial, peat",soil_organic_peat
+"environmental, terrestrial, volcanic",volcanic_active
+"host-associated, arthropoda, digestive system",host_animal_ectotherm
+"host-associated, arthropoda, free living",host_animal_ectotherm
+"host-associated, human, digestive system, intestine",host_animal_endotherm_intestinal
+"host-associated, human, digestive system, oral, saliva",host_animal_endotherm_oral
+"host-associated, insecta, symbiotic, mutualistic",host_animal_ectotherm
+"host-associated, mammals, milk, free living",milk
+"host-associated, mammals, respiratory system, free living",host_animal_endotherm_nasopharyngeal
+"host-associated, mollusca, free living",host_animal_ectotherm
+"host-associated, plants, symbiotic, parasitic",host_plant
+"host-associated, symbiotic",host
+curette,unclassified
+"environmental, aquatic, aquaculture, free living",water
+"environmental, aquatic, freshwater, groundwater, contaminated",water_fresh
+"environmental, aquatic, freshwater, lentic, epilimnion",water_fresh
+"environmental, aquatic, marine, intertidal zone, sediment, free living",sediment_marine
+"environmental, aquatic, non-marine saline and alkaline, alkaline, sediment, free living",sediment_hypersaline
+"environmental, aquatic, non-marine saline and alkaline, salt crystallizer ponds, free living",water_hypersaline
+"environmental, terrestrial, deep subsurface",unclassified
+"host-associated, animal, skin, free living",host_animal_endotherm_surface
+"host-associated, animal, symbiotic",host_animal_endotherm
+"host-associated, fungi, free living",host_fungus
+"host-associated, invertebrates, platyhelminthes",host_animal_ectotherm
+"host-associated, mammals, circulatory system, blood, free living",host_animal_endotherm_blood
+"other, coral",host_animal_ectotherm
+"engineered, bioremediation, metal",unclassified
+"engineered, wastewater, industrial wastewater, agricultural wastewater",wastewater
+"environmental, aquatic, freshwater, groundwater, free living",water_groundwater_surface
+"environmental, terrestrial, soil, loam",soil
+"host-associated, birds, digestive system, free living",host_animal_endotherm_intestinal
+"host-associated, human, digestive system, large intestine, fecal, free living, commensal",host_animal_endotherm_intestinal
+"host-associated, human, eye",host_animal_endotherm_surface
+"host-associated, human, respiratory system, pulmonary system",host_animal_endotherm_nasopharyngeal
+"host-associated, mammals, excretory system",host_animal_endotherm
+"host-associated, plants, rhizoplane, symbiotic",host_plant_root-associated
+"host-associated, tunicates",host_animal_ectotherm
+"marine sediment, marine sponge",host_animal_ectotherm
+"other, alpine glacier cryoconite",unclassified
+"other, black sand",soil_mineral
+"other, hypersaline lake",water_hypersaline
+"other, peat bog",soil_organic_peat
+"other, saline lake",water_hypersaline
+"other, sand",soil_mineral
+"other, sediment adjacent to sperm whale carcasses",unclassified
+"other, soda lake",water_fresh_alkaline
+feces,host_animal_endotherm_feces
+sea water,water_marine
+"engineered, industrial production, engineered product, free living",unclassified
+"environmental, aquatic, marine, intertidal zone, salt marsh, free living",sediment_marine
+"environmental, aquatic, marine, marginal sea, free living",water_marine
+"environmental, aquatic, marine, oceanic, oil-contaminated",petroleum
+"environmental, terrestrial, cave",unclassified
+"environmental, terrestrial, soil, sand, desert",soil_arid
+"host-associated, cnidaria, free living",host_animal_ectotherm
+"host-associated, human, digestive system, oral, saliva, free living",host_animal_endotherm_oral
+"host-associated, human, lympathic system, lymph nodes",host_animal_endotherm_intratissue
+"host-associated, human, milk",milk
+"host-associated, insecta, digestive system, free living",host_animal_ectotherm
+"host-associated, mammals, circulatory system, blood",host_animal_endotherm_blood
+"host-associated, mammals, circulatory system, blood, symbiotic, parasitic",host_animal_endotherm_blood
+"host-associated, mammals, digestive system, stomach, rumen",host_animal_endotherm_rumen
+"host-associated, mammals, nervous system",host_animal_endotherm_intratissue
+"host-associated, mammals, respiratory system, nasopharyngeal, free living",host_animal_endotherm_nasopharyngeal
+"other, drinking water",water_fresh
+"other, human - blood",host_animal_endotherm_blood
+"other, marine fish",host_animal_ectotherm
+"other, seagrass",host_plant
+"other, sediment",sediment
+"other, tomb",unclassified
+"other, wetland",unclassified
+"soil, hypersaline soil",soil_saline
+hot spring,water_hotspring
+sediment,sediment
+"engineered, wastewater, industrial wastewater, mine water",wastewater
+"environmental, air, free living",unclassified
+"environmental, aquatic, freshwater, ice",water_fresh_cold
+"environmental, aquatic, marine, hydrothermal vents, diffuse flow",water_marine_hydrothermal
+"environmental, aquatic, marine, intertidal zone, beach, free living",sediment_marine
+"environmental, aquatic, marine, intertidal zone, free living",sediment_marine
+"environmental, aquatic, marine, volcanic",water_marine_hydrothermal
+"environmental, aquatic, non-marine saline and alkaline, hypersaline, sediment, free living",sediment_hypersaline
+"host-associated, amphibia",host_animal_ectotherm
+"host-associated, human, digestive system, hindgut, rectum",host_animal_endotherm_intestinal
+"host-associated, human, digestive system, oral, symbiotic, parasitic",host_animal_endotherm_oral
+"host-associated, human, nervous system",host_animal_endotherm_intratissue
+"host-associated, insecta, digestive system, symbiotic",host_animal_ectotherm
+other,unclassified
+"other, cotton waste compost",compost
+"other, deep-sea hydrothermal vent",water_marine_hydrothermal
+"other, desert sand",soil_arid
+"other, food-processing factory",food
+"other, human-lung",host_animal_endotherm_nasopharyngeal
+"other, marine animals",host_animal
+"other, oil reservoir",petroleum
+"other, peat bogs",soil_organic_peat
+"other, permafrost",soil_organic_permafrost
+"other, pigs",host_animal_endotherm
+"other, seaweed",host_algae
+"other, volcanic rock",rock
+"other, wall of indoor environment",built_environment_surfaces
+"engineered, built environment, oil refinery",built_environment_surfaces
+"engineered, laboratory developed",unclassified
+"environmental, aquatic, freshwater, groundwater, contaminated, free living",water_groundwater_surface
+"environmental, aquatic, freshwater, wetlands, sediment",sediment_fresh
+"environmental, aquatic, marine, oceanic, photic zone",water_marine
+"environmental, aquatic, non-marine saline and alkaline, hypersaline, free living",water_hypersaline
+"environmental, aquatic, non-marine saline and alkaline, saline, free living",water_hypersaline
+"environmental, aquatic, thermal springs, hot (42-90c)",water_hotspring
+"environmental, terrestrial, soil, crop, agricultural land",soil_agricultural
+"host-associated, animal, symbiotic, commensal",host_animal_endotherm
+"host-associated, animal, symbiotic, parasitic",host_animal_endotherm
+"host-associated, human, circulatory system, blood, symbiotic, parasitic",host_animal_endotherm_blood
+"host-associated, human, digestive system, oral, subgingival plaque, free living",host_animal_endotherm_oral
+"host-associated, mammals, lymphatic, lymph nodes",host_animal_endotherm_intratissue
+"host-associated, mammals, skin, free living",host_animal_endotherm_surface
+"host-associated, plants, symbiotic, syntrophic",host_plant
+"other, beach sand",sediment_marine
+"other, biofilm",biofilm
+"other, blood",host_animal_endotherm_blood
+"other, contaminated groundwater",water_groundwater_surface
+"other, cryotubes",unclassified
+"other, earthworm gut",host_animal_ectotherm
+"other, groundwater",water_groundwater_surface
+"other, hch dumpsite",soil_contaminated
+"other, hexachlorocyclohexane dump site",soil_contaminated
+"other, human- blood",host_animal_endotherm_blood
+"other, human blood sample",host_animal_endotherm_blood
+"other, human gastric mucosa",host_animal_endotherm_intestinal
+"other, human sputum",host_animal_endotherm_oral
+"other, microbial mats",biofilm
+"other, midgut of mosquito",host_animal_ectotherm
+"other, mucus of coral",host_animal_ectotherm
+"other, natural cave",unclassified
+"other, rotten wood",litter
+"other, sea anemone",host_animal_ectotherm
+"other, sea sand",sediment_marine
+"other, sea squirt",host_animal_ectotherm
+"other, spiders",host_animal_ectotherm
+"other, spiders and spiders' webs",host_animal_ectotherm
+"other, starfish",host_animal_ectotherm
+"other, water-cooling system",unclassified
+"soil, acidic soil",soil
+blood,host_animal_endotherm_blood
+freshwater,water_fresh
+kimchi,food_fermented
+marine sediment,sediment_marine
+"engineered, biotransformation, free living",unclassified
+"engineered, food production, fermented seafood",food
+"engineered, food production, silage fermentation, free living",food
+"environmental, aquatic, freshwater, drinking water, free living",water_fresh
+"environmental, aquatic, freshwater, ice, glacier",unclassified
+"environmental, aquatic, freshwater, wetlands, free living",water_fresh
+"environmental, aquatic, marine, hydrothermal vents, sediment, free living",water_marine_hydrothermal
+"environmental, aquatic, marine, oceanic, oil-contaminated sediment",petroleum
+"environmental, aquatic, marine, oceanic, oil-contaminated, free living",petroleum
+"environmental, terrestrial, agricultural field, symbiotic, mutualistic",soil_agricultural
+"environmental, terrestrial, soil, clay, oil-contaminated",soil_hydrocarbon_contaminated
+"environmental, terrestrial, soil, oil-contaminated, free living",soil_hydrocarbon_contaminated
+"host-associated, algae, green algae",host_algae
+"host-associated, birds, digestive system, ceca",host_animal_endotherm_intestinal
+"host-associated, birds, respiratory system",host_animal_endotherm_nasopharyngeal
+"host-associated, fish, excretory system, kidneys",host_animal_ectotherm
+"host-associated, human, digestive system, symbiotic, parasitic",host_animal_endotherm_intestinal
+"host-associated, insecta, digestive system, symbiotic, commensal",host_animal_endotherm_intestinal
+"host-associated, mammals, digestive system, foregut, rumen, symbiotic",host_animal_endotherm_rumen
+"host-associated, mammals, digestive system, large intestine, cecum",host_animal_endotherm_intestinal
+"host-associated, mammals, symbiotic",host_animal_endotherm
+"host-associated, reptilia, free living",host_animal_ectotherm
+"symbiotic, syntrophic",host
+"food product, spoiled beer",food
+"human - fecal, human faeces",host_animal_endotherm_feces
+"other, abalone gut",host_animal_ectotherm
+"other, air of a duck barn",unclassified
+"other, beetle",host_animal_ectotherm
+"other, biofilm from beer-bottling plant",biofilm
+"other, blood of mice",host_animal_endotherm_blood
+"other, catacombs",unclassified
+"other, cave",unclassified
+"other, clinical material",host_animal_endotherm
+"other, coastal sea sediment",sediment_marine
+"other, cocoa fermentations",food
+"other, compost of distilled shochu",food
+"other, contaminated sediment",sediment
+"other, crude oil",petroleum
+"other, desert",soil_arid
+"other, human brain abscess",host_animal_endotherm_intratissue
+"other, human clinical specimen",host_animal_endotherm
+"other, hyperarid soils",soil_arid
+"other, industrial environment",built_environment_surfaces
+"other, isolated from mushroom stalk",host_fungus
+"other, marine algae",host_algae
+"other, microbial fuel cell",unclassified
+"other, microbial mat",biofilm
+"other, microbial mats found in lakes",water_fresh
+"other, mushrooms",host_fungus
+"other, nematode",host_animal_ectotherm
+"other, nitrifying inoculum",unclassified
+"other, oral cavities of bears",host_animal_endotherm_oral
+"other, pig manure",host_animal_endotherm_feces
+"other, raw milk",milk
+"other, red alga",host_algae
+"other, renal care center",unclassified
+"other, salt-fermented seafood",food_fermented
+"other, soda lake sediment",sediment_fresh_alkaline
+"other, space laboratory",unclassified
+"other, termite gut",host_animal_ectotherm
+"other, various habitats in a wildlife reserve",unclassified
+"other, volcanic ash",soil_mineral
+"soil, lichen and soil sample",soil
+"wastewater, anaerobic sludge",sludge
+activated sludge,sludge
+chrysochromulina tobin phycosphere,host_algae
+environment,unclassified
+fresh water,water_fresh
+plant,host_plant
+root,host_plant_root-associated
+", , , , ",unclassified
+"engineered, bioremediation, metal, free living",unclassified
+"engineered, lab enrichment, defined media",unclassified
+"engineered, lab enrichment, defined media, marine media",unclassified
+"engineered, solid waste, solid animal waste, free living",host_animal_endotherm_feces
+"engineered, wastewater, industrial wastewater, free living",wastewater
+"engineered, wastewater, industrial wastewater, landfill leachate",wastewater
+"environmental, aquatic, freshwater, pond, sediment",sediment_fresh
+"environmental, aquatic, freshwater, wetlands, swamp",water_fresh
+"environmental, aquatic, marine, hydrothermal vents, microbial mats",water_marine_hydrothermal
+"environmental, aquatic, marine, symbiotic, commensal",host_animal_ectotherm
+"environmental, aquatic, non-marine saline and alkaline, saline, sediment",sediment_hypersaline
+"environmental, aquatic, thermal springs, sediment",water_hotspring
+"environmental, terrestrial, soil, clay, agricultural land",soil_agricultural
+"environmental, terrestrial, soil, loam, forest soil",soil_forest
+"environmental, terrestrial, soil, permafrost, free living",soil_organic_permafrost
+"environmental, terrestrial, soil, symbiotic, mutualistic",soil
+"host-associated, animal, reproductive system, symbiotic, parasitic",host_animal_endotherm
+"host-associated, animal, respiratory system, symbiotic, parasitic",host_animal_endotherm_nasopharyngeal
+"host-associated, arthropoda, symbiotic, parasitic",host_animal_ectotherm
+"host-associated, birds, respiratory system, lungs",host_animal_endotherm_nasopharyngeal
+"host-associated, fish, excretory system, kidneys, free living",host_animal_ectotherm
+"host-associated, human, lymphatic system, lymph nodes",host_animal_endotherm_intratissue
+"host-associated, insecta, symbiotic, commensal",host_animal_ectotherm
+"host-associated, mammals, circulatory system",host_animal_endotherm_blood
+"host-associated, mammals, digestive system, fecal, uncharacterized",host_animal_endotherm_intestinal
+"host-associated, mammals, excretory system, free living",host_animal_endotherm
+"host-associated, mammals, gastrointestinal tract",host_animal_endotherm_intestinal
+"host-associated, mammals, respiratory system, nasopharyngeal, nasal cavity",host_animal_endotherm_nasopharyngeal
+"host-associated, mammals, respiratory system, symbiotic, parasitic",host_animal_endotherm_nasopharyngeal
+"host-associated, microbial, dinoflagellates",host_algae
+"host-associated, plants, free living, commensal",host_plant
+"host-associated, plants, rhizoplane, free living, mutualistic",host_plant_root-associated
+"host-associated, plants, rhizoplane, symbiotic, commensal",host_plant_root-associated
+"host-associated, plants, rhizosphere, symbiotic, mutualistic",host_plant_root-associated
+"food product, fermented seafood",food_fermented
+"other, acidic peat bog",soil_organic_peat
+"other, acidic peat bogs",soil_organic_peat
+"other, activated sludge foam",sludge
+"other, activated sludge sample",sludge
+"other, air in a medical practice",unclassified
+"other, algal mat",host_algae
+"other, ambrosia beetle galleries",unclassified
+"other, ark clam",host_animal_ectotherm
+"other, base of mushroom",host_fungus
+"other, bees",host_animal_ectotherm
+"other, beetle gut",host_animal_ectotherm
+"other, beetles",host_animal_ectotherm
+"other, biofilter",unclassified
+"other, biowaste composite reactor",bioreactor
+"other, birds",host_animal_endotherm
+"other, blood of field mouse",host_animal_endotherm_blood
+"other, blood of japonese mouse",host_animal_endotherm_blood
+"other, bovine rumen",host_animal_endotherm_rumen
+"other, brown alga",host_algae
+"other, butter",food
+"other, cattle",host_animal_endotherm
+"other, cerebrospinal fluid",host_animal_endotherm_intratissue
+"other, cheese",food
+"other, chinchilla feces",host_animal_endotherm_feces
+"other, chlorinated solvent-contaminated groundwater",water_groundwater_surface
+"other, clinical specimens",host_animal_endotherm
+"other, clinical specimens and water samples",unclassified
+"other, coastal hydrothermal field",water_marine_hydrothermal
+"other, coastal sediment",sediment_marine
+"other, cocoa fermentation",food
+"other, cold desert",unclassified
+"other, cold fjord sediments",sediment_marine_cold
+"other, contaminated agar plate",unclassified
+"other, contaminated gelatin",food
+"other, coolant lubricant",unclassified
+"other, cow's milk",milk
+"other, cow dung",host_animal_endotherm_feces
+"other, cricket",host_animal_ectotherm
+"other, dead ark clam",host_animal_ectotherm
+"other, decayed wood",litter
+"other, decaying wood and peat",litter
+"other, deep-sea hydrothermal vent chimney",water_marine_hydrothermal
+"other, deep-sea sediment",sediment_marine_deep
+"other, deep sea carbonate rock",rock_deep
+"other, deep sea hydrothermal vent",water_marine_hydrothermal
+"other, deep sea hypothermal vent",water_marine_hydrothermal
+"other, dentrification system treating seawater",bioreactor
+"other, dinoflagellate",host_algae
+"other, diseased fish",host_animal_ectotherm
+"other, diseased sole",host_animal_ectotherm
+"other, donkey oral cavities",host_animal_endotherm_oral
+"other, dried seaweed ",food
+"other, drinking water supply",water_groundwater_surface
+"other, drinking water well",water_groundwater_surface
+"other, dump site",soil_contaminated
+"other, dust",unclassified
+"other, equine placentas",host_animal_endotherm_intratissue
+"other, eutrophic reservoir",water_fresh
+"other, fermented cane molasses",food_fermented
+"other, fermented fish",food_fermented
+"other, fermenting meat",food_fermented
+"other, fish",host_animal_ectotherm
+"other, fish intestine",host_animal_ectotherm
+"other, forest humus",soil_forest
+"other, from air in duck barn",unclassified
+"other, glacier ice",unclassified
+"other, green alga",host_algae
+"other, gut of beetle",host_animal_ectotherm
+"other, gut of beetle larvae",host_animal_ectotherm
+"other, haemodialysis water",unclassified
+"other, hexachlorocyclohexane contaminated soil",soil_hydrocarbon_contaminated
+"other, high temperature compost",compost
+"other, hindgut of horses",host_animal_endotherm_intestinal
+"other, hindgut of termite",host_animal_ectotherm
+"other, horse - fecal",host_animal_endotherm_feces
+"other, human- gastric/amniotic fluids",host_animal_endotherm_intestinal
+"other, human-blood",host_animal_endotherm_blood
+"other, human - ear",host_animal_endotherm_surface
+"other, human - respiratory",host_animal_endotherm_nasopharyngeal
+"other, human clinical osteo-articular sample",host_animal_endotherm_intratissue
+"other, human clinical specimens",host_animal_endotherm_intratissue
+"other, human intestine",host_animal_endotherm_intestinal
+"other, human lungs",host_animal_endotherm_nasopharyngeal
+"other, human oral cavity",host_animal_endotherm_oral
+"other, human oral mucosal tissue",host_animal_endotherm_oral
+"other, human pulmonary infection",host_animal_endotherm_nasopharyngeal
+"other, human respiratory tract ",host_animal_endotherm_nasopharyngeal
+"other, human sputum sample",host_animal_endotherm_oral
+"other, human throat",host_animal_endotherm_oral
+"other, human urine",host_animal_endotherm
+"other, human wound ",host_animal_endotherm
+"other, human wounds",host_animal_endotherm
+"other, hydrothermal fluid ",water_marine_hydrothermal
+"other, hydrothermal sediments",sediment_marine_hydrothermal
+"other, hydrothermal vent ",water_marine_hydrothermal
+"other, hypersaline lakes and solar saltern",water_hypersaline
+"other, industrial clean-room floor",built_environment_surfaces
+"other, industrial sludge contaminated with arsenic",sludge
+"other, infant formula production environment",food
+"other, insect frass",host_animal_ectotherm
+"other, iron mine",unclassified
+"other, isolated from bromeliads",water_fresh
+"other, isolated from milk",milk
+"other, larval gut",host_animal_ectotherm
+"other, limestone quarry",rock
+"other, livestock manure compost",compost
+"other, lymph node samples",host_animal_endotherm_intratissue
+"other, marine crustacean",host_animal_ectotherm
+"other, marine saltern",water_hypersaline
+"other, medicinal leech",host_animal_ectotherm
+"other, mushroom compost",compost
+"other, mussel",host_animal_ectotherm
+"other, natural substrates",unclassified
+"other, octocoral",host_animal_ectotherm
+"other, oil-contaminated soil",petroleum
+"other, oil-polluted saline soil",petroleum
+"other, oil field",petroleum
+"other, olive oil",food
+"other, oral cavity of donkeys",host_animal_endotherm_oral
+"other, patinas in the catacombs",unclassified
+"other, peat",soil_organic_peat
+"other, permafrost ice wedge",soil_organic_permafrost
+"other, phyllosphere of dog rose",host_plant_leaf-associated
+"other, phyllosphere of potato plants",host_plant_leaf-associated
+"other, pig caecum",host_animal_endotherm_intestinal
+"other, plaster wall",built_environment_surfaces
+"other, preputial swabs of bison",host_animal_endotherm_surface
+"other, rat faeces",host_animal_endotherm_feces
+"other, raw cow's milk",milk
+"other, red alga porphyra yezoensis",host_algae
+"other, rhizoplane of neem seedlings",host_plant_root-associated
+"other, rhizosphere of brown alga",host_algae
+"other, river mud",sediment_fresh
+"other, roman catacombs",unclassified
+"other, saline soil",soil_saline
+"other, saline spring",water_hypersaline
+"other, saltern",water_hypersaline
+"other, sand-dune plant",host_plant
+"other, sea-ice core",water_marine_cold
+"other, sea salt",sediment_hypersaline
+"other, sewage",wastewater
+"other, sheep - fecal",host_animal_endotherm_feces
+"other, skin of a medical leech",host_animal_ectotherm
+"other, small animals",host_animal_endotherm
+"other, snow",unclassified
+"other, solar salt",sediment_hypersaline
+"other, space laboratory ",unclassified
+"other, stingless bee",host_animal_ectotherm
+"other, stream sediment",sediment_fresh
+"other, subtropical zone",unclassified
+"other, surface-sterilized plant tissues",host_plant
+"other, surface-sterilized root of pine tree",host_plant_root-associated
+"other, swine faeces",host_animal_endotherm_feces
+"other, tap water",water_fresh
+"other, ticks",host_animal_ectotherm
+"other, tissue extract ",host_animal_endotherm_intratissue
+"other, tooth surfaces of caries-free humans",host_animal_endotherm_oral
+"other, tubeworm",host_animal_ectotherm
+"other, uranium mill tailing effluent",wastewater
+"other, various water bodies",water_fresh
+"other, volcanic deposit",soil_mineral
+"other, volcanic mudflow",soil_mineral
+"other, wall of an indoor environment",built_environment_surfaces
+"other, warm spring",water_hotspring
+"other, warm spring water sample",water_hotspring
+"other, wild drosophila melanogaster",host_animal_ectotherm
+"other, wild rice",unclassified
+"other, wounds of patients",host_animal_endotherm
+"soil, alkaline soil",soil
+"soil, greenhouse soil",soil_agricultural
+"soil, hydrocarbon-contaminated soil",soil_hydrocarbon_contaminated
+"soil, radiation-polluted soil",soil_contaminated
+"soil, saline soil",soil_saline
+adult human intestine,host_animal_endotherm_intestinal
+brewery environment,food
+deep sea sediment,sediment_marine_deep
+environmental,unclassified
+fecal sample,host_animal_endotherm_feces
+freshwater hot spring,water_hotspring
+freshwater mud,sediment_fresh
+gut,host_animal_endotherm_intestinal
+host blood,host_animal_endotherm_blood
+hot solfataric spring,water_hotspring
+hypersaline microbial mat,water_hypersaline
+lake water,water_fresh
+marine hot spring,water_marine_hydrothermal
+not known,unclassified
+perirectal,host_animal_endotherm_feces
+root nodule,host_plant_rootnodule
+skin,host_animal_endotherm_surface
+soil sample,soil
+sphagnum bog,soil_organic_peat
+sputum,host_animal_endotherm_oral
+stool,host_animal_endotherm_feces
+sugar beet rhizosphere,host_plant_root-associated
+throat,host_animal_endotherm_oral
+waterfall,water_fresh
+"engineered, bioreactor, anaerobic",bioreactor
+"engineered, built environment, symbiotic, mutualistic",built_environment_surfaces
+"engineered, built environment, water treatment plant",wastewater
+"engineered, free living",unclassified
+"engineered, lab enrichment, defined media, aerobic media",unclassified
+"engineered, lab enrichment, defined media, marine media, free living",unclassified
+"engineered, lab enrichment, free living",unclassified
+"engineered, laboratory developed, free living",unclassified
+"engineered, solid waste, composting, wood",compost
+"engineered, wastewater, industrial wastewater, agricultural wastewater, free living",wastewater
+"engineered, wastewater, industrial wastewater, mine water, free living",wastewater
+"engineered, wastewater, symbiotic, syntrophic",wastewater
+"environmental, aquatic, freshwater, groundwater, acid mine drainage",wastewater
+"environmental, aquatic, freshwater, lentic, symbiotic",water_fresh
+"environmental, aquatic, freshwater, lotic, symbiotic, mutualistic",water_fresh
+"environmental, aquatic, freshwater, subglacial lake",water_fresh
+"environmental, aquatic, freshwater, wetlands, marsh",water_fresh_cold
+"environmental, aquatic, marine, hydrothermal vents, black smokers",water_marine_hydrothermal
+"environmental, aquatic, marine, intertidal zone, beach, symbiotic, mutualistic",host_animal_ectotherm
+"environmental, aquatic, marine, intertidal zone, coral reef",host_animal_ectotherm
+"environmental, aquatic, marine, intertidal zone, microbialites",biofilm
+"environmental, aquatic, marine, oceanic, aphotic zone, free living",water_marine
+"environmental, aquatic, marine, oceanic, benthic",sediment_marine_deep
+"environmental, aquatic, marine, oceanic, free living",water_marine
+"environmental, aquatic, marine, sediment",sediment_marine
+"environmental, aquatic, symbiotic, parasitic",unclassified
+"environmental, aquatic, thermal springs, hot (42-90c), acidic",water_hotspring
+"environmental, aquatic, thermal springs, hot (42-90c), sediment",water_hotspring
+"environmental, aquatic, thermal springs, tepid (25-34c)",water_hotspring
+"environmental, terrestrial, deep subsurface, free living",rock_deep
+"environmental, terrestrial, soil, clay",soil
+"environmental, terrestrial, soil, clay, grasslands",soil_grassland
+"environmental, terrestrial, soil, free living, commensal",soil
+"environmental, terrestrial, soil, sand, oil-contaminated",soil_hydrocarbon_contaminated
+"environmental, terrestrial, soil, symbiotic, syntrophic",soil
+"environmental, terrestrial, soil, uranium contaminated",soil_contaminated
+"environmental, terrestrial, soil, wetlands",soil_marshland
+"environmental, terrestrial, soil, wetlands, permafrost",soil_organic_permafrost
+"environmental, terrestrial, symbiotic, mutualistic",unclassified
+"host-associated, amphibia, free living",host_animal_ectotherm
+"host-associated, animal, symbiotic, mutualistic",host_animal_endotherm
+"host-associated, annelida, digestive system",host_animal_ectotherm
+"host-associated, birds, circulatory system, blood, free living",host_animal_endotherm_blood
+"host-associated, birds, digestive system, digestive tube",host_animal_endotherm_intestinal
+"host-associated, echinodermata, free living",host_animal_ectotherm
+"host-associated, fish, digestive system, free living",host_animal_ectotherm
+"host-associated, fish, reproductive system",host_animal_ectotherm
+"host-associated, fish, skin, free living",host_animal_ectotherm
+"host-associated, fish, symbiotic, parasitic",host_animal_ectotherm
+"host-associated, human, circulatory system, blood, symbiotic",host_animal_endotherm_blood
+"host-associated, human, digestive system, intestine, free living",host_animal_endotherm_intestinal
+"host-associated, human, digestive system, oral, subgingival plaque",host_animal_endotherm_oral
+"host-associated, human, excretory system, urethra",host_animal_endotherm
+"host-associated, human, skin, axilla",host_animal_endotherm_surface
+"host-associated, human, skin, symbiotic, commensal",host_animal_endotherm_surface
+"host-associated, human, skin, symbiotic, parasitic",host_animal_endotherm_surface
+"host-associated, human, skin, umbilicus, free living",host_animal_endotherm_surface
+"host-associated, human, symbiotic",host_animal_endotherm
+"host-associated, mammals, digestive system, foregut, rumen, symbiotic, commensal",host_animal_endotherm_rumen
+"host-associated, mammals, digestive system, oral cavity, free living",host_animal_endotherm_oral
+"host-associated, mammals, gastrointestinal tract, intestine",host_animal_endotherm_intestinal
+"host-associated, mammals, symbiotic, commensal",host_animal_endotherm
+"host-associated, microbial, free living",host_animal_endotherm
+"host-associated, mollusca, digestive system",host_animal_ectotherm
+"host-associated, plants, endosphere",host_plant_leaf-associated
+"host-associated, plants, free living, mutualistic",host_plant
+"host-associated, plants, phylloplane, symbiotic, commensal",host_plant_leaf-associated
+"host-associated, plants, rhizome",host_plant_root-associated
+"host-associated, plants, rhizoplane, soil",host_plant_root-associated
+"host-associated, plants, rhizoplane, symbiotic, parasitic",host_plant_root-associated
+"host-associated, plants, wood",host_plant
+"host-associated, porifera, symbiotic",host_animal_ectotherm
+"host-associated, protists, oomycetes",host_animal_ectotherm
+"host-associated, tunicates, ascidians",host_animal_ectotherm
+"bioreactor,  anaerobic expanded granular sludge bed bioreactor",bioreactor
+"bioreactor, activated sludge of molasses wastewater",sludge
+"bioreactor, biofilm",bioreactor
+"bioreactor, biofilter from oil mill",bioreactor
+"bioreactor, granules from wastewater-treatment bioreactor",bioreactor
+"built environment, established from sea water/sediment samples",unclassified
+"food product, also found in raw milk",milk
+"food product, pasteurized milk",milk
+"food product, red smear solf cheese",food
+"food product, traditional cured meat",food
+"freshwater sediment, marine sediment",sediment_marine
+"freshwater, freshwater hot spring",water_hotspring
+"freshwater, haloalkaline lake",water_fresh_alkaline
+"freshwater, lake michigan",water_fresh
+"freshwater, spanish river",water_fresh
+"freshwater, wetland freshwater",water_fresh
+guts of japanese horned beetle larvae,host_animal_ectotherm
+"hotspring, microbial mats of hot spring",water_hotspring
+"human - mouth, also human blood and urine, lung, aortic valve",host_animal_endotherm_oral
+"human - mouth, human oral cavity",host_animal_endotherm_oral
+"human - skin, thumb wound",host_animal_endotherm_surface
+hypersaline sediment,sediment_hypersaline
+"marine sediment, human - ocular",unclassified
+"marine sediment, marine algae",host_algae
+"marine sediment, marine solar saltern",sediment_hypersaline
+not specified ,unclassified
+"other,  hydrothermal sediment",sediment_marine_hydrothermal
+"other,  interstitial water of a cyano- bacteria-containing microbial mat ",biofilm
+"other, a perianal swab of a patient with a bone marrow transplant",host_animal_endotherm_feces
+"other, abalone",host_animal_ectotherm
+"other, abalone digestive tract",host_animal_ectotherm
+"other, abdominal epidermis of sea cucumber",host_animal_ectotherm
+"other, acidic aquatic environment",water_fresh
+"other, acidic biofilm",biofilm
+"other, acidic volcanic steam",volcanic_active
+"other, acidic wetlands",soil_marshland
+"other, activated sludge from a",sludge
+"other, activated sludge of an aerobic,",sludge
+"other, activated sludge of bioreactor",sludge
+"other, aenorobic granular sludge bed bioreactor",sludge
+"other, agar plate",unclassified
+"other, air humidifier",unclassified
+"other, air in a duck barn",unclassified
+"other, air in a pharmaceutical clean room",unclassified
+"other, air samples",unclassified
+"other, alimentary canal of corbicula clam",host_animal_ectotherm
+"other, aliphatic polyester enrichment culture",unclassified
+"other, alkaline broth",unclassified
+"other, alkaline district healing water",water_fresh_alkaline
+"other, alkaline saline lake",water_fresh_alkaline
+"other, altamira cave",unclassified
+"other, amoebae cytoplasm",host_animal_ectotherm
+"other, anaerobic bactec bottle inoculated with human ankle aspirate",host_animal_endotherm
+"other, anaerobic municipal sewage sludge digesters",sludge
+"other, anaerobic sludge digestor",sludge
+"other, anarctic sediment",sediment_marine_cold
+"other, anchovy fish sauce",food
+"other, ancient permafrost",soil_organic_permafrost
+"other, ancient siberian permafrost",soil_organic_permafrost
+"other, animal",host_animal_endotherm
+"other, animal-fecal",host_animal_endotherm_feces
+"other, animal ",host_animal_endotherm
+"other, animal - fecal",host_animal_endotherm_feces
+"other, animal - pinniped mouth",host_animal_endotherm_oral
+"other, animal associated",host_animal_endotherm
+"other, animal associated-mollusc",host_animal_ectotherm
+"other, animal associated-oyster",host_animal_ectotherm
+"other, animal associated-penguin",host_animal_endotherm
+"other, animal associated-seal",host_animal_endotherm
+"other, animal faeces",host_animal_endotherm_feces
+"other, animal skin",host_animal_endotherm_surface
+"other, animcal feces",host_animal_endotherm_feces
+"other, anode biofilm of a microbial fuel cell",biofilm
+"other, anoxic digested sludge",sludge
+"other, antarctic hypolith community",rock_surface
+"other, antarctic marine sediment",sediment_marine_cold
+"other, antral sinus",host_animal_endotherm_nasopharyngeal
+"other, apoplastic fluid of sugar cane",host_plant_vasculature
+"other, aquatic plant that grows on highly acidic swamps",host_plant
+"other, aquifer",water_groundwater
+"other, aquifer runoff",water_fresh
+"other, arsenic contaminated aquifer",water_groundwater
+"other, artemia spp.",host_plant
+"other, arthritic joint of a calf",host_animal_endotherm_intratissue
+"other, ascidians",host_animal_ectotherm
+"other, atlantic salmon",host_animal_ectotherm
+"other, ba",unclassified
+"other, ballast water tank on cruise ship",unclassified
+"other, balsamic vinegar",food
+"other, bark of trees",host_plant
+"other, bat mouth",host_animal_endotherm_oral
+"other, batch reactor",bioreactor
+"other, beach sediment",sediment_marine
+"other, beachwood",unclassified
+"other, beaver",host_animal_endotherm
+"other, bees and pollen",host_animal_ectotherm
+"other, biodegraded oil",petroleum
+"other, biofilm in coastal fish harm",biofilm
+"other, biofilms",biofilm
+"other, biofilms from beer-bottling plant",food
+"other, biofilter from oil mill",food
+"other, bird's nest",unclassified
+"other, black-headed gulls",host_animal_endotherm
+"other, black liquor",wastewater
+"other, black rust",unclassified
+"other, blood from patient with signs of septicaemia",host_animal_endotherm_blood
+"other, blood of french domestic cows",host_animal_endotherm_blood
+"other, blood of korean patient",host_animal_endotherm_blood
+"other, blood of patient",host_animal_endotherm_blood
+"other, blood of patient with endocarditis",host_animal_endotherm_blood
+"other, blood of squirrels",host_animal_endotherm_blood
+"other, bluespotted cornetfish",host_animal_ectotherm
+"other, body surface of a deep-sea fish",host_animal_ectotherm
+"other, bog",soil_marshland
+"other, bony fish",host_animal_ectotherm
+"other, bottom of japan trench",sediment_marine_deep
+"other, bovine milk",milk
+"other, bovine milk and teat apices",milk
+"other, bovine products",food
+"other, bovine rumen fluid",host_animal_endotherm_rumen
+"other, brackish water",water_brackish
+"other, brain of pig with meningitis",host_animal_endotherm_intratissue
+"other, breast abscess",host_animal_endotherm
+"other, breast implant infection",host_animal_endotherm_intratissue
+"other, brewery environment",food
+"other, brewery environment ",food
+"other, brine",water_hypersaline
+"other, brine from a salt pan",water_hypersaline
+"other, brittle star",host_animal_ectotherm
+"other, broiler chicken caecal content",host_animal_endotherm_intestinal
+"other, broiler meat and canine tonsils",unclassified
+"other, bronchoalveolar lavage of aptient with lung abscess",host_animal_endotherm_nasopharyngeal
+"other, buffalo feces",host_animal_endotherm_feces
+"other, caecal content of a mouse",host_animal_endotherm_intestinal
+"other, caecal content of broiler chicken",host_animal_endotherm_intestinal
+"other, caecal content of chicken",host_animal_endotherm_intestinal
+"other, caecal content of rat",host_animal_endotherm_intestinal
+"other, caecal contents of rabbits",host_animal_endotherm_intestinal
+"other, caecum of a duck",host_animal_endotherm_intestinal
+"other, caecum of a mouse",host_animal_endotherm_intestinal
+"other, camel milk",milk
+"other, canine feces",host_animal_endotherm_feces
+"other, caspian seal phallus",host_animal_endotherm_surface
+"other, cassava sourdough",food
+"other, catepillars ",host_animal_ectotherm
+"other, catfish",host_animal_ectotherm
+"other, cattle farm compost",compost
+"other, cattle ranch",unclassified
+"other, cave biofilm",biofilm
+"other, cavern",unclassified
+"other, cellulose-degrading mixture culture",unclassified
+"other, cellulose degrading bacterial community",unclassified
+"other, chicken caecum",host_animal_endotherm_intestinal
+"other, chicken crop",host_animal_endotherm_intestinal
+"other, chinchilla",host_animal_endotherm
+"other, chinese prawn",host_animal_ectotherm
+"other, chinese water chestnut growing in acidic swamps",host_plant
+"other, chironomid egg mass",host_animal_ectotherm
+"other, chironomid egg mass ",host_animal_ectotherm
+"other, chiton",host_animal_ectotherm
+"other, clean floor rooms",built_environment_surfaces
+"other, clean room of kennedy space center",built_environment_surfaces
+"other, clinical isolates",host_animal_endotherm
+"other, clinical origins",host_animal_endotherm
+"other, clinical specimen",host_animal_endotherm
+"other, clinical specimens of infected human ears",host_animal_endotherm_surface
+"other, clinical speciments",host_animal_endotherm
+"other, coal mine",unclassified
+"other, coal mine and marine lagoon",unclassified
+"other, coastal marine sediment",sediment_marine
+"other, coastal sea-ice",water_marine_cold
+"other, coastal surfaces waters of mediterranean sea",water_marine
+"other, cockles",host_animal_ectotherm
+"other, cocoa bean fermentation",food
+"other, cocoa bean fermentation ",food
+"other, cocoa bean heap fermentation",food
+"other, cold fjord sediment",sediment_marine_cold
+"other, cold spring",water_fresh
+"other, colon",host_animal_endotherm_intestinal
+"other, commercial nitrifying inoculum",unclassified
+"other, common vole",host_animal_endotherm
+"other, compost biofilter",compost
+"other, compost from cattle farm",compost
+"other, congested lungs of a coal tit",host_animal_endotherm_nasopharyngeal
+"other, constructed wetland sediment with acid sulfate",soil_marshland
+"other, contaminant from a biopharmaceutical process",unclassified
+"other, contaminated lab plate",unclassified
+"other, contaminated plate",unclassified
+"other, contaminated sawmill soil",soil_contaminated
+"other, contaminated subsurface ",unclassified
+"other, copper-polluted sediments",sediment
+"other, copper mine",unclassified
+"other, coquina",rock
+"other, coral palythoa collected from seawater",host_animal_ectotherm
+"other, coral reef mucus",host_animal_ectotherm
+"other, coral reef pathogen",host_animal_ectotherm
+"other, corals and zoanthids",host_animal_ectotherm
+"other, cotton compost",compost
+"other, cotton compost ",compost
+"other, cow- fecal",host_animal_endotherm_feces
+"other, cow feces",host_animal_endotherm_feces
+"other, cow udder",host_animal_endotherm_surface
+"other, cricket gut",host_animal_ectotherm
+"other, crude oil-contaminated seashore",petroleum
+"other, crustacean",host_animal_ectotherm
+"other, cryopeg (supercooled water brine)",water_hypersaline
+"other, crystallizer pond",water_hypersaline
+"other, culture of phototrophic bacteria",unclassified
+"other, cultured manila clam",host_animal_ectotherm
+"other, cultured sole",host_animal_ectotherm
+"other, cyanobacterial biofilm",biofilm
+"other, damaged mural painting",built_environment_surfaces
+"other, damaged tissue of a hydrocoral specimen",host_animal_ectotherm
+"other, decayed wood from stump of elm tree",litter
+"other, decaying plant material",litter
+"other, decaying wood",litter
+"other, decomposing algal scum",host_algae
+"other, deep-sea hydrothermal chimney",water_marine_hydrothermal
+"other, deep-sea hydrothermal field",water_marine_hydrothermal
+"other, deep-sea hydrothermal vents",water_marine_hydrothermal
+"other, deep-sea sediment sample",sediment_marine_hydrothermal
+"other, deep marine sponge",host_animal_ectotherm
+"other, deep sea hydrothermal fumarole",water_marine_hydrothermal
+"other, digestive tract of a sea polychaete",host_animal_ectotherm
+"other, digestive tract of bumblebee",host_animal_ectotherm
+"other, diseased coral",host_animal_ectotherm
+"other, diseased larvae",host_animal_ectotherm
+"other, diseased salmonid fish",host_animal_ectotherm
+"other, distilled spirit fermenting cellar",food
+"other, dog - mouth",host_animal_endotherm_oral
+"other, dog - otitis externa",host_animal_endotherm_surface
+"other, dog - skin",host_animal_endotherm_surface
+"other, dog -oral",host_animal_endotherm_oral
+"other, dog bite wound",host_animal_endotherm
+"other, dog feces",host_animal_endotherm_feces
+"other, dog mouths",host_animal_endotherm_oral
+"other, drain of fish-processing plant",wastewater
+"other, dried rice straw",litter
+"other, driftwood",litter
+"other, drinking-water treatment plant",unclassified
+"other, drinking water supply system",water_fresh
+"other, dust samples from stratosphere",unclassified
+"other, electricity harvesting electrode",unclassified
+"other, electroactive biofilm",biofilm
+"other, elephant seal mouth",host_animal_endotherm_oral
+"other, endocarditis in chicken",host_animal_endotherm_intratissue
+"other, entomopathogenic nematode",host_animal_ectotherm
+"other, entrance floor",unclassified
+"other, environmental sample",unclassified
+"other, epilithon-covered stones",rock_surface
+"other, equine placenta",host_animal_endotherm_intratissue
+"other, estuarine sediment",sediment_brackish
+"other, estuarine wetland",sediment_brackish
+"other, eutrophic lake",water_fresh
+"other, eutrophic pond",water_fresh
+"other, eutropic pond",water_fresh
+"other, evaporative lagoon",water_hypersaline
+"other, eyes of cows with pinkeye",host_animal_endotherm_surface
+"other, face wound",host_animal_endotherm
+"other, faeces",host_animal_endotherm_feces
+"other, faeces of a clouded leopard",host_animal_endotherm_feces
+"other, faeces of a thoroughbred",host_animal_endotherm_feces
+"other, faeces of pigs",host_animal_endotherm_feces
+"other, faeces of pill millipede",host_animal_ectotherm
+"other, faeces of thoroughbred horse",host_animal_endotherm_feces
+"other, faeces of wild boar",host_animal_endotherm_feces
+"other, faeces of wild seahorses",host_animal_ectotherm
+"other, farmed atlantic salmon",host_animal_ectotherm
+"other, fattening pigs",host_animal_endotherm
+"other, feces of monkey",host_animal_endotherm_feces
+"other, feline lung tissue",host_animal_endotherm_nasopharyngeal
+"other, fermented bovine products",food_fermented
+"other, fermented broccoli stems",food_fermented
+"other, fermented dairy beverage",food_fermented
+"other, fermented liquor sample",food_fermented
+"other, fermented mare's milk",food_fermented
+"other, fermented mustard",food_fermented
+"other, fermented pobuzihi",food_fermented
+"other, fermented shrimp paste",food_fermented
+"other, fermented stinky tofu brine",food_fermented
+"other, fermenting olives",food_fermented
+"other, ferret with lethal sepsis",host_animal_endotherm
+"other, field nest of ant ",unclassified
+"other, filter treating wastewater",wastewater
+"other, finnish paper mill",wastewater
+"other, fish-culture pond",water
+"other, fish aquariums",water
+"other, fish samples",host_animal_ectotherm
+"other, fish sauce",food
+"other, flamingos",host_animal_endotherm
+"other, flood plain sediment",soil
+"other, flower-associated beetles",host_animal_ectotherm
+"other, flower nectar and associated beetles and drosophila flies",host_animal_ectotherm
+"other, flowers",host_plant
+"other, fluidized-bed reactor",bioreactor
+"other, fly ash",unclassified
+"other, fly larvae",host_animal_ectotherm
+"other, foot abscess of a chimpanzee",host_animal_endotherm
+"other, foot epidermis of a nudibranch",host_animal_ectotherm
+"other, forensic specimen",unclassified
+"other, forest sediment",soil_forest
+"other, found as a contaminant on an agar plate",unclassified
+"other, frog",host_animal_ectotherm
+"other, fruit powder",food
+"other, fruit waste",host_plant
+"other, fungal hyphae",host_fungus
+"other, gas-associated formation water of a gas-producing well in a natural gas field",petroleum
+"other, gas storage reservoir",petroleum
+"other, gastric mucosa of a cat",host_animal_endotherm_intestinal
+"other, gastric mucosa of cat",host_animal_endotherm_intestinal
+"other, gastric mucosa of dog",host_animal_endotherm_intestinal
+"other, ginseng field",soil_agricultural
+"other, glacier croconite",water_fresh_cold
+"other, glacier water sample",water_fresh_cold
+"other, goose - fecal",host_animal_endotherm_feces
+"other, grape juice",food
+"other, grapes",host_plant
+"other, grass silage",litter
+"other, green alga from antarctic",host_algae
+"other, green algae",host_algae
+"other, green biofilm covering the wall of the domitilla catacombs in rome, italy",biofilm
+"other, grey seals",host_animal_endotherm
+"other, groin abscess",host_animal_endotherm
+"other, groin abscess sample",host_animal_endotherm
+"other, gulls",host_animal_endotherm
+"other, gut of a butterfly",host_animal_ectotherm
+"other, gut of a camel cricket",host_animal_ectotherm
+"other, gut of a cricket",host_animal_ectotherm
+"other, gut of a honeybee",host_animal_ectotherm
+"other, gut of a sea urchin",host_animal_ectotherm
+"other, gut of a subterranean termite",host_animal_ectotherm
+"other, gut of insect",host_animal_ectotherm
+"other, gut of japanese shellfish",host_animal_ectotherm
+"other, gut of larvae",host_animal_ectotherm
+"other, gut of termite",host_animal_ectotherm
+"other, gut of the diplopodian cylindroiulus fulviceps",host_animal_ectotherm
+"other, gut of tsetse fly",host_animal_ectotherm
+"other, guts of wood-boring insect larvae",host_animal_ectotherm
+"other, haemolymph of cultured oysters",host_animal_ectotherm
+"other, haemolymph of shrimp",host_animal_ectotherm
+"other, hairspray contaminant",unclassified
+"other, haloalkine lake",water_fresh_alkaline
+"other, hamster mouth",host_animal_endotherm_oral
+"other, harbour seals",host_animal_endotherm
+"other, hard coral",host_animal_ectotherm
+"other, hard tick",host_animal_ectotherm
+"other, heifers with dermatitis digitalis",host_animal_endotherm_surface
+"other, hexachlorocyclohexane-contaminated dump site",soil_contaminated
+"other, high temperature daqu sample used in production of sesame-flavor liquor",food
+"other, himalayan snow",unclassified
+"other, hindgut of larvae",host_animal_ectotherm
+"other, home made compost",compost
+"other, hoof keratin",host_animal_endotherm
+"other, horse faeces",host_animal_endotherm_feces
+"other, horse feces",host_animal_endotherm_feces
+"other, human",host_animal_endotherm
+"other, human- respiratory ",host_animal_endotherm_nasopharyngeal
+"other, human-pulmonary infections",host_animal_endotherm_nasopharyngeal
+"other, human-pulmonary lung infection ",host_animal_endotherm_nasopharyngeal
+"other, human - discharge",host_animal_endotherm
+"other, human - heart",host_animal_endotherm_intratissue
+"other, human - intestinal",host_animal_endotherm_intestinal
+"other, human - neck abscess",host_animal_endotherm
+"other, human - pulmonary",host_animal_endotherm_nasopharyngeal
+"other, human - sacrum",host_animal_endotherm
+"other, human - sputum",host_animal_endotherm_oral
+"other, human - uterus",host_animal_endotherm
+"other, human amniotic fluid",host_animal_endotherm_intratissue
+"other, human ankle aspirate",host_animal_endotherm_intratissue
+"other, human artery",host_animal_endotherm_blood
+"other, human blood (habitat unknown)",host_animal_endotherm_blood
+"other, human blood samples",host_animal_endotherm_blood
+"other, human breast abscess",host_animal_endotherm
+"other, human bronchoalveolar lavage",host_animal_endotherm_nasopharyngeal
+"other, human buttock abscess ",host_animal_endotherm
+"other, human cervical lymph node",host_animal_endotherm_intratissue
+"other, human clinical sample",host_animal_endotherm
+"other, human clinical samples (wound)",host_animal_endotherm
+"other, human clinical samples from skin and soft tissues",host_animal_endotherm
+"other, human csf",host_animal_endotherm_intratissue
+"other, human ear",host_animal_endotherm_surface
+"other, human gi tract",host_animal_endotherm_intestinal
+"other, human kidney",host_animal_endotherm_intratissue
+"other, human lymph node",host_animal_endotherm_intratissue
+"other, human osteo-articular sample",host_animal_endotherm_intratissue
+"other, human pleural fluid",host_animal_endotherm_nasopharyngeal
+"other, human pulmonary",host_animal_endotherm_nasopharyngeal
+"other, human pulmonary system in this case/natural environment normally",host_animal_endotherm_nasopharyngeal
+"other, human respiratory sample",host_animal_endotherm_nasopharyngeal
+"other, human respiratory secretions of cystic fibrosis",host_animal_endotherm_nasopharyngeal
+"other, human specimen",host_animal_endotherm
+"other, human with pulmonary infection",host_animal_endotherm_nasopharyngeal
+"other, human wound",host_animal_endotherm
+"other, human wound specimens",host_animal_endotherm
+"other, human wounds, human blood and soil",unclassified
+"other, humic-lake samples",water_fresh
+"other, hydrocarbon-degrading consortium (seawater sample)",petroleum
+"other, hydrothermal field sediment",sediment_marine_hydrothermal
+"other, hydrothermal fluid and microbial mat samples",water_marine_hydrothermal
+"other, hydrothermal plume",water_marine_hydrothermal
+"other, hydrothermal vent fields of genesis",water_marine_hydrothermal
+"other, hypersaline soil",soil_saline
+"other, hypersaline water of solar saltern",water_hypersaline
+"other, hypertrophic pond",water_fresh
+"other, hypothermal site on the mid-atlantic ridge",water_marine_hydrothermal
+"other, ice cored drilled from a glacier",unclassified
+"other, ileal mucosa of a 12 week old female mouse",host_animal_endotherm_intestinal
+"other, indigo balls",unclassified
+"other, indigo dye",unclassified
+"other, indigo fermentation fluid",unclassified
+"other, indigo fermentation liquor",unclassified
+"other, indoor environment colonized with moulds",host_fungus
+"other, indoor wall",built_environment_surfaces
+"other, indoor wall material",built_environment_surfaces
+"other, indoor walls from colonized walls",built_environment_surfaces
+"other, industrial glue",unclassified
+"other, industrial sludge",sludge
+"other, industrial starch production",food
+"other, industrial wastewater treatment plants",wastewater
+"other, industrial water",wastewater
+"other, industrially-contaminated sediment",sediment
+"other, industrially-contaminated site",soil_contaminated
+"other, infections from skin and soft tissues",host_animal_endotherm
+"other, insect",host_animal_ectotherm
+"other, insect tunnel",unclassified
+"other, internal tissue of marine mollusc",host_animal_ectotherm
+"other, internal tissue of the sponge amphilectus digitatus",host_animal_ectotherm
+"other, internal tissues of marine mollusc",host_animal_ectotherm
+"other, intertidal sediment",sediment_marine
+"other, intestinal tract of a butterfly",host_animal_ectotherm
+"other, intestinal tract of an abalone",host_animal_ectotherm
+"other, intestinal tract of dog tonsils",host_animal_endotherm_intestinal
+"other, intestinal tract of earthworm",host_animal_ectotherm
+"other, intestine of a cultured flounder",host_animal_ectotherm
+"other, intestine of a sea cucumber",host_animal_ectotherm
+"other, intestine of nematode",host_animal_ectotherm
+"other, intestine of weaning piglets",host_animal_endotherm_intestinal
+"other, intestines of pacific mackerel",host_animal_ectotherm
+"other, iron-ore-contaminated soil",soil_contaminated
+"other, iron sand",soil_mineral
+"other, isolated from a meditteranean sponge",host_animal_ectotherm
+"other, isolated from a sponge",host_animal_ectotherm
+"other, isolated from a starfish",host_animal_ectotherm
+"other, isolated from abalone",host_animal_ectotherm
+"other, isolated from air",host_animal_ectotherm
+"other, isolated from air sample",unclassified
+"other, isolated from ale brewery yeast",food
+"other, isolated from algae",host_algae
+"other, isolated from birds",host_animal_endotherm
+"other, isolated from caterpillars",host_animal_ectotherm
+"other, isolated from clam",host_animal_ectotherm
+"other, isolated from crabs preserved in soy sauce",food
+"other, isolated from fermented fish",food_fermented
+"other, isolated from human wound",host_animal_endotherm
+"other, isolated from insect frass and a flower",host_animal_ectotherm
+"other, isolated from leg infection",host_animal_endotherm
+"other, isolated from marine red alga",host_algae
+"other, isolated from mouse model of spontaneous colitis",host_animal_endotherm_intestinal
+"other, isolated from mushroom-growing spawn",compost
+"other, isolated from pineapple",food
+"other, isolated from red alga",host_algae
+"other, isolated from rice seeds",host_plant
+"other, isolated from sea sponge",host_animal_ectotherm
+"other, isolated from sea urchin",host_animal_ectotherm
+"other, isolated from seaweed",host_algae
+"other, isolated from sewage ",host_animal_endotherm_feces
+"other, isolated from spoiled orange juice",food
+"other, isolated from starfish",host_animal_ectotherm
+"other, isolated from sugar-thick juice",food
+"other, isolated from the mediterranean sponge",host_animal_ectotherm
+"other, isolated from ticks",host_animal_ectotherm
+"other, kidney and liver of aborted pig fetus",host_animal_endotherm_intratissue
+"other, kidney of pufferfish",host_animal_ectotherm
+"other, kingfisher",host_animal_endotherm
+"other, kitchen refuse ",food
+"other, knee aspirate of human ",host_animal_endotherm_intratissue
+"other, lab culture",unclassified
+"other, lab culture of marine dinoflagellate",host_algae
+"other, lab culture of shellfish",host_animal_ectotherm
+"other, lactic acid beverage",food
+"other, lagoon",water_brackish
+"other, larvae of satin moth",host_animal_ectotherm
+"other, laundry surfactant",unclassified
+"other, leaf in tropical rainforest in china",host_plant_leaf-associated
+"other, leaves",host_plant_leaf-associated
+"other, leaves of seagrass",host_plant_leaf-associated
+"other, leaves of wild garlic",host_plant_leaf-associated
+"other, leech",host_animal_ectotherm
+"other, leg wound",host_animal_endotherm
+"other, legume",host_plant
+"other, leopard faeces",host_animal_endotherm_feces
+"other, lichen-colonized rock surface",host_algae
+"other, limestone",rock
+"other, lining of a pig caecum",host_animal_endotherm_intestinal
+"other, liposarcoma infection",host_animal_endotherm_intratissue
+"other, liquid sugar",food
+"other, liquor sample",food
+"other, liver of a stranded beaked whale",host_animal_endotherm_intratissue
+"other, liver of vole",host_animal_endotherm_intratissue
+"other, lymph node of a pig",host_animal_endotherm_intratissue
+"other, maize grains",host_plant
+"other, malted barley",food
+"other, mangrove rhizosphere",host_plant_root-associated
+"other, mangrove sediment",sediment_marine
+"other, marine alga",host_algae
+"other, marine alga phaeocystis globosa",host_algae
+"other, marine bivalve",host_animal_ectotherm
+"other, marine dinoflagellate",host_algae
+"other, marine electroactive biofilm",biofilm
+"other, marine mammals",host_animal_endotherm
+"other, marine organisms",host
+"other, marine phytoplankton",water_marine
+"other, marine sand",sediment_marine
+"other, marine sandy sediment",sediment_marine
+"other, marine sediment",sediment_marine
+"other, marine slime",biofilm
+"other, marine snail",host_animal_ectotherm
+"other, marine solar saltern crystallizer",water_hypersaline
+"other, marine sponge ",host_animal_ectotherm
+"other, marine sponges",host_animal_ectotherm
+"other, marine tidal flat",sediment_marine
+"other, marine vertebrates and invertebrates",host_animal
+"other, marinw solar saltern",water_hypersaline
+"other, mars odyssey spacecraft",unclassified
+"other, medical practice",unclassified
+"other, medieval wall painting",built_environment_surfaces
+"other, mediterranean sponge",host_animal_ectotherm
+"other, meltwater of a glacier",water_fresh
+"other, metal-rich aquatic environment",unclassified
+"other, metal sulfide rock",rock
+"other, metalworking fluid",unclassified
+"other, microbial mat formed in a wooden bath filled with hot water emerging from a 2775 m-deep well",unclassified
+"other, microbial mat sample",biofilm
+"other, microbial mats from geothermal water",biofilm
+"other, microbial mats in brackish ponds",biofilm
+"other, microbial matsthriving in thermal water",biofilm
+"other, microbiological agent",unclassified
+"other, midgut of the tsetse fly",host_animal_ectotherm
+"other, midui glacier",unclassified
+"other, milk from a macaque",milk
+"other, mite",host_animal_ectotherm
+"other, mixture of swamp water, sewage sludge, swine waste, and soil ",unclassified
+"other, molasses grass",litter
+"other, mold-colonized wall",built_environment_surfaces
+"other, mold-colonized walls",built_environment_surfaces
+"other, monkey-mouth",host_animal_endotherm_oral
+"other, moraine sample",soil_mineral
+"other, mouse caecal mucus",host_animal_endotherm_intestinal
+"other, mouse model of spontaneous colitis",host_animal_endotherm_intestinal
+"other, mucosal jejunum of pig",host_animal_endotherm_intestinal
+"other, mud volcano",unclassified
+"other, muddy water",water_fresh
+"other, municipal sewage sludge",sludge
+"other, municipal urban waste compost",compost
+"other, mussels",host_animal_ectotherm
+"other, natural gas production-water",petroleum
+"other, necrotic pear blossom",host_plant
+"other, necrotic tissue of cacti",host_plant
+"other, necrotic wound of a 35-year-old man",host_animal_endotherm
+"other, nematodes",host_animal_ectotherm
+"other, nephridia of earthworm",host_animal_ectotherm
+"other, nest of hydrothermal vent polychaetes",host_animal_ectotherm
+"other, neutral saline",water_hypersaline
+"other, neutral saline lake",water_hypersaline
+"other, neutral saline lake ",water_hypersaline
+"other, nitrogen-fixing nodules",host_plant_rootnodule
+"other, nodules",host_plant_rootnodule
+"other, nodules of chickpea",host_plant_rootnodule
+"other, nodules of cyisus scoparius",host_plant_rootnodule
+"other, noses of pigs",host_animal_endotherm_nasopharyngeal
+"other, nuclear legacy waste site",unclassified
+"other, ocean",water_marine
+"other, ocean sediment",sediment_marine
+"other, oil",petroleum
+"other, oil-contaminated sand",soil_hydrocarbon_contaminated
+"other, oil-contaminated site",petroleum
+"other, oil producing wells",petroleum
+"other, oil production fluid",petroleum
+"other, oil reactor",petroleum
+"other, oil well",petroleum
+"other, oilfield-water injection",petroleum
+"other, ophiuroid specimen from fiji sea",host_animal_ectotherm
+"other, oral cavities in pigs",host_animal_endotherm_oral
+"other, oral cavity of a chimpanzee",host_animal_endotherm_oral
+"other, oral cavity of boar",host_animal_endotherm_oral
+"other, oral cavity of dogs, cats, and a ferret",host_animal_endotherm_oral
+"other, orange juice",food
+"other, oxidative environment",unclassified
+"other, oyster",host_animal_ectotherm
+"other, paper-mill effluent",wastewater
+"other, paper mill",wastewater
+"other, paper wasp nest",unclassified
+"other, patient's wound",host_animal_endotherm
+"other, patient with pulmonary disease",host_animal_endotherm_nasopharyngeal
+"other, patient with pulmonary infections",host_animal_endotherm_nasopharyngeal
+"other, peat-bog lake",water_fresh
+"other, peat bog lake",water_fresh
+"other, peatlands",soil_organic_peat
+"other, penguin guano",host_animal_endotherm_feces
+"other, permafront sediment",soil_organic_permafrost
+"other, pesticide contaminated site",soil_contaminated
+"other, petroleum contaminated groundwater",petroleum
+"other, pharmaceutical clean room",built_environment_surfaces
+"other, pharmaceutical clean room, food",built_environment_surfaces
+"other, pharmaceutical manufacturing site",built_environment_surfaces
+"other, pharynx of a feral pigeon",host_animal_endotherm_nasopharyngeal
+"other, pig",host_animal_endotherm
+"other, pigeon excrement",host_animal_endotherm_feces
+"other, pindari glacier",unclassified
+"other, placental tissue of cow",host_animal_endotherm_intratissue
+"other, plant litter",litter
+"other, plant phyllosphere",host_plant_leaf-associated
+"other, plant roots",host_plant_root-associated
+"other, polluted sediments",sediment
+"other, polycyclic aromatic hydrocarbon-degrading consortium",petroleum
+"other, porpoise and grey seal",host_animal_endotherm
+"other, potassium-bearing rock",rock
+"other, poultry",host_animal_endotherm
+"other, poultry houses",unclassified
+"other, poultry litter",litter
+"other, poultry litter compost",compost
+"other, pre-cut lettuce",food
+"other, prehistoric paintings",unclassified
+"other, pulp of gold-containing sufide concentrate",unclassified
+"other, purified water",water_fresh
+"other, rabbit",host_animal_endotherm
+"other, radiated soil",soil
+"other, raw milk ",milk
+"other, raw milk cheeses",food
+"other, reclassification of dactylosporangium variesporum",unclassified
+"other, red sea coral",host_animal_ectotherm
+"other, reef-building coral",host_animal_ectotherm
+"other, rhizoplane",host_plant_root-associated
+"other, rhizosphere of angelica polymorpha",host_plant_root-associated
+"other, rhizosphere of legume",host_plant_root-associated
+"other, rhizosphere of maize",host_plant_root-associated
+"other, rhizosphere of pepper",host_plant_root-associated
+"other, rhizosphere of triticum aestivum",host_plant_root-associated
+"other, rhizosphere of willow roots",host_plant_root-associated
+"other, rhizosphere soils of sesame",host_plant_root-associated
+"other, rice-straw residue",litter
+"other, rice-straw residue in a methanogenic reactor treating waste from cattle farms",litter
+"other, rice field ",soil_agricultural
+"other, rice seeds",host_plant
+"other, ripe fig",food
+"other, rock",rock
+"other, rock soil",soil_mineral
+"other, rocks",rock
+"other, rodent hosts ",host_animal_endotherm
+"other, roman catacomb",unclassified
+"other, root nodule",host_plant_rootnodule
+"other, root of a wattle tree",host_plant_root-associated
+"other, roots of mangrove-associated wild rice",host_plant_root-associated
+"other, roots of rice plants",host_plant_root-associated
+"other, roots of spartina anglica",host_plant_root-associated
+"other, rumen content of yak",host_animal_endotherm_rumen
+"other, rumen fluid",host_animal_endotherm_rumen
+"other, rumen of korean native cattle",host_animal_endotherm_rumen
+"other, rumen of yak",host_animal_endotherm_rumen
+"other, rusticles samples",unclassified
+"other, rusty iron plate",unclassified
+"other, rusty iron plates",unclassified
+"other, saline-alkaline soil",soil_saline
+"other, saline-alkane soil",soil_saline
+"other, saline lake sediment",sediment_hypersaline
+"other, saline soda lakes",water_fresh_alkaline
+"other, salt-crust sample from salt lake",sediment_hypersaline
+"other, salt crystal",sediment_hypersaline
+"other, salt deposit",sediment_hypersaline
+"other, salt fermented fish",food_fermented
+"other, salt fermented food",food_fermented
+"other, salt field",sediment_hypersaline
+"other, salt lake sediment",sediment_hypersaline
+"other, salt mine ",sediment_hypersaline
+"other, salt mine sample",sediment_hypersaline
+"other, salt mine sediment",sediment_hypersaline
+"other, salted brown alga",food
+"other, salted brown algae",food
+"other, salted crab",food
+"other, salted hide",unclassified
+"other, saltern brine sediment",sediment_hypersaline
+"other, saltwater sediment",sediment_marine
+"other, sand snail",host_animal_ectotherm
+"other, sandbank",sediment_marine
+"other, sandstone",rock
+"other, sandy permafrost",soil
+"other, sandy sediment",sediment
+"other, sauce from fish",food
+"other, sawdust",litter
+"other, sawdust of decayed tree",litter
+"other, scalp wound",host_animal_endotherm
+"other, scoria",rock
+"other, sea-ice sample",water_marine_cold
+"other, sea-ice samples",water_marine_cold
+"other, sea-ice samples ",water_marine_cold
+"other, sea anemone (marine)",host_animal_ectotherm
+"other, sea bass",host_animal_ectotherm
+"other, sea coral",host_animal_ectotherm
+"other, sea cucumber epidermis",host_animal_ectotherm
+"other, sea mollusc",host_animal_ectotherm
+"other, sea squirts",host_animal_ectotherm
+"other, sea urchine",host_animal_ectotherm
+"other, seahorse feces",host_animal_ectotherm
+"other, seashore sand",sediment_marine
+"other, seaweed epiphyte",host_algae
+"other, sediment (unspecified)",sediment
+"other, sediment sample from river",sediment_fresh
+"other, sediments of flood plain",soil
+"other, serum of blacklip abalone",host_animal_ectotherm
+"other, sewage sample",host_animal_endotherm_feces
+"other, sewage sludge",sludge
+"other, sewage sludge digester",sludge
+"other, shaft tomb",unclassified
+"other, shallow hydrothermal vent",water_marine_hydrothermal
+"other, shallow subsurface exposed to mixed heavy metal",unclassified
+"other, sheep",host_animal_endotherm
+"other, sheep and goats",host_animal_endotherm
+"other, sheep faeces",host_animal_endotherm_feces
+"other, sheep milk",milk
+"other, skin and organ lesions of different lizard species",host_animal_ectotherm
+"other, skin of porpoise",host_animal_endotherm_surface
+"other, skin of the medical leech hirudo verbana",host_animal_ectotherm
+"other, slate mine",unclassified
+"other, slate surface",rock_surface
+"other, slime of puffer fish",host_animal_ectotherm
+"other, sludge blanket reactor",sludge
+"other, sludge from a waste digester",sludge
+"other, sludge of a carbendazim wastewater treatment facility",sludge
+"other, sludge of aerobic digester treating municipal solid waste and sewage",sludge
+"other, sludge of anaerobic digester treating municipal solid waste and sewage",sludge
+"other, small stone",unclassified
+"other, small stone from agricultural field",soil_agricultural
+"other, snail",host_animal_ectotherm
+"other, soft coral",host_animal_ectotherm
+"other, soil contaminated with crude oil",petroleum
+"other, solar saltern crystallizer pond",water_hypersaline
+"other, sorghum wort",food
+"other, sow's placenta",host_animal_endotherm_intratissue
+"other, soybean",host_plant
+"other, spacecraft-assembly clean room",built_environment_surfaces
+"other, spacecraft assembly",built_environment_surfaces
+"other, spacecraft assembly clean room",built_environment_surfaces
+"other, spanish bobal grape must",food
+"other, spiced meat",food
+"other, spirit fermenting cellar",built_environment_surfaces
+"other, spleen of seal",host_animal_endotherm_intratissue
+"other, spoilage microbiota of cooked shrimp",food
+"other, spoiled orange juice",food
+"other, spoiled red wine",food
+"other, sponge",host_animal_ectotherm
+"other, sponge specimen",host_animal_ectotherm
+"other, spotted rose snapper",host_animal_ectotherm
+"other, spring",water_groundwater_surface
+"other, sputum from patients with nocardiosis",host_animal_endotherm_oral
+"other, sputum of patient with pneumonia",host_animal_endotherm_oral
+"other, sputum of patient with pulmonary infection",host_animal_endotherm_oral
+"other, stem",host_plant
+"other, stinky tofu brine",food
+"other, stomach of honeybees",host_animal_ectotherm
+"other, stomach of pigs",host_animal_endotherm_intestinal
+"other, stomachs of honeybees",host_animal_ectotherm
+"other, stone",rock_surface
+"other, stork trachea",host_animal_endotherm_nasopharyngeal
+"other, stratosphere",unclassified
+"other, stream water",water_fresh
+"other, stripe of edible mushroom",host_fungus
+"other, striped barombi mbo cichlid",host_animal_ectotherm
+"other, striped bass",host_animal_ectotherm
+"other, stromatolites",biofilm
+"other, submarine hydrothermal system",water_marine_hydrothermal
+"other, submerged fermented cassava",food
+"other, subsurface landfill sample",unclassified
+"other, subsurface sediment undergoing uranium bioremediation",sediment
+"other, sulfide spring",water_hotspring
+"other, sulfur spring sample",water_hotspring
+"other, surface-sterilized stem of grey box tree",host_plant
+"other, surface and smear water of german smear-ripened soft cheeses",food
+"other, surface microbial flora of reblochon cheese",food
+"other, surface of a 50 euro cent copper-alloy coin",unclassified
+"other, surface of bottles of saline solution used in wound cleansing",unclassified
+"other, surface sterilized tissue",unclassified
+"other, surface water of south china sea",water_marine
+"other, swine-manure storage pit",sludge
+"other, swine manure storage ",host_animal_endotherm_feces
+"other, swine sources",host_animal_endotherm
+"other, tar",petroleum
+"other, tea",food
+"other, temperate peat swamp forest soil",soil_organic_peat
+"other, terrestrial saline spring",water_hypersaline
+"other, thalli of a marine red alga",host_algae
+"other, thallus of liverwort",host
+"other, the marine ciliate myrionecta rubra",host_animal_ectotherm
+"other, the microbiota of spanish clams",host_animal_ectotherm
+"other, thermal spring",water_hotspring
+"other, thermophilic sludge ",sludge
+"other, tick",host_animal_ectotherm
+"other, ticks collected from sheep and goat",host_animal_ectotherm
+"other, tidal flat sediment ",sediment_marine
+"other, tidal mud flat",sediment_marine
+"other, tidal sand-flat",sediment_marine
+"other, tissue of artemisia annua",host_plant
+"other, tissue of artemisia annua l.",host_plant
+"other, tissue of columnar cacti",host_plant
+"other, tissues of a ferret",host_animal_endotherm
+"other, tortoises",host_animal_ectotherm
+"other, traditional pickle",food
+"other, tree exudate",host_plant_vasculature
+"other, tree saps and glacial meltwater",host_plant_vasculature
+"other, tree trunk",host_plant
+"other, tropic rainforest",unclassified
+"other, tropical marine environment",unclassified
+"other, tryptone soy agar",unclassified
+"other, type ii sourdough ",food
+"other, underground mine",unclassified
+"other, unknown origin",unclassified
+"other, various places in a wildlife reserve",unclassified
+"other, vegetable broth",food
+"other, vericompost",compost
+"other, vermicompost",compost
+"other, vermicompost produced from kitchen waste",compost
+"other, vinegar",food
+"other, viscera of common voles",host_animal_endotherm_intestinal
+"other, volcanic area",volcanic_active
+"other, volcanic area in indonesia",volcanic_active
+"other, vultures",host_animal_endotherm
+"other, wall colonized with mould",host_fungus
+"other, wall material",built_environment_surfaces
+"other, wastewater sediment",wastewater
+"other, water-treatment facility",wastewater
+"other, water cooling system",unclassified
+"other, water flea",host_animal_ectotherm
+"other, water mixd metal working fluid",unclassified
+"other, water of steam generator",unclassified
+"other, water reservoir",water_fresh
+"other, water sample",water_fresh
+"other, water stream",water_fresh
+"other, water surfaces",water_fresh
+"other, water system of power plant",wastewater
+"other, water tanks, mangrove sediment, swamp water",water
+"other, waterweed from highly acidic swamp",host_plant
+"other, waterweed grown in highly acidic swamp",host_plant
+"other, well that collected water from deep saline aquifer",water_groundwater_deepsubsurface
+"other, well water",water_groundwater_surface
+"other, whales",host_animal_endotherm
+"other, wheat flour",food
+"other, wheat sourdough",food
+"other, whey digester",food
+"other, whooping crane cloacal cavity",host_animal_endotherm_intestinal
+"other, wild birds",host_animal_endotherm
+"other, wild boar oral cavity",host_animal_endotherm_oral
+"other, wild mouse faeces",host_animal_endotherm_feces
+"other, wood falls",litter
+"other, wood samples",litter
+"other, wound after a puncture by a fish fun",host_animal_endotherm
+"other, wound debridement specimen",host_animal_endotherm
+"other, wound swab",host_animal_endotherm
+"other, yak rumen",host_animal_endotherm_rumen
+"plant associated,  stem of maytenus austroyunnanensis",host_plant
+"plant associated, algae",host_algae
+"plant associated, deep-water rice",host_plant
+"plant associated, organic carbon and nitrogen sewage treatment plant",unclassified
+"plant associated, plant roots",host_plant_root-associated
+"plant associated, rhizoplane",host_plant_root-associated
+"plant associated, rhizospheres of plants",host_plant_root-associated
+"plant associated, roots of plants",host_plant_root-associated
+"plant associated, roots of rice plants",host_plant_root-associated
+"seawater, abalone under aquaculture in seawater",host_animal_ectotherm
+"seawater, salt lake",water_hypersaline
+"seawater, seawater enriched with zooplankton",water_marine
+"seawater, shallow coastal seawater",water_marine
+"seawater, yellow sea",water_marine
+"soil, 65.1",soil
+"soil, acidic rice-field soil",soil_agricultural
+"soil, alpine soil",soil
+"soil, anoxic rice soil field",soil_agricultural
+"soil, btex-contaminated soil",soil_hydrocarbon_contaminated
+"soil, dsm17256t|iam15263t|atccbaa-1190t",soil
+"soil, ginseng soil",soil_agricultural
+"soil, glacial soil",soil_mineral
+"soil, heavy metal polluted soil",soil_contaminated
+"soil, landfill soil",soil_contaminated
+"soil, livestock-impacted soil",soil_agricultural
+"soil, mangroove soil",sediment_marine
+"soil, mud sample",soil
+"soil, no",soil
+"soil, oil-contaminared soil",soil_hydrocarbon_contaminated
+"soil, paddy soil and root of rice plant",soil_agricultural
+"soil, pasteurized soil sample",soil
+"soil, pear orchard soil",soil_agricultural
+"soil, rhizosphere soil",soil
+"soil, saline and alkine soil",soil_saline
+"soil, salt lake",soil_saline
+"soil, saltpan",soil_saline
+"soil, sand",soil_mineral
+"soil, seaside soil",soil
+"soil, soda soil sample",soil
+"soil, soil sample from pindari glacier",soil
+"soil, solfataric soil",volcanic_active
+"soil, teak rhizosphere soil",soil_forest
+"soil, temperate peat swamp forest soil",soil_organic_peat
+"soil, thermophilic methanogenic consortium",unclassified
+"soil, vineyard soil",soil_agricultural
+"soil, wetland soil",soil_marshland
+"wastewater, active sludge from wastewater",sludge
+"wastewater, domestic waste",wastewater
+"wastewater, enrichment culture containg thf",wastewater
+"wastewater, sewage sludge",sludge
+"wastewater, sludge",sludge
+150 km offshore,water_marine
+3 m depth in a coral reef,sediment_marine
+a coastal hot spring,water_marine_hydrothermal
+abdominal abscess,host_animal_endotherm
+acid mining effluent decantation pond,wastewater
+active hydrothermal chimney,water_marine_hydrothermal
+afb-diseased colony,host_animal_ectotherm
+agricultural fields,soil_agricultural
+agricultural settling lagoon,wastewater
+agricultural site,soil_agricultural
+air,unclassified
+air in a school dining room,unclassified
+air sample,unclassified
+algal mat from kah-nee-tah hot spring,host_algae
+algal phycosphere,host_algae
+amblyomma tick,host_animal_ectotherm
+amniotic fluid,host_animal_endotherm_intratissue
+an acidic hot spring; philippines,water_hotspring
+anaerobic sewer sludge,sludge
+animal faecal matter,host_animal_endotherm_feces
+appendix tissue,host_animal_endotherm_intratissue
+aquatic,water
+atcc 35296,unclassified
+atcc 43099,unclassified
+atlantic cod,host_animal_ectotherm
+baby feces,host_animal_endotherm_feces
+beach mud,sediment_marine
+beach sand,sediment_marine
+bearded dragon,host_animal_ectotherm
+"black smoker wall, 3500 m depth",water_marine_hydrothermal
+blight and dieback of eucalyptus,host_plant
+blood culture,host_animal_endotherm_blood
+blood from an infected cat,host_animal_endotherm_blood
+blood of a naturally infected pig,host_animal_endotherm_blood
+blood of an infected pig,host_animal_endotherm_blood
+blood of infected scid mice,host_animal_endotherm_blood
+blood of naturally infected dog,host_animal_endotherm_blood
+blood sample,host_animal_endotherm_blood
+bone marrow,host_animal_endotherm_intratissue
+brackish pond,water_brackish
+brain,host_animal_endotherm_intratissue
+brine,water_hypersaline
+btex contaminated soil,soil_hydrocarbon_contaminated
+campground,unclassified
+case of pinkeye,host_animal_endotherm_surface
+caseous lymphadenitis abscess,host_animal_endotherm_intratissue
+caulobacter fwc20 culture,unclassified
+cave entrance,unclassified
+cecum,host_animal_endotherm_intestinal
+cheese,food
+chicken,unclassified
+chicken caecum,host_animal_endotherm_intestinal
+china: tianjin,unclassified
+chloroethene-contaminated groundwater,water_groundwater_surface
+clinical specimen,host_animal_endotherm
+cloacal swab,host_animal_endotherm_intestinal
+coastal seawater,water_marine
+coastal sediment,sediment_marine
+coelomic fluid of a sand dollar,host_animal_ectotherm
+coho salmon,host_animal_ectotherm
+colon,host_animal_endotherm_intestinal
+composting reactor,compost
+contaminated culture medium,unclassified
+coral,host_animal_ectotherm
+cow's milk (envo:0010035),milk
+cow's milk [envo_0010035],milk
+cow with mastitis,host_animal_endotherm_surface
+creosote-contaminated soil,soil_hydrocarbon_contaminated
+creosote-polluted soil,soil_hydrocarbon_contaminated
+creosote contaminated soil,soil_hydrocarbon_contaminated
+crude oil-contamination soil,soil_hydrocarbon_contaminated
+crude oil-polluted soil,soil_hydrocarbon_contaminated
+crystal cave (limestone),rock
+csf,host_animal_endotherm_intratissue
+culture contaminant,host_animal_endotherm_intratissue
+cyanobacterial mat,biofilm
+cystic fibrosis patient,host_animal_endotherm
+daechung reservoir,water_fresh
+dairy (evaporated milk),milk
+dead sea sediment,sediment_marine_deep
+deep-sea hydrothermal sulfide chimney,water_marine_hydrothermal
+deep-sea hydrothermal vent chimney,water_marine_hydrothermal
+deep liver,unclassified
+deep sea,water_marine_deep
+deep sea hot vent,water_marine_hydrothermal
+deep subsurface anoxic brine,water_hypersaline
+denitrifying biofilm treating seawater,biofilm
+dental root canal,host_animal_endotherm_oral
+desert,soil_arid
+digesta samples from rumen,host_animal_endotherm_rumen
+ditch mud,sediment_fresh
+"doenjang, fermented soybeans",food_fermented
+dry grass and soil,soil_grassland
+dune grassland,soil_grassland
+ear canal of goat,host_animal_endotherm_surface
+east pacific ridge,sediment_marine_deep
+emmental,food
+emmental cheese,food
+empyema,host_animal_endotherm_nasopharyngeal
+enrichment culture from feces,host_animal_endotherm_feces
+entomopathogenic nematodes,host_animal_ectotherm
+environmental sample,unclassified
+envo:00002006,unclassified
+envo:00002149,unclassified
+erythrocytes,host_animal_endotherm_blood
+exoskeleton of ant,host_animal_ectotherm
+farmland soil,soil_agricultural
+fatal septicemia after dog bite,host_animal_endotherm_blood
+fermented anchovy (engraulis japonica),food_fermented
+fermented food,food_fermented
+fermenting agave juice,food_fermented
+fish,host_animal_ectotherm
+fish ball,food
+flower,host_plant
+food-packaging paperboard,unclassified
+forest soil,soil_forest
+fresh water in rice field,water_fresh
+fresh water lake,water_fresh
+freshwater lake,water_fresh
+freshwater river biome,water_fresh
+freshwater sediment,sediment_fresh
+frying pan springs (thermal spring),water_hotspring
+galega orientalis root nodule,host_plant_rootnodule
+german wadden sea,water_marine
+gingival crevice,host_animal_endotherm_oral
+gingival sulcus,host_animal_endotherm_oral
+"glacial ice, 3519 m depth",unclassified
+granitic rock aquifer at 600 m depth,water_groundwater_deepsubsurface
+great salt lake sediment,sediment_hypersaline
+guts,host_animal_endotherm_intestinal
+hand rail,built_environment_surfaces
+homo sapiens,host_animal_endotherm
+"honeybee, hindgut",host_animal_ectotherm
+horse dung,host_animal_endotherm_feces
+hospital,built_environment_surfaces
+hospital sewage,host_animal_endotherm_feces
+hot spings runoff,water_hotspring
+hot spring water sample,water_hotspring
+human blood,host_animal_endotherm_blood
+human case of meningitis,host_animal_endotherm
+human smegma,host_animal_endotherm
+human urine,host_animal_endotherm
+hunter's hot spring,water_hotspring
+hydrothermal sediments,sediment_marine_hydrothermal
+hydrothermal vent -3000 m,water_marine_hydrothermal
+in vitro substrate,unclassified
+infant's throat,host_animal_endotherm_oral
+infant stool sample,host_animal_endotherm_feces
+inner tissues of medicinal plant,host_plant
+intestinal contents,host_animal_endotherm_intestinal
+intestinal contents of healthy swine,host_animal_endotherm_intestinal
+intestinal tract,host_animal_endotherm_intestinal
+japanese sake,food
+jujube rhizosphere soil,host_plant_root-associated
+kaolin clays,soil_mineral
+karstic limestone,rock
+kyoto,unclassified
+lab culture euplotes raikovi,unclassified
+laboratory contaminant,unclassified
+lake sediment,sediment_fresh
+lake sediments,sediment_fresh
+lake untersee,water_fresh
+leaf,host_plant_leaf-associated
+lettuce,host_plant_leaf-associated
+liaohe oil field,soil_hydrocarbon_contaminated
+"lilium auratum flower, japan",host_plant
+limnetic water,water_fresh
+liver abcess material,host_animal_endotherm_intratissue
+lung,host_animal_endotherm_nasopharyngeal
+lung abscess,host_animal_endotherm_nasopharyngeal
+maize leaf,host_plant_leaf-associated
+marine agar 2216,unclassified
+marine hydrothermal vent,water_marine_hydrothermal
+marine mammal,host_animal_endotherm
+marine mud,sediment_marine
+marine mud; marine mud,sediment_marine
+marine sediment sample,sediment_marine
+marine sponge,host_animal_ectotherm
+marine water,water_marine
+marker113 at caldera of axial seamount,water_marine_hydrothermal
+midgut of urostylis westwoodii,host_animal_ectotherm
+milk,milk
+mixed sand sample,unclassified
+moderate hot spring,water_hotspring
+mongolian soil,soil
+mucus,unclassified
+mud of hot spring spa,water_hotspring
+mud sediment,sediment
+nasopharynx,host_animal_endotherm_nasopharyngeal
+"necropsy lung, liver and kidney tissue",host_animal_endotherm_intratissue
+necrotic lesions in the mouth,host_animal_endotherm_oral
+neutral soil and freshwater,unclassified
+no,unclassified
+north atlantic rise deep-sea sediment,sediment_marine_deep
+obscured,unclassified
+oil-immersed sample,petroleum
+oil contaminated tidal flat,petroleum
+oil field,petroleum
+oil produced water,petroleum
+oil production brine,petroleum
+open ocean,water_marine
+oral,host_animal_endotherm_oral
+oral cavity,host_animal_endotherm_oral
+orchid house soil,soil_agricultural
+organic chicken farm,unclassified
+oropharynx,host_animal_endotherm_oral
+ovary from adult female,host_animal_endotherm_intratissue
+pah contaminated soil,soil_hydrocarbon_contaminated
+palm brown sugar,food
+periapical abscess,host_animal_endotherm_oral
+peridontal pocket,host_animal_endotherm_oral
+periodontal pocket,host_animal_endotherm_oral
+periodontitis lesion,host_animal_endotherm_oral
+peripheral blood,host_animal_endotherm_blood
+peritoneal abscess,host_animal_endotherm
+phaseolus vulgaris root nodule,host_plant_rootnodule
+pickled mackerel sashimi,food
+pig with catarrhal pneumonia,host_animal_endotherm_nasopharyngeal
+pig with exfoliative dermatitis,host_animal_endotherm_surface
+pilsner beer,food
+plant (maize/sorghum/rice),host_plant
+pond water,water_fresh
+pool at botanical garden,water_fresh
+production water from an oil well,petroleum
+pus,host_animal_endotherm
+qaidam basin,unclassified
+rabbit feces,host_animal_endotherm_feces
+rabbit tick,host_animal_ectotherm
+respiratory tract tissue,host_animal_endotherm_nasopharyngeal
+rhizosphere,host_plant_root-associated
+rhizosphere soil,host_plant_root-associated
+rhizospheric soil of grasses,host_plant_root-associated
+rice paddy; rice paddy,soil_agricultural
+rice seeds,host_plant
+river sediment with paper mill waste,sediment_fresh
+riverslea oil field,petroleum
+rock (envo:00001995),rock
+roots,host_plant_rootnodule
+rumen,host_animal_endotherm_rumen
+rumen contents,host_animal_endotherm_rumen
+rumen fluid,host_animal_endotherm_rumen
+rumen of hay-fed sheep,host_animal_endotherm_rumen
+"saeu-jeotgal, salted fermented food",food_fermented
+"salar de atacama, atacama desert",sediment_hypersaline
+salt marsh,sediment_marine
+sand,sediment
+scallop,host_animal_ectotherm
+sea,water_marine
+sea-ice,water_marine_cold
+sea-tidal flat,sediment_marine
+sea water aquarium outflow,water_marine
+seawater collected from a tide pool,water_marine
+seawater from mussel farm,water_marine
+seawater surface,water_marine
+seaweed,host_algae
+sediment of alkaline lake,sediment_fresh_alkaline
+sediment of arctic,sediment_marine_cold
+sediment of freshwater lake,sediment_fresh
+sediment of ink pot hot spring,water_hotspring
+sediment of lake shangmatala,sediment_hypersaline
+semen,host_animal_endotherm
+sewage sludge,sludge
+shallow pond,water_fresh
+short cloud forest soil,soil_forest
+siberian permafrost,soil_organic_permafrost
+sick cider,food
+silkworm feces,host_animal_ectotherm
+silty clay loam soil (ph 6.1),soil
+sink aerator,unclassified
+skin lesion,host_animal_endotherm
+sludge,sludge
+slush of soda lake,sediment_fresh_alkaline
+soda lake lake magadi,water_fresh_alkaline
+soil aquifer system,water_groundwater_surface
+soil cultivated with korean ginseng,soil_agricultural
+soil from wheat roots,host_plant_root-associated
+soil in orchid house,soil_agricultural
+soil near hot water effluent,soil_contaminated
+soil of a rice field,soil_agricultural
+soil of hengshui lake,soil_marshland
+solar lake,water_hypersaline
+solar saltern of 19% salinity,water_hypersaline
+solid waste landfill sample,water_hypersaline
+soy sauce mash,food
+spleen of wild mouse,host_animal_endotherm_intratissue
+spleen tissue from parrot (polytelis),host_animal_endotherm_intratissue
+spring barley rhizosphere,host_plant_root-associated
+spring water (hunter's hot spring),water_hotspring
+stable grass silage,litter
+sterile tools,unclassified
+stomach of wild stranded animal,host_animal_endotherm_intestinal
+stool (adult),host_animal_endotherm_feces
+strawberry leaf tissue,host_plant_leaf-associated
+stream water,water_fresh
+subcutaneous granuloma,host_animal_endotherm_intratissue
+subgingival sulcus,host_animal_endotherm_oral
+sulfuric hot spring,water_hotspring
+superficial sediment of polluted river,sediment_fresh
+surface-sterilized wheat roots,host_plant_root-associated
+surface sediment,sediment
+surface sewater,water_marine
+surface water,water
+surface water of swan lake,water_fresh
+swine waste primary lagoon sediment,sludge
+tar pits,petroleum
+termite gut,host_animal_ectotherm
+termite hindgut,host_animal_ectotherm
+terrestrial hot spring,water_hotspring
+thais luteostoma,host_animal_ectotherm
+the brine of stinky tofu,food
+the wound exudate of bone fracture,host_animal_endotherm_intratissue
+tick,host_animal_ectotherm
+timothy grass silage,litter
+tissue from oliver flounder,host_animal_ectotherm
+tomato field,soil_agricultural
+traditional dairy,food
+traditional pickle,food
+tropical soil,soil
+unialgal culture in lake water,bioreactor/digester
+unialgal culture in marine water,bioreactor/digester
+unknown human clinical source,host_animal_endotherm
+urine,host_animal_endotherm
+uterus,host_animal_endotherm_intratissue
+uterus of a maiden mare,host_animal_endotherm_intratissue
+vaginal environment,host_animal_endotherm_vagina
+warm spring water,water_hotspring
+washed fiber of faecal sample,host_animal_endotherm_feces
+water and sand,sediment
+water from a salt pit,water_hypersaline
+water from surface of lake,water_fresh
+water pipe,water_fresh
+water sample,water
+water sample louisiana bayou,water_brackish
+"water, [envo:00002006]",water
+"water, most likely pond",water_fresh
+whole body,host_animal
+wing,host_animal_endotherm
+withdrawn fluid,unclassified
+wolfram mine tailing,unclassified
+yak milk,milk
+yeongdeuk-gun,unclassified
+zebra chip-infected potato field,soil_agricultural
+70c,unclassified
+"engineered, bioreactor, continuous culture",bioreactor/digester
+"engineered, bioremediation, hydrocarbon",unclassified
+"engineered, built environment, city",built_environment_surfaces
+"engineered, built environment, oil refinery, petroleum sludge, crude oil sludge",petroleum
+"engineered, food production, commensal",food
+"engineered, food production, dairy products, symbiotic, commensal",food
+"engineered, food production, dairy products, symbiotic, mutualistic",food
+"engineered, food production, free living, commensal",food
+"engineered, food production, free living, parasitic",food
+"engineered, lab enrichment, syntrophic",unclassified
+"engineered, lab synthesis, symbiotic",unclassified
+"engineered, lab synthesis, symbiotic, commensal",unclassified
+"engineered, lab synthesis, symbiotic, mutualistic",unclassified
+"engineered, lab synthesis, symbiotic, parasitic",unclassified
+"engineered, laboratory developed, genetically modified, free living",unclassified
+"engineered, solid waste, free living",unclassified
+"engineered, wastewater, anaerobic digestor",bioreactor/digester
+"engineered, wastewater, industrial wastewater, pulp and paper wastewater",wastewater
+"engineered, wastewater, industrial wastewater, pulp and paper wastewater, free living",wastewater
+"engineered, wastewater, nutrient removal, dissolved organics (anaerobic)",wastewater
+"engineered, wastewater, nutrient removal, nitrogen removal, anammox",wastewater
+"engineered, wastewater, symbiotic",wastewater
+"engineered, wastewater, symbiotic, mutualistic",wastewater
+"engineered, wastewater, syntrophic",wastewater
+"environmental, aquatic, freshwater, lentic, limnetic zone",water_fresh
+"environmental, aquatic, freshwater, lotic, sediment, symbiotic",sediment_fresh
+"environmental, aquatic, freshwater, symbiotic",water_fresh
+"environmental, aquatic, freshwater, wetlands, sediment, free living",soil_marshland
+"environmental, aquatic, marine, coastal, sediment, free living",sediment_marine
+"environmental, aquatic, marine, cold seeps, sediment",sediment_marine
+"environmental, aquatic, marine, free living, commensal",water_marine
+"environmental, aquatic, marine, harbor",water_marine
+"environmental, aquatic, marine, hydrothermal vents, symbiotic",water_marine_hydrothermal
+"environmental, aquatic, marine, intertidal zone, coral reef, free living",sediment_marine
+"environmental, aquatic, marine, intertidal zone, mangrove swamp",sediment_marine
+"environmental, aquatic, marine, intertidal zone, mangrove swamp, free living",sediment_marine
+"environmental, aquatic, marine, marginal sea, symbiotic, mutualistic",water_marine
+"environmental, aquatic, marine, neritic zone, oil-contaminated sediment",sediment_marine
+"environmental, aquatic, marine, oceanic, abyssal plane",water_marine_deep
+"environmental, aquatic, marine, oceanic, oil-contaminated sediment, free living",petroleum
+"environmental, aquatic, marine, symbiotic, mutualistic",water_marine
+"environmental, aquatic, marine, symbiotic, parasitic",water_marine
+"environmental, aquatic, marine, wetlands",water_marine
+"environmental, aquatic, marine, wetlands, sediment",sediment_marine
+"environmental, aquatic, non-marine saline and alkaline, alkaline",sediment_fresh_alkaline
+"environmental, aquatic, non-marine saline and alkaline, hypersaline, microbial mats",sediment_fresh_alkaline
+"environmental, aquatic, non-marine saline and alkaline, saline, epilimnion, free living",sediment_fresh_alkaline
+"environmental, aquatic, non-marine saline and alkaline, saline, sediment, free living",sediment_fresh_alkaline
+"environmental, aquatic, non-marine saline and alkaline, saline, thalassic, free living",water_fresh_alkaline
+"environmental, aquatic, sediment, symbiotic",sediment
+"environmental, aquatic, thermal springs, hot (42-90c), acidic, free living",water_hotspring
+"environmental, aquatic, thermal springs, hot (42-90c), alkaline",water_hotspring
+"environmental, aquatic, thermal springs, hot (42-90c), alkaline, free living",water_hotspring
+"environmental, aquatic, thermal springs, hot (42-90c), free living",water_hotspring
+"environmental, aquatic, thermal springs, hot (42-90c), neutral",water_hotspring
+"environmental, aquatic, thermal springs, thermophile",water_hotspring
+"environmental, aquatic, thermal springs, warm (34-42c), neutral",water_hotspring
+"environmental, terrestrial, agricultural field, symbiotic",soil_agricultural
+"environmental, terrestrial, deep subsurface, aquifer",water_groundwater_deepsubsurface
+"environmental, terrestrial, plant litter",soil
+"environmental, terrestrial, rock-dwelling (subaerial biofilms)",rock_surface
+"environmental, terrestrial, soil, 28c",soil
+"environmental, terrestrial, soil, agricultural land, free living, mutualistic",soil_agricultural
+"environmental, terrestrial, soil, agricultural, free living",soil_agricultural
+"environmental, terrestrial, soil, free living, mutualistic",soil
+"environmental, terrestrial, soil, grasslands, free living",soil_grassland
+"environmental, terrestrial, soil, loam, contaminated",soil_contaminated
+"environmental, terrestrial, soil, loam, grasslands",soil_grassland
+"environmental, terrestrial, soil, mine drainage",soil_contaminated
+"environmental, terrestrial, soil, sand, forest soil",soil_forest
+"environmental, terrestrial, soil, sand, free living",soil
+"environmental, terrestrial, volcanic, fumaroles",volcanic_active
+"free-living, endophytic",host_plant_leaf-associated
+"host-associated, algae, diatom, skeletonema costatum, skeletonema costatum ccap 1077/1c",host_algae
+"host-associated, algae, symbiotic, parasitic",host_algae
+"host-associated, amphibia, digestive system",host_animal_ectotherm
+"host-associated, amphibia, excretory system",host_animal_ectotherm
+"host-associated, animal, circulatory system, symbiotic",host_animal_endotherm_blood
+"host-associated, animal, circulatory system, symbiotic, parasitic",host_animal_endotherm_blood
+"host-associated, animal, digestive system, fecal, symbiotic",host_animal_endotherm_intestinal
+"host-associated, animal, digestive system, fecal, symbiotic, commensal",host_animal_endotherm_intestinal
+"host-associated, animal, digestive system, fecal, symbiotic, mutualistic",host_animal_endotherm_intestinal
+"host-associated, animal, digestive system, free living, commensal",host_animal_endotherm_intestinal
+"host-associated, animal, digestive system, free living, mutualistic",host_animal_endotherm_intestinal
+"host-associated, animal, reproductive system, symbiotic, mutualistic",host_animal_endotherm_intratissue
+"host-associated, animal, respiratory system, symbiotic",host_animal_endotherm_nasopharyngeal
+"host-associated, animal, respiratory system, symbiotic, commensal",host_animal_endotherm_nasopharyngeal
+"host-associated, arthropoda, digestive system, gut",host_animal_ectotherm
+"host-associated, arthropoda, intracellular endosymbionts, symbiotic",host_animal_ectotherm
+"host-associated, arthropoda, symbiotic",host_animal_ectotherm
+"host-associated, arthropoda, symbiotic, commensal",host_animal_ectotherm
+"host-associated, birds, circulatory system, blood, symbiotic",host_animal_endotherm_blood
+"host-associated, birds, digestive system, fecal, free living",host_animal_endotherm_intestinal
+"host-associated, birds, reproductive system, free living",host_animal_endotherm
+"host-associated, birds, symbiotic, mutualistic",host_animal_endotherm
+"host-associated, fish, circulatory system, blood",host_animal_ectotherm
+"host-associated, fish, digestive system, intestine",host_animal_ectotherm
+"host-associated, fish, reproductive system, free living",host_animal_ectotherm
+"host-associated, fish, symbiotic",host_animal_ectotherm
+"host-associated, free living, commensal",host
+"host-associated, fungi, lichen",host_fungus
+"host-associated, fungi, symbiotic, commensal",host_fungus
+"host-associated, fungi, symbiotic, syntrophic",host_fungus
+"host-associated, human, circulatory system, blood, plasma",host_animal_endotherm_blood
+"host-associated, human, circulatory system, blood, serum",host_animal_endotherm_blood
+"host-associated, human, digestive system, free living, commensal",host_animal_endotherm_intestinal
+"host-associated, human, digestive system, large intestine, fecal, free living, mutualistic",host_animal_endotherm_intestinal
+"host-associated, human, digestive system, large intestine, fecal, symbiotic",host_animal_endotherm_intestinal
+"host-associated, human, digestive system, oral, periodontal pockets",host_animal_endotherm_oral
+"host-associated, human, digestive system, oral, periodontal pockets, free living",host_animal_endotherm_oral
+"host-associated, human, digestive system, oral, symbiotic",host_animal_endotherm_oral
+"host-associated, human, digestive system, oral, symbiotic, commensal",host_animal_endotherm_oral
+"host-associated, human, digestive system, oral, throat, free living",host_animal_endotherm_oral
+"host-associated, human, digestive system, symbiotic, commensal",host_animal_endotherm_intestinal
+"host-associated, human, excretory system, free living",host_animal_endotherm
+"host-associated, human, lympathic system, lymph nodes, free living",host_animal_endotherm_intratissue
+"host-associated, human, milk, free living",milk
+"host-associated, human, nervous system, free living",host_animal_endotherm_intratissue
+"host-associated, human, reproductive system, symbiotic, parasitic",host_animal_endotherm
+"host-associated, human, respiratory system, nasopharyngeal, pharynx",host_animal_endotherm_nasopharyngeal
+"host-associated, human, skin, commensal",host_animal_endotherm_surface
+"host-associated, human, symbiotic, commensal",host_animal_endotherm
+"host-associated, human, symbiotic, mutualistic",host_animal_endotherm
+"host-associated, insecta, digestive system, free living, commensal",host_animal_ectotherm
+"host-associated, insecta, symbiotic, syntrophic",host_animal_ectotherm
+"host-associated, invertebrates, nematoda, free living, mutualistic",host_animal_ectotherm
+"host-associated, mammals, circulatory system, free living",host_animal_endotherm_blood
+"host-associated, mammals, commensal",host_animal_endotherm
+"host-associated, mammals, digestive system, commensal",host_animal_endotherm_intestinal
+"host-associated, mammals, digestive system, large intestine, fecal, symbiotic, commensal",host_animal_endotherm_intestinal
+"host-associated, mammals, digestive system, stomach, rumen, free living",host_animal_endotherm_rumen
+"host-associated, mammals, digestive system, symbiotic",host_animal_endotherm_intestinal
+"host-associated, mammals, digestive system, symbiotic, parasitic",host_animal_endotherm_intestinal
+"host-associated, mammals, gastrointestinal tract, intestine, fecal",host_animal_endotherm_intestinal
+"host-associated, mammals, reproductive system, symbiotic",host_animal_endotherm
+"host-associated, mammals, reproductive system, symbiotic, parasitic",host_animal_endotherm
+"host-associated, mammals, respiratory system, commensal",host_animal_endotherm_nasopharyngeal
+"host-associated, mammals, respiratory system, nasopharyngeal, nasal cavity, free living",host_animal_endotherm_nasopharyngeal
+"host-associated, mollusca, digestive system, glands",host_animal_ectotherm
+"host-associated, mollusca, digestive system, symbiotic",host_animal_ectotherm
+"host-associated, mollusca, respiratory system, gills, symbiotic",host_animal_ectotherm
+"host-associated, mollusca, symbiotic, commensal",host_animal_ectotherm
+"host-associated, mollusca, symbiotic, mutualistic",host_animal_ectotherm
+"host-associated, mollusca, symbiotic, parasitic",host_animal_ectotherm
+"host-associated, plants, leaf, free living",host_plant_leaf-associated
+"host-associated, plants, mutualistic",host_plant
+"host-associated, plants, phylloplane, symbiotic",host_plant_leaf-associated
+"host-associated, plants, rhizome, symbiotic",host_plant_root-associated
+"host-associated, plants, rhizoplane, free-living, endophytic",host_plant_root-associated
+"host-associated, plants, rhizoplane, free living, commensal",host_plant_root-associated
+"host-associated, plants, rhizoplane, free living, syntrophic",host_plant_root-associated
+"host-associated, plants, rhizosphere, free living",host_plant_root-associated
+"host-associated, protists, free living",host_animal_ectotherm
+"host-associated, protozoa, free living",host_animal_ectotherm
+"host-associated, protozoa, symbiotic, parasitic",host_animal_ectotherm
+"host-associated, symbiotic, commensal",host
+"host-associated, symbiotic, syntrophic",host
+peltigera membranacea cyanobiont,host_fungus
+"Sediment cores collected in Aarhus Bay, a semi-enclosed embayment on the east coast of Jutland, Denmark (56° 09' N, 10° 19' E)",sediment_marine
+Sediment samples collected from four Egyptian lakes of the Wadi el Natrun.,sediment_fresh_alkaline
+"Sample isolated from a sample of 2.0 m deep Holocene permafrost sediments, Kolyma lowland, Russia (70°06’N, 154° 04’E).",soil_organic_permafrost
+Sample isolated from an anaerobic digester for the treatment of beer-manufacture wastewater.,bioreactor/digester
+"Native unpolluted groundwater samples from the Floridan Aquifer near West Palm Beach, Florida (USA).",water_groundwater
+Sample from anaerobic digestor treating raw cassava peel.,bioreactor/digester
+"Sample from the anoxic zone of the primary sludge of the E. B. Eddy Forest Products Ltd. (Espanola, Ontario, Canada) bleach kraft mill.",sludge
+Sample from the interior surface of a pipe transporting natural gas- containing brine in the southern Kanto gas field in Japan.,petroleum
+"Sediment samples collected from Gahai lake, Qaidam Basin.",sediment_hypersaline
+"Sample obtained from a domestic sewage sludge digestor in Urbana, Ilinois.",sludge
+Sample from rock core.,rock
+"Sample from a rice field plot at Kanagi Farm of the Teaching and Research Center for Bio-coexistence, University Farm, Faculty of Agriculture and Life Science, Hirosaki University.",soil_agricultural
+"Sample isolated from the profundal sediment of the meromictic Lake Pavin, France.",sediment_fresh
+"Sediment samples collected from Tuosu lake, Qaidam Basin.",sediment_fresh_alkaline
+"Sample of sediment of the subsurface lake from Movile Cave, near the city of Mangalia, Romania.",sediment_fresh
+"Sample from a rice field soil in the Philippines (Pila area, Luzon Province).",soil_agricultural
+"Sample isolated from marshland of the Sippenauer Moor, Germany (48°53' N 11°57' E).",soil_marshland
+Sample from sludge deposited in a crude oil storage tank in Japan.,petroleum
+"Sample of granitic rock groundwater from the Äspö hard rock laboratory tunnel, South-Eastern Sweden (depths 68 m, 409 m and 420 m).",water_groundwater_deepsubsurface
+Sample of cattle pasture mud.,soil_agricultural
+Sample of a marshy soil.,soil_marshland
+"Samples selected from deep (28 m beneath surface) late Pliocene permafrost 26 (Kolyma lowland, 70°06’N, 154° 04’E).",soil_organic_permafrost
+Laboratory anaerobic reactor treating distilary wastewater seeded with sludge from filed digester.,bioreactor/digester
+"Samples of a wetwood cores from Wisconsin, and western cottonwood trees located on the banks of Cottonwood Creek in Grand Teton National Park in Wyoming.",host_plant_vasculature
+"Sample from rumen of the Korean native cattle (HanWoo,  Bos taurus coreanae) in South Korea.",host_animal_endotherm_rumen
+Hindgut contents of the termite Reticulitermes flavipes.,host_animal_ectotherm
+Hindgut contents of the termite Reticulitermes flavipes (Kollar) (Rhinotermitidae).,host_animal_ectotherm
+Hindgut contents of the termite Reticulitermes flavipes.,host_animal_ectotherm
+Sample of horse feaces.,host_animal_endotherm_feces
+Sample of bowine rumen contents.,host_animal_endotherm_rumen
+Sample of sheep rumen contents.,host_animal_endotherm_rumen
+Subgingival samples from ten healthy volontiers (Italy).,host_animal_endotherm_oral
+Sample from bovine rumen.,host_animal_endotherm_rumen
+Sample of primary sewage digester (USA).,bioreactor/digester
+Sample of cow feaces.,host_animal_endotherm_feces
+Sample of goose feaces.,host_animal_endotherm_feces
+Sample of sheep feaces.,host_animal_endotherm_feces
+"Samples from an estuary in Eriln Shi, near Wang-gong, Taiwan.",sediment_marine
+Sample collected from the well-head of the Scheibenhardt NDL 103 oilfield in Alsace (France).,petroleum
+"Samples taken from bottom sediments of Tanatar soda lakes (Altai, Russia) and from the collectors in the vicinity of these lakes.",sediment_fresh_alkaline
+"Leachate samples taken from pipes (25 cm in diameter), used for monitoring sinkage and water quality, at the Osaka North Port Sea-Based Solid-Waste-Disposal Site in Japan.",unclassified
+"Samples from water of an estuary in Eriln Shi near Wong-Kong, Taiwan.",sediment_marine
+"Samples from deep-sea hydrothermal vent core sample from Guaymas Basin, Gulf of California, at a depth of 2003 m.",sediment_marine_hydrothermal
+"Chimney sample collected in April 2001 at the Kairei vent field on the Central Indian Ridge (25°19' S, 70°02' E) at a depth of 2420 m.",sediment_marine_hydrothermal
+"Chimney sample collected from the Logatchev hydrothermal field (14° 45' N, 44° 59' W) on the Mid-Atlantic Ridge at a depth of 3000 m.",sediment_marine_hydrothermal
+"Hydrothermal vent effluent waters and sedimentary material adjacent to vents were collected in April and May, 1982 from the East Pacific Rise at 20° 50' N latitude and 109° 06' W longitude at a depth of 2600 m.",sediment_marine_hydrothermal
+"Samples from the Kolbeinsey Ridge (Fricke et al., 1989), north of Iceland (67° 05' N,  18° 42' W), by the research submersible Jago at a depth of 105 m.",sediment_marine_hydrothermal
+"Samples from chimney from the hydrothermal field (12°48' N, 103°56' W), on the East Pacific Rise at a depth of 2600 m.",sediment_marine_hydrothermal
+Sample from a rice field soil in Italy.,soil_agricultural
+Chinese rice field soil.,soil_agricultural
+"Sample isolated from a rice paddy soil at Nagaoka, Niigata, Japan.",soil_agricultural
+"Sample from permanently cold, anoxic marine sediments at Skan Bay, Alaska.",sediment_marine_cold
+"Sample from the anoxic hypolimnion of Ace Lake, Antarctica.",water_groundwater_surface
+"Sediment (0 to 60 cm) obtained by a diver assisted with SCUBA at a depth of 65 feet (ca. 19.8 m) from the Sumner branch of Scripps Canyon located near La Jolla, California.",sediment_marine
+Samples from deep sediment covered by an orange microbial mat collected from the Napoli Mud Volcano.,biofilm_marine
+Sample of sediment taken from the Nankai Trough near the coast of Japan.,sediment_marine
+"Grab samples of sediment (top 10 cm) from the tall Spartina alterniflora region of Pawley's Island salt marsh, South Carolina.",sediment_brackish
+Sample of a black mud from the east shore of San Francisco Bay.,sediment_brackish
+A sediment sample obtained near the mouth of the Waccasassa estuary in western Florida.,sediment_brackish
+"Sample from a sewage sludge digestor at Bourg en Bresse, France.",sludge
+Sample of anaerobic sediment of a wastewater treatment pond of the sugar factory in Regensburg (FRG).,wastewater
+"Sample collected from an active, gas-producing area of Tar Pit Lake at the LaBrea Tar Pits in Los Angeles, California.",petroleum
+"Sample from an anaerobic sour whey digester, originally inoculated with sewage sludge.",bioreactor/digester
+"Sample of the effluent of a fixed-bed pilot fermentation plant for anaerobic treatment of distillery wastes, operated at the Biogas Research and Training Centre of Asia and the Pacific in Chengdu, Sichuan, China.",bioreactor/digester
+"Samples from a digestor fermenting tannery by-products which was originally inoculated with digested sewage sludge from Bourg, or Bourg-en- Bresse, France.",bioreactor/digester
+"Paddy field plot (Gray Lowland Soil) with long- term application of rice straw compost at the Kyushu National Agricultural Experiment Station, Chikugo, Fukuoka, Japan.",soil_agricultural
+"The groundwater sample collected from the Wakkanai formation, a Miocene diatomaceous shale in northernmost Japan.",water_groundwater
+"Sample from the Zoige wetland, China.",sediment_brackish
+"Sediment collected at station 1355 on R. V, Chain cruise 120/1 in the Black Sea.",sediment_marine
+"Sample from a biogas reactor of a palm oil plant on North-Sumatra (Indonesia), which was operated at 55 °C.",bioreactor/digester
+Sample of oil production water from Block L801 of Shengli oil field in China.,petroleum
+It was isolated from sediments collected by Ocean Researcher I cruise ORI-934 in 2010 near the submarine mud volcano MV4 located at the upper slope of south-west Taiwan.,sediment_marine
+"Sample from a core (BH-1) from a depth of 247 m below the sediment surface, Nankai Trough (water depth 950 m).",sediment_marine_deepsubsurface
+"Sediment underlying the high-temperature effluent channel of the Crystal River Nuclear Power Plant, Florida Power Company, Crystal River, Florida.",sediment_fresh
+"Water sample from marine aquaculture fish pond near Wong-gong, Taiwan.",sediment_marine
+"Sample from lotus field mud at Nagaoka, Niigata, Japan.",soil_agricultural
+"Sample from a marine water aquaculture fish pond near Wang-gong, Taiwan.",sediment_marine
+"Sample of anaerobically treated waste water, obtained from a Biohochreaktor of Hoechst company (Kelsterbach, Frankfurt/ Main, FRG).",wastewater
+Mud samples from a small (Atacama desert in Northern Chile close to the oasis of San Petro di Atacama on Mount Tatio at an altitude of 4750 m).,unclassified
+"Sample of sediments of Skan Bay (depth 65 m), Alaska (53°N, 167°W).",sediment_marine
+Sediment collected at station 2030 on R. V. Atlantis II cruise 79 in the Cariaco Trench.,sediment_marine_deep
+"Sample of sediment from Ace Lake (68°24' S, 78°11' E)  in the Vestfold Hills of Antarctica.",sediment_fresh_cold
+"Sample of sediments of Skan Bay, Alaska (53°N, 167°W).",sediment_marine
+Sediment sample from a deep sea hydrothermal area (-2003 Im) at Guaymas Basin (Baja California).,sediment_marine_hydrothermal
+Sample of sediments of saline lagoons in Sivash.,sediment_hypersaline
+"Mineralized stratal waters of oil deposits (Tataria, Russia).",petroleum
+Sample from marine cyanobacterial mat.,biofilm_marine
+"Sample from natural gas-bearing confined aquifers recharged by paleo-seawater in the Minami-Kanto gas field, Japan.",petroleum
+Sample from the sediments of Great Salt Lake in Utah (thermal lake).,sediment_hypersaline
+"Sample of sediments from a salinarium in Figiera da Foz, Portugal.",sediment_hypersaline
+"Sediments cores taken along the edges of the mosquito control canals within mangrove swamps located southeast of Georgetown, Grand Cayman, British West Indies.",sediment_marine
+"Sample from rice field soil in Tainan, Taiwan.",soil_agricultural
+"Sample from a mesophilic, methanogenic sludge digesting sewage sludge.",sludge
+"Sample isolated from Arabian Sea sediments obtained near Bombay, India.",sediment_marine
+"Sample from a slurry of subsurface solids from a saline, alkaline aquifer (West Alkali Lake, south central Oregon).",sediment_hypersaline
+"Sample from deep subsurface sediments from a natural gas field filled with ancient seawater (Mobara, Japan).",petroleum
+no data,unclassified
+Smple of estuarine sediments from San Francisco Bay.,sediment_marine
+"A marine, mesophilic.",unclassified
+"Sample of sea sediments near Vulcano Island, Italy.",sediment_marine
+"Water sample from coal seam near Monroe, Los Angeles, USA.",petroleum
+"Sample of human faeces collected in Marseille, France.",host_animal_endotherm_feces
+"Sample of eutrophic pond sediment (Campus of Dek- kerswald Institute, Nijmegen, The Netherlands).",sediment_fresh
+Sample of a sludge from thermophilic laboratory-scale upflow anaerobic sludge blanket reactor fed with methanol.,sludge
+Sample of sediments from Upo wetland sediment in the Republic of Korea.,soil_marshland
+Sample of bovine rumen fluid.,host_animal_endotherm_rumen
+"Sample isolated from Periplaneta americana var. Amsterdam, which was caught in Artis Zoo (Amsterdam, The Netherlands).",host_animal_ectotherm
+Endosymbionts in the marine ciliate Metopus contortus Quennerstedt.,host_animal_ectotherm
+Sample of swamp drilling waste in Italy.,soil_marshland
+"Sample collected from the well-head of an offshore oil field of the Gult of Guinea, West Africa.",petroleum
+"Samples from a hydrothermally heated deep sea sediment (Guaymas Basin, Gulf of California) and from a shallow marine hydrothermal system (Kolbeinsey ridge, Iceland).",sediment_marine_hydrothermal
+"Sample from McLean bog, an acidic (pH 4.0–4.5) and ombrotrophic (rain-fed) site near Ithaca, NY, USA (42° 30' N, 76° 30' W).",soil_organic_peaty
+"Sample from a mesophilic, granular sludge in a UASB reactor used to treat a beer brewery effluent (Japan).",sludge
+Sample from pear waste fermentor inoculated with anaerobic sludge from the Regional Municipality of Ottawa-Carleton sewage treatment facility.,sludge
+"Samples from mesophilic UASB anaerobic digester treating beer-manufacture wastewater (Beijing, China).",wastewater
+"Sample from a tidal flat sediment in Tokyo Bay, Chiba Prefecture, Japan.",sediment_marine
+Sample from a thermophilic anaerobic digestor.,bioreactor/digester
+"Sample from alkaline, saline sediments from Bosa Lake in the Wadi el Natrun, Egyp.",sediment_fresh_alkaline
+"Sample of marine sediments from the Sumner branch of Scripps Canyon located near La Jolla, California.",sediment_marine
+Sample from the anoxic surface layer of the sediment at a depth of 241 m in the Gotland Deep of the Baltic Sea.,sediment_marine_deep
+Sample from anaerobic sewage digester.,bioreactor/digester
+Sample of a groundwater from the Wakkanai Formation.,water_groundwater
+Sample from from anoxic lake sediments (Switzerland).,sediment_fresh
+Sample from sewage sludge plant.,sludge
+"Sample of  sediments obtained from the mangrove forest at Monti creek, Dar es Salaam, Tanzania (Indian Ocean).",sediment_marine
+Sample of water collected from an offshore production platform receiving liquid and gas from oil well HI350 at High Island in the Gulf of Mexico.,petroleum
+"Samples of a permafrost-affected soil on Samoylov Island, Lena Delta, Siberia.",soil_organic_permafrost
+"Microorganism was isolated from a floating biofilm on a sulphurous subsurface lake in Movile Cave (Mangalia, Romania)",biofilm_fresh
+"Sample from labortory anaerobic sludge digestor (55°C) inoculated with sludge from thermophilic digestor operated at Hyperion sewage treatment plant, El Segundo, California.",bioreactor/digester
+Sludge sample from mesophilic anaerobic digestor in Moscow.,bioreactor/digester
+"Samples from rabbit caeca, colons, or rectums, animals were hybrids of a New Zealand White female rabbit and a California male rabbit.",host_animal_endotherm_feces
+Sample of human feces.,host_animal_endotherm_feces
+"Sample from minerotrophic fen peatland, Michigan Hollow (New York State (42°21' N, 76°28' W)).",soil_organic_peaty
+Sample of sewage sludge.,sludge
+"Soil sample collected from a puddle at Kisarazu, Chiba, Japan.",water_groundwater_surface
+"Soil from Madoi wetland at Qinghai-Tibetan plateau, China.",soil_marshland
+"Sample of granulated biomass of a two-stage low-temperature (3–8 °C) anaerobic expanded granular sludge bed (EGSB) bioreactor, fed with a mixture of volatile fatty acids (VFAs) (acetate, propionate and butyrate).",bioreactor/digester
+Sample of production water of oil reservoirs was collected from the Shengli oil fiel.,petroleum
+Sludge samples from the anaerobic digestor sludge operating on waste waters containing methacrylates.,bioreactor/digester
+Sample of mesophilic sewage sludge.,sludge
+"Sample from gas-associated formation water of a gas-producing well in a natural gas field at Niigata, Japan.",petroleum
+"Sample from fermenting sludge obtained from the sewage treatment plant of the city of Urbana, Illinois.",sludge
+Sludge samples from the anaerobic digestor sludge operating on waste waters containing methacrylates.,sludge
+Sample from thermophilic methane tank (USSR).,bioreactor/digester
+Sample of a a mixture of sewage sludge and river sediment.,sludge
+"Sample from a deep-sea hydrothermal vent chimney obtained from the hydrothermal field at Iheya Ridge in the Okinawa Trough, Japan (27° 47.220' N, 126° 53.900' E) at a depth of 972 m.",sediment_marine_hydrothermal
+"Sample from the sandy geothermally heated sea floor of the beach at Stufe di Nerone close to Naples (italy), about 3 m away from the shore in about 0.5 m depth.",sediment_marine_hydrothermal
+Samples from Icelandic volcanic spring and mud holes with temperatures around 100 °C.,volcanic_active
+Sample from solfatara fields in Iceland.,volcanic_active
+Sample from a black smoker chimney at the Kairei field in the Central Indian Ridge.,sediment_marine_hydrothermal
+"Sample from a shallow (depth: 106 m) submarine vent system at the Kolbeinsey ridge, Iceland.",sediment_marine_hydrothermal
+"Sample of oil-production water of Shengli oilfield, China.",petroleum
+"Sample from anaerobic fed with maize silage, cattle manure and dry pultry faeces",bioreactor/digester
+"nasal cavity, nares",host_animal
+multiple,unclassified
+hostassociated,host
+nares,host_animal
+terrestrial,soil
+wound,host_animal_endotherm_intratissue
+"terrestrial, soil",soil
+specialized,unclassified
+"aquatic, basaltic crustal fluids",sediment_marine_deepsubsurface
+"hostassociated, blood",host_animal_endotherm_blood
+"host-associated, gastrointestinal tract",host_animal_endotherm_intestinal
+"terrestrial, hospital shower hose biofilm",biofilm_fresh
+"aquatic, brackish water collected from the surface of the baltic sea",water_brackish
+disease case,host
+food,food
+stool sample,host_animal
+"hostassociated, human skin",host_animal_endotherm_surface
+"specialized, pool of bioreactors cstr01a, cstr02a, and cstr03a; thermophilic anaerobic digestion of cattle manure in continuous reactors for biogas production (methane)",bioreactor/digester
+"hostassociated, liver",host_animal
+unknown,unclassified
+"aquatic, dual media filters at the ann arbor, michigan drinking water treatment plant",water_fresh
+gastrointestinal tract,host_animal
+"aquatic, sulfate-methane transisition zone estuary sediments 16-26 cm",sediment_marine
+"terrestrial, ammonia-oxidizing enrichment culture",unclassified
+host associated,host
+host,host
+"aquatic, sulfate-rich zone estuary sediments 8-12 cm",sediment_marine
+catheter tip,host
+nasal swab,host_animal_endotherm_nasopharyngeal
+"hostassociated, human cerebrospinal fluid",host_animal_endotherm
+"multiple, blood",host_animal_endotherm_blood
+tuberculosis patient,host_animal_endotherm
+"food, fresh water, host, soil",unclassified
+isolated from diarrheal patient,host_animal_endotherm_intestinal
+"multiple, food",food
+"multiple, human",host_animal_endotherm
+animal-chicken,host_animal_endotherm
+"aquatic, freshwater",water_fresh
+"aquatic, methane-rich estuary sediments 52-54 cm",sediment_brackish
+"aquatic, ng05 hot spring, norris geyser basin",water_hotspring
+"multiple, soil",soil
+urogenital tract; vaginal,host_animal_endotherm_vagina
+clinical isolate,host
+"hostassociated, feces",host_animal
+"aquatic, freshwater lake",water_fresh
+"aquatic, seawater",water_marine
+bronchial alveolar lavage,host_animal_endotherm_nasopharyngeal
+bronchial washings,host_animal_endotherm_nasopharyngeal
+cerebrospinal fluid,host_animal
+"multiple, feces",host_animal
+"terrestrial, opalinus clay rock porewater brc-3 borehole",rock
+"soil, soil",soil
+"host-associated, gastrointestinal tract, human feces",host_animal_endotherm_intestinal
+"multiple, wheat beer",bioreactor/digester
+"oral cavity, oral cavity",host_animal
+"hostassociated, autopsy",host_animal
+"hostassociated, the original lyme-disease tick isolate derived",host_animal_ectotherm
+"aquatic, gg12 hot spring, gibbon geyser basin",water_hotspring
+"hostassociated, nymphal deer tick, ixodes scapularis,",host_animal_ectotherm
+"hostassociated, the blood of a song sparrow during a study evaluating the presence of borrelia",host_animal_endotherm_blood
+"hostassociated, the sputum of an individual with cystic fibrosis",host_animal_endotherm_oral
+host; plant root; root nodule; soil,host_plant_rootnodule
+"host-associated, gastrointestinal tract, the human gastrointestinal tract",host_animal_endotherm_intestinal
+"host-associated, oral",host_animal
+human,host_animal_endotherm
+"aquatic, endorheic salt-lake",water_hypersaline
+excreted bodily substance; urine,host_animal
+drainage,unclassified
+"host associated, feces (healthy adult)",host_animal_endotherm_intestinal
+"hostassociated, skin",host_animal_endotherm_surface
+"host-associated, urogenital tract; vaginal",host_animal_endotherm_vagina
+isolated from patient,host_animal
+diarrhea,host_animal_endotherm_intestinal
+"hostassociated, 2-year-old girl with tick-borne relapsing fever",host_animal_endotherm
+"hostassociated, adult deer tick, ixodes dammini,",host_animal_ectotherm
+"hostassociated, subgingival dental plaque",host_animal_endotherm_oral
+"hostassociated, western blackleg tick, ixodes pacificus,",host_animal_ectotherm
+"multiple, cattle hide",host_animal_endotherm_surface
+"hostassociated, dental plaque",host_animal_endotherm_oral
+insect larvae,host_animal_ectotherm
+"multiple, gastrointestinal tract",host_animal
+"multiple, illumina reads and contains 2 complete chromosomes, 3 complete plasmids and 2 incomplete plasmids that share long perfect overlaps, so are present as 6 contigs",unclassified
+raw milk,milk
+"hostassociated, animal facilities of max-planck-institute for evolutionary biology",host_animal
+"hostassociated, laboratory strain",host
+"hostassociated, urine",host_animal
+"multiple, poultry farm",host_animal
+post surgical secretion,host_animal
+"rhizosphere and endosphere, single cell isolate",host_plant_root-associated
+single cell isolate,unclassified
+sugarcane,host_plant
+"unknown, chicken feces",host_animal_endotherm_intestinal
+"aquatic, marine sediment",sediment_marine
+"hostassociated, efb infected honey bee larva",host_animal_ectotherm
+"hostassociated, sputum",host_animal_endotherm_oral
+"multiple, the nasopharynx of a child",host_animal_endotherm_nasopharyngeal
+"multiple, tick",host_animal_ectotherm
+sewage,wastewater
+"aquatic, water",water
+"aquatic, water from hydrothermal vent",water_marine_hydrothermal
+"host-associated, airways; upper respiratory tract",host_animal_endotherm_nasopharyngeal
+"hostassociated, gut",host_animal
+"hostassociated, the spirochete isolate ca-11-90",host_animal
+"hostassociated, tissue sample",host_animal
+human clinical,host_animal_endotherm
+milk from an udder,milk
+"specialized, hot spring",water_hotspring
+"aquatic, accessory nidamental gland",host_animal_ectotherm
+"aquatic, aquatic, environmental habitats to investigate the genetic divergence of enterococcus faecalis from non-clinical sources",water
+"aquatic, rice field",water_fresh
+clinical,host_animal
+"hostassociated, both invasive disease and healthy carriers,",host_animal
+"hostassociated, homogenate",host_animal
+"hostassociated, human stool",host_animal
+"hostassociated, kidney",host_animal
+"hostassociated, spleen, lymph nodes",host_animal
+"multiple, patient",host_animal_endotherm
+"multiple, roots",host_plant_root-associated
+"skin, skin",host_animal
+surgical wound,host_animal_endotherm_intratissue
+"unknown, activated sludge of a wastewater treatment facility",sludge
+"unknown, chicken meat",host_animal
+"aquatic, algae from the coast of the palau islands",unclassified
+"aquatic, hot spring",water_hotspring
+"aquatic, rice fields",water_fresh
+fluid,water
+"hostassociated, chicken offal or meat",host_animal
+"host-associated, clinical isolate",host_animal
+"hostassociated, muscle",host_animal
+"host-associated, skin, skin",host_animal
+human clinical sample,host_animal_endotherm
+liver,host_animal
+"multiple, fermented dairy product",food_fermented
+"multiple, fermented fish",food_fermented
+"multiple, outbreak",unclassified
+tissue,host_animal
+animal - chicken,host_animal_endotherm
+"aquatic, filtered surface water from laketyrrell",water_hypersaline
+"aquatic, sediment",sediment
+"aquatic, sediment sample collected at the water-sediment interface from the south pacific gyre, iodp site u1369",sediment_marine_deep
+"aquatic, the baltic sea",water_marine
+"hostassociated, endo-cervical swab",host_animal_endotherm_vagina
+"hostassociated, pig",host_animal_endotherm
+"hostassociated, pus",host_animal
+"host-associated, urogenital tract",host_animal
+"multiple, animal meat",food
+"multiple, clinical isolate",host_animal
+"multiple, coal mine lake sediment",water_fresh
+"multiple, laboratory water bath",water_fresh
+"multiple, root nodules",host_plant_rootnodule
+oyster,host_animal_ectotherm
+pleural fluid,host_animal
+stool sample of individual with bacteremia,host_animal_endotherm_intestinal
+"unknown, laboratory contaminant",unclassified
+wild caught drosophila melanogaster hemolymph,host_animal_ectotherm
+"aquatic, sea water",water_marine
+"aquatic, the dead sea",water_hypersaline
+bovine,host_animal_endotherm
+dust,unclassified
+"host associated, gastrointestinal",host_animal
+"host-associated, case of typhoid fever",host_animal_endotherm
+"hostassociated, leaf",host_plant_leaf-associated
+"hostassociated, leaf nodules",host_plant_leaf-associated
+"hostassociated, lung",host_animal
+"hostassociated, ornithodoros turicata",host_animal_ectotherm
+"host-associated, patient",host_animal_endotherm
+"hostassociated, scallop",host_animal_ectotherm
+"hostassociated, stool",host_animal
+"hostassociated, throat",host_animal
+"hostassociated, yogurt",food
+microbial mats,biofilm
+"multiple, activated sludge",sludge
+"multiple, kimoto",unclassified
+"multiple, water",water
+pasteurized milk,milk
+"terrestrial, hanford 300 area ifrc 399-1-60 groundwater",water_groundwater
+"terrestrial, rice",unclassified
+abscess,host_animal_endotherm_intratissue
+"aquatic, onshore, marine mud flat sample derived from fish pens on maguyes island, la parguera, puerto rico",sediment_marine_organic
+"aquatic, shallow subsurface groundwater",water_groundwater_surface
+"aquatic, single cell amplified by mda; atlantisii deep red sea brine-seawater interface",water_hypersaline
+"aquatic, water column of the freshwater reservoir embalse de amadorio in spain",water_fresh
+"aquatic, water, most likely pond",water_fresh
+"bronchi, bronchoscopy",host_animal
+"host associated, blood",host_animal
+"hostassociated, adult patient with louse-borne relapsing fever",host_animal_endotherm
+"hostassociated, exudate from ulcer",host_animal
+"hostassociated, foregut; single cell amplified by mda",host_animal
+"hostassociated, gastrointestinal tract",host_animal
+"hostassociated, healthy weaning piglets",host_animal_endotherm
+"hostassociated, single cell from gut of western honeybee",host_animal_ectotherm
+"hostassociated, spleen",host_animal
+"hostassociated, the puffin (fratercula arctica) blood from the faeroe islands",host_animal_endotherm_blood
+isolated from haemaphysalis hystricis,host_animal_ectotherm
+kidney,host_animal
+pheasant duodenum,host_animal_endotherm_intestinal
+propagated starter culture used in cheese manufacturing; cheese starter,bioreactor/digester
+"shrimp jeotgal, a traditional korean fermented seafood",food_fermented
+the bloodstream of a patient,host_animal_endotherm_blood
+"unknown, palm brown sugar",unclassified
+"unknown, turkey meat",unclassified
+"animal, carcass of dead zebra",host_animal_endotherm
+"aquatic, brown trout with furunculosis",host_animal_ectotherm
+"aquatic, filtered seawater (<1um filter)",water_marine
+"aquatic, fresh water in rice field",water_fresh
+"aquatic, methanogenic consortium capable of long-chain paraffin degradation (sdb culture) enriched from contaminated sediments of san diego bay, california; degrades n-alkanes from c25 to c50",sediment_marine_contaminated
+"aquatic, microbial mat located in an alkaline silicious hot spring, mushroom spring, in the lower geyser basin",unclassified
+"aquatic, surface water",water
+bronchial secretions,host_animal
+caecum,host_animal
+feces from healthy adult,host_animal_endotherm_intestinal
+gulf of mexico,water_marine
+"host, human airways, nve",host_animal_endotherm_nasopharyngeal
+"host-associated, blood",host_animal
+"hostassociated, chicken",host_animal_endotherm
+"hostassociated, epidemic",host
+"hostassociated, foregut",host_animal
+"hostassociated, human_physical",host_animal_endotherm
+"hostassociated, ileostomy effluent evening sample obtained from a 79 year-old male ileostomist plated on mitis-salivarius agar",host_animal_endotherm_intestinal
+"hostassociated, ocular swab",host_animal
+"host-associated, pea aphid, acyrthosiphon pisum",host_animal_ectotherm
+"hostassociated, udder",host_animal_endotherm
+"hostassociated, wound",host_animal
+"marine, hot station aloha, north pacific sub-tropical gyre",water_marine
+"multiple, copper-contaminated sediment from a lake",sediment_fresh_contaminated
+"multiple, fermenting agave juice",bioreactor/digester
+"multiple, gastrointestinal tract, human feces",host_animal_endotherm_intestinal
+"multiple, horse",host_animal_endotherm
+"multiple, hydrocarbon contaminated soil",soil_hydrocarbon_contaminated
+"multiple, patient with severe clostridium difficile associated disease",host_animal_endotherm
+"multiple, symbiotic association with the gymnosperm cycad macrozamia sp",host_plant
+"multiple, wheat rhizosphere",host_plant_root-associated
+osteomyelitis,host_animal
+peritoneal fluid,host_animal
+"specialized, solar salterns",water_hypersaline
+"terrestrial, agricultural field",soil
+"terrestrial, nodule",unclassified
+"terrestrial, opalinus clay rock",rock
+"terrestrial, swab of a dead zebra carcass",unclassified
+"unknown, cecal content",host_animal
+"unknown, human stool",host_animal_endotherm_feces
+"unknown, ragi",food
+"urogenital tract; vaginal, the human vaginal cavity",host_animal_endotherm_vagina
+"water, soil, and a variety of fresh and processed foods, clinical",unclassified
+"aquatic, atlantic cod",water_marine
+"aquatic, bottom sediments from the dead sea",sediment_hypersaline
+"aquatic, coastal seawater",water_marine
+"aquatic, fresh water lake",water_fresh
+"aquatic, freshwater reservoir from 10 m depth",water_fresh
+"aquatic, hot springs",water_hotspring
+"aquatic, intertidal sands from the gulf of mexico",sediment_marine
+bodily fluid; blood,host_animal
+cystic fibrosis lung,host_animal_endotherm_nasopharyngeal
+different locations will provide opportunities to assess secondary metabolite biosynthetic potential prior to fermentation or chemical analysis,unclassified
+"host; plant root; root nodule; soil, root nodule",host_plant
+"hostassociated, 12-year-old boy",host_animal_endotherm
+"hostassociated, apple flowers",host_plant
+"hostassociated, distal midgut region v4",host_animal
+"host-associated, human blood",host_animal_endotherm_blood
+"hostassociated, oral cavity",host_animal
+"hostassociated, organic chicken farm",host_animal_endotherm
+"host-associated, outbreak",host_animal
+"hostassociated, polyp  tissue",host
+"hostassociated, polyp tissue",host
+"hostassociated, roots",host_plant_root-associated
+"host-associated, skin",host_animal
+"hostassociated, soil",host
+"hostassociated, subgingival plaque",host_animal
+"hostassociated, termite gut",host_animal_ectotherm
+"hostassociated, the intestinal tract of an adult zebrafish at washington university",host_animal_ectotherm
+"hostassociated, urine from individual 252",host_animal_endotherm
+human-sporadic,host_animal_endotherm
+"marine, gulf of maine",water_marine
+"multiple, brewery-associated surface",unclassified
+"multiple, cystic fibrosis patient",host_animal_endotherm_nasopharyngeal
+"multiple, dog with hemorrhagic gastroenteritis",host_animal_endotherm
+"multiple, porcine neonatal diarrhea",host_animal_endotherm_intestinal
+"multiple, pork industry",unclassified
+"multiple, rice",unclassified
+"multiple, seawater",water_marine
+"multiple, stool sample",host_animal
+"multiple, toxic-metal contaminated site, shipyard creek, charleston, south carolina",sediment
+nasal cavity,host_animal
+rhizosphere and endosphere samples,soil
+river water,water_fresh
+stem,host_plant
+stools,host_animal
+"terrestrial, contaminated soil",soil_contaminated
+"terrestrial, dune grassland",soil_grassland
+"terrestrial, foulbrood of honeybees",host_animal_ectotherm
+"terrestrial, korean soybean paste",food
+"terrestrial, nodule from agricultural field",unclassified
+"terrestrial, nodules",unclassified
+"unknown, equine body fluid/excretion",host_animal_endotherm
+"unknown, water kefir",food
+marine,water_marine
+Isolated from a marine dinoflagellate culture (Pfiesteria piscicida) in 2000.,water_marine
+"Symbiotic, group II photosynthetic strain. The nod genes have not been detected in group II strains. Isolated from stem nodules of Aeschynomene sensitiva in Africa and North America.",host_plant_rootnodule
+"Symbiotic, group II photosynthetic strain. The nod genes have not been detected in group II strains. Isolated from stem nodules of Aeschynomene indica in Africa and North America.",host_plant_rootnodule
+"Isolated from in situ samplers deployed on the actively venting sulfide mound in the Iheya North hydrothermal field, Japan.",sediment_marine_hydrothermal
+Isolated from field nodules of Echinacea angustifolia growing in Ohio.,host_plant_rootnodule
+Isolated from a mosquito breeding site in China in 1987.,water_fresh
+"Hyperthermophilic anaerobic bacterium. Isolated from a geothermally heated region of the seafloor near Ribeira Quente, the Azores.",sediment_marine_hydrothermal
+"Unable to oxidize hydrogen although hydrogen oxidation was thought to be universal in this group. Isolated from near-neutral-pH terrestrial hot springs in Obsidian Pool in Yellowstone National Park, USA.",water_hotspring
+"Isolated from activated sludge samples from the industrial wastewater treatment facility of Eastman Chemical Company, Kingsport, Tennessee.",sludge
+"Isolated from a slightly alkaline, highly carbonate hot spring water sample from Angel Terrace, which is part of Mammoth Terrace, Yellowstone National Park.",water_hotspring
+"Isolated from a hot wood compost pile (~70 deg C) in Middleton, WI.",
+"Isolated from Obsidian Hot Spring, Yellowstone National Park, Montana, USA.",water_hotspring
+"Isolated from a mixture of sediment samples obtained from different soda lakes located in the Kulunda Steppe (Altai, Russia).",sediment_fresh_alkaline
+"Isolated from a Mimosa occidentalis nodule collected in Tepic, Nayarit, Mexico.",host_plant_rootnodule
+Originally isolated from the crop of a chicken.,host_animal_endotherm_nasopharyngeal
+Isolated from soil for high-level production of pyrroloquinolone quinone.,soil
+Isolated from deep-sea sediment at a water depth of 1855 meters near the Okinawa Trough.,sediment_marine_deep
+Isolated from nodules of Casuarina equisetifolia trees growing in Mexico.,host_plant_rootnodule
+Sponge symbiont nonthermophilic crenarchaeota.,host_animal_ectotherm
+"Isolated from Obsidian Hot Spring, Yellowstone National Park, Montana, USA.",water_hotspring
+"Isolated from a mixed-waste-contaminated subsurface at the U.S. Department of Energy (DOE) Oak Ridge Reservation in Oak Ridge, TN.",soil_contaminated
+A soil bacterium isolated from the rhizophere of Lupinus luteus. non-virulent species.,host_plant_root-associated
+"Isolated from a seawater sample taken at the Isfjord, Spitsbergen, in autumn 1999.",water_marine
+"Isolated from marine subseafloor sediments (31.4 m below the seafloor) collected at a water depth of 755 m at Suruga Bay, Japan.",sediment_marine
+Isolated from subseafloor sediments at Suruga Bay (Japan) at depths of 31.4 and 41 m.,sediment_marine
+"Isolated from a sample collected from a hydrothermal vent area in the Papua New Guinea-Australia-Canada-Manus (PACMANUS) field of the western Pacific Ocean at a depth of 1,650 m in 2002.",sediment_marine_hydrothermal
+"Isolated from soil contaminated by coal tar at the former site of a manufactured gas plant in Chippewa Falls, Wisconsin.",soil_hydrocarbon_contaminated
+"Isolated from rapeseed roots from Uppsala, Sweden in 1998",host_plant_root-associated
+"Isolated from a surface seawater sample collected from a closed bay in the harbour of Pozzuoli (Naples, Italy).",water_marine
+"Isolated from a fermented regional kimchi, which was made using the mixture of radish, Chinese cabbage, brown algae, and some seasoning ingredients.",food_fermented
+"Sulfur-reducing, strictly anaerobic, and hyperthermophilic archaeon. Isolated from the deep-sea hydrothermal vent Guaymas Basin site in the Gulf of California at a depth of 2,000 m.",sediment_marine_hydrothermal
+"Originally isolated from an agricultural field in Niigata, Japan, where paddy rice and soybean were rotationally cultivated every 2 years.",soil_agricultural
+"Anaerobic ruminal bacterium. Capable of producing a variety of volatile fatty acids. Found in cattle, sheep, and other ruminants.",host_animal_endotherm_rumen
+"Grows with H2 and CO2 production. Isolated from 1 of 13 enrichments of coccoid cells obtained from hydrothermal venting structures (East Pacific Rise; a latitude of 13 degrees north, 2,600-m depth) anaerobically on CO at 80 deg C.",sediment_marine_hydrothermal
+Isolated from Gavkhouni Wetland in Iran.,soil_saline
+Isolated from a coral.,host_animal_ectotherm
+"Isolated from a decomposed grapsid crab (Grapsidae) collected from the coast of the West Sea (Incheon, South Korea).",host_animal_ectotherm
+Isolated from corn stover.,litter
+"Isolated from a golf course soil in Yongin, Kyongggi-do, South Korea.",soil_agricultural
+"Oligotrophic bacterium. Unable to induce root nodules in siratro. Isolated from paddy soil at the experimental farm of Tohoku University, Miyagi, Japan in 1992.",host_plant_rootnodule
+Porcine origin.,host_animal_endotherm
+"Aerobic, thermophilic bacteria. Isolated from a hot spring in Ulu Slim, Perak, Malaysia, at 92.4 deg C, pH 7.",water_hotspring
+Isolated from Nashi pears in Japan. Causes bacterial shoot blight of pear.,host_plant
+"Isolated from rapeseed roots from Uppsala, Sweden.",host_plant_root-associated
+Isolated from the soil of a Miscanthus-growing pot in a greenhouse at the University of Seoul.,soil_agricultural
+Wild type producer of the alpha-glucosidase inhibitor acarbose.,unclassified
+Isolated from surface-sterilized rice root.,host_plant_root-associated
+Clinical isolates from Korean patients.,host_animal_endotherm
+"Bypasses the denitrification intermediate nitrous oxide by the conversion of two nitric oxide molecules to dinitrogen and oxygen, which was used to oxidize methane. Enriched from Twentekanaal sediment, here designated Twente, and a culture from Ooijpolder ditch sediment.",sediment_fresh
+"Extreme haloarchaeon. Capable of growing on synthetic media without amino acid supplements. Isolated from a salt mine in Hubei province, China in the early 1990s.",hypersaline
+"Isolated from sludge of the biological wastewater treatment plant of a coal tar refinery in Castrop-Rauxel, Germany.",sludge
+Isolated from soil at an explosives testing facility.,soil_contaminated
+Isolated from deep-sea sediments of the Pacific Ocean.,sediment_marine_deep
+Polychlorinated-biphenyl-degrading strain. Isolated from a soil sample in Tokyo.,soil_contaminated
+Moderate thermophile and ammonia-oxidizing archaea.,unclassified
+"Isolated from deep-sea sediment (at a water depth of 3,800 m) of the Arctic Ocean.",sediment_marine_deep
+"Aerobic type II methanotroph. Expresses two particulate methane monooxygenases. A large repertoire of genes involved in nitrogen metabolism (transport and assimilation of ammonia, hydroxylamine detoxification, nitrogen fixation, and denitrification) was detected. Isolated from a highly polluted aquifer in Germany.",water_groundwater
+Isolated from the rhizosphere of common reeds growing on the campus of the University of Waterloo.,host_plant_root-associated
+Obligate endosymbiont of armoured scale insects.,host_animal_ectotherm
+"Isolated from an enrichment culture originally sampled at Botanischer Garten, University of Hamburg, Germany.",soil
+"Isolated from the outflow channel of Dragon Spring, Norris Geyser Basin, in Yellowstone National Park, WY.",water_hotspring
+"Isolated from contaminated soil with technical-HCH (a mixture of alpha-, beta-, gamma-, and delta-isomers of HCH) in India.",soil_contaminated
+Isolated from potato stem on a Finnish field in the 1980s.,host_plant
+"Isolated from the outflow channel of Dragon Spring, Norris Geyser Basin, in Yellowstone National Park, WY.",water_hotspring
+"Isolated from Northwestern Mediterranean Sea surface water (0.5 m depth), collected 1 km off the Catalan coast at the Blanes Bay Microbial Observatory.",water_marine
+Originally isolated from Lake Chad.,water_fresh
+Isolated from field-collected Riptortus pedestris.,host_animal_ectotherm
+Isolated from surface-sterilized roots.,host_plant_root-associated
+"Isolated from King George Island, Antarctica.",unclassified
+"Isolated from bark compost in Okayama, Japan.",compost
+Originally isolated in the Philippines from the root nodules of the aquatic legume Sesbania cannabina.,host_plant_rootnodule
+Isolated at the University of Stuttgart from forest soil.,soil_forest
+"Isolated from the rhizosphere of a duckweed strain, Lemna minor, collected from Shenzhen, China.",host_plant_root-associated
+Isolated from a gamma-hexachlorocyclohexane-degrading mixed culture.,unclassified
+Isolates from cattle with shipping fever.,host_animal_endotherm
+Isolated from hypersaline Wadi Nantrun lakes in Egypt.,hypersaline
+Isolated from pristine sediments at a background field site in Oak Ridge.,sediment_fresh
+Mesophilic ammonia-oxidizing archaea. Obtained from an agricultural soil.,soil_agricultural
+Isolated from the saliva of pediatric oncohematology patients.,host_animal_endotherm_oral
+Derived from enrichment cultures initiated with seawater obtained from the North Pacific Ocean at Station ALOHA on Hawaii Ocean Time-series (HOT) cruise 181.,water_marine
+"Isolated in May 2009 in Jiangsu Province, China from an Atractylodes macrocephala Koidz plant infected by the pathogen Fusarium oxysporum, which is a causative agent of the root-rot disease.",host_plant
+South African Caenorhabditis briggsae Isolate.,host_animal_ectotherm
+"Isolated in a similar manner, but from seawater obtained from 40 m depth at the Bermuda Atlantic Time-series station.",water_marine
+Isolated from the guts of the honey bee Apis mellifera.,host_animal_ectotherm
+Originally isolated in 1998 from microbial biofilm originally sampled from a ulcerative gingivitis lesion in the oral cavity of a 31-year-old Chinese male from northeast China.,host_animal_endotherm_oral
+Isolated from shelf in Mar 2013.,unclassified
+Isolated from a urethral catheterized patient without symptoms of a urinary tract infection in Germany.,host_animal_endotherm
+"Isolated from the rhizosphere of wheat (Triticum aestivum L.) in Yangzhou City, China.",host_plant_root-associated
+"Isolated from the Antarctic seawater with strong antifungal activity against several plant pathogenic fungi. (50.76W, 61.16S, water of depth 786 m)",water_marine_cold
+Isolated from a honey sample.,food
+Isolated from a potato root.,host_plant_root-associated
+Isolated from the symbiotic organ of a field-collected R. pedestris bug.,host_animal_ectotherm
+"Fast-growing soil mycobacteria. Used for efficient production of key steroid intermediates (androst-4-ene-3,17-dione, androsta-1,4-diene-3,17-dione, 9-hydroxy androst-4-ene-3,17-dione) from phytosterol. Originally isolated from soil samples.",soil
+"Isolated from non-purified solar salt from solar saltern (E126 deg 06 min 16 sec, N34 deg 35 min 22 sec) in South Korea on August 2013.",hypersaline
+Isolated from the gut of waxworms (the larvae of Plodia interpunctella) which are able to chew and eat polyethylene films.,host_animal_ectotherm
+Isolated from Arctic seawater.,water_marine_cold
+Isolated from surface seawater from the Nile Delta Mediterranean Sea.,water_marine
+Isolated from a biogas-producing lab-scale completely stirred tank reactor optimized for anaerobic digestion of maize silage in co-fermentation with pig and cattle manure.,bioreactor/digester
+"Isolated from Sea of Japan in Ishikawa Prefecture, Japan.",water_marine
+Isolated from the groundwater polluted with chlorinated ethenes in Japan.,water_groundwater
+Isolated from a molybdenum mine in Luoyang city.,rock_deep
+Isolated from a 90 deg C hot deep-sea sediment sample collected in July of 2012 from the Arctic Jan Mayen Vent Field.,sediment_marine_hydrothermal
+"Isolated Pseudomonas sp. strain CCOS 191 from a water sample in Zurich, Switzerland, which is able to form large amounts of cyanide and dissolve phosphate minerals.",water_fresh
+Isolated from a diseased white grouper (Epinephelus aeneus) raised on the Red Sea in Israel.,host_animal_ectotherm
+Isolated from tap-water during the enrichment of methanotrophs with methane.,water_fresh
+Recovered from cultured tilapia reared in Louisiana.,host_animal_ectotherm
+"Isolated from the high-arsenic, sulfidic source pool of Joseph's Coat Hot Spring.",water_hotspring
+Assembled from a metagenomic sample of deep marine sediments near the Loki's Castle hydrothermal vent in the Arctic Mid-Ocean Ridge.,sediment_marine_hydrothermal
+Isolated from Shengli Oilfield.,petroleum
+Isolated from the Atacama Desert.,soil_arid
+"Isolated from a self-regenerating and self-sustaining biocathode biofilm originally enriched from seawater collected at Rutgers, Marine Field Station (RUMFS) in Tuckerton, New Jersey, USA.",water_marine
+"Isolated from a rubber plantation in Bukit Jambul-Penang, Malaysia.",unclassified
+Isolated from a permafrost region in Qinghai-Tibet Plateau.,soil_organic_permafrost
+"Isolated from a glacial derived stream at the ablation zone of the East Rathong glacier, West Sikkim (27 deg 33 min 149 sec N, 88 deg 07 min 406 sec E; 4718 masl).",water_fresh_cold
+Isolated from a phenanthrene-enrichment culture seeded with a pristine farm soil sample.,soil_agricultural
+"Endosymbiont from the dagger nematode Xiphinema americanum, a migratory ectoparasite of numerous crops that also vectors nepovirus. Identified in the gut, ovaries, and eggs.",host_animal_ectotherm
+Isolated from the freshwater stream.,water_fresh
+"Isolated from a sample of tidal flat sediment collected at Yeongheung Island, Korea in January 2009.",sediment_marine
+"Sampled from filtered groundwater obtained from an aquifer adjacent to the Colorado River near the town of Rifle, CO, USA.",water_groundwater
+Isolate from the stem of a soybean plant.,host_plant
+Isolated from a Japanese freshwater stream.,water_fresh
+"Isolated from soil at Mimomi-Park, Chiba, Japan.",soil
+Isolated from the rhizosphere of rice.,host_plant_root-associated
+"Isolated from the topsoil collected near a rusted fire hydrant in Woods Hole, Massachusetts (41 31'44.65''N 70 40'21.5''W) on 7 July 2014.",soil
+Isolated from a soil sample affected by the Tohoku tsunami.,soil
+Isolated from a petroleum-contaminated soil.,soil_hydrocarbon_contaminated
+"Isolated from hotspring at Suwa-shrine, Suwa, Nagano, Japan.",water_hotspring
+"Isolated from soil at the Toyohashi University of Technology, Toyohashi, Aichi, Japan.",soil
+Isolated from a soil sample collected in the Qian-jiang area of China.,soil
+"Isolated from the eutrophic city moat in Xi'an, China.",water_fresh
+"Isolated from heavy metals-contaminated soil in Xiangxi Tujia and Miao autonomous prefecture, Hunan Province, China.",soil_contaminated
+"Isolated from garden soil, China.",soil_agricultural
+"Isolated from the hot vent, located in the tidal zone of Kunashir Island, Southern Kurils.",sediment_marine_hydrothermal
+Isolated from the feces of a mouse line contaminated following germ-free derivation.,host_animal_endotherm_feces
+"Isolated from Stereocaulon sp., an Arctic lichen collected from Ny-Alesund, Svalbard, Arctic (78 55' N, 11 56' E).",host_fungus
+"Isolated from field-collected P. microcarpus nodules from the town of Oaxtepec, Morelos, Mexico.",host_plant_rootnodule
+"Isolated from Himantormia sp., an Antarctic lichen species collected on Barton Peninsula, King George Island, Antarctica (62 deg 13 min S, 58 deg 47 min W).",host_fungus
+Isolated from the stem of a soybean.,host_plant
+"Isolated from a biocathode micro- bial community, known as Biocathode-MCL (Marinobacter, Chromatiaceae, Labrenzia), originally enriched from seawater collected at Rutgers Marine Field Station (RUMFS) in Tuckerton, New Jersey, USA.",water_marine
+"Isolated from Stereocaulon sp., an Antarctic lichen species collected on Barton Peninsula, King George Island, Antarctica (62 deg 13 min S, 58 deg 47 min W).",host_fungus
+Isolated from a mesophilic methanogenic reactor operating with swine manure.,bioreactor/digester
+Isolated from crude oil-contaminated coastal sediment near Yeosu of South Korea.,petroleum
+"Isolated from Himantormia sp., an Antarctic lichen species collected on Barton Peninsula, King George Island, Antarctica (62 deg 13 min S, 58 deg 47 min W).",host_fungus
+"Isolated from a brackish lake, Lake Sanaru, in Hamamatsu, Japan.",water_brackish
+"Isolated from the lichen Stereocaulon sp., collected in Ny-Alesund, Svalbard, Arctic (78 deg 55 min N, 11 deg 56 min E).",host_fungus
+"Isolated from Big Soda Lake, an arsenic-rich, hypersaline (26 to 88 g/liter total dissolved solids), alkaline (pH 9.7) lake located in Nevada (39 deg 31 min N 118 deg 52 min W).",water_hypersaline
+"Isolated from the lichen Usnea sp., collected from Barton Peninsula, King George Island, Antarctica (62 deg 13 min S, 58 deg 47 min W).",host_fungus
+"Isolated from HCH-contaminated soil in Miyagi prefecture, Japan.",soil_contaminated
+Isolated from a Jilin Oilfield.,petroleum
+Isolated from a collection of Arctic marine bacteria.,water_marine_cold
+"Isolated from composts located in Namhae, Korea.",compost
+"Isolated from the hypersaline Cibollar Lake, a coastal brackish lagoon on Mallorca Island.",hypersaline
+Isolated from the shallow-sea hydrothermal system.,sediment_marine_hydrothermal
+"Isolated from soil sediment in the estuarine Matang Mangrove, Malaysia.",sediment_marine
+Isolated from textile wastewater.,wastewater
+"Isolated from an acidic hot spring in Laguna Fumarolica, Costa Rica.",water_hotspring
+"Isolated from the leaf surface of conventionally grown lettuce (Lactuca sativa) in Vestfold, Norway.",host_plant_leaf-associated
+Isolated from tomato roots.,host_plant_root-associated
+"Isolated from sediments collected in San Francisco Bay, CA.",sediment_marine
+Isolated from acidic boreal wetlands.,soil_organic_peat
+Collected in Reunion (South West Indian Ocean) from the citrus phyllosphere.,host_plant_leaf-associated
+Isolated from a rock core retrieved at a depth of 139.5 m in the subsurface of the Iberian Pyritic Belt (Spain).,rock_deep
+Isolated in 2011 from a marine sponge Chondrilla nucula collected off the coast of the Florida Keys.,host_animal_ectotherm
+"Isolated from conventionally grown lettuce (Lactuca sativa) from a field in Vestfold, Norway.",host_plant_leaf-associated
+"Isolated from topsoil in Woods Hole, Massachusetts.",soil
+"Isolated from Stereocaulon sp., an Arctic lichen.",host_fungus
+Isolated from a gamma-HCH-degrading microbial community.,unclassified
+Recovered from human respiratory tract specimen (nasopharyngeal swab).,host_animal_endotherm_nasopharyngeal
+"Isolated from microbial mats from the Zloty Stok mine (SW Poland), an environment strongly contaminated with arsenic.",biofilm
+"Isolated from brackish seawater and seaweed off the Gulf coast of Galveston, TX, USA, in 2007.",water_brackish
+Isolated from diseased trees. Causes stunting and abnormal root and shoot development in pathogenicity assays.,host_plant
+Isolated from perennially ice-covered Lake Untersee in Antarctica.,water_fresh_cold
+Capable of producing polyhydroxyalkanoate (PHA).,
+Isolated from the South Atlantic in 1984.,water_marine
+Plant-derived strain. Named according to their isolation from broccoli (Brassica oleracea var. italica).,host_plant
+Isolated from goat eyes infected with keratoconjunctivitis.,host_animal_endotherm_surface
+Isolated from leg wound.,host_animal_endotherm_surface
+Chemolithoautotrophic and facultatively anaerobic acidothermophile.,unclassified
+Isolated from a soil sample at the garden entrance of a house in the Friuli region in Italy in 1987.,soil_agricultural
+Isolated from human blood.,host_animal_endotherm_blood
+Isolated from human urine.,host_animal_endotherm
+"Isolated from Lajas Valley, Cabo Rojo, Puerto Rico.",unclassified
+Isolated from the intestine of the reticulated python (Malayopython reticulatus).,host_animal_ectotherm
+Producer of the glycopeptide antibiotic ristocetin.,unclassified
+"Isolated as a microcystin producer in 1986 from Lake Vesijarvi, Finland.",water_fresh
+"Isolated from nitrate- and uranium-contaminated subsurface sediment of the Oak Ridge Integrated Field-Scale Subsurface Research Challenge (IFC) site, Oak Ridge Reservation, TN.",sediment_fresh
+Naturally attenuated subtype of Anaplasma marginale that has been used as a vaccine for a century.,unclassified
+"Thermophilic chemolithoautotroph. Capable of growing on hydrogen, oxygen, carbon dioxide, and mineral salts. Has not been shown to grow anaerobically with nitrate as an electron acceptor in the laboratory. First observed at the turn of the century, growing at 89 deg C in the outflow of hot springs in Yellowstone National Park.",water_hotspring
+Dominates the liquid phase of the microbial fuel cell.,unclassified
+Isolated from oil-contaminated soil in Taiwan.,petroleum
+Denitrifying and N2O-reducing betaproteobacterium. Originally isolated from soil of an agricultural field where paddy rice and soybean crops were rotationally cultivated every 2 years.,soil_agricultural
+"Bacteria of the genus Azospirillum are found primarily in terrestrial habitats, where they colonize roots of important cereals and other grasses and promote plant growth by several mechanisms including nitrogen fixation and phytohormone secretion.",host_plant_root-associated
+Isolated from the cadavers of silkworm larvae that had been sick.,host_animal_ectotherm
+"Isolated from the nitrate- and uranium-contaminated subsurface of the Oak Ridge Integrated Field Research Challenge (ORIFRC) site, Oak Ridge Reservation, TN.",sediment_fresh
+Isolated from local soil in Japan.,soil
+Isolated from the digestive tracts of bumblebees.,host_animal_ectotherm
+Obligate flavobacterial endosymbiont associated with the giant roach Blaberus giganteus.,host_animal_ectotherm
+"Primary endosymbiont of the omnivorous cockroach Blatta orientalis, and one of the most ancient symbiotic associations.",host_animal_ectotherm
+Flavobacterial endosymbiont of the termite Mastotermes darwiniensis.,host_animal_ectotherm
+Isolated from a blood sample from a male AIDS patient.,host_animal_endotherm_blood
+Isolated from patients suffering from mandibular osteomyelitis and chronic suppurative mastoiditis.,host_animal_endotherm_oral
+"Spirochete responsible for tick-borne zoonotic relapsing fever in West Africa, where the soft tick Ornithodoros sonrai is the vector.",host_animal_endotherm_blood
+Isolated from Ornithodoros parkeri ticks collected from Spermophilus beecheyi burrows in the Carmel Valley of California.,host_animal_ectotherm
+Isolated from Ixodes stilesi ticks present on environmental vegetation and long-tailed rice rats.,host_animal_ectotherm
+"Originally isolated in 1993 from the sputum from a cystic fibrosis patient in Leuven, Belgium.",host_animal_endotherm_oral
+Obligate intracellular amoeba symbiont. Discovered within an amoeba isolated from lake sediment.,host_animal_ectotherm
+"Obligate intracellular parasite of Acanthamoeba castellanii. Shows an unusual, fission mode of cell multiplication whereby large, polymorphic bodies accumulate in the cytoplasm of infected amoeba and then split into mature bacterial cells.",host_animal_ectotherm
+"Its genome indicates a motile, sporulating, sulfate-reducing, chemoautotrophic thermophile that can fix its own nitrogen and carbon by using machinery shared with archaea. Isolated from low-biodiversity fracture water collected at 2.8-kilometer depth in a South African gold mine.",water_groundwater_deepsubsurface
+Isolated from the terrestrial isopod Armadillidium vulgare.,host_animal_ectotherm
+Isolated terrestrial and marine thermal environments.,sediment_marine_hydrothermal
+"Isolated from individual psyllids (Trioza erytreae) collected from Pretoria, South Africa.",host_animal_ectotherm
+Methanogen present in the human gut. Enriched from human feces under anaerobic conditions with methanol as the substrate.,host_animal_endotherm_intestinal
+Isolated from a pregnant woman who subsequently delivered preterm.,host_animal_endotherm
+Isolated from a coal tar-contaminated sediment.,petroleum
+"Ammonia-oxidizing archaeon. From marine sediment off Svalbard, the Arctic Circle (78-m-deep).",sediment_marine
+Originating from coastal surface waters of the Northern Adriatic Sea.,water_marine
+"Isolated from a surface seawater sample collected off the coastal region in Ny-Aalesund, Svalbard, Norway.",water_marine
+Isolated from a surface seawater sample from the Western Pacific Ocean Margin (East Sea of Korea).,water_marine
+Isolated from surface waters (5 m) in Puget Sound.,water_marine
+Isolated from deep-sea sediment from the Indian Ocean.,sediment_marine_deep
+Isolated from coastal seawater from Yellow Sea of Korea.,water_marine
+Isolated from a chicken.,host_animal_endotherm
+Isolated from a mesophilic two-phase lab-scale biogas reactor continuously fed with maize silage and wheat straw.,bioreactor/digester
+Toxin-free strain for bacteriolytic tumor therapy.,host_animal_endotherm
+Isolated from a human throat specimen.,host_animal_endotherm_nasopharyngeal
+Isolated during the 1980s from putrefied bananas.,food
+"Isolated from petroleum deposits of the sunken tanker ""Amoco Milford Haven"" (Gulf of Genoa, Ligurian Sea, Italy).",petroleum
+"Isolated from the oil-production water in Xinjiang Oilfield, China.",petroleum
+"Sulfate-reducing bacteria. Capable of reducing Fe(III). Utilizes a wide spectrum of energy sources, ranging from aromatic compounds to short-chained fatty acids. Capable of growing chemolithoautotrophically on hydrogen. Isolated from groundwater contaminated with motor fuel [mostly benzene, toluene ethylbenzene and xylene (BTEX) compounds] in sandy soil near Perth, Australia.",petroleum
+"Sulfate-reducing bacteria. Capable of reducing Fe(III). Utilizes a wide spectrum of energy sources, ranging from aromatic compounds to short-chained fatty acids. Capable of growing chemolithoautotrophically on hydrogen. Isolated from a soil sample from Singapore.",soil
+Isolated from the hindgut of the wood-feeding termite Reticulitermes speratus KMT1.,host_animal_ectotherm
+Isolated from a sterile-filtered gut homogenate of Reticulitermes santonensis.,host_animal_ectotherm
+Isolated from the stem of a 10-year-old hybrid poplar (Populus trichocarpa x P. deltoids cv. H11-11).,host_plant_vasculature
+Isolated from pome fruit trees.,host_plant
+"Isolated from a biofilm sample of Ginger Lake on King George Island, Antarctic peninsula.",biofilm
+Acidophilic archaeon. Isolated from enrichment cultures inoculated with mine water and sediment samples collected in July 1997 from the five-way site within the Richmond Mine.,unclassified
+Isolated from soil of ginseng field.,soil_agricultural
+Isolated from a laboratory culture of the marine ciliate Euplotes raikovi.,host_animal_ectotherm
+"Isolated from a crustacean shell (crab) which was collected on the 22nd May 2012 at low tide (8:30 a.m.) at 16 deg C ambient temperature in some residue water on the tidal mud flat of the German Wadden Sea, Neuharlingersiel (53 deg 42 min 15.5 sec N, 7 deg 42 min 15.9 sec E).",host_animal_ectotherm
+Originally isolated from a microbial fuel cell reactor in the United States.,unclassified
+Isolated from surface water of the southeastern Pacific.,water_marine
+"Isolated from coastal waters near St John's Island, US Virgin Islands.",water_marine
+"Isolated from early Cretaceous (~123 million years old) halite from the depth of 2000 m in Qianjiang Depression, Hubei Province, China.",rock_deep
+"Isolated from soda solonchak soils of the Kulunda steppe, Russian Federation.",soil_saline
+Isolated from a hypersaline lake in Oregon.,hypersaline
+Isolated from the cecal and fecal content of Il10-/- knockout mice with inflammatory bowel disease (IBD).,host_animal_endotherm_intestinal
+Isolated from a thermophilic biogas plant.,bioreactor/digester
+"Thermoacidophilic isolate from a stream adjacent to Obsidian Pool in Yellowstone National Park, United States.",water_hotspring
+Originally isolated from industrial sewage.,wastewater
+Isolated from air in a school dining room in Russia in 1967.,unclassified
+"Isolated from Pacific coastal seawater (Bodega Head, CA; salinity = 33) in 2003.",water_marine
+Freshwater-borne small bacterium. Isolated over a 7.5-mo period before it was eradicated by repairing the UPW production and distribution system.,water_fresh
+Isolated from high-level radioactive waste within a shielded cell work area at the Savannah River Site (SRS).,unclassified
+Produce setamycin (bafilomycin B1) possessing antitrichomonal activity.,unclassified
+Isolated from the air of Xinjiang of China.,unclassified
+Isolated from saline sediment collected from Yantai City in China.,sediment_hypersaline
+Most frequently encountered serovar. Causes leptospirosis and tubulointerstitial nephritis in Taiwan.,host_animal_endotherm_intratissue
+"Acidophilic, obligate chemolithoautotrophic ferrous-iron-oxidizing bacterium. Known to have nitrogenase-encoding genes. Isolated from a 7.6-year-old volcanic ash deposit on Mount Oyama in the island of Miyake, Japan by chemostat enrichment.",soil
+Isolated from kimchi made of cabbage.,food_fermented
+Isolated from the sediment of a meromictic lake in Japan.,sediment_hypersaline
+Isolated from grassland soil in the German Biodiversity Exploratories.,soil_grassland
+"Isolated from an electronic-waste-contaminated river sediment from Guiyu, Guangdong, China.",
+Isolated from the China Sea.,water_marine
+"One of the first magnetotactic bacterium strains available in axenic lab culture. Isolated in the mud of the little eutrophic Ryck River near Greifswald, Germany.",sediment_fresh
+"Synthesizes nano-sized magnetites, referred to as magnetosomes, aligned intracellularly in a chain. Isolated from fresh water in Tokyo, Japan.",water_fresh
+Isolated from surface seawaters collected off the Oregon coast.,water_marine
+Isolated from the phycosphere of the toxin-producing dinoflagellate Gymnodinium catenatum strain YC499B15 in 2003.,host_algae
+Isolated from a petroleum-contaminated soil with high salinity in China.,soil_contaminated
+Non-photosynthetic bacteria. Isolated from microbial mats developing in streams of hydrothermal water at the Tomsk region of Russia.,water_hotspring
+"Isolated from a mesothermic anaerobic 2,3,5,6-tetrachlorobiphenyl-ortho-dechlorinating microbial enrichment culture inoculated with anaerobic sediments taken from the Northwest Branch of Baltimore Harbor, Baltimore, Maryland.",sediment_marine
+Extremely thermoacidophilic and metal sulfide-oxidizing archaeon.,unclassified
+"Isolated from a near circumneutral temperate minerotrophic fen in New York State, USA.",soil_organic_peat
+Isolated from a rural biogas plant producing methane-rich biogas from maize silage and cattle manure in Germany.,bioreactor/digester
+"Isolated from a cyanobacterial mat and bottom deposits at Hamelin Pool, Shark Bay, northwestern Australia.",hypersaline
+Isolated from a freshwater wetland: the Zoige wetland of the Tibetan Plateau.,soil_marshland
+Human intestinal inhabitant. Capable of generating methane only by reduction of methanol with H2 and is dependent on acetate as a carbon source.,host_animal_endotherm_intestinal
+Originally isolated from an acidic forest soil in Germany.,soil_forest
+Isolated from potato leaves.,host_plant_leaf-associated
+Isolated from the head kidney of an Atlantic salmon diagnosed with winter-ulcer disease.,
+"Capable of removing organic sulfur from a broad range of sulfur species in gasoline, diesel and crude oils. Isolated as a bacterial strain capable of desulfurizing dibenzothiophene via the sulfur-specific pathway under high temperature.",petroleum
+"Isolated from a Thai red ginger flower at the National Institute of Technology and Evaluation Biological Resource Center, Japan.",host_plant
+"Isolated from in situ samplers deployed on the actively venting sulfide mound in the Iheya North hydrothermal field, Japan.",sediment_marine_hydrothermal
+Facultative chemolithoautotroph. Capable of extracting energy from the oxidation of nitrite to nitrate.,unclassified
+Obligate chemolithoautotroph. Derives all its energy and reductant for growth from the oxidation of ammonia to nitrite.,unclassified
+Obligate chemolithotrophic ammonia-oxidizing bacterium. Originally isolated in 1997.,unclassified
+"Ammonia-oxidizing bacteria. Isolated from soil near Paramaribo, Surinam, by enrichment culturing.",soil
+Nitrite-oxidizing bacteria. Reconstructed from an activated sludge enrichment culture.,sludge
+"Isolated from a fatal human nocardiosis case at Washington, DC, in the 1970s.",host_animal_endotherm_intratissue
+Isolated from sea ice of the Antarctic.,water_marine_cold
+Isolated from a surface water sample collected in the harbor of the island of Helgoland in the North Sea.,water_marine
+Isolated from the hydrocarbon-enrichment set-up from the Antarctic seawater.,water_marine_cold
+Isolated from the hindgut of the wood-feeding termite Reticulitermes flavipes.,host_animal_ectotherm
+Isolated from sweetgum (Liquidambar styraciflua) wood.,host_plant_vasculature
+Isolated from cystic fibrosis patient.,host_animal_endotherm
+Isolated from soil litter surrounding oxalate-producing plant of the genus Oxalis.,litter
+"Effective diazotrophic symbiont of the leguminous tree Mimosa flocculosa Burkart, which is endemic to South America. Highly specific and effective in fixing nitrogen with the host species and is unusual in its capacity to grow in vitro at 40 deg C without losing its symbiotic properties. Isolated from a root nodule of Mimosa flocculosa, endemic to southern South America.",host_plant_rootnodule
+"Isolated from sea ice at high-latitude Arctic locations (77deg 30min N to approximately 81deg 12min N), including the Canadian Basin and Greenland Sea.",water_marine_cold
+Anoxygenic phototroph.,unclassified
+"Isolated from a soil sample collected in King George Island, Antarctica (62 deg 14 min 11 sec S, 58 deg 43 min 04 sec W).",soil
+Freshwater bacterium.,water_fresh
+Isolated from an algal mat collected from a sulfurous spring in Campania (Italy).,host_algae
+"Capable of growing on cis-1,2-dichloroethene (cDCE) as a sole carbon and energy source and may be useful for bioremediation of chlorinated solvent-contaminated sites. Isolated from a granular activated-carbon filter treating chloroethene-contaminated groundwater.",unclassified
+Isolated from the thallus of Fucus evanescens (marine brown macroalgae) sampled from the Kraternaya Bight of the Kurile Islands in the Pacific Ocean.,host_algae
+"Isolated from a decaying amphipod collected at a depth of 5,700 m in the central North Pacific Ocean.",water_marine_deep
+"Isolated from the benthal mud of a petroleum-contaminated site in Bohai Sea, China.",sediment_marine
+"Hyperthermophilic, anaerobic, and heterotrophic archaeon. Grows well at 95 deg C on maltose, cellobiose, or peptides with concomitant production of H2S from elemental sulfur and H2 in relatively equal proportions. Isolated in May 2004 from a piece of a deep-sea hydrothermal sulfide chimney on the Endeavour Segment of the Juan de Fuca Ridge in the northeastern Pacific Ocean.",sediment_marine_hydrothermal
+Isolated from an arsenic-containing goldmine.,rock_deep
+Isolated from a contaminated terrestrial subsurface environment.,rock_deep
+"Metabolically versatile, Fe(III)-reducing, facultative anaerobic microorganism. Converts sugars to electricity, oxidizing the sugars to carbon dioxide with quantitative electron transfer to graphite electrodes in microbial fuel cells. Isolated from subsurface sediments in Oyster Bay, VA.",sediment_marine
+"Photosynthetic purple nonsulfur bacterium. Favors growth in an anoxygenic, photosynthetic N2-fixing environment. Originated from hot spring mud in Wyoming, United States.",water_hotspring
+Isolated from the soil of Lengduo on the Tibet plateau of China.,soil
+Isolated from peat-bog in Ireland.,soil_organic_peat
+Isolated from the top aerobic sediment layer of the hypersaline chloride-sulfate Lake Baskunchak (south Russia).,hypersaline
+"Isolated from an anaerobic enrichment culture inoculated with slurries of a cyanobacterial mat retrieved from the hypersaline Lake 21 on the Kiritimati atoll (Northern Line Islands, Republic of Kiribati).",hypersaline
+"Isolated from La Jolla beach in San Diego, California.",sediment_marine
+"Isolated from the active sludge of a wastewater-treatment system of a pesticide manufacturer in Hangzhou City, China.",sludge
+Originally discovered as a contaminant of a human cell culture. obligate intracellular bacterium.,host_animal_endotherm
+Isolated from nodules.,host_plant_rootnodule
+Isolated from a hand wound following impalement with a tree branch.,host_animal_endotherm_surface
+"Isolated from the gut of a green-eyed horsefly (Tabanus nigrovittatus), collected at Ocracoke Island in North Carolina in 1983.",host_animal_ectotherm
+Isolated from faecal samples of Tibetan antelopes.,host_animal_endotherm_feces
+"Synthesizes the antibiotic roseoflavin, a structural riboflavin (vitamin B2) analog.",unclassified
+"Isolated from soil sample derived from Gaza Ki, Wakayama Pref. Japan.",soil
+Isolated from vegetable garden soil.,soil_agricultural
+"Isolated from the hypolimnion of Lake Mizugaki, a freshwater lake.",water_fresh
+"Isolated from anoxic mud of a forest pond near Heinigen, Braunschweig area, Germany.",sediment_fresh
+Isolated from activated sludge of a wastewater treatment plant.,sludge
+Isolated from the edge of California Current at a depth of 95m in 1993.,water_marine
+"Moderately thermophilic and strictly anaerobic for growth. Capable of fermenting quite a number of amino acids. The growth and the substrate conversion are strongly enhanced by co-cultivation with methanogens. Grows lithoheterotrophically with H2 as electron donor, S0 as electron acceptor, and yeast extract as carbon source. Isolated from sludge sample taken from an upflow anaerobic sludge bed (UASB) reactor of a sugar refinery in The Netherlands.",sludge
+"Aerobic, obligately thermophilic organism. Has two distinct types of transcriptionally active 16S rRNA genes. Utilizes inositol and rhamnose for growth, but does not hydrolyze starch and utilize arabinose and glycerol. Negative for iodinin production and nitrate reduction. Isolated from decaying manure in Berlin, Germany in 1954.",compost
+Isolated from a Paralvinella sp. polychaete worm collected from a hydrothermal vent on the Endeavor Segment in the NorthEastern Pacific Ocean.,host_animal_ectotherm
+"Isolated from the deep-sea hydrothermal vent field Beebe, in the Cayman Trough, at 4964-m water depth (18 deg 32.7881= N, 81 deg 43.11844= W).",sediment_marine_hydrothermal
+"Isolated from a mud sample from a black mud pit (86 deg C, pH 5.5) located near Pauzhetka (Kamchatka Peninsula, Russia).",volcanic_active
+Isolated from municipal refuse compost samples.,compost
+"Hyperthermophilic, heterotrophic, strictly anaerobic and fermentative phenotype. Isolated from water and sediment samples of a terrestrial circumneutral hot solfataric spring (""Obsidian Pool"") located in the Mud Volcano area of the Yellowstone National Park, Wyoming.",water_hotspring
+"Isolated from the Geysir geothermal area, Iceland.",water_hotspring
+Isolated from deep-sea water of the Southeastern Pacific.,water_marine_deep
+Isolated from a hydrothermal vent chimney in the Okinawa Trough.,sediment_marine_hydrothermal
+Isolated from seawater collected from the Red Sea in 2009.,water_marine
+Isolated from contaminated Leptospira culture medium.,unclassified
+Isolated from a deep marine sediment sample collected from the East Sea (Sea of Japan).,sediment_marine_deep
+Isolated from the culture broth of Picochlorum sp. 122 (marine microalgae) sampled from the Indian Ocean.,water_marine
+"Isolated from seawater samples collected in the Sagami Bay (35 degrees 00 minutes=N, 139 degrees 20 minutes=E; depth, 100 m).",water_marine
+fermented vinegar broth,food_fermented
+artisanal wheat sourdough,food_fermented
+fermented fish,food_fermented
+municipal sewage,wastewater
+vacuum-packed beef,food
+marinated fish product,food
+swine waste-corn fermentation,food_fermented
+cattle waste-corn fermentation,food_fermented
+dental plaque of baboon,host_animal_endotherm_oral
+"gastric biopsies, human stomach mucosa",host_animal_endotherm
+honey stomach of honeybee,host_animal_ectotherm
+stomachs of honeybees,host_animal_ectotherm
+faeces of wild japanese wood mouse,host_animal_endotherm_feces
+surface of a eutrophic freshwater pond,water_fresh
+intestine of chicken,host_animal_endotherm_intestinal
+faeces of chicken,host_animal_endotherm_feces
+orchardgrass silage,food_fermented
+blown cheese,food
+digestive tracts of bumblebee queens,host_animal_ectotherm
+bumble bee gut,host_animal_ectotherm
+faeces of canada goose,host_animal_endotherm_feces
+faeces,host_animal_endotherm_feces
+tomato pulp,plant
+cocoa bean heap fermentation,food_fermented
+fermented tea leaves (miang),food_fermented
+fermented brine used for stinky tofu production,food_fermented
+lungs of beaked whale,host_animal_endotherm_nasopharyngeal
+human vagina,host_animal_endotherm_vagina
+fermenting apple juice,food_fermented
+composting material of distilled shochu residue,compost
+walls of a distilled spirit fermenting cellar,biofilm
+silage,food_fermented
+air of cow shed,other
+eye,host_animal
+wheat sourdough,food
+tofu brine,food
+bulgarian youghourt,food
+sour grain mash,food_fermented
+traditional dairy fermented product (dahi type),food_fermented
+dolo wort (alcoholic fermented beverage),food_fermented
+maize silage,food_fermented
+faeces of horses,host_animal_endotherm_feces
+healthy thoroughbred racehorse,host_animal_endotherm
+faeces of thoroughbred horse,host_animal_endotherm_feces
+animal faeces,host_animal_endotherm_feces
+sausage,food
+human saliva,host_animal_endotherm_oral
+flower of caltha palustris,host_plant
+peony (paeonia suffruticosa),host_plant
+fermented soybean,food_fermented
+rye-bran sourdough,food_fermented
+rice bran paste,food
+"fu-tsai, a traditional fermented mustard product",food_fermented
+chicken crop,host_animal_endotherm_oral
+cocoa fermentation,food_fermented
+gorilla faeces,host_animal_endotherm_feces
+grass silage,food_fermented
+faeces of hamster,host_animal_endotherm_feces
+chinese traditional fermented vegetable,food_fermented
+chinese pickle,food_fermented
+malt whiskey fermentation,food_fermented
+fermented white radish,food_fermented
+wine,food
+human intestine,host_animal_endotherm_feces
+spoiled sake,food_fermented
+malted barley,food_fermented
+"pigeon, crop",host_animal_endotherm_oral
+fermented raw meat,food_fermented
+intestine of rat,host_animal_endotherm_intestinal
+human vaginal discharge,host_animal_endotherm_vagina
+kefir grains,food_fermented
+"sunki, a japanese traditional pickle",food_fermented
+chicken intestine,host_animal_endotherm_intestinal
+cabbage kimchi,food_fermented
+commercial grape wine,food
+spoilt beer,food
+sour beer,food
+wine must,host_plant
+cassava sour starch fermentation,food_fermented
+sourdough,food_fermented
+pig small intestine,host_animal_endotherm_intestinal
+pickle,food_fermented
+partially fermented wine,food_fermented
+sudangrass silage sample,food_fermented
+japanese pickles,food_fermented
+bobal wine,food
+broiler leg,host_animal_endotherm
+fermented rice grain,food_fermented
+"chrysanthemum, oze national park",host_plant
+jaguar faeces,host_animal_endotherm_feces
+wheat,host_plant
+kefir grain,food_fermented
+beer contaminant,food
+yeast storage tank containing lager beer,food_fermented
+organe lemonade,food
+pickled cabbage,food_fermented
+fermented cassava roots (fufu),food_fermented
+"pobuzih (fermented cummingcordia), cordia dichotoma",food_fermented
+rye sourdough,food_fermented
+nem chua (fermented meat),food_fermented
+lung of parrot,host_animal_endotherm_nasopharyngeal
+renning,food
+intestine of adult,host_animal_endotherm_intestinal
+digestive tract of rodents,host_animal_endotherm
+bovine rumen,host_animal_endotherm_rumen
+pig faeces,host_animal_endotherm_feces
+fermented meat product,food_fermented
+"""moto"" starter of sake",food
+saliva,host_animal_endotherm_oral
+faeces of a japanese healthy adult male,host_animal_endotherm_feces
+shochu mash,food_fermented
+chili bo,food
+faeces of healthy 100-year-old japanese female,host_animal_endotherm_feces
+"senmaizuke, a japanese pickle",food_fermented
+fermented dairy beverage,food_fermented
+spanish natural cider,food_fermented
+fermented cane molasses of alcohol plants,food_fermented
+rice sourdough,food_fermented
+sap of an oak tree,host_plant_vasculature
+apple mash,food
+silage cattle feed,food_fermented
+must of bobal grape variety,food
+cow dung,host_animal_endotherm_feces
+vaginal swab,host_animal_endotherm_vagina
+poultry salami,food
+gut of queen wasp,host_animal_ectotherm
+must of grape,food
+cheddar cheese,food
+pickles,food_fermented
+corn steep liquor,food

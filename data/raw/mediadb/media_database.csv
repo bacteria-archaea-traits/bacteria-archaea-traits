@@ -1,0 +1,780 @@
+genus, species, strain, growth_rate, growth_units, pH, temperature_C
+Lactobacillus,plantarum,wcfs1,0.6,1/h,5.5,37.0
+Lactobacillus,plantarum,wcfs1,,,5.5,37.0
+Geobacter,sulfurreducens,-,0.06,1/h,7.0,30.0
+Chromohalobacter,salexigens,CHR61,0.043,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.066,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.1,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.061,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.0,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.013,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.045,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.032,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.0,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.012,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.03,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR61,0.007,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.09,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.055,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.044,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.007,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.038,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.045,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.046,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.02,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.01,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.023,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.045,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR95,0.0,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR161,0.0,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR161,0.011,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR161,0.041,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR161,0.029,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR161,0.0,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR161,0.012,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR161,0.024,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR161,0.0,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR183,0.033,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR183,0.044,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR183,0.04,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR183,0.016,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR183,0.015,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR183,0.021,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR183,0.023,1/h,7.2,37.0
+Chromohalobacter,salexigens,CHR183,0.0,1/h,7.2,37.0
+Chromohalobacter,salexigens,"DSM 3043",0.12,1/h,7.5,30.0
+Chromohalobacter,salexigens,"DSM 3043",,,7.5,30.0
+Acinetobacter,baylyi,ADP1,,,,
+Acinetobacter,baylyi,ADP1,,,,
+Acinetobacter,baylyi,ADP1,,,,
+Acinetobacter,baylyi,ADP1,,,,
+Acinetobacter,baylyi,ADP1,,,,
+Acinetobacter,baylyi,ADP1,,,,
+Acinetobacter,baylyi,ADP1,,,,
+Acinetobacter,baylyi,ADP1,,,,
+Acinetobacter,baylyi,ADP1,,,,30.0
+Acinetobacter,baylyi,ADP1,,,,30.0
+Acinetobacter,baylyi,ADP1,,,,30.0
+Acinetobacter,baylyi,ADP1,0.805905,1/h,,30.0
+Acinetobacter,baylyi,ADP1,,,,30.0
+Acinetobacter,baylyi,ADP1,,,,30.0
+Acinetobacter,baylyi,ADP1,0.5373,1/h,6.8,30.0
+Acinetobacter,baylyi,ADP331,,,,30.0
+Acinetobacter,baylyi,ADP331,,,,30.0
+Acinetobacter,baylyi,ADP331,,,,30.0
+Acinetobacter,baylyi,ADP331,,,,30.0
+Acinetobacter,baylyi,ADP331,,,,30.0
+Acinetobacter,baylyi,ADP331,,,,30.0
+Acinetobacter,baylyi,ADP197,,,,30.0
+Acinetobacter,baylyi,ADP197,,,,30.0
+Acinetobacter,baylyi,ADP197,,,,30.0
+Acinetobacter,baylyi,ADP197,0.5342,1/h,,30.0
+Acinetobacter,baylyi,ADP197,,,,30.0
+Acinetobacter,baylyi,ADP197,,,,30.0
+Acinetobacter,baylyi,ADPU331,,,,30.0
+Acinetobacter,baylyi,ADPU331,,,,30.0
+Acinetobacter,baylyi,ADPU331,,,,30.0
+Acinetobacter,baylyi,ADPU331,,,,30.0
+Acinetobacter,baylyi,ADPU331,,,,30.0
+Acinetobacter,baylyi,ADPU331,,,,30.0
+Leishmania,major,-,,,7.2,25.0
+Komagataella,pastoris,"DSMZ 70382",0.2,1/h,5.0,25.0
+Yersinia,pestis,EV76,0.153482,1/h,7.0,37.0
+Yersinia,pestis,EV76,0.338452,1/h,7.0,37.0
+Yersinia,pestis,EV76,0.249687,1/h,7.0,37.0
+Pseudomonas,aeruginosa,PA01,1.048,1/h,,37.0
+Chlamydomonas,reinhardtii,-,0.035,1/h,7.0,25.0
+Chlamydomonas,reinhardtii,-,0.059,1/h,7.0,25.0
+Chlamydomonas,reinhardtii,-,0.066,1/h,7.0,25.0
+Yersinia,pestis,EV76_Vwa+,0.220019,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.18523,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.133934,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.118103,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.112746,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.232536,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.175393,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.146303,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.138923,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.135219,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.261842,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.235401,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.200397,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.18255,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.0825093,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.286211,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.256796,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.20965,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.189272,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.126642,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.373287,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.359242,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.333222,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.237281,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.138769,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.273259,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.287823,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.355116,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.263502,1/h,7.8,37.0
+Yersinia,pestis,EV76_Vwa+,0.160298,1/h,7.8,37.0
+Yersinia,pestis,EV76,0.144251,1/h,7.3,37.0
+Yersinia,pestis,EV76,0.130638,1/h,7.5,37.0
+Yersinia,pestis,EV76,0.21227,1/h,7.8,37.0
+Yersinia,pestis,EV76,0.258876,1/h,8.0,37.0
+Yersinia,pestis,EV76,0.290842,1/h,7.3,37.0
+Yersinia,pestis,EV76,0.374108,1/h,7.5,37.0
+Yersinia,pestis,EV76,0.370165,1/h,7.8,37.0
+Yersinia,pestis,EV76,0.255269,1/h,8.0,37.0
+Yersinia,pestis,EV76,0.34794,1/h,7.3,37.0
+Yersinia,pestis,EV76,0.257277,1/h,7.5,37.0
+Yersinia,pestis,EV76,0.326348,1/h,7.8,37.0
+Yersinia,pestis,EV76,0.381366,1/h,8.0,37.0
+Porphyromonas,gingivalis,W83,0.067,1/h,,37.0
+Porphyromonas,gingivalis,W50,0.021,1/h,,37.0
+Porphyromonas,gingivalis,LH9,0.013,1/h,,37.0
+Porphyromonas,gingivalis,WPH15,0.031,1/h,,37.0
+Porphyromonas,gingivalis,WPH34,0.028,1/h,,37.0
+Porphyromonas,gingivalis,HG91,0.034,1/h,,37.0
+Porphyromonas,gingivalis,HG184,0.029,1/h,,37.0
+Porphyromonas,gingivalis,Hg185,0.042,1/h,,37.0
+Clostridium,acetobutylicum,P262,0.233676,1/h,7.0,34.0
+Clostridium,acetobutylicum,"ATCC 824",0.030824,1/h,6.6,22.0
+Clostridium,acetobutylicum,SA-2,0.0426216,1/h,6.6,22.0
+Clostridium,acetobutylicum,"ATCC 824",0.066,1/h,6.6,37.0
+Clostridium,acetobutylicum,SA-2,0.087,1/h,6.6,37.0
+Clostridium,acetobutylicum,"ATCC 824",0.1,1/h,6.6,42.0
+Clostridium,acetobutylicum,SA-2,0.14,1/h,6.6,42.0
+"Klebsiella ",pneumoniae,-,0.293,1/h,,37.0
+"Klebsiella ",pneumoniae,-,0.57,1/h,,37.0
+"Klebsiella ",pneumoniae,-,0.481,1/h,,37.0
+"Klebsiella ",pneumoniae,-,0.965,1/h,,37.0
+"Klebsiella ",pneumoniae,-,1.084,1/h,,37.0
+"Klebsiella ",pneumoniae,-,0.804,1/h,,37.0
+Escherichia,coli,"O157:H7 RIMD0509952",1.08465,1/h,7.4,37.0
+Escherichia,coli,O157:H7,0.42,1/h,7.0,37.0
+Escherichia,coli,"ATCC 23794",0.558,1/h,7.0,37.0
+Escherichia,coli,"ATCC 23794",0.533,1/h,7.0,37.0
+Escherichia,coli,"ATCC 23794",0.442,1/h,7.0,37.0
+Escherichia,coli,"ATCC 23794",0.531,1/h,7.0,37.0
+Escherichia,coli,JCL1225[pJF118],0.52,1/h,,37.0
+Escherichia,coli,JCL1225[pPC201],0.57,1/h,,37.0
+Escherichia,coli,JCL1535[pJF118],0.52,1/h,,37.0
+Escherichia,coli,JCL1535[pPC201],0.51,1/h,,37.0
+"Klebsiella ",pneumoniae,-,0.658,1/h,,37.0
+"Klebsiella ",pneumoniae,-,0.834,1/h,,37.0
+"Klebsiella ",pneumoniae,-,0.57,1/h,,37.0
+"Klebsiella ",pneumoniae,-,0.76,1/h,,37.0
+"Klebsiella ",pneumoniae,-,,,7.0,30.0
+"Klebsiella ",pneumoniae,-,,,7.0,30.0
+"Klebsiella ",pneumoniae,-,,,7.0,30.0
+"Klebsiella ",pneumoniae,-,,,7.0,30.0
+"Klebsiella ",pneumoniae,-,,,7.0,30.0
+"Klebsiella ",pneumoniae,-,,,7.0,30.0
+Clostridium,acetobutylicum,"ATCC 824",0.0226754,1/h,6.6,22.0
+Clostridium,acetobutylicum,SA-2,0.033283,1/h,6.6,22.0
+Clostridium,acetobutylicum,"ATCC 824",0.0071706,1/h,6.6,22.0
+Clostridium,acetobutylicum,SA-2,0.0113646,1/h,6.6,22.0
+Clostridium,acetobutylicum,"ATCC 824",0.0408424,1/h,6.6,37.0
+Clostridium,acetobutylicum,SA-2,0.0828931,1/h,6.6,37.0
+Clostridium,acetobutylicum,"ATCC 824",0.0050548,1/h,6.6,37.0
+Clostridium,acetobutylicum,SA-2,0.0362459,1/h,6.6,37.0
+Clostridium,acetobutylicum,"ATCC 824",0.0532017,1/h,6.6,42.0
+Clostridium,acetobutylicum,SA-2,0.0647308,1/h,6.6,42.0
+Clostridium,beijerinckii,"NCIMB 8052",0.22142,1/h,,37.0
+Escherichia,coli,"O157:H7 ATCC 43895",0.295,1/h,,37.0
+Escherichia,coli,"O157:H7 ATCC 43895",0.266,1/h,,37.0
+Escherichia,coli,"O157:H7 ATCC 43895",0.11,1/h,,37.0
+Escherichia,coli,"O157:H7 ATCC 43895",0.206,1/h,,37.0
+Escherichia,coli,"O157:H7 ATCC 43895",0.17,1/h,,37.0
+Escherichia,coli,"O157:H7 ATCC 43895",0.262,1/h,,37.0
+Escherichia,coli,"O157:H7 ATCC 43895",0.271,1/h,,37.0
+Escherichia,coli,"O157:H7 ATCC 43895",0.165,1/h,,37.0
+Escherichia,coli,"O157:H7 ATCC 43895",0.241,1/h,,37.0
+Escherichia,coli,HB101,0.42,1/h,7.0,37.0
+Escherichia,coli,HB101,0.9,1/h,7.0,37.0
+Escherichia,coli,HB101,,,7.4,37.0
+Escherichia,coli,HB101,0.242,1/h,,37.0
+Escherichia,coli,HB101,0.18,1/h,,37.0
+Escherichia,coli,HB101,0.82,1/h,7.0,37.0
+Escherichia,coli,HB101,0.98,1/h,7.0,37.0
+Escherichia,coli,HB101,0.4,1/h,7.0,37.0
+Escherichia,coli,HB101,0.46,1/h,7.0,37.0
+Escherichia,coli,HB101,0.38,1/h,7.0,37.0
+Escherichia,coli,JM109,0.001,1/h,7.0,30.0
+Escherichia,coli,"JM109[pEcoR4,pRK248cI,pMTC48]",0.58,1/h,7.0,30.0
+Escherichia,coli,JM109,0.412,1/h,,37.0
+Escherichia,coli,JM109,0.258,1/h,,37.0
+Escherichia,coli,"JM109[pUC 13]",0.092,1/h,7.3,37.0
+Escherichia,coli,"JM109[pUC 13]",0.106,1/h,7.3,37.0
+Escherichia,coli,"JM109[pUC 13]",0.141,1/h,7.3,37.0
+Escherichia,coli,"JM109[pUC 13]",0.186,1/h,7.3,37.0
+Escherichia,coli,"JM109[pUC 13]",0.102,1/h,7.3,37.0
+Escherichia,coli,BW25113,0.85,1/h,7.0,37.0
+Escherichia,coli,BW25113_pflA-,0.18,1/h,7.0,37.0
+Escherichia,coli,BW25113_pta-,0.24,1/h,7.0,37.0
+Escherichia,coli,BW25113_ppc-,0.01,1/h,7.0,37.0
+Escherichia,coli,BW25113_adhE-,0.03,1/h,7.0,37.0
+Escherichia,coli,BW25113_pykF-,0.48,1/h,7.0,37.0
+Escherichia,coli,BW25113,0.8304,1/h,7.0,37.0
+Escherichia,coli,BW25113_pflB-,0.789,1/h,7.0,37.0
+Escherichia,coli,BW25113,0.62,1/h,7.0,37.0
+Escherichia,coli,BW25113,0.38,1/h,7.0,37.0
+Escherichia,coli,BW25113_gnd-,0.6,1/h,7.0,37.0
+Escherichia,coli,BW25113_gnd-,0.39,1/h,7.0,37.0
+Escherichia,coli,BW25113_zwf-,0.56,1/h,7.0,37.0
+Escherichia,coli,BW25113_zwf-,0.36,1/h,7.0,37.0
+Escherichia,coli,BW25113,0.41,1/h,7.0,37.0
+Escherichia,coli,BW25113_ppc-,0.34,1/h,7.0,37.0
+Escherichia,coli,BW25113,0.2466,1/h,7.0,37.0
+Escherichia,coli,BW25113_zwf-,0.1829,1/h,7.0,37.0
+Escherichia,coli,BW25113,0.3217,1/h,7.0,37.0
+Escherichia,coli,BW25113_zwf-,0.2447,1/h,7.0,37.0
+Escherichia,coli,K-10,0.96,1/h,7.2,37.0
+Escherichia,coli,K-10,0.64,1/h,,
+Escherichia,coli,K-10,0.533,1/h,,
+Escherichia,coli,K-10,0.743,1/h,,
+Escherichia,coli,K-10,0.69,1/h,6.5,37.0
+Escherichia,coli,"MG1655 / pKB2",0.547,1/h,,37.0
+Escherichia,coli,"MG1655 / pKB2",0.349,1/h,,37.0
+Escherichia,coli,"MG1655 / pKB2",0.297,1/h,,37.0
+Escherichia,coli,"MG1655 / pKB2",0.193,1/h,,37.0
+Escherichia,coli,"VH1000 :: ppcnB-lacZ",0.832,1/h,,37.0
+Escherichia,coli,"VH1000 :: ppcnB-lacZ",0.54,1/h,,37.0
+Escherichia,coli,"VH1000 :: ppcnB-lacZ",0.484,1/h,,37.0
+Escherichia,coli,"VH1000 :: ppcnB-lacZ",0.31,1/h,,37.0
+Escherichia,coli,MG1655[pBR322],0.717,1/h,,37.0
+Escherichia,coli,MG1655[pBR322],0.785,1/h,,37.0
+Escherichia,coli,MG1655[pPP1],0.832,1/h,,37.0
+Escherichia,coli,MG1655[pPP1],0.785,1/h,,37.0
+Escherichia,coli,W3110[pBR322],0.63,1/h,,37.0
+Escherichia,coli,W3110[pBR322],0.693,1/h,,37.0
+Escherichia,coli,W3110[pPP1],0.705,1/h,,37.0
+Escherichia,coli,W3110[pPP1],0.682,1/h,,37.0
+Thermotoga,maritima,-,0.555,1/h,6.5,85.0
+Escherichia,coli,ML30G,0.763,1/h,,37.0
+Escherichia,coli,TS689,0.749,1/h,,37.0
+Escherichia,coli,K-12,0.562,1/h,,37.0
+Salmonella,enterica,"Typhimurium LT2",0.612,1/h,,37.0
+Escherichia,coli,MG1655,0.78025,1/h,,37.0
+Escherichia,coli,MDS12,0.743908,1/h,,37.0
+Escherichia,coli,MG1655,0.61,1/h,,37.0
+Escherichia,coli,W3110,0.55,1/h,,37.0
+Escherichia,coli,JM101,0.69,1/h,,37.0
+Escherichia,coli,K-10_Zwf-,0.68,1/h,,37.0
+Escherichia,coli,W3110_Pgi-,0.17,1/h,,37.0
+Escherichia,coli,K-10_PfkA-,0.08,1/h,,37.0
+Escherichia,coli,JM101_PykAF-,0.6,1/h,,37.0
+Escherichia,coli,K-12_Mae-_Pck-,0.41,1/h,,37.0
+Escherichia,coli,MG1655_SdhA-_Mdh-,0.5,1/h,,37.0
+Escherichia,coli,K-12_FumA-,0.67,1/h,,37.0
+Rhizobium,etli,CE3,0.208424,1/h,6.8,28.0
+Rhizobium,etli,12-53,0.0142805,1/h,6.8,28.0
+Rhizobium,etli,12-53,0.311643,1/h,6.8,28.0
+Rhizobium,etli,CE3,0.290801,1/h,6.8,28.0
+Rhizobium,etli,12-53,0.101234,1/h,6.8,28.0
+Rhizobium,etli,CE3,0.234228,1/h,6.8,28.0
+Rhizobium,etli,12-53,0.252099,1/h,6.8,28.0
+Rhizobium,etli,CE3,0.262018,1/h,6.8,28.0
+Rhizobium,etli,12-53,0.234232,1/h,6.8,28.0
+Clostridium,thermocellum,"ATCC 27405",,,7.4,60.0
+Escherichia,coli,MC4100,0.93,1/h,7.4,37.0
+Escherichia,coli,MC4100,0.5,1/h,7.4,37.0
+Escherichia,coli,MC4100,0.5,1/h,7.4,37.0
+Escherichia,coli,MC4100,0.65,1/h,7.4,37.0
+Escherichia,coli,MC4100,0.72,1/h,7.4,37.0
+Escherichia,coli,MC4100,0.54,1/h,7.4,37.0
+Escherichia,coli,MC4100,0.33,1/h,,
+Escherichia,coli,MC4100,1.3,1/h,7.0,
+Escherichia,coli,MC4100,0.54,1/h,,37.0
+Escherichia,coli,MC4100,0.22,1/h,,37.0
+Rhizobium,etli,CE3,0.221402,1/h,6.8,28.0
+Rhizobium,etli,CE3,0.125596,1/h,6.8,28.0
+Rhizobium,etli,M4,0.113385,1/h,6.8,28.0
+Rhizobium,etli,"Viking 1",0.0444817,1/h,6.8,28.0
+Rhizobium,etli,CIAT613,0.0388748,1/h,6.8,28.0
+Escherichia,coli,W3110,0.24,1/h,7.4,37.0
+Escherichia,coli,W3110,0.97,1/h,,
+Escherichia,coli,W3110,0.112,1/h,7.0,37.0
+Rhizobium,etli,CE3,0.313989,1/h,6.8,28.0
+Rhizobium,etli,M4,0.0383764,1/h,6.8,28.0
+Rhizobium,etli,"Viking 1",0.0470983,1/h,6.8,28.0
+Rhizobium,etli,CIAT613,0.125596,1/h,6.8,28.0
+Rhizobium,etli,CE3,0.251191,1/h,6.8,28.0
+Rhizobium,etli,M4,0.298289,1/h,6.8,28.0
+Rhizobium,etli,"Viking 1",0.308756,1/h,6.8,28.0
+Rhizobium,etli,CIAT613,0.248574,1/h,6.8,28.0
+Rhizobium,etli,CFN42,0.393358,1/h,6.8,28.0
+Rhizobium,etli,CFN42,0.353506,1/h,6.8,28.0
+Rhizobium,etli,ReTV1,0.121525,1/h,6.8,28.0
+Rhizobium,etli,ReTV2,0.121525,1/h,6.8,28.0
+Rhizobium,etli,ReTV1,0.39016,1/h,6.8,28.0
+Rhizobium,etli,ReTV2,0.3262,1/h,6.8,28.0
+Rhizobium,etli,CFNX186,0.121525,1/h,6.8,28.0
+Rhizobium,etli,CFNX186-4,0.281427,1/h,6.8,28.0
+Rhizobium,etli,CFNX186-24,0.281427,1/h,6.8,28.0
+Rhizobium,etli,CFNX186,0.268635,1/h,6.8,28.0
+Rhizobium,etli,CFNX186-4,0.281427,1/h,6.8,28.0
+Rhizobium,etli,CFNX186-24,0.281427,1/h,6.8,28.0
+Vibrio,vulnificus,C7184,0.142541,1/h,,37.0
+Vibrio,vulnificus,C7184,0.921034,1/h,,37.0
+Natronomonas,pharaonis,"DSM 2160",0.0868833,1/h,9.2,40.0
+Bacillus,subtilis,168,1.342,1/h,6.5,37.0
+Bacillus,subtilis,168,1.54,1/h,6.5,
+Shewanella,oneidensis,MR-1,0.694849,1/h,7.0,
+Shewanella,oneidensis,SO4118,0.537122,1/h,7.0,
+Shewanella,oneidensis,SO3855,0.422618,1/h,7.0,
+Shewanella,oneidensis,SO4606/SO2363,0.465863,1/h,7.0,
+Shewanella,oneidensis,SO4606,0.381525,1/h,7.0,
+Shewanella,oneidensis,MR-1,0.26096,1/h,7.0,
+Shewanella,oneidensis,SO0781,0.315539,1/h,7.0,
+Shewanella,oneidensis,MR-1,0.221467,1/h,7.0,
+Shewanella,oneidensis,SO0781,0.112307,1/h,7.0,
+Shewanella,oneidensis,MR-1,0.0556068,1/h,7.0,
+Shewanella,oneidensis,SO0781,0.0301294,1/h,7.0,
+Shewanella,oneidensis,MR-1,0.26609,1/h,7.0,
+Shewanella,oneidensis,MR-1,0.191711,1/h,7.0,
+Shewanella,oneidensis,MR-1,0.304784,1/h,7.0,
+Shewanella,oneidensis,MR-1,0.231172,1/h,7.0,
+Escherichia,coli,BL21(DE3),,,,
+Escherichia,coli,B834(DE3),,,,
+Escherichia,coli,BL21(DE3),,,,
+Escherichia,coli,B834(DE3),,,,
+Escherichia,coli,BL21(DE3),,,,
+Escherichia,coli,B834(DE3),,,,
+Escherichia,coli,BL21(DE3),,,,
+Escherichia,coli,B834(DE3),,,,
+Escherichia,coli,BL21,0.33472,1/h,7.0,37.0
+Escherichia,coli,BL21,0.20776,1/h,7.0,37.0
+Escherichia,coli,BL21,0.15851,1/h,7.0,37.0
+Escherichia,coli,BL21,0.13373,1/h,7.0,37.0
+Escherichia,coli,BL21(DE3),0.408,1/h,7.0,37.0
+Escherichia,coli,BL21(DE3),0.63,1/h,7.0,37.0
+Escherichia,coli,BL21(DE3),0.533,1/h,7.0,37.0
+Pseudomonas,putida,KT2440,0.56,1/h,,30.0
+Pseudomonas,putida,KT2440,0.72,1/h,,30.0
+Pseudomonas,putida,KT2440,0.26,1/h,,30.0
+Pseudomonas,putida,KT2440,0.43,1/h,,30.0
+Pseudomonas,putida,KT2440,0.54,1/h,,30.0
+Bacillus,subtilis,1S53,0.108,1/h,6.8,37.0
+Bacillus,subtilis,1S53,0.489,1/h,6.8,37.0
+Bacillus,subtilis,1S53,0.64,1/h,6.8,37.0
+Bacillus,subtilis,1S53,0.252,1/h,,37.0
+Bacillus,subtilis,1S53,0.347,1/h,,37.0
+Bacillus,subtilis,168,0.347,1/h,6.8,37.0
+Bacillus,subtilis,168,0.693,1/h,6.8,37.0
+Bacillus,subtilis,168,0.924,1/h,6.8,37.0
+Bacillus,subtilis,168,0.489,1/h,,37.0
+Bacillus,subtilis,168,0.924,1/h,,37.0
+Bacillus,subtilis,168,0.756,1/h,,37.0
+Bacillus,subtilis,JH642,0.28466,1/h,,
+Bacillus,subtilis,JH642,0.271165,1/h,,
+Bacillus,subtilis,JH642,0.3631,1/h,,
+Bacillus,subtilis,JH642,0.282973,1/h,,
+Bacillus,subtilis,JH642,0.319663,1/h,,
+Bacillus,subtilis,JH642,0.288456,1/h,,
+Bacillus,subtilis,JH642,0.431629,1/h,,
+Bacillus,subtilis,JH642,0.260411,1/h,,
+Bacillus,subtilis,JH642,0.480338,1/h,,
+Bacillus,subtilis,JH642,0.25767,1/h,,
+Bacillus,subtilis,JH642,0.377649,1/h,,
+Bacillus,subtilis,JH642,0.234897,1/h,,
+Bacillus,subtilis,LAB2135,0.194834,1/h,,
+Bacillus,subtilis,LAB2136,0.278967,1/h,,
+Bacillus,subtilis,LAB2234,0.301107,1/h,,
+Bacillus,subtilis,LAB2339,0.194834,1/h,,
+Bacillus,subtilis,LAB2341,0.221402,1/h,,
+Bacillus,subtilis,LAB2408,0.278967,1/h,,
+Bacillus,subtilis,LAB2439,0.256827,1/h,,
+Bacillus,subtilis,LAB2506,0.252399,1/h,,
+Bacillus,subtilis,LAB2135,0.256827,1/h,,
+Bacillus,subtilis,LAB2136,0.305535,1/h,,
+Bacillus,subtilis,LAB2234,0.283395,1/h,,
+Bacillus,subtilis,LAB2339,0.221402,1/h,,
+Bacillus,subtilis,LAB2341,0.212546,1/h,,
+Bacillus,subtilis,LAB2408,0.305535,1/h,,
+Bacillus,subtilis,LAB2439,0.265683,1/h,,
+Bacillus,subtilis,LAB2506,0.283395,1/h,,
+Bacillus,subtilis,"ATCC 6051",0.667829,1/h,6.8,
+Bacillus,subtilis,"ATCC 6051_pyk+",0.066332,1/h,6.8,
+Bacillus,subtilis,168CA,1.02245,1/h,,
+Bacillus,subtilis,168CA,0.721183,1/h,,
+Bacillus,subtilis,GM1501,0.238825,1/h,,
+Bacillus,subtilis,GM1501,0.760544,1/h,,
+Bacillus,subtilis,GM1500,0.504798,1/h,,
+Bacillus,subtilis,GM1500,0.106273,1/h,,
+Bradyrhizobium,japonicum,"USDA 110",0.0315,1/h,7.0,28.0
+Bradyrhizobium,japonicum,"USDA 110",0.0578,1/h,7.0,28.0
+Bradyrhizobium,japonicum,"USDA 110",0.0546,1/h,6.8,28.0
+Hydrogenobacter,thermophilus,TK-6,0.36,1/h,7.0,70.0
+Hydrogenobacter,thermophilus,TK-6,0.046,1/h,7.0,70.0
+Salmonella,enterica,"Typhimurium LT2",0.832,1/h,7.0,
+Salmonella,enterica,"Typhimurium LT2",0.652,1/h,7.0,
+Salmonella,enterica,"Typhimurium LT2",0.624,1/h,7.0,
+Salmonella,enterica,"Typhimurium LT2",0.575,1/h,7.0,
+Salmonella,enterica,"Typhimurium LT2",0.575,1/h,7.0,
+Salmonella,enterica,"Typhimurium LT2",0.561,1/h,7.0,
+Salmonella,enterica,"Typhimurium LT2",0.541,1/h,7.0,
+Salmonella,enterica,"Typhimurium LT2",0.437,1/h,7.0,
+Salmonella,enterica,"Typhimurium LT2",0.43,1/h,7.0,
+Salmonella,enterica,Typhimurium,0.08,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.2,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.36,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.54,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.1,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.19,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.21,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.29,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.075,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.051,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.056,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.11,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.03,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.03,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.051,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.11,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.022,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.0215,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.021,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.108,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.062,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.118,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.147,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.125,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.021,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.0635,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.09,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.0605,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.018,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.027,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.049,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.048,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.063,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.128,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.145,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.162,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.051,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.093,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.068,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.077,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.018,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.072,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.044,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.05,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.058,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.0985,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.089,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.144,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.0595,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.0765,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.0875,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.1035,1/h,7.0,37.0
+Salmonella,enterica,Typhimurium,0.0385,1/h,4.0,37.0
+Salmonella,enterica,Typhimurium,0.0285,1/h,5.0,37.0
+Salmonella,enterica,Typhimurium,0.0585,1/h,6.0,37.0
+Salmonella,enterica,Typhimurium,0.043,1/h,7.0,37.0
+Salmonella,enterica,"Typhimurium LT2",0.743,1/h,,37.0
+Salmonella,enterica,"Typhimurium flr-19",0.743,1/h,,37.0
+Salmonella,enterica,"Typhimurium flr-191",0.743,1/h,,37.0
+Salmonella,enterica,"Typhimurium CV241",0.495,1/h,,37.0
+Hydrogenobacter,thermophilus,TK-6,0.33,1/h,,70.0
+Streptomyces,Coelicolor,J802,0.0304078,1/h,7.2,30.0
+Streptomyces,Coelicolor,J802,0.0272364,1/h,7.2,30.0
+Streptomyces,Coelicolor,J802,0.0330142,1/h,7.2,30.0
+Streptomyces,Coelicolor,J802,0.0345022,1/h,7.2,30.0
+Streptomyces,Coelicolor,A3(2),1.38629,1/h,7.2,30.0
+Streptomyces,Coelicolor,J802,0.365,1/h,,
+Streptomyces,Coelicolor,J802,0.178,1/h,,
+Streptomyces,Coelicolor,J802,0.193,1/h,,
+Streptomyces,Coelicolor,J802,0.025,1/h,,
+Streptomyces,Coelicolor,J802,0.193,1/h,,
+Streptomyces,Coelicolor,J802,0.301,1/h,,
+Streptomyces,Coelicolor,J802,0.11,1/h,,
+Streptomyces,Coelicolor,J802,0.136,1/h,,
+Streptomyces,Coelicolor,J802,0.114,1/h,,
+Streptomyces,Coelicolor,J802,0.154,1/h,,
+Streptomyces,Coelicolor,J802,0.0468,1/h,,
+Streptomyces,Coelicolor,J802,0.257,1/h,,
+Streptomyces,Coelicolor,J802,0.495,1/h,,
+Streptomyces,Coelicolor,J802,0.462,1/h,,
+Streptomyces,Coelicolor,J802,0.224,1/h,,
+Streptomyces,Coelicolor,J802,0.165,1/h,,
+Streptomyces,Coelicolor,J802,0.133,1/h,,
+Streptomyces,Coelicolor,J802,0.239,1/h,,
+Streptomyces,Coelicolor,J802,0.165,1/h,,
+Streptomyces,Coelicolor,J845,0.016,1/h,,
+Streptomyces,Coelicolor,J845,0.0636,1/h,,
+Streptomyces,Coelicolor,J845,0.041,1/h,,
+Streptomyces,Coelicolor,J845,0.231,1/h,,
+Streptomyces,Coelicolor,J845,0.151,1/h,,
+Streptomyces,Coelicolor,J845,0.495,1/h,,
+Streptomyces,Coelicolor,J845,0.257,1/h,,
+Streptomyces,Coelicolor,J846,0.21,1/h,,
+Streptomyces,Coelicolor,J846,0.365,1/h,,
+Streptomyces,Coelicolor,J846,0.248,1/h,,
+Streptomyces,Coelicolor,J846,0.289,1/h,,
+Streptomyces,Coelicolor,J846,0.347,1/h,,
+Streptomyces,Coelicolor,J846,0.385,1/h,,
+Streptomyces,Coelicolor,J846,0.102,1/h,,
+Streptomyces,Coelicolor,J847,0.0715,1/h,,
+Streptomyces,Coelicolor,J847,0.0707,1/h,,
+Streptomyces,Coelicolor,J847,0.0924,1/h,,
+Streptomyces,Coelicolor,J847,0.248,1/h,,
+Streptomyces,Coelicolor,J847,0.173,1/h,,
+Streptomyces,Coelicolor,J847,0.289,1/h,,
+Streptomyces,Coelicolor,J847,0.21,1/h,,
+Escherichia,coli,KO229,0.5493,1/h,6.7,37.0
+Escherichia,coli,BL21[pACYC184],0.5871,1/h,6.7,37.0
+Escherichia,coli,BL21[pACDdsA],0.5964,1/h,6.7,37.0
+Escherichia,coli,BL21(DE3),0.457,1/h,,37.0
+Escherichia,coli,BL21[pET-ASPP],0.4618,1/h,,37.0
+Escherichia,coli,BL21[pET-28b(+)],0.4338,1/h,,37.0
+Escherichia,coli,BL21_aspP-,0.4758,1/h,,37.0
+Haemophilus,influenzae,Rd,1.167,1/h,,
+Haemophilus,influenzae,Rd,,,,
+Haemophilus,influenzae,Rd,,,,
+Haemophilus,influenzae,Rd,,,,
+Corynebacterium,glutamicum,"ATCC 13032",0.28,1/h,6.5,30.0
+Corynebacterium,glutamicum,"ATCC 13032",0.36,1/h,6.5,30.0
+Corynebacterium,glutamicum,"ATCC 13032",0.32,1/h,6.5,30.0
+Neurospora,crassa,OR74A,,,5.8,25.0
+Mannheimia,succiniciproducens,MMBEL55E,0.62,1/h,7.0,
+Mannheimia,succiniciproducens,MMBEL55E,0.72,1/h,7.0,
+Mycobacterium,tuberculosis,H37Rv,0.0472,1/h,6.9,37.0
+Zymomonas,mobilis,CP4,0.3,1/h,,30.0
+Zymomonas,mobilis,11163,0.38,1/h,,30.0
+Zymomonas,mobilis,"ATCC 10988",0.28,1/h,,30.0
+Zymomonas,mobilis,CU1,0.33,1/h,,30.0
+Staphylococcus,aureus,N315,0.55,1/h,,37.0
+Acinetobacter,baumannii,"ATCC 19606",0.17,1/h,7.4,37.0
+Acinetobacter,baumannii,"ATCC 19606",0.95,1/h,7.4,37.0
+Cyanothece,"","ATCC 51142",0.12,1/h,7.7,30.0
+Deinococcus,radiodurans,R1,0.224,1/h,,35.0
+Deinococcus,radiodurans,R1,0.217,1/h,,35.0
+Deinococcus,radiodurans,R1,0.21,1/h,,35.0
+Deinococcus,radiodurans,R1,0.178,1/h,,35.0
+Bacillus,amyloliquefaciens,B155,0.75,1/h,,37.0
+Bacillus,amyloliquefaciens,B20,0.074,1/h,,37.0
+Bacillus,amyloliquefaciens,B20,0.22,1/h,,37.0
+Aspergillus,nidulans,conidia,,"",6.5,37.0
+Aspergillus,nidulans,conidia,,"",6.5,28.0
+Aspergillus,nidulans,A187,,"",7.0,37.0
+Aspergillus,nidulans,creA,,"",7.0,37.0
+Aspergillus,nidulans,TA1,,"",6.0,30.0
+Aspergillus,niger,AB1.13,,"",5.5,30.0
+Aspergillus,oryzae,A1560,0.184,"",6.0,30.0
+Aspergillus,oryzae,CF1.1,,"",6.0,30.0
+Aspergillus,oryzae,CF2.1,,"",6.0,30.0
+Francisella,tularensis,-,,"",6.3,
+Halobacterium,salinarum,R-1,,"",7.2,40.0
+Ketogulonicigenium,vulgare,-,,"",7.0,30.0
+Bacillus,megaterium,-,,"",7.0,30.0
+Bacillus,megaterium,"KM Leu-",,"",7.5,30.0
+Bacillus,megaterium,"KM Leu-",,"",7.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Cupriavidus,necator,H16,,"",6.0,30.0
+Cupriavidus,necator,H16,,"",7.0,30.0
+Cupriavidus,necator,H16,,"",8.0,30.0
+Synechocystis,PCC6803,-,,"",7.5,30.0
+Streptococcus,thermophilus,ST1,2.35,"",6.7,37.0
+Streptococcus,thermophilus,ST7,1.9,"",6.7,37.0
+Streptococcus,thermophilus,ST8,1.48,"",6.7,37.0
+Streptococcus,thermophilus,ST11,2.2,"",6.7,37.0
+Streptococcus,thermophilus,ST18,2.33,"",6.7,37.0
+Streptococcus,thermophilus,ST21,1.6,"",6.7,37.0
+Aspergillus,terreus,"ATCC 74135",0.052,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,terreus,"ATCC 74135",,"",6.5,28.0
+Aspergillus,oryzae,A1560,,"",6.0,30.0
+Aspergillus,oryzae,CF1.1,,"",6.0,30.0
+Aspergillus,oryzae,CF2.1,,"",6.0,30.0
+Aspergillus,niger,AB1.13,,"",5.5,30.0
+Aspergillus,nidulans,A28,,"",6.0,30.0
+Aspergillus,nidulans,A187,,"",7.0,37.0
+Aspergillus,nidulans,creA,,"",7.0,37.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",0.069,"",5.5,30.0
+Candida,glabrata,WSH-IP303,0.049,"",5.5,30.0
+Candida,glabrata,"CTCC M202019",0.059,"",5.5,30.0
+Candida,glabrata,WSH-IP303,0.071,"",5.5,30.0
+Thermotoga,maritima,"DSM 3109",,"",,88.0
+Thermotoga,maritima,"DSM 3109",,"",6.3,85.0
+Synechocystis,PCC6803,-,0.0187,"",7.8,30.0
+Synechocystis,PCC6803,-,0.0185,"",7.8,30.0
+Synechocystis,PCC6803,-,0.0204,"",7.8,30.0
+Synechocystis,PCC6803,-,0.0167,"",7.5,31.0
+Synechocystis,PCC6803,-,0.0166,"",7.5,31.0
+Synechocystis,PCC6803,-,0.024,"",8.0,31.0
+Synechocystis,PCC6803,-,0.0061,"",8.0,31.0
+Synechocystis,PCC6803,psbA,0.024,"",8.0,31.0
+Albidiferax,ferrireducens,"DMS 15236",,"",6.7,33.0
+Albidiferax,ferrireducens,"DMS 15236",,"",6.7,33.0
+Cupriavidus,necator,H16,,"",6.0,30.0
+Cupriavidus,necator,H16,,"",7.0,30.0
+Cupriavidus,necator,H16,,"",8.0,30.0
+Streptococcus,thermophilus,ST1,0.6,"",6.7,37.0
+Streptococcus,thermophilus,ST8,0.36,"",6.7,37.0
+Streptococcus,thermophilus,ST11,0.56,"",6.7,37.0
+Streptococcus,thermophilus,ST7,0.53,"",6.7,37.0
+Streptococcus,thermophilus,ST18,0.7,"",6.7,37.0
+Streptococcus,thermophilus,ST21,0.63,"",6.7,37.0
+Neiserria,meningitidis,"serogroup B",,"",7.0,37.0
+Neiserria,meningitidis,M1,,"",,37.0
+Neiserria,meningitidis,M5,,"",,37.0
+Neiserria,meningitidis,M6,,"",,37.0
+Saccharomyces,cerevisiae,Y294,0.33,"",5.0,30.0
+Saccharomyces,cerevisiae,"CBS 8066",,"",5.0,30.0
+Saccharomyces,cerevisiae,"CBS 8066",,"",5.0,30.0
+Saccharomyces,cerevisiae,T2-3D,0.45,"",5.0,30.0
+Saccharomyces,cerevisiae,T2-3D,0.13,"",5.0,30.0
+Saccharomyces,cerevisiae,"GG 570",0.13,"",5.0,30.0
+Saccharomyces,cerevisiae,Y294[PGK1],0.28,"",5.0,30.0
+Saccharomyces,cerevisiae,Y294[PGK1-XYN],0.25,"",5.0,30.0
+Saccharomyces,cerevisiae,Y294[ADH2],0.29,"",5.0,30.0
+Saccharomyces,cerevisiae,Y294[ADH2-XYN],0.27,"",5.0,30.0
+Lactococcus,lactis,MG1363,0.28,"",7.2,30.0
+Lactococcus,lactis,MG1363,0.32,"",7.2,30.0
+Lactococcus,lactis,MG1363,0.31,"",7.2,30.0
+Lactococcus,lactis,MG1363,0.29,"",7.2,30.0
+Lactococcus,lactis,MG1363,0.36,"",7.2,30.0
+Lactococcus,lactis,MG1363,0.73,"",7.2,30.0
+Lactococcus,lactis,MG1614,0.63,"",7.2,30.0
+Lactococcus,lactis,"NCDO 2118",0.55,"",7.2,30.0
+Lactococcus,lactis,C2,0.63,"",7.2,30.0
+Lactococcus,lactis,IL1403,0.64,"",7.2,30.0
+Lactococcus,lactis,"NCDO 2118",1.0,"",6.6,30.0
+Lactococcus,lactis,"NCDO 2118",0.6,"",6.6,30.0
+Lactococcus,lactis,IL1403,0.5,"",6.6,30.0
+Lactococcus,lactis,"NCDO 2118",0.23,"",6.6,30.0
+Lactococcus,lactis,IL1403,0.37,"",6.6,30.0
+Lactococcus,lactis,MG1363,,"",6.6,30.0
+Lactococcus,lactis,MG1363,0.905,"",6.6,30.0
+Lactococcus,lactis,MG1363,0.83,"",6.6,30.0
+Lactococcus,lactis,MG1363,0.78,"",6.6,30.0
+Lactococcus,lactis,MG1363,0.818,"",6.6,30.0
+Lactococcus,lactis,MG1363,0.784,"",6.6,30.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Geobacter,metallireducens,-,,"",6.7,33.0
+Methanosarcina,acetivorans,C2A,,"",8.0,35.0
+Methanosarcina,barkeri,Fusaro,,"",8.0,35.0
+Methanococcus,maripaludis,JJ,0.27,"",6.5,30.0
+Methanococcus,maripaludis,S2,,"",6.5,37.0
+Methanococcus,maripaludis,MM1020,,"",6.5,37.0
+Methanococcus,maripaludis,MM1097,,"",6.5,37.0
+Methanococcus,maripaludis,MM1145,,"",6.5,37.0
+Methanococcus,maripaludis,MM1183,,"",6.5,37.0
+Methanococcus,maripaludis,MM1184,,"",6.5,37.0
+Methanococcus,maripaludis,MM707,,"",6.5,37.0
+Methanococcus,maripaludis,MM708,,"",6.5,37.0
+Methanococcus,maripaludis,MM709,,"",6.5,37.0
+Pelagibacter,ubique,HTCC1062,0.0171,"",7.5,20.0
+Pelagibacter,ubique,HTCC1062,0.0171,"",7.5,20.0
+Pelagibacter,ubique,HTCC1062,0.0171,"",7.5,20.0
+Pelagibacter,ubique,HTCC1062,0.0171,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,0.0146,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,0.0146,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,0.0146,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,0.0146,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,,"",7.5,20.0
+Pelagibacter,sp,HTCC7211,,"",7.5,20.0

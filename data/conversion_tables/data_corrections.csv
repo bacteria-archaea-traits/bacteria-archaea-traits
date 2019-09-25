@@ -1,0 +1,206 @@
+data_source,tax_id,org_name,column,org_value,new_value,comment,reference
+gold,1095955,Treponema pallidum pallidum Sea 81-4,d1_lo,6,0.1,Incorrect,ISBN-10: 0-9631172-1-1
+gold,1095955,Treponema pallidum pallidum Sea 81-4,d1_up,20,0.2,Incorrect,ISBN-10: 0-9631172-1-1
+gold,1095955,Treponema pallidum pallidum Sea 81-4,d2_lo,18,6,Incorrect,ISBN-10: 0-9631172-1-1
+gold,1095955,Treponema pallidum pallidum Sea 81-4,d2_up,20,15,Incorrect,ISBN-10: 0-9631172-1-1
+fierer,454162,Kiloniella laminariae,d1_lo,3.75,0.5,Incorrect,dx.doi.org/10.1099/ijs.0.001651-0
+fierer,454162,Kiloniella laminariae,d2_lo,5.5,2.5,Incorrect,dx.doi.org/10.1099/ijs.0.001651-0
+gold,158189,Sphaerochaeta globosa Buddy,d1_lo,3,0.4,Incorrect,dx.doi.org/10.1099/ijs.0.023986-0
+gold,158189,Sphaerochaeta globosa Buddy,d1_up,25,2.5,Incorrect,dx.doi.org/10.1099/ijs.0.023986-0
+fierer,545502,Ornithinibacillus bavariensis,d1_lo,0,0.4,Incorrect,dx.doi.org/10.1099/ijs.0.64038-0
+fierer,545502,Ornithinibacillus bavariensis,d1_up,4,0.4,Incorrect,dx.doi.org/10.1099/ijs.0.64038-0
+fierer,265426,Pontibacillus chungwhensis,d1_lo,0,0.6,Incorrect,dx.doi.org/10.1099/ijs.0.63315-0
+gold,40318,Streptomyces nodosus ATCC 14899,genome_size,113193,7714110,Incorrect,NCBI genome [NCBI Reference Sequence: NZ_CP009313.1]
+gold,1307457,Kineosporia mikuniensis JCM 9961,genome_size,302968,902075,Incorrect,NCBI genome [INSDC: BBIG00000000.1]
+gold,1305865,Cellulomonas chitinilytica JCM 16927,genome_size,571202,1171080,Incorrect,NCBI genome [INSDC: BBHG00000000.1]
+gold,1305857,Cellulomonas composti JCM 14898,genome_size,782536,1280760,Incorrect,NCBI genome [INSDC: BBGY00000000.1]
+gold,314345,Mariprofundus ferrooxydans PV-1,metabolism,aerobic,microaerophilic,Incorrect,doi.org/10.1371/journal.pone.0025386
+gold,1188231,Mariprofundus ferrooxydans M34,metabolism,aerobic,microaerophilic,Incorrect,doi.org/10.1038/ismej.2014.183
+microbe-directory,334543,Psychrobacter arcticus,optimum_tmp,-10,22,Incorrect,doi.org/10.1099/ijs.0.64043-0
+microbe-directory,39486,Dorea formicigenerans,optimum_tmp,-60,NA,Incorrect,
+microbe-directory,251,Psychroflexus gondwanensis,optimum_tmp,-5,NA,Incorrect,doi.org/10.1099/00207713-43-1-77
+microbe-directory,28095,Burkholderia gladioli,optimum_tmp,121,NA,"Incorrect, mesophilic",
+methanogen,2322,Methanohalobium evestigatum,optimum_tmp,0,NA,Possibly incorrect,
+microbe-directory,57029,Psychroflexus torquis,optimum_tmp,-5,12.5,Incorrect,doi.org/10.1099/00221287-144-6-1601
+fierer,466153,Singulisphaera acidiphila,metabolism,microaerophilic,obligate aerobic,"Organism is able to grow under low oxygen conditions, but is not said to grow better under these conditions.",doi.org/10.1099/ijs.0.65593-0
+gold,466153,Singulisphaera acidiphila MOB10,metabolism,microaerophilic,obligate aerobic,"Organism is able to grow under low oxygen conditions, but is not said to grow better under these conditions.",doi.org/10.1099/ijs.0.65593-0
+gold,1118236,Shigella boydii 08_0009,d1_lo,0.012,NA,Correct according to input from GOLD but doesn't seem realistic,
+gold,1118236,Shigella boydii 08_0009,d1_up,0.014,NA,Correct according to input from GOLD but doesn't seem realistic,
+fierer,1229268,Salinibacillus xinjiangensis,d1_lo,2.5,0.2,Incorrect,doi.org/10.1099/ijs.0.053306-0
+microbe-directory,244596,Hoeflea phototrophica,optimum_ph,-1.5,7.5,Incorrect,doi.org/10.1099/ijs.0.63958-0
+genbank,452659,Rickettsia rickettsii str. Iowa,tRNA_genes,68,34,Incorrect - seems to be an issue with duplication due to genome having been replaced in genbank. Should likely check remaining values as well.,https://www.ncbi.nlm.nih.gov/nuccore/NC_010263
+genbank,1302858,Borrelia miyamotoi LB-2001,tRNA_genes,62,31,Incorrect - seems to be an issue with duplication due to genome having been replaced in genbank. Should likely check remaining values as well.,https://www.ncbi.nlm.nih.gov/nuccore/NC_022079.2
+fierer,619731,Halostagnicola kamekurae,sporulation,yes,no,"Incorrect, no known archaea sporulate. Also, sporulation not mentioned in original publication",doi.org/10.1099/ijs.0.014449-0
+fierer,416273,Natronomonas moolapensis,sporulation,yes,no,"Incorrect, no known archaea sporulate. Also, sporulation not mentioned in original publication",doi.org/10.1099/ijs.0.010132-0
+gold,1227452,Haloarcula amylolytica JCM 13557,sporulation,yes,no,"Incorrect, no known archaea sporulate. Also, sporulation not mentioned in original publication",doi.org/10.1099/ijs.0.64647-0
+corkrey,29426,Methylobacter vinelandii,doubling_h,1806.13,75,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,421,Methylomonas methanica,doubling_h,2717.42,112,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,426,Methylosinus trichosporium,doubling_h,3159,131,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,414,Methylococcus capsulatus,doubling_h,4566.05,119,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,29469,Methylocystis minimus,doubling_h,2863.79,191,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,202206,Methylocystis methanolicus,doubling_h,2646.81,110,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,134,Methylocystis parvus,doubling_h,3695.4,152,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,428,Methylosinus sporium,doubling_h,4575.93,187,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,202205,Methylobacter chroococcum,doubling_h,1070.09,74,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,202205,Methylobacter chroococcum,growth_tmp,14.9,30,"Incorrect, not temperature where fastest growth was observed",PMID: 11558268 
+corkrey,29468,Methylocystis echinoides,doubling_h,1186.39,83,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,29468,Methylocystis echinoides,growth_tmp,10,30,"Incorrect, not temperature where fastest growth was observed",PMID: 11558268 
+corkrey,29470,Methylocystis pyriformis,doubling_h,1257.68,153,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,29470,Methylocystis pyriformis,growth_tmp,10,30,"Incorrect, not temperature where fastest growth was observed",PMID: 11558268 
+corkrey,29425,Methylobacter bovis,doubling_h,2468.36,103,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+methanogen,1550566,Methanoculleus sediminis,doubling_h,0,NA,Cannot be correct,
+gold,157592,Sterolibacterium denitrificans DSM 13999,genome_size,952224,3103220,Incorrect,NCBI
+gold,68203,Streptomyces fungicidicus ATCC 21013,genome_size,116000,7667500,Incorrect,NCBI
+gold,1928,Streptomyces rochei 7434AN4,genome_size,210614,7682400,Incorrect,NCBI
+gold,1874,Micromonospora chalcea KY11091,genome_size,108236,7002790,Incorrect,NCBI
+gold,1303688,Nocardioides nitrophenolicus JCM 10703,genome_size,787463,1570670,Incorrect,NCBI
+gold,1305868,Cellulomonas hominis JCM 12133,genome_size,381033,845210,Incorrect,NCBI
+gold,1305869,Cellulomonas denverensis JCM 14733,genome_size,859201,1438440,Incorrect,NCBI
+gold,1294026,Aciditerrimonas ferrireducens JCM 15389,genome_size,772352,1176940,Incorrect,NCBI
+gold,1294259,Thermaerobacter composti JCM 15650,genome_size,667799,1085770,Incorrect,NCBI
+gold,1305867,Cellulomonas persica JCM 18111,genome_size,391802,821903,Incorrect,NCBI
+gold,992287,Cellulomonas pakistanensis JCM 18755,genome_size,351910,715138,Incorrect,NCBI
+gold,1303686,Agromyces mediolanus JCM 9631,genome_size,707946,1314350,Incorrect,NCBI
+gold,1307451,Catenuloplanes atrovinosus JCM 9535,genome_size,922859,1902390,Incorrect,NCBI
+gold,1305622,Nocardioides aromaticivorans JCM 11674,genome_size,899819,1689580,Incorrect,NCBI
+gold,1305627,Streptomyces mexicanus JCM 12681,genome_size,986785,2089350,Incorrect,NCBI
+gold,1307453,Catenuloplanes castaneus JCM 9537,genome_size,985626,2010410,Incorrect,NCBI
+gold,45398,Streptomyces griseoviridis NRRL 2427,genome_size,123563,8963410,Incorrect,NCBI
+gold,209650,Acidicaldus organivorans DX-1,genome_size,790262,2989630,Incorrect,NCBI
+kegg,1619077,Candidate division TM6 bacterium GW2011_GWF2_28_16,genome_size,853053,957686,Incorrect,NCBI
+gold,1348852,Mumia flava MUSC 201,genome_size,16377168,NA,Inconsistent (16Mb or 4.4Mb recorded),NCBI
+gold,1118279,Limnoraphis robusta CS-951,genome_size,14648592,7314120,Incorrect,NCBI
+gold,1245922,Scytonema millei VB511283,genome_size,11627246,7254120,Incorrect,NCBI
+gold,1233230,Scytonema tolypothrichoides VB-61278,genome_size,10008488,7893270,Incorrect,NCBI
+gold,1136105,Tolypothrix campylonemoides VB511288,genome_size,10627177,9468440,Incorrect,NCBI
+gold,1348852,Mumia flava DSM 27763,genome_size,4402465,NA,Inconsistent (16Mb or 4.4Mb recorded),NCBI
+gold,1900,Streptomyces cinnamonensis ATCC 15413,genome_size,103450,NA,"Cannot be verified, likely genome fragment",
+gold,285531,Streptomyces achromogenes rubradiris NRRL 3061,genome_size,105657,NA,"Cannot be verified, likely genome fragment",
+gold,324833,Streptomyces lasaliensis NRRL 3382R,genome_size,110927,NA,"Cannot be verified, likely genome fragment",
+gold,204925,Streptomyces nanchangensis NS3226,genome_size,185250,NA,"Cannot be verified, likely genome fragment",
+gold,42881,Streptomyces chromofuscus ATCC 49982,genome_size,159472,NA,"Cannot be verified, likely genome fragment",doi.org/10.1128/AEM.06904-11
+gold,28044,Streptomyces longisporoflavus NCIMB 11426,genome_size,169690,NA,"Cannot be verified, likely genome fragment",
+patric,1416969,NA,genome_size,596279,3794340,Incorrect,NCBI
+gold,115647,Streptomyces ansochromogenes,genome_size,124859,NA,"Cannot be verified, likely genome fragment",
+gold,56,Sorangium cellulosum So ce10,genome_size,100708,NA,"Cannot be verified, likely genome fragment",
+gold,56,Sorangium cellulosum So ce12,genome_size,148058,NA,"Cannot be verified, likely genome fragment",
+gold,813,Chlamydia trachomatis H17IMS,genome_size,13571223,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+gold,813,Chlamydia trachomatis H27IMS,genome_size,6874972,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+gold,813,Chlamydia trachomatis HPA1,genome_size,6230765,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+gold,813,Chlamydia trachomatis SwabB1,genome_size,5776213,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+gold,1304,Streptococcus salivarius 918_SSAL,genome_size,7700000,NA,"Cannot be verified, extremely large compared to other strains and entries",
+genbank,1744,Propionibacterium freudenreichii,genome_size,5476840,NA,Probably duplication of genome size in genbank entry,
+genbank,1744,Propionibacterium freudenreichii,genome_size,5058020,NA,Probably duplication of genome size in genbank entry,
+genbank,1744,Propionibacterium freudenreichii,genome_size,5360530,NA,Probably duplication of genome size in genbank entry,
+genbank,1744,Propionibacterium freudenreichii,genome_size,5318540,NA,Probably duplication of genome size in genbank entry,
+genbank,1744,Propionibacterium freudenreichii,genome_size,5237090,NA,Probably duplication of genome size in genbank entry,
+genbank,1744,Propionibacterium freudenreichii,genome_size,5509590,NA,Probably duplication of genome size in genbank entry,
+genbank,1744,Propionibacterium freudenreichii,genome_size,5438640,NA,Probably duplication of genome size in genbank entry,
+gold,1888,Streptomyces albus JA3453,genome_size,127726,NA,"Cannot be verified, likely genome fragment",
+gold,1888,Streptomyces albus XM211,genome_size,127961,NA,"Cannot be verified, likely genome fragment",
+gold,1415164,Staphylococcus cohnii hu-01,genome_size,5747033,NA,"Cannot be verified, likely genome duplication",
+gold,1305623,Isoptericola variabilis JCM 11754,genome_size,398602,NA,"Cannot be verified, likely genome fragment",
+gold,169292,Corynebacterium aurimucosum 118_CAUR,genome_size,8690000,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+patric,1074132,Streptococcus sobrinus TCI-157,genome_size,6599903,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+gold,37923,Kocuria kristinae RuSp02-3,genome_size,585785,NA,"Cannot be verified, likely genome fragment",
+gold,1408872,Borrelia burgdorferi IPT70,genome_size,143576,NA,"Cannot be verified, likely genome fragment",
+gold,1408863,Borrelia burgdorferi IPT27,genome_size,178140,NA,"Cannot be verified, likely genome fragment",
+gold,529,Ochrobactrum anthropi SUBG007,genome_size,1143713,NA,"Cannot be verified, likely genome fragment",
+gold,1353982,Morganella morganii morganii GM1DA1,genome_size,8701099,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+gold,1359174,Orientia tstsugamushi Sido,genome_size,712858,NA,"Cannot be verified, likely genome fragment",
+gold,1270,Micrococcus luteus A1,genome_size,109112,NA,"Cannot be verified, likely genome fragment",
+gold,1283,Staphylococcus haemolyticus 109_SHAE,genome_size,7090000,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+gold,1283,Staphylococcus haemolyticus 855_SHAE,genome_size,7190000,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+patric,1505,NA,genome_size,7810226,NA,"Cannot be verified, seems extremely large compared to other strains and entries",
+gold,1172204,Paeniclostridium sordellii 8483,genome_size,7808455,3512460,Incorrect,NCBI
+gold,59736,Leifsonia xyli xyli GXBZ01,genome_size,1229715,NA,"Cannot be verified, likely genome fragment",
+gold,1306178,Streptomyces antibioticus JCM 4620,genome_size,2622075,NA,Unlikely to be correct - 25% of common genome size,
+gold,1890,Streptomyces antibioticus DSM 40725,genome_size,111968,NA,Unlikely to be correct - 10% of common genome size,
+gold,1906,Streptomyces fradiae NRRL18158,genome_size,126933,NA,Unlikely to be correct - very small compared to other records (7Mb),
+gold,103721,Actinosynnema pretiosum pretiosum ATCC 31280,genome_size,100588,NA,"Cannot be verified, likely genome fragment",
+gold,1931,Streptomyces sp.,genome_size,116856,NA,"Cannot be verified, likely genome fragment",
+gold,523794,Leptotrichia buccalis ATCC 14201,genome_size,391843,2465610,Not correct,doi.org/10.4056/sigs.1854
+gold,1469144,Streptomyces thermoautotrophicus UBT1 subculture (Rosario),genome_size,10474252,NA,Could not be confirmed. Twice the size of other records.,
+gold,536227,Clostridium carboxidivorans P7,genome_size,11465760,NA,Could not be confirmed. Twice the size of other records.,
+gold,886877,Thioalkalivibrio versutus AL2,genome_size,5843682,NA,Could not be confirmed. Twice the size of other records.,
+gold,1403939,Actinomyces urogenitalis DORA_12,genome_size,832371,NA,Could not be confirmed. 30% of other records,
+gold,1303691,Streptomyces lavendulae lavendulae JCM 4055,genome_size,1126931,NA,Unlikely to be correct  (1/7 of other records). See publication,doi.org/10.1111/1751-7915.12344
+patric,1200984,Streptomyces lividans 1326,genome_size,16906698,8496762,"Not correct, see publication",doi.org10.1093/gbe/evt082
+gold,86668,Bacillus niacini DSM 2923,genome_size,2201253,NA,"Could not be confirmed. 30% of other records, publication seems to indicate size >6Mb which fit other records",doi.org/10.1128/genomeA.01251-14
+gold,1284629,Crocosphaera watsonii WH 0402,genome_size,1997175,5880358,Not correct according to publication,doi.org/10.1111/jpy.12090
+gold,1053688,Janibacter terrae JCM 12887,genome_size,1208664,NA,Could not be confirmed. 30% of other records,
+gold,1482,Virgibacillus halodenitrificans S2,genome_size,7399141,NA,Could not be confirmed. Twice the size of other records.,
+gold,1303685,Mycobacterium chlorophenolicum NBRC 15527,genome_size,3123234,NA,Could not be confirmed. Less than half the size of other records.,
+gold,1155096,Borrelia crocidurae Achema,genome_size,1528893,919477,"Reported length includes large plasmid, correct to just chromosome according to publication",doi.org/10.1128/JB.00118-12
+gold,1155096,Borrelia crocidurae,genome_size,1528893,919477,"Reported length includes large plasmid, correct to just chromosome according to publication",doi.org/10.1128/JB.00118-12
+gold,29303,Streptomyces cattleya 1093_SCAT,genome_size,1920000,NA,Could not be confirmed. 25% of other records.,
+patric,1538,Clostridium ljungdahlii DSM 13528,metabolism,aerobic,anaerobic,Not correct,doi.org/10.1073/pnas.1004716107
+gold,1401070,Peptoniphilus lacrimalis DNF00528,genome_size,3503252,NA,Listed as contaminated in NCBI,NCBI
+gold,1046593,Leuconostoc carnosum KCTC 3525,genome_size,3234407,NA,Listed as contaminated in NCBI,NCBI
+kegg,1155096,Borrelia crocidurae,genome_size,1528893,NA,Contains plasmids,NCBI
+fierer,349933,Clostridium hydrogeniformans,metabolism,facultative,anaerobic,Not correct,doi.org/10.1099/ijs.0.013169-0
+fierer,349933,Clostridium hydrogeniformans,metabolism,facultative,anaerobic,Not correct (second similar entry),doi.org/10.1099/ijs.0.013169-0
+fierer,349931,Clostridium cavendishii,metabolism,facultative,anaerobic,Not correct,doi.org/10.1099/ijs.0.013169-0
+gold,1508644,Candidatus Arthromitus sp. SFB-mouse-NL,metabolism,aerobic,NA,"Unlikely to be correct. Found in digestive tracts of many organisms, this in particular isolated from the gut ilium of mice. Uncultivated.",
+fierer,592050,Acidovorax soli,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1099/ijs.0.019661-0
+gold,1120955,Afifella marina DSM 2698,metabolism,anaerobic,facultative,Not correct,doi.org/10.1099/00207713-45-2-226
+gold,1167629,Bifidobacterium animalis lactis ATCC 27673,metabolism,aerobic,anaerobic,Not correct. See old name Bifidobacterium lactis,doi.org/10.1016/S0723-2020(97)80048-3
+gold,1322347,Bifidobacterium longum E18,metabolism,aerobic,anaerobic,Not correct,doi.org/10.1073/pnas.212527599
+patric,759350,Bifidobacterium longum subsp. longum JDM301,metabolism,aerobic,anaerobic,Not correct,doi.org/10.1073/pnas.212527599
+patric,29448,,metabolism,anaerobic,aerobic,Not correct (Bradyrhizobium elkanii),doi.org/10.1128/genomeA.01095-16
+gold,1035191,Brevundimonas diminuta 470-4,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1080/21505594.2017.1419116
+fierer,588932,Brevundimonas naejangsanensis,metabolism,anaerobic,facultative,Not correct,doi.org/10.1128/genomeA.00542-14
+fierer,588932,Brevundimonas naejangsanensis,metabolism,anaerobic,facultative,Not correct (second similar entry),doi.org/10.1128/genomeA.00542-14
+gold,397948,Caldivirga maquilingensis IC-167,metabolism,aerobic,anaerobic,Not correct,doi.org/10.1099/00207713-49-3-1157
+patric,593907,Cellvibrio gilvus ATCC 13127,metabolism,anaerobic,facultative,Not correct,doi.org/10.1371/journal.pone.0053954
+gold,888060,Centipeda periodontii DSM 2778,metabolism,aerobic,anaerobic,Not correct,doi.org/10.1099/00207713-33-3-628
+gold,745776,"Deinococcus gobiensis I-0, DSM 21396",metabolism,anaerobic,facultative,Not correct,doi.org/10.1099/ijs.0.004523-0
+patric,745776,,metabolism,anaerobic,facultative,Not correct (similar entry),doi.org/10.1099/ijs.0.004523-0
+patric,745776,,metabolism,anaerobic,facultative,Not correct (similar entry),doi.org/10.1099/ijs.0.004523-0
+patric,745776,,metabolism,anaerobic,facultative,Not correct (similar entry),doi.org/10.1099/ijs.0.004523-0
+patric,745776,,metabolism,anaerobic,facultative,Not correct (similar entry),doi.org/10.1099/ijs.0.004523-0
+patric,745776,,metabolism,anaerobic,facultative,Not correct (similar entry),doi.org/10.1099/ijs.0.004523-0
+patric,745776,,metabolism,anaerobic,facultative,Not correct (similar entry),doi.org/10.1099/ijs.0.004523-0
+gold,644897,Desulfovibrio termitidis HI1,metabolism,aerobic,anaerobic,Not correct,doi.org/10.1016/S0723-2020(11)80235-3
+patric,644897,Desulfovibrio termitidis HI1,metabolism,aerobic,anaerobic,Not correct,doi.org/10.1016/S0723-2020(11)80235-3
+gold,546274,Eikenella corrodens ATCC 23834,metabolism,anaerobic,facultative,Not correct,PMC273921
+patric,546274,Eikenella corrodens ATCC 23834,metabolism,anaerobic,facultative,Not correct,PMC273921
+fierer,236753,Fastidiosipila sanguinis,metabolism,obligate aerobic,anaerobic,"Not correct. Grows under strictly anaerobic conditions, can survive 2-6% oxygen",doi.org/10.1099/ijs.0.63327-0
+gold,590061,Halomonas sp. KM-1,metabolism,anaerobic,aerobic,Not correct. Grow aerobically and under microaerobic conditions,doi.org/10.1186/s13568-016-0195-y
+gold,204773,Herminiimonas arsenicoxydans ULPAs1,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1099/ijs.0.64308-0
+patric,204773,Herminiimonas arsenicoxydans ULPAs1,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1099/ijs.0.64308-0
+gold,557598,Laribacter hongkongensis HLHK9,metabolism,anaerobic,facultative,Not correct,doi.org/10.1128/JCM.39.12.4227-4232.2001
+patric,557598,Laribacter hongkongensis HLHK9,metabolism,anaerobic,facultative,Not correct,doi.org/10.1128/JCM.39.12.4227-4232.2001
+gold,1268635,Legionella oakridgensis ATCC 33761,metabolism,anaerobic,aerobic,Not correct. Described as growing in air. May be facultative?,PMC242320
+gold,1274403,Legionella oakridgensis RV-2-2007,metabolism,anaerobic,aerobic,Not correct. Described as growing in air. May be facultative?,PMC242320
+gold,446,,metabolism,anaerobic,aerobic,Not correct. Failed to grow under anaerobic conditions,PMC238529
+gold,1122200,Marinobacterium jannaschii DSM 6295,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1099/00207713-52-3-739
+gold,349095,Megasphaera paucivorans DSM 16981,metabolism,aerobic,strictly anaerobic,Not correct,doi.org/10.1099/ijs.0.63699-0
+gold,43678,Oerskovia enterophila Vjag,metabolism,anaerobic,facultative,Not correct,doi.org/10.1186/s40793-017-0244-4
+fierer,545619,Paraoerskovia marina,metabolism,anaerobic,facultative,Not correct,doi.org/10.1099/ijs.0.007666-0
+fierer,521720,Pseudomonas caeni,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1099/ijs.0.005108-0
+patric,203192,,metabolism,anaerobic,facultative,Not correct. (Pseudomonas chloritidismutans),doi.org/10.1099/00207713-52-6-2183
+fierer,1002526,Pseudomonas formosensis,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1099/ijs.0.049452-0
+patric,1538159,,metabolism,anaerobic,aerobic,Not correct. (Rhizobium FH14),doi.org/10.1007/s00203-016-1281-x
+gold,338969,Rhodoferax ferrireducens T118,metabolism,anaerobic,facultative,Not correct,doi.org/10.1099/ijs.0.02298-0
+patric,858455,,metabolism,anaerobic,facultative,Not correct. (Rhodomicrobium udaipurense),doi.org/10.1099/ijs.0.046409-0
+fierer,999699,Rhodopseudomonas pentothenatexigens,metabolism,anaerobic,facultative,"Grows with oxygen in the dark, and without in the light.",doi.org/10.1099/ijs.0.038620-0
+fierer,999700,Rhodopseudomonas thermotolerans,metabolism,anaerobic,facultative,"Grows with oxygen in the dark, and without in the light.",doi.org/10.1099/ijs.0.038620-0
+fierer,449663,Silvimonas amylolytica,metabolism,anaerobic,facultative,Not correct,doi.org/ 10.1099/ijs.0.011007-0 
+gold,929556,"Solitalea canadensis USAM 9D, DSM 3403",metabolism,anaerobic,facultative,Not correct (see Flexibacter canadensis),doi.org/10.1099/00207713-30-2-429
+fierer,263475,Bacillus arvi,metabolism,anaerobic,facultative,Not correct (weak growth under anaerobic conditions),doi.org/10.1099/ijs.0.63240-0
+fierer,657276,Vogesella mureinivorans,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1099/ijs.0.018630-0
+gold,1079,"Blastochloris viridis Drews F, DSM 133",metabolism,anaerobic,facultative,Not correct (see Rhodopseudomonas viridis),doi.org/10.1099/00207713-47-1-217
+patric,1531963,,metabolism,anaerobic,NA,This organism (Comamonadaceae bacterium BICA1-1) has not been cultivated,
+patric,1629720,,metabolism,anaerobic,NA,This organism (Hyphomonadaceae bacterium BRH_c29) has not been cultivated,
+patric,1629710,,metabolism,anaerobic,NA,This organism (Hyphomonas sp. BRH_c22) has not been cultivated,
+patric,1629711,,metabolism,anaerobic,NA,This organism (Pseudomonas sp. BRH_c35) has not been cultivated,
+gold,467200,Streptomyces griseoflavus Tu4000,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1111/1758-2229.12116
+patric,467200,Streptomyces griseoflavus Tu4000,metabolism,anaerobic,aerobic,Not correct,doi.org/10.1111/1758-2229.12116
+patric,436515,,metabolism,anaerobic,facultative,Can grow aerobically (Variovorax boronicumulans),doi.org/10.1099/ijs.0.65315-0
+gold,436515,Variovorax boronicumulans NBRC 103145,metabolism,aerobic,facultative,Can grow anaerobically,doi.org/10.1099/ijs.0.65315-0
+gold,883156,Veillonella ratti ACS-216-V-Col6b,metabolism,aerobic,anaerobic,"Not correct, see V. seminalis",doi.org/10.1099/ijs.0.064451-0
+patric,1649647,,metabolism,anaerobic,NA,Cannot be verified. Possibly uncultured organism (Janthinobacterium sp. KBS0711),
+gold,402777,Kamptonema formosum PCC 6407,metabolism,anaerobic,aerobic,"According to the Pasteur collection, PCC6407 is aerobic",https://catalogue-crbip.pasteur.fr/recherche_catalogue.xhtml
+gold,1064515,Dolichospermum circinale ACFR02,metabolism,anaerobic,aerobic,"This was previously Anabaena circinale, a heterocyst nitrogen fixing aerobic cyanobacteria",
+gold,1566628,Microbispora sp. NBRC 110460,genome_size,304005,NA,Inconsisten across other sequences in ncbi reaching >8Mbp,NCBI

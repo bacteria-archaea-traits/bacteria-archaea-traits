@@ -1,0 +1,217 @@
+﻿Vieira-Silva_species_name,Vieira-Silva_Ori,Vieira-Silva_OGT,Vieira-Silva_d(h),Vieira-Silva_d_reference,DN_species_name,DN_d(h),DN_d_strain,DN_new_ref,DN_notes_on_Vieira-Silva_edits
+Acaryochloris marina,3125510,25,45,[2],Acaryochloris marina,45,MBIC11017,,
+Acidovorax avenae,27627,28,11,[1],Acidovorax avenae,11,2FB5,,
+Acinetobacter ADP1,3598158,30,0.5,[4],Acinetobacter ADP1,0.5,ADP1,,
+Actinobacillus pleuropneumoniae,1883252,37,0.75,[3],Actinobacillus pleuropneumoniae,0.75,AB233 (AB100),,
+Aeromonas hydrophila,4729112,28,0.35,[5],Aeromonas hydrophila,0.33,ATCC  7966,,Faster doubling time chosen from different strain.
+Aeropyrum pernix, ,95,4,[6],Aeropyrum pernix,4,no data,,
+Agrobacterium tumefaciens,2841174,26,3,[7],Agrobacterium tumefaciens,2.1,B6,,Highest growth rate reported 0.33h-1 = 2.1h doubling time
+Alcanivorax borkumensis,3119635,28,10,[8],Alcanivorax borkumensis,2.01,SK2,[1],"Lack of ref to data source in paper, only mentions growth rates (0.115 / h). Also, in referenced study organism is grown on n-hexadecane which does not support maximum growth rate. Alternative reference uses more appropriate carbon source resulting in much faster growth rate."
+Anabaena variabilis,1502,20,8,[12],Anabaena variabilis,8,Kutz,,"The reported rate is under added fructose - wihtout it, growth rates are 16h at high CO2 and 24h at normal CO2 levels."
+Anaeromyxobacter dehalogenans,1396,30,9.2,[9],Anaeromyxobacter dehalogenans,9.2,2CP-C (ATCC BAA-259),,
+Anaplasma marginale,1147944,37,21.6,[10],Anaplasma marginale,21.6,Gypsy plains,,
+Anaplasma phagocytophilum,20557,37,7,[11],Anaplasma phagocytophilum,7,HZ,,No growth data shown.
+Aquifex aeolicus,209842,95,1.8,[13],Aquifex aeolicus,1.4,no data,,A slightly lower doubling time (1.8h) was observed using elemental sulphur
+Archaeoglobus fulgidus, ,85,4,[16],Archaeoglobus fulgidus,3.5,strain Z,[2],Not primary source. Primary source retrieved.
+Arcobacter butzleri,2341023,37,0.66,[15],Arcobacter butzleri,1.22,NCTC 12481,,Could not find the doubling time as reported by Silva. Growth rate denoted as 00·57 h-1.Assumed  0.57 h-1
+Arthrobacter aurescens,1420,30,2,[14],Arthrobacter aurescens,2,TC1,,
+Azoarcus sp EbN1,1677877,28,4.3,[17],Aromatoleum aromaticum,8,EbN1,[3],"Not same species (Azoarcus tolulyticus) - which has recently been sequenced. See Kniemeyer & Heider 2001 - they don't show the growth data but mentions max doubling time in results. See also Rabus & widdle 1995 for doubling time (11h) on ethylbenzene. This microbe is generally only grown with obscure aromatic compounds, so doubling time is probably underestimated. Azoarcus sp EbN1 has  changed name to Aromatoleum aromaticum."
+Bacillus anthracis Ames,1748,37,0.5,[18],Bacillus anthracis Ames,1.51,Ames K0610,[4],Unclear if the reported doubling time is a result of bacterial growth  or rate of internalisation of spores in macropahges.
+Bacillus cereus ATCC 14579,1622,30,0.3,[19],Bacillus cereus ATCC 14579,0.32,FIRDI 10603,[5],Not primary source. Primary source retrieved.
+Bacillus halodurans,4202339,30,0.6,[21],Bacillus halodurans,no data,no data,,Not same organism. Unable to find data on B. halodurans
+Bacillus licheniformis ATCC14580,1848,37,0.58,[23],Bacillus licheniformis ATCC14580,0.58,S244,,
+Bacillus subtilis 168,1751,37,0.43,[25],Bacillus subtilis 168,0.24,168,[6],Could not find the doubling time as reported. Only a proxi was reported for a different strain. New source retrieved.
+Bacillus thuringiensis konkukian 97-27,1750,30,0.42,[27],Bacillus thuringiensis konkukian 97-27,0.43,Kurstaki,,
+Bacteroides fragilis,110151,37,0.63,[20],Bacteroides fragilis,0.44,no data,,"It appears doubling time is not calculated correctly. A growth rate of 1.59/h is reported and a doubling time of 37.7 min, which equates to 60/1.59. If calculated as standard the reported growth rate equates to 0.44h or 26 min"
+Bacteroides thetaiotaomicron VPI5482,4171767,37,1.47,[26],Bacteroides thetaiotaomicron VPI5482,1.47,ATCC 29148,,
+Bartonella henselae Houston-1,1930403,37,3,[22],Bartonella henselae Houston-1,3,Houston-1,,
+Bartonella quintana Toulouse,1580795,37,3,[24],Bartonella quintana Toulouse,6,Fuller,,"Cannot find reported doubling time as reported by Silva. Doubling time calculated based on  limited info: ""The number of viable cells increased
+approximately eightfold in 24 hr"". This microbe has changed name from Rickettsia quintana"
+Bdellovibrio bacteriovorus,1417,30,1.4,[28],Bdellovibrio bacteriovorus,1.4,109J,,
+Bifidobacterium longum NCC2705,1625766,37,1.51,[29],Bifidobacterium longum NCC2705,1.51,CRL 849,,
+Bordetella bronchiseptica RB50,5337389,37,1.42,[30],Bordetella bronchiseptica RB50,1.33,RB50,[7],Could not find the doubling time as reported by Silva. New source retrieved.
+Bordetella pertussis 12822,4084466,37,3.8,[32],Bordetella pertussis 12822,3.8,SK101,,
+Borrelia burgdorferi,458037,30,4,[31],Borrelia burgdorferi,4,"B-31, ATCC 35210",,Could not retrieve paper but doubling time reported in abstract. Fast initial growth in nymph which later slows down.
+Borrelia garinii PBi,460244,37,4,[31],Borrelia garinii PBi,no data,no data,,"Not correct species. Oliveira et al.2010 uses various media to study growth of this bacteria and reports growth curves equivalent to a doubling time of about 100h. This seems unrealistic given the much faster growth of its close relative - and particularly the much faster growth observed of burgdorferi in vivo during initial inocculation of a tick. Hence, unless we get better data for this species, I suggest we exclude it."
+Bradyrhizobium japonicum USDA110,680553,26,20,[34],Bradyrhizobium japonicum USDA110,20,LP3001,,
+Brucella abortus biovar1 9-941,2010519,37,2,[33],Brucella abortus biovar1 9-941,2,2308,[8],Could not retrieve ref which also doesn't seem appropriate. New primary source retrieved.
+Brucella melitensis 16M,2116944,37,2,[35],Brucella melitensis 16M,2,16M,,
+Brucella suis 1330,1993857,37,2,[36],Brucella suis 1330,2,1330 (wt),,
+Buchnera aphidicola Baizongia pistaciae,1,22,36,[37],Buchnera aphidicola Baizongia pistaciae,35.4,no data,[9],Not primary source. Primary source retrieved. 
+Buchnera aphidicola Sg,641022,22,36,[37],Buchnera aphidicola Sg,35.4,no data,[9],Not primary source. Primary source retrieved. 
+Burkholderia mallei ATCC23344,3006500,37,0.75,Personal communication,Burkholderia mallei ATCC23344,0.75,ATCC23344,[10],"Personal communication, primary source retrieved."
+Burkholderia pseudomallei K96243,2376,37,1,Personal communication,Burkholderia pseudomallei K96243,0.65,K96243,[11],"Personal communication, primary source retrieved."
+Caldivirga maquilingensis, ,83,8,[41],Caldivirga maquilingensis,8,no data,,
+Campylobacter jejuni,1324,37,1.5,[40],Campylobacter jejuni,1.5,"Multiple, 301",,
+Candidatus Blochmannia floridanus,704749,30,36,[38],Candidatus Blochmannia floridanus,no data,no data,,"Bergeys manual, cannot locate primary data on B. floridanus"
+Candidatus Pelagibacter ubique,335453, ,30,[42],Candidatus Pelagibacter ubique,28.7,"Multiple, HTCC1062",[12],Reference to a PHD thesis which could not be readily obtained.
+Carboxydothermus hydrogenoformans,2399734,68,2,[16],Carboxydothermus hydrogenoformans,2,Z-2901,[13],Not primary source. Primary source retrieved. 
+Caulobacter crescentus,4016703,30,1.5,[39],Caulobacter crescentus,1.42,CB13Bla,,Supposed rounding error.
+Chlamydia pneumonia A,1,37,24,[43],Chlamydia pneumonia A,2,no data,,"Bergeys manual. Can't find alternative. NOTE: 24h doubling rate for Chlamydia does not seem correct. This likely includes the whole generational cycle which in itself includes a long lag phase in which non-replicating ""EB"" cells are taken up by the host cell and redifferentiate into ""RB"" cells - which can actively replicate. This lag phase is often in the order of 20h. The doubling rate of ""RB"" cells, once ready to divide, is much higher than reported here - and for multiple strains of C. trachomatis reported to be between 2 and 4 hours (mentioned in Wang et al.2007). Miyiri et al.2006 reports doubling times of 2-3h for multiple strains of C. trachomatis. C. psittaci has been shown to have a doubling time of 2h (Alexander JJ 1969). In a review on Chlamydia by McClarty 1994, RB doubling times is reported to generally be in the range of 2h."
+Chlamydia trachomatis,719974,37,24,[43],Chlamydia trachomatis,2.4,Serovar D and L2,[14],Bergeys manual. Primary source retrieved.
+Chlamydia trachomatis M,1072919,37,24,[43],Chlamydia trachomatis M,2,no data,,"Bergeys manual. Can't find alternative. NOTE: 24h doubling rate for Chlamydia does not seem correct. This likely includes the whole generational cycle which in itself includes a long lag phase in which non-replicating ""EB"" cells are taken up by the host cell and redifferentiate into ""RB"" cells - which can actively replicate. This lag phase is often in the order of 20h. The doubling rate of ""RB"" cells, once ready to divide, is much higher than reported here - and for multiple strains of C. trachomatis reported to be between 2 and 4 hours (mentioned in Wang et al.2007). Miyiri et al.2006 reports doubling times of 2-3h for multiple strains of C. trachomatis. C. psittaci has been shown to have a doubling time of 2h (Alexander JJ 1969). In a review on Chlamydia by McClarty 1994, RB doubling times is reported to generally be in the range of 2h."
+Chlamydophila abortus S26/3,1144232,37,24,[43],Chlamydophila abortus S26/3,2,no data,,"Bergeys manual. Can't find alternative. NOTE: 24h doubling rate for Chlamydia does not seem correct. This likely includes the whole generational cycle which in itself includes a long lag phase in which non-replicating ""EB"" cells are taken up by the host cell and redifferentiate into ""RB"" cells - which can actively replicate. This lag phase is often in the order of 20h. The doubling rate of ""RB"" cells, once ready to divide, is much higher than reported here - and for multiple strains of C. trachomatis reported to be between 2 and 4 hours (mentioned in Wang et al.2007). Miyiri et al.2006 reports doubling times of 2-3h for multiple strains of C. trachomatis. C. psittaci has been shown to have a doubling time of 2h (Alexander JJ 1969). In a review on Chlamydia by McClarty 1994, RB doubling times is reported to generally be in the range of 2h."
+Chlamydophila caviae GPIC,1173153,37,24,[43],Chlamydophila caviae GPIC,2,no data,,"Bergeys manual. Can't find alternative. NOTE: 24h doubling rate for Chlamydia does not seem correct. This likely includes the whole generational cycle which in itself includes a long lag phase in which non-replicating ""EB"" cells are taken up by the host cell and redifferentiate into ""RB"" cells - which can actively replicate. This lag phase is often in the order of 20h. The doubling rate of ""RB"" cells, once ready to divide, is much higher than reported here - and for multiple strains of C. trachomatis reported to be between 2 and 4 hours (mentioned in Wang et al.2007). Miyiri et al.2006 reports doubling times of 2-3h for multiple strains of C. trachomatis. C. psittaci has been shown to have a doubling time of 2h (Alexander JJ 1969). In a review on Chlamydia by McClarty 1994, RB doubling times is reported to generally be in the range of 2h."
+Chlorobium tepidum TLS,1127,30,2,[45],Chlorobium tepidum TLS,2.4,WT2321 derived from (ATCC 49652),,
+Chloroflexus aurantiacus,5258006,49,6,[44],Chloroflexus aurantiacus,6,Wild type,,
+Chromobacterium violaceum ATCC12472,236386,26,0.8,[46],Chromobacterium violaceum ATCC12472,0.83,CS-1,,
+Clostridium acetobutylicum ATCC824,1808,37,0.58,[47],Clostridium acetobutylicum ATCC824,0.97,ATCC824,[15],Bergeys manual. Primary source retrieved.
+Clostridium perfringens 13,1784,37,0.2,[48],Clostridium perfringens 13,0.12,"Multi, NCTC 8238",[16],Not primary source. Primary source retrieved.
+Clostridium tetani E88,50965,37,0.5,[49],Clostridium tetani E88,no data,no data,,Not correct species. Cannot locate primary data on C. tetani
+Colwellia psychrerythraea,5367414,10,7.14,[52],Colwellia psychrerythraea,7.14,ATCC 27364,,"While this paper is actually on a different species, it does contain data on the specified species."
+Corynebacterium glutamicum,1576,30,1.2,[51],Corynebacterium glutamicum,1.17,ATCC 17965,,The indicated growth rate is based on  maximum dilution rate in chemostat and so may be an underestimation.
+Coxiella burnetii RSA 493,1835517,37,8,[50],Coxiella burnetii RSA 493,9.6,Nine Mile,[17],"Not primary source. Primary source retrieved.  - and the current reference refers to another review for source of doubling time: Baca, O.G. and Paretsky, D. (1983) Microbiol. Rev. 47, 127–149. Altarnative reference refer to an old study where calculation of Ld50 data gives a doubling time of 8.8h, but I can't follow the calculation and therefore stick with the current estimate. This seems to be in the low end of what is generally guestimated in the litterature for this species."
+Dehalococcoides ethenogenes 195,1599,35,19,[54],Dehalococcoides ethenogenes 195,19.2,195,,
+Deinococcus radiodurans R1,1183,30,1.5,[56],Deinococcus radiodurans R1,1.5,"R1, ATCCl 3939",,Growth data not shown - only mention of doubling time
+Delftia acidovorans,26889,30,4.62,[53],Delftia acidovorans,4.62,MC1,,
+Desulfotalea psychrophila LSv54,709557,7,27,[55],Desulfotalea psychrophila LSv54,27,LSv54,,
+Desulfotomaculum reducens,1691,37,20,[57],Desulfotomaculum reducens,20,MI-1,,
+Desulfovibrio vulgaris,3570715,32,14,[58],Desulfovibrio vulgaris,13.9,Hildenborough,,
+Dinoroseobacter shibae,3633375,33,4.08,[59],Dinoroseobacter shibae,4.08,DFL12,,
+Ehrlichia canis,11395,37,28,[60],Ehrlichia canis,28,Oklahoma,,
+Ehrlichia chaffeensis,26939,37,19,[60],Ehrlichia chaffeensis,19,Arkansas,,
+Enterobacter sakazakii,3960616,37,0.23,[62],Cronobacter sakazakii,0.23,Multiple,,Doubling time is mean of multiple strains with very similar doubling times. Enterobacter sakazakii has changed name to Cronobacter sakazakii
+Enterococcus faecalis V583,1403,37,0.5,[61],Enterococcus faecalis V583,0.61,EF37,[18],Wrong species - Enterococcus faecium.
+Erwinia carotovora atroseptica SCRI1043,5063660,28,0.2,[63],Pectobacterium atrosepticum,2.31,"Multiple (CFBP) all subsp.
+Atroseptica",[19],Not convinced by the quality of the referenced paper. No indication of whether organism is grown aerobically - and indicated growth rate seems very high - even compared  to their data figures. I have recorded data from  a different study (average of multiple strains read from figure: approx 0.3/h). This  number seems to fit better with the graph of the original reference. Erwinia carotovora atroseptica has changed name to Pectobacterium atrosepticum.
+Escherichia coli MG1655,3923657,37,0.35,[64],Escherichia coli MG1655,0.43,Easter,[20],Not primary source. Primary source retrieved. 
+Francisella tularensis,1892387,37,3,[65],Francisella tularensis,3,LVS,,Douling time a very rough estimate based on two datapoints over 18h
+Fusobacterium nucleatum,641869,37,0.72,[20],Fusobacterium nucleatum,0.47,no data,,"Doubling time does not appear to have been calculated correctly. A growth rate of 1.48/h is reported for this organism, which equates to a doubling time of 0.47 hours."
+Geobacter sulfurreducens PCA,1368,30,6,[66],Geobacter sulfurreducens PCA,6,ATCC 51573,,"The referenced paper/data relates to co-culturing conditions, which may not be appropriate for minimal growth rate estimiates of G sulfurreducens. However, other papers seem to have similar growth rates or slower, so let's go with this."
+Gloeobacter violaceus,3438638, ,72,[68],Gloeobacter violaceus,73,7421,[21],Not primary source. Primary source retrieved. 
+Gluconobacter oxydans 621H,1139728,28,0.94,[67],Gluconobacter oxydans 621H,0.94,ATCC-621,,
+Gramella forsetii,3458688,,4.17,[69],Gramella forsetii,4.17,KT0803,,"No info on growth conditions, no appropriate alternative could be found."
+Haemophilus ducreyi 35000HP,1698708,36,1.8,[70],Haemophilus ducreyi 35000HP,1.8,CIP 542T,[22],Not primary source. Primary source retrieved. 
+Haemophilus influenzae,603005,36,0.5,[64],Haemophilus influenzae,0.43,no data,,Generation time listed in table as 26 min
+Haloarcula marismortui, ,50,12,[71],Haloarcula marismortui,12,DSM 3752,,
+Halobacterium sp. Strain NRC-1, ,37,9,[72],Halobacterium salinarum,9,NRC-1 mutants,,Halobacterium sp. Strain NRC-1 has changed name to Halobacterium salinarum.
+Haloquadratum walsbyi, ,37,24,[73],Haloquadratum walsbyi,24,HBSQ001,,No data to support doubling time - only a mention of 1-2 days. Very little work published on this organism and no appropraite alternative could be found.
+Helicobacter hepaticus ATCC51449,1081990,37,4.2,[75],Helicobacter hepaticus ATCC51449,4.2,ATCC 51449,,
+Helicobacter pylori,1608998,37,2.4,[76],Helicobacter pylori,2.39,"Multiple, VHP571",,
+Herpetosiphon aurantiacus,6345664,30,20,[74],Herpetosiphon aurantiacus,20,DSM 785,,This ref is on a different (unidentified) species of Herpetosiphon wherein this particular species is mentioned as being identical in physiological properties but not morphologically. No appropriate growth data could be found on H.aurantiacus
+Hyperthermus butylicus, ,99,2,[16],Hyperthermus butylicus,2,no data,[23],Not primary source. Primary source retrieved. 
+Ignicoccus hospitalis, ,90,0.83,[77],Ignicoccus hospitalis,0.83,KIN4/IT,,
+Lactobacillus acidophilus NCFM,1993119,45,1.8,[78],Lactobacillus acidophilus NCFM,1.26,La5,,"Maximum growth rate is repoted as 0.55/h. Note, the value reported by Silva corresponds to 1/0.55=1.81."
+Lactobacillus johnsonii NCC533,1992003,30,0.9,[79],Lactobacillus johnsonii NCC533,0.43,NCC533,,Maximum specific growth rate reported as 1.6/h. No number resembling what silva reports can be found in the paper
+Lactobacillus plantarum WCFS1,1369,30,1.6,[81],Lactobacillus plantarum WCFS1,1.12,LL441,,"Calculation of the critical dilution rate (0.62 h-1) corresponding to the maximal growth rate was done by the method of Pirt and Callow. Note, the value repoted by Silva corresponds to 1/0.62=1.63. This is not correct."
+Lactococcus lactis IL1403,1726,40,0.7,[80],Lactococcus lactis IL1403,0.61,MG1363,,Highest reported growth rate is 1.14/h for wild type
+Legionella pneumophila pneumophila Philadelphia 1,3397647,37,3.3,[83],Legionella pneumophila pneumophila Philadelphia 1,2.4,789i,,Rates not calculated in paper. Calculated from Fig 5.
+Leifsonia xyli xyli CTCB07,1647,23,5,[84],Leifsonia xyli xyli CTCB07,5.5,subsp .cynodontis MDE1,,"Note, this microbe has changed name from Clavibacter Xyli. Growth rate stated directly in paper as 5.5 for wild type"
+Leptospira interrogans serovar lai 56601 chr1,1566,29,9,[82],Leptospira interrogans serovar lai 56601 chr1,10.23,L. canicola,[24],Not same species
+Listeria innocua Clip11262,1675,22,0.6,[85],Listeria innocua Clip11262,0.47,DSM 20649,[25],Ref is a model paper based on data from previous work from this author.
+Listeria monocytogenes strain EGD,1674,23,1,[64],Listeria monocytogenes strain EGD,1.5,EGD,[26],"Not primary source. The reference within does not show data on the reported generation time of 1h in vitro, but only in vivo rates (4-5h). Primary source retrieved. "
+Mannheimia succiniciproducens MBEL55E,2281135,37,0.6,[86],Mannheimia succiniciproducens MBEL55E,0.6,MBEL55E,,"Highest rate reported in text, not table"
+Mesorhizobium loti,4478943,26,2.4,[93],Mesorhizobium loti,2.4,4-INTECh,,Formerly known as Rhizobium loti
+Methanobacterium thermoautotrophicum, ,65,1,[94],Methanobacterium thermoautotrophicum,1,Marburg,,
+Methanococcoides burtonii, ,32,20,[88],Methanococcoides burtonii,20,no data,,
+Methanococcus jannaschii, ,83,0.5,[16],Methanococcus jannaschii,0.7,JAL-1,[27],Not primary source. Primary source retrieved.
+Methanopyrus kandleri, ,98,0.83,[92],Methanopyrus kandleri,0.83,no data,[28],Not primary source. Primary source retrieved.
+Methanosarcina barkeri, ,37,12,[87],Methanosarcina barkeri,8,DSM 804,,"Generation time of 8-12h stated in abstract. There is a mentinon of  ""about"" 7h doubling time in text, but I've decided to go with abstract number"
+Methylobacillus flagellatus,1459,36,2,[91],Methylobacillus flagellatus,0.85,no data,[29],Bergeys manual. Primary source retrieved.
+Methylobacterium extorquens,5470388,28,4.2,[90],Methylobacterium extorquens,4.2,AM1,,"Note, this value seems a bit high compared with other publications (2.4-3h)"
+Methylococcus capsulatus,3302726,37,1.87,[89],Methylococcus capsulatus,1.87,Bath,,
+Moorella thermoacetica,228,58,5,[95],Moorella thermoacetica,5,JW/DB-4,,
+Mycobacterium avium paratuberculosis k10,1531,37,10,[96],Mycobacterium avium paratuberculosis k10,10,A5,,
+Mycobacterium bovis bovis AF2122/97,1525,37,23,[97],Mycobacterium bovis bovis AF2122/97,23.4,Ravenel,,Large variability between strains (23-143h)
+Mycobacterium leprae,1567,37,240,[101],Mycobacterium leprae,240,no data,,"Not primary source. Mentions doubling time of 14 days with ref to  book on leprosy. However, cannot locate primary data of sufficient quality (see ex. Colston & Hilson 1976). Primary source retrieved."
+Mycobacterium tuberculosis,1525,37,19,[97],Mycobacterium tuberculosis,19,"Multiple, Erdman",,
+Mycoplasma capricolum,1009729,37,2.5,[98],Mycoplasma capricolum,3.03,"Kid strain 14, ATCC 27342",[30],Not primary source. Primary source retrieved.
+Mycoplasma gallisepticum R,2682,37,1,Personal communication,Mycoplasma gallisepticum R,2.45,S6,[31],"Personal communication, primary source retrieved. Note: new doubling rate supported by Bradbury & Jordan 1971 (roughly 3h)"
+Mycoplasma genitalium,578582,37,12,[99],Mycoplasma genitalium,11.9,G-37 WT,[32],Not primary source. Primary source retrieved.
+Mycoplasma hyopneumoniae 232,513000,37,2,[100],Mycoplasma hyopneumoniae 232,6.4,F7.2C,[33],"No data, anecdotal mention of 2h approximate generation time. Many refers to this particular species as very slow growing, so 2h doubling time doesn't seem reasonable. Also, multiple papers support doubling time of around 10h or more."
+Mycoplasma mobile 163K,1,20,10,[102],Mycoplasma mobile 163K,3.2,163K,[34],Not primary source. Primary source retrieved.
+Mycoplasma mycoides mycoides SC,1211535,45,2.2,[98],Mycoplasma mycoides mycoides SC,1.7,Gladysdale,[35],"Not primary source. Primary source retrieved. Note: in new source multiple strains were tested and one strain isolated before 1964 had a doubling time of just 1.7h,  however, it is pointed out that this could be due to adaptation to in vitro culturing. Range for recently isolated strains: 168 to 345 min depending  on strain."
+Mycoplasma pneumoniae,816339,37,6,[99],Mycoplasma pneumoniae,4.22,FH,[36],Not primary source. Primary source retrieved.
+Mycoplasma pulmonis UAB CTIP,1,37,1.5,[103],Mycoplasma pulmonis UAB CTIP,1,"P15-BC, P15-BC (from strain KD735-15-1)",[37],Not primary source. Primary source retrieved.
+Myxococcus xanthus,9139603,30,5,[104],Myxococcus xanthus,4,IFO 13542,[38],Not primary source. Primary source retrieved. Note: In new source only data for doubling time of 4.8h is shown.
+Nanoarchaeum equitans, ,90,0.75,[105],Nanoarchaeum equitans,0.75,no data,[39],Not primary source. Primary source retrieved.
+Neisseria gonorrhoeae FA1090,1917745,36,0.58,[106],Neisseria gonorrhoeae FA1090,0.58,GCM740 (wt),,
+Neisseria meningitidis A,219873,37,0.72,[107],Neisseria meningitidis A,0.72,MC58 (wt),,
+Nitrobacter winogradskyi,114297,28,8,[108],Nitrobacter winogradskyi,16.08,Nb-255,[40],"Bergeys manual. Primary source retrieved. Note: No primary data could be found in primary sources supporting a doubling rate at 8h. All  references found mentioning this doubling time refered to the same section in Bergey's. No supporting data could be found in papers from the authors of this chapter in Bergey's. Most reported doubling rates are much higher, and the one chosen here represents the second shortest doubling rate found for N. winogradskyi. However, the faster doubling rate (calculated from figure to just under 14h, was from a paper [Laudelout &  Fripiat 1974] with very limited information and no info on strain used)."
+Nitrosomonas europaea ATCC19718,1591,27,18.5,[43],Nitrosomonas europaea ATCC19718,5.5,ATCC19718,[41],Bergeys manual. Primary source retrieved.
+Nocardia farcinica,1990,37,3,[109],Nocardia farcinica,no data,no data,,Not same species. Very variable growth rate  on different compounds (up to 44h). Cannot find appropriate alternative.
+Nostoc sp. PCC 7120,2404398, ,12,[110],Nostoc sp. PCC 7120,16,ATCC 29133 (PCC 73102),[42],"Not primary source. Primary source retrieved. Note: in new source, different strain and possibly species (type strain for Nostoc punctiforme)"
+Oenococcus oeni,1780070,24,10.5,[111],Oenococcus oeni,10.5,NCIMB 11648,,
+Parachlamydia sp UWE25,1, ,48,[114],Candidatus Protochlamydia amoebophila,48,"Species: Parachlamydia acanthamoeba, strain Hall coccus",,"The presented data is of low resolution. But doubling time mentioned directly in paper. Parachlamydia sp. UWE25 has changed name to Candidatus Protochlamydia amoebophila. This indicate that the species for which doubling time is reported may be incorrect. However, alternative data has not been found."
+Paracoccus denitrificans,2851745,30,2.1,[112],Paracoccus denitrificans,2.1,no data,,
+Pasteurella multocida PM70,1677118,37,1,[113],Pasteurella multocida PM70,1,A:1,,Growth rate reported anecdotically as  approx 1h (lab experience)
+Petrotoga mobilis,1423266,55,12,[115],Petrotoga mobilis,12,SJ95T,,
+Photobacterium profundum SS9,4085022,10,2.5,[116],Photobacterium profundum SS9,1.7,DSJ4,[43],Not clear reference to obtained doubling time (2.5h). New source retrieved.
+Photorhabdus luminescens laumondii TTO1,44490,28,0.5,Personal communication,Photorhabdus luminescens laumondii TTO1,0.73,no data,[44],"Personal communication, primary source retrieved."
+Picrophilus torridus DSM 9790, ,60,6,[118],Picrophilus torridus DSM 9790,6,DSM 9790,,
+Pirellula sp,5455000,28,10,[117],Rhodopirellula baltica,10,1,,Pirellula sp. has changed name to Rhodospirellula baltica.
+Porphyromonas gingivalis W83,2342805,37,2.7,[119],Porphyromonas gingivalis W83,2.56,W50,,Supposed rounding error.
+Prochlorococcus marinus marinus CCMP1375,1750905, ,17,[121],Prochlorococcus marinus marinus CCMP1375,16.8,MIT 9302,,
+Propionibacterium acnes KPA171202,1748,31,5.1,[120],Propionibacterium acnes KPA171202,5.1,no data,[45],Not primary source. Primary source retrieved.
+Pseudoalteromonas haloplanktis,3208603,26,0.5,[122],Pseudoalteromonas haloplanktis,2.04,TAC125,[46],"Cannot find data on doubling times, no such data presented in paper."
+Pseudomonas aeruginosa PA01,6264361,37,0.5,[64],Pseudomonas aeruginosa PA01,0.33,Fisher-Devlin-Gnabasik,[20],Not primary source. Primary source retrieved.
+Pseudomonas putida KT2440,8947,27,1.1,[124],Pseudomonas putida KT2440,1.11,G7,,
+Pseudomonas syringae tomato DC3000,6396882,27,1.47,[125],Pseudomonas syringae tomato DC3000,1.67,PG4180 (pv glycinea),,Max doubling time reported as 1h 40 min at 30.7C
+Psychromonas ingrahamii,4558259,12,12,[123],Psychromonas ingrahamii,12,37,,"No data shown for 5 degree growth, but generation time mentioned in text."
+Pyrobaculum aerophilum, ,100,3,[16],Pyrobaculum aerophilum,3,"IM2, DSM 7523",[47],Not primary source. Primary source retrieved.
+Pyrobaculum arsenaticum, ,95,1.3,[126],Pyrobaculum arsenaticum,1.35,"PZ6, DSM 13514, ATCC 700994",[48],Not primary source. Primary source retrieved.
+Pyrococcus abyssi, ,96,0.62,[16],Pyrococcus abyssi,0.55,GE5,[49],Not primary source. Primary source retrieved.
+Pyrococcus furiosus, ,100,0.62,[16],Pyrococcus furiosus,0.62,"Vc 1, DSM 3638",[50],Not primary source. Primary source retrieved.
+Pyrococcus horikoshii, ,98,0.62,[16],Pyrococcus horikoshii,0.53,"JA-1, JCM 9974",[51],Not primary source. Primary source retrieved.
+Ralstonia solanacearum GMI1000,3716277,30,4,[127],Ralstonia solanacearum GMI1000,1,715,[52],Wrong species. - and wrong doubling time for this species.
+Rhodobacter sphaeroides,3004887,32,3,[132],Rhodobacter sphaeroides,3.4,L-7,[53],Cannot find the number reported by Silva. Only 16h doubling time in the light. No data shown.
+Rhodococcus sp. Strain RHA1,3871702,30,5.3,[130],Rhodococcus jostii,5.3,RHA1,,Rhodococcus sp. Strin RHA1 has changed name to Rhodococcus jostii.
+Rhodoferax ferrireducens,40520,25,8,[128],Rhodoferax ferrireducens,22.7,T118T,[54],Wrong species.
+Rhodopseudomonas palustris,322962,33,9,[129],Rhodopseudomonas palustris,10.7,WS17,[55],Not primary source. Primary source retrieved.
+Rhodospirillum rubrum,4154190,28,3.8,[131],Rhodospirillum rubrum,3.8,UR294,,For growth conditions see Kerby et al.1992
+Rickettsia conorii Malish 7,1268361,35,4.1,[133],Rickettsia conorii Malish 7,4,Casablanca,[56],"Cannot obtain original ref., new retrieved."
+Rickettsia prowazekii,1111140,35,10,[134],Rickettsia prowazekii,8.8,no data,,"""doubling time of about 10h"" mentioned in abstract, however, data presented with a doubling time of 8.8h in table."
+Rickettsia typhi wilmington,1111114,35,10,[135],Rickettsia typhi wilmington,17.6,Wilmington,[57],"Referenced paper presents no data but refer to R. prowazekii for growth rate.  Note: In new source, poor data (ref to 17 doublings over 3 days), it's the best that can be found at this point"
+Rubrobacter xylanophilus,1355,60,3.85,[136],Rubrobacter xylanophilus,4.3,PRD-1T (DSM 9941T),,Growth rate read of figure
+Salinibacter ruber,12594,42,14,[137],Salinibacter ruber,14,"M31T (DSM 13855T, CECT 5946T)",,Data not shown but doubling times reported for multiple strains as between 14 and 18h
+Salmonella typhimurium LT2,4083788,37,0.4,[64],Salmonella typhimurium LT2,0.37,V31,[58],Not primary source. Primary source retrieved.
+Shewanella oneidensis MR-1,6419,30,0.66,[138],Shewanella oneidensis MR-1,0.75,MR-1 (ATCC 700550),,"Report doubling time of approx 40 min in abstract but approx 45 min in text with growth rate of 1.4h-1. Note, growth rate is from sub-optimal temperature"
+Silicibacter pomeroyi,4105854, ,1.65,[140],Silicibacter pomeroyi,1.65,"DSS-3T (ATCC 700808T, DSM 15171T)",,
+Sinorhizobium meliloti 1021,1,28,1.5,[139],Sinorhizobium meliloti 1021,1.5,1021,,"Data not shown, only mentioned as doubling times"
+Sodalis glossinidius,4127547,25,26,[141],Sodalis glossinidius,26,no data,,
+Sorangium cellulosum,11354923,30,16,[104],Sorangium cellulosum,6,So ce56,[59],Not primary source. Primary source retrieved.
+Sphingopyxis alaskensis,1535, ,2.39,[142],Sphingopyxis alaskensis,3.3,RB2256,[60],"Might actually be correct ref. Sphingopyxis used to be called sphingomonas, and Sphingomonas alaskensis has strain RB2256 - like indicated in this paper. However, to limit confusion - and for more detailed data, use alternative rer."
+Staphylococcus aureus strain N315,1879,34,0.4,[144],Staphylococcus aureus strain N315,0.48,N315,,Silva used the lowest doubling time but this was for a different strain. Chose data from matching strain.
+Staphylococcus epidermidis ATCC 12228,1718,34,0.8,[146],Staphylococcus epidermidis ATCC 12228,0.33,HBH2 102,,Maximum doubling time reported as 20 min for surface grown cells but 54 min for planktonic cells
+Staphylothermus marinus, ,87,6.3,[147],Staphylothermus marinus,6.3,DSM 3639,,
+Streptococcus agalactiae 2603VR,1464,37,1.8,[143],Streptococcus agalactiae 2603VR,0.8,type III strain M781,[61],Located alternative primary sources with faster growth rate reported. Note: new data backed up by Hanthequeste et al.
+Streptococcus mutans UA159,1553,37,0.75,[148],Streptococcus mutans UA159,1.1,T2,[62],"Ref in Japanese. Use alternative - Doubling time reported in Beckers is supported by other papers - generally just over 1h per generation. However, I also found a non-published study reporting doubling times of 43 minutes in TSB media (Schell et al.poster). Supporting the 0.75 doubling time reported by Silva. Most studies on dental biofilm formation"
+Streptococcus pneumoniae TIGR4,1559,37,0.5,[149],Streptococcus pneumoniae TIGR4,0.52,no data,,"Fastest doubling time reported anecdotically (almost) referring to experiments not shown in paper (and not mentioned in abstract), where growth rates were determined to be between 0.52 and 0.61. "
+Streptococcus pyogenes M1,1588,37,0.4,[150],Streptococcus pyogenes M1,0.42,M6 strain JRS4,,
+Streptococcus thermophilus LMG18311,1551,37,0.43,[151],Streptococcus thermophilus LMG18311,0.4,54,,Doubling time not reported for control - calculated from growth curve Fig 1.
+Streptomyces coelicolor A3(2),4269844,30,2.2,[145],Streptomyces coelicolor A3(2),2.04,"A3(2), 1147",,"Growth rate of 0.3h-1 mentioned in abstract, but  max rate of 0.34h-1 reported in text, equal  to  a doubling time of 2.04h."
+Sulfolobus acidocaldarius, ,70,5.67,[16],Sulfolobus acidocaldarius,4.95,"ATCC 33909, DSM 639",[63],Not primary source. Primary source retrieved.
+Sulfolobus solfataricus, ,87,6,[16],Sulfolobus solfataricus,5,MT-4,[64],Not primary source. Primary source retrieved.
+Sulfolobus tokodaii, ,80,6,[16],Sulfolobus tokodaii,7.4,DSMZ 16993 (JCM 10545),[65],Not primary source. Primary source retrieved.
+Symbiobacterium thermophilum,1378,60,4.2,[156],Symbiobacterium thermophilum,2.41,no data,,Growth rate not reported in text. Calculated based on figure 3: In synthrophy with Bacillus
+Synechococcus elongatus PCC6301,1620819,32,6.1,[153],Synechococcus elongatus PCC6301,5.4,PCC6301,[66],"PCC 7942 grows slower than other strains - found ref with same strain and higher light level (500 vs 34 umol..) - as well as a faster growing strain UTEX 2973 - 2.3h, so potential for much faster growth rate within this species"
+Synechococcus sp WH8102,2434168,32,6,[157],Synechococcus sp WH8102,10.3,PCC 7942,,A doubling time of 6h is mentioned anecdotically based on theoretical figure - actually recorded/measured here 10.3h
+Synechocystis PCC6803,665000,35,12,[155],Synechocystis PCC6803,12,PCC6803,,Grow faster under mixotrophic conditions (with glucose)
+Syntrophobacter fumaroxidans,3503182,37,97.86,[154],Syntrophobacter fumaroxidans,98,MPOBT,,Highest growth rate in syntrohophy with hydrogen consuming bacteria (0.17 d-1). 
+Syntrophus aciditrophicus,1529,35,24,[152],Syntrophus aciditrophicus,27,SB (ATCC 700169),[67],Not primary source. Primary source retrieved.
+Thermoanaerobacter tengcongensis,1697,75,1.1,[161],Thermoanaerobacter tengcongensis,1.08,"MB4T, JCM 11007T",,
+Thermoplasma acidophilum, ,59,2.5,[16],Thermoplasma acidophilum,2.8,DSM1728 (ATCC 25905),[68],Not primary source. Primary source retrieved.
+Thermoplasma volcanium, ,60,2.5,[16],Thermoplasma volcanium,3.6,"GSS1, ATCC 51530, DSM 4299",[69],Not primary source. Primary source retrieved.
+Thermosynechococcus elongatus BP-1,2338968,55,5.4,[159],Thermosynechococcus elongatus BP-1,5.4,BP-1T,,
+Thermotoga maritima,156961,80,1.2,[160],Thermotoga maritima,1.2,no data,,Reports highest growth rate as 72 min. This is assumed to mean doubling time
+Thermus thermophilus HB27,1524341,75,2.5,[162],Thermus thermophilus HB27,1.4,HB27,,Highest growth rate reported in abstract as 2.67h - but this is under the specific conditions mentioned. In data table and text they show a max doubling time of 1.4h under slightly different conditions.
+Thiomicrospira crunogena,2427456,30,1,[158],Thiomicrospira crunogena,0.87,"TH-55, ATCC 35932",,Supposed rounding error.
+Treponema denticola ATCC35405,265084,37,5,[163],Treponema denticola ATCC35405,4.95,R8 (DSM 13955),,
+Treponema pallidum,1399,37,33,[165],Treponema pallidum,25.5,Nichols,[70],Not primary source. Primary source retrieved.
+Trichodesmium erythraeum,2409,28,25,[164],Trichodesmium erythraeum,25,IMS101,,
+Tropheryma whipplei Twist,1438,37,28,[166],Tropheryma whipplei Twist,28,Twist-Marseille,,
+Ureaplasma urealyticum,42000,37,0.9,Personal communication,Ureaplasma urealyticum,1.5,"Strain 960, ATCC 27618",[71],"Personal communication, primary source retrieved."
+Vibrio cholerae,2961047,37,0.2,[38],Vibrio cholerae,0.44,O1 biovar El Tor str. N16961,[72],Bergeys manual. Primary source retrieved.
+Vibrio fischeri ES114,2906069,30,0.3,[167],Vibrio fischeri ES114,0.5,ESll4,[73],"Not primary source. Refers to Lee & Ruby 1994 - measures growth within light organ of adult squids (d=4.8h), but refer to Ruby & Asato 1993, which measures a much faster doubling time (0.5h) in juvenile squids. This is what we use."
+Vibrio parahaemolyticus,3288455,25,0.2,[168],Vibrio parahaemolyticus,0.23,"Multiple, YM-K33",,
+Vibrio vulnificus CMCP6 chr1,1012335,25,0.16,[38],Vibrio vulnificus CMCP6 chr1,0.25,Multiple (FLA) derived from LL728,[74],Bergeys manual. Primary source retrieved.
+Wigglesworthia glossinidia brevipalpis,697376, ,36,Personal communication,Wigglesworthia glossinidia brevipalpis,no data,no data,,Personal communication. Cannot find appropriate alternative.
+Wolbachia endosymbiont TRS Brugia malayi,1079740, ,14,[169],Wolbachia endosymbiont TRS Brugia malayi,14,no data,,Not sure which organism this is - ref is on Wolbachia pipientis
+Wolinella succinogenes,2110228,37,1,[170],Wolinella succinogenes,1,DSMZ 1740,,
+Xanthomonas axonopodis,1371,27,7,[171],Xanthomonas axonopodis,4.45,Multiple,[75],Not primary source. Primary source retrieved.
+Xanthomonas campestris,1371,37,3,[172],Xanthomonas campestris,4.62,no data,,"Wrong species of bacteria reported in original, corrected."
+Xanthomonas oryzae oryzae KACC10331,1374,28,2,[173],Xanthomonas oryzae oryzae KACC10331,4.5,KACC10859,[76],"Not primary source. No mention of 2h doubling time in internally refereed paper (anecdotal mention by same authors, ref 4 in Erhlich 1977). Other paper reports a doubling every 4.5h (0.152h-1) which fits with the 4h mentioned in the  Silva references. This alternative reference is used as they report the number more directly in a table."
+Xylella fastidiosa 9a5c,1463,28,5.13,[174],Xylella fastidiosa 9a5c,5.13,"STl, ATCC 700963",,
+Yersinia pestis CO92,4653618,37,1.25,[175],Yersinia pestis CO92,0.85,CO92,[77],Not primary source. Primary source retrieved. Note: Other papers indicate potential for somewhat faster growth - but data not shown.
+Yersinia pseudotuberculosis,4744561,37,0.5,[176],Yersinia pseudotuberculosis,2.54,IP32953,[78],Not primary source. Primary source retrieved. Note: growth supported by Palonen et al. 2011b. Other paper (Bakholdina et al.2001) reports doubling time of approx. 5h
+Zymomonas mobilis,2055615,27,2,[177],Zymomonas mobilis,1.7,"L.M.D. 29.34, ATCC 10988",[79],Not primary source. Primary source retrieved.

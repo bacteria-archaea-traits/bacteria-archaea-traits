@@ -1,0 +1,197 @@
+species,isolation_source,metabolism,temperature
+Lactobacillus acetotolerans,Fermented Vinegar Broth,Anaerobic,30
+Lactobacillus acidifarinae,Artisanal wheat sourdough,Microaerophilic,30
+Lactobacillus acidipiscis,Fermented fish,Microaerophilic,37
+Lactobacillus acidophilus,Human,Microaerophilic,37
+Lactobacillus agilis,Municipal sewage,Microaerophilic,37
+Lactobacillus algidus,Vacuum-packed beef,Anaerobic,20
+Lactobacillus alimentarius,Marinated fish product,Aerobic,30
+Lactobacillus amylophilus,Swine waste-corn fermentation,Aerobic,30
+Lactobacillus amylotrophicus,Swine waste-corn fermentation,Aerobic,30
+Lactobacillus amylovorus,Cattle waste-corn fermentation,Microaerophilic,37
+Lactobacillus animalis,Dental plaque of baboon,Aerobic,37
+Lactobacillus antri,"Gastric biopsies, Human stomach mucosa",Anaerobic,37
+Lactobacillus apinorum,Honey stomach of honeybee,Anaerobic,37
+Lactobacillus apis,Stomachs of honeybees,Anaerobic,37
+Lactobacillus apodemi,Faeces of wild Japanese wood mouse,Microaerophilic,37
+Lactobacillus aquaticus,Surface of a eutrophic freshwater pond,Microaerophilic,37
+Lactobacillus aviarius subsp. araffinosus,Intestine of chicken,Microaerophilic,37
+Lactobacillus aviarius subsp. aviarius,Faeces of chicken,Microaerophilic,37
+Lactobacillus backii,Orchardgrass silage,Preferably anaerobic,28
+Lactobacillus bifermentans,Blown cheese,Anaerobic,NA
+Lactobacillus bombi,Digestive tracts of bumblebee queens,Anaerobic,37
+Lactobacillus bombicola,Bumble bee gut,Strictly anaerobic,37
+Lactobacillus brantae,Faeces of Canada goose,Microaerophilic,37
+Lactobacillus brevis,Faeces,Microaerophilic,30
+Lactobacillus buchneri,Tomato pulp,Microaerophilic,37
+Lactobacillus cacaonum,Cocoa bean heap fermentation,Microaerophilic,30
+Lactobacillus camelliae,Fermented tea leaves (miang),Microaerophilic,37
+Lactobacilllus capillatus,Fermented brine used for stinky tofu production,Microaerophilic,30
+Lactobacillus casei,Cheese,Microaerophilic,30
+Lactobacillus ceti,Lungs of beaked whale,Strictly anaerobic,37
+Lactobacillus colehominis,Human vagina,Microaerophilic,37
+Lactobacillus collinoides,Fermenting apple juice,Anaerobic,26
+Lactobacillus composti,Composting material of distilled shochu residue,Microaerophilic,30
+Lactobacillus concavus,Walls of a distilled spirit fermenting cellar,Microaerophilic,30
+Lactobacillus coryniformis subsp. coryniformis,Silage,Microaerophilic,30
+Lactobacillus coryniformis subsp. torquens,Air of cow shed,Microaerophilic,30
+Lactobacillus crispatus,Eye,Preferably anaerobic,37
+Lactobacillus crustorum,Wheat sourdough,Aerobic,30
+Lactobacillus curieae,Tofu brine,Facultatively anaerobic,30
+Lactobacillus curvatus,Milk,Microaerophilic,30
+Lactobacillus delbrueckii subsp. bulgaricus,Bulgarian youghourt,Microaerophilic,37
+Lactobacillus delbrueckii subsp. delbrueckii,Sour grain mash,Microaerophilic,37
+Lactobacillus delbrueckii subsp. indicus,Traditional dairy fermented product (Dahi type),Microaerophilic,37
+Lactobacillus delbrueckii subsp. jakobsenii,Dolo wort (Alcoholic fermented beverage),Anaerobic,37
+Lactobacillus delbrueckii subsp. lactis,Emmental cheese,Microaerophilic,37
+Lactobacillus dextrinicus,Silage,Aerobic,30
+Lactobacillus diolivorans,Maize silage,Aerobic,30
+Lactobacillus equi,Faeces of horses,Microaerophilic,37
+Lactobacillus equicursoris,Healthy thoroughbred racehorse,Microaerophilic,37
+Lactobacillus equigenerosi,Faeces of thoroughbred horse,Microaerophilic,37
+Lactobacillus fabifermentans,Cocoa bean heap fermentation,Microaerophilic,30
+Lactobacillus faecis,Animal faeces,Microaerophilic,37
+Lactobacillus farciminis,Sausage,Microaerophilic,30
+Lactobacillus farraginis,Composting material of distilled shochu residue,Microaerophilic,30
+Lactobacillus fermentum,Human saliva,Aerobic,30
+Lactobacillus floricola,Flower of Caltha palustris,Aerobic,30
+Lactobacillus florum,Peony (Paeonia suffruticosa),Anaerobic,28
+Lactobacillus formosensis,Fermented soybean,Anaerobic,37
+Lactobacillus fornicalis,Human vagina,Aerobic,37
+Lactobacillus fructivorans,NA,Microaerophilic,30
+Lactobacillus frumenti,Rye-bran sourdough,Anaerobic,40
+Lactobacillus fuchuensis,Vacuum-packed beef,Aerobic,20
+Lactobacillus furfuricola,Rice bran paste,Microaerophilic,30
+Lactobacillus futsaii,"Fu-tsai, a traditional fermented mustard product",Aerobic,30
+Lactobacillus gallinarum,Chicken crop,Microaerophilic,37
+Lactobacillus gasseri,Human,Preferably anaerobic,30
+Lactobacillus gastricus,"Gastric biopsies, Human stomach mucosa",Anaerobic,37
+Lactobacillus ghanensis,Cocoa fermentation,Anaerobic,30
+Lactobacillus gigeriorum,Chicken crop,Microaerophilic,37
+Lactobacillus ginsenosidimutans,Kimchi,Anaerobic,30
+Lactobacillus gorillae,Gorilla faeces,Microaerophilic,37
+Lactobacillus graminis,Grass silage,Microaerophilic,30
+Lactobacillus hammesii,Wheat sourdough,Microaerophilic,30
+Lactobacillus hamsteri,Faeces of hamster,Anaerobic,37
+Lactobacillus harbinensis,chinese traditional fermented vegetable,Microaerophilic,37
+Lactobacillus hayakitensis,Faeces of thoroughbred horse,Microaerophilic,37
+Lactobacillus heilongjiangensis,Chinese pickle,Microaerophilic,28
+Lactobacillus helsingborgensis,Honey stomach of honeybee,Anaerobic,35
+Lactobacillus helveticus,Malt whiskey fermentation,Anaerobic,37
+Lactobacillus herbarum,Fermented white radish,Microaerophilic,25
+Lactobacillus hilgardii,Wine,Preferably anaerobic,37
+Lactobacillus hokkaidonensis,Timothy grass silage,Microaerophilic,25
+Lactobacillus hominis,Human intestine,Microaerophilic,37
+Lactobacillus homohiochii,Spoiled sake,Microaerophilic,26
+Lactobacillus hordei,Malted barley,Anaerobic,37
+Lactobacillus iners,Human urine,Anaerobic,37
+Lactobacillus ingluviei,"Pigeon, crop",Microaerophilic,37
+Lactobacillus insicii,Fermented raw meat,Microaerophilic,30
+Lactobacillus intestinalis,Intestine of rat,Aerobic,37
+Lactobacillus iwatensis,Orchardgrass silage,Microaerophilic,30
+Lactobacillus jensenii,Human vaginal discharge,Microaerophilic,37
+Lactobacillus johnsonii,Human blood,Preferably anaerobic,30
+Lactobacillus kalixensis,"Gastric biopsies, Human stomach mucosa",Microaerophilic,37
+Lactobacillus kefiranofaciens subsp. kefiranofaciens,Kefir grains,Anaerobic,30
+Lactobacillus kefiranofaciens subsp. kefirgranum,Kefir grains,Anaerobic,30
+Lactobacillus kefiri,Kefir grains,Anaerobic,30
+Lactobacillus kimbladii,Honey stomach of honeybee,Anaerobic,30
+Lactobacillus kimchicus,Kimchi,Aerobic,37
+Lactobacillus kimchiensis,Kimchi,Microaerophilic,25
+Lactobacillus kisonensis,"Sunki, a Japanese traditional pickle",Microaerophilic,25
+Lactobacilus kitasatonis,Chicken intestine,Microaerophilic,37
+Lactobacillus koreensis,Cabbage Kimchi,Aerobic,30
+Lactobacillus kullabergensis,Honey stomach of honeybee,Strictly anaerobic,30
+Lactobacillus kunkeei,Commercial grape wine,Aerobic,30
+Lactobacillus lindneri,Spoilt beer,Aerobic,30
+Lactobacillus malefermentans,Sour beer,Microaerophilic,30
+Lactobacillus mali,Wine must,Aerobic,30
+Lactobacillus manihotivorans,Cassava sour starch fermentation,Aerobic,30
+Lactobacillus mellifer,Honey stomach of honeybee,Anaerobic,35
+Lactobacillus mellis,Honey stomach of honeybee,Strictly anaerobic,30
+Lactobacillus melliventris,Honey stomach of honeybee,Strictly anaerobic,30
+Lactobacillus mindensis,Sourdough,Microaerophilic,30
+Lactobacillus mixtipabuli,Silage,Microaerophilic,30
+Lactobacillus modestisalitolerans,Fermented fish,Facultatively anaerobic,30
+Lactobacillus mucosae,Pig small intestine,Preferably anaerobic,37
+Lactobacillus mudanjiangensis,Pickle,Microaerophilic,28
+Lactobacillus murinus,Intestine of rat,Microaerophilic,37
+Lactobacillus nagelii,Partially fermented wine,Anaerobic,30
+Lactobacillus namurensis,Sourdough,Microaerophilic,30
+Lactobacillus nantensis,Wheat sourdough,Microaerophilic,30
+Lactobacillus nasuensis,Sudangrass silage sample,Anaerobic,30
+Lactobacillus nenjiangensis,Pickle,Microaerophilic,28
+Lactobacillus nodensis,Japanese pickles,Microaerophilic,30
+Lactobacillus odoratitofui,Fermented brine used for stinky tofu production,Microaerophilic,30
+Lactobacillus oeni,Bobal wine,Microaerophilic,30
+Lactobacillus oligofermentans,Broiler leg,Microaerophilic,25
+Lactobacillus oris,Human saliva,Anaerobic,37
+Lactobacillus oryzae,Fermented rice grain,Anaerobic,30
+Lactobacillus otakiensis,"Sunki, a Japanese traditional pickle",Microaerophilic,30
+Lactobacillus ozensis,"Chrysanthemum, Oze National Park",Microaerophilic,30
+Lactobacillus panis,Sourdough,Aerobic,37
+Lactobacillus pantheris,Jaguar faeces,Microaerophilic,37
+Lactobacillus parabrevis,Wheat,Anaerobic,30
+Lactobacillus parabuchneri,Human saliva,Aerobic,30
+Lactobacillus paracasei subsp. paracasei,NA,Microaerophilic,30
+Lactobacillus paracasei subsp. tolerans,Pasteurized milk,Aerobic,30
+Lactobacillus paracollinoides,Brewery environment,Anaerobic,25
+Lactobacillus parafarraginis,Composting material of distilled shochu residue,Microaerophilic,28
+Lactobacillus parakefiri,Kefir grain,Anaerobic,30
+Lactobacillus paralimentarius,Sourdough,Microaerophilic,30
+Lactobacillus paraplantarum,Beer contaminant,Aerobic,30
+Lactobacillus pasteurii,NA,Microaerophilic,37
+Lactobacillus paucivorans,Yeast storage tank containing lager beer,Anaerobic,28
+Lactobacillus pentosus,NA,Microaerophilic,30
+Lactobacillus perolens,Organe lemonade,Anaerobic,30
+Lactobacillus plajomi,Fermented fish,Facultatively anaerobic,30
+Lactobacillus plantarum,Pickled cabbage,Aerobic,37
+Lactobacillus plantarum subsp. argentoratensis,Fermented cassava roots (fufu),Microaerophilic,30
+Lactobacillus pobuzihii,"Pobuzih (fermented cummingcordia), Cordia dichotoma",Microaerophilic,37
+Lactobacillus pontis,Rye sourdough,Aerobic,30
+Lactobacillus porcinae,Nem chua (fermented meat),Microaerophilic,28
+Lactobacillus psittaci,Lung of parrot,Anaerobic,37
+Lactobacillus rapi,"Sunki, a Japanese traditional pickle",Microaerophilic,30
+Lactobacillus rennini,Renning,Microaerophilic,30
+Lactobacillus reuteri,Intestine of adult,Aerobic,37
+Lactobacillus rhamnosus,NA,Anaerobic,37
+Lactobacillus rodentium,Digestive tract of rodents,Microaerophilic,37
+Lactobacillus rossiae,Wheat sourdough,Microaerophilic,30
+Lactobacillus ruminis,Bovine rumen,Anaerobic,37
+Lactobacillus saerimneri,Pig faeces,Aerobic,37
+Lactobacillus sakei subsp. carnosus,Fermented meat product,Microaerophilic,37
+Lactobacillus sakei subsp. sakei,"""Moto"" starter of sake",Aerobic,30
+Lactobacillus salivarius,Saliva,Microaerophilic,37
+Lactobacillus sanfranciscensis,Sourdough,Anaerobic,28
+Lactobacillus saniviri,Faeces of a Japanese healthy adult male,Microaerophilic,37
+Lactobacillus satsumensis,Shochu mash,Microaerophilic,30
+Lactobacillus secaliphilus,Sourdough,Microaerophilic,37
+Lactobacillus selangorensis,Chili bo,Aerobic,30
+Lactobacillus senioris,Faeces of healthy 100-year-old Japanese female,Microaerophilic,37
+Lactobacillus senmaizukei,"Senmaizuke, a Japanese pickle",Microaerophilic,30
+Lactobacillus sharpeae,Municipal sewage,Microaerophilic,30
+Lactobacillus shenzhenensis,Fermented dairy beverage,Microaerophilic,37
+Lactobacillus sicerae,Spanish natural cider,Anaerobic,37
+Lactobacillus silagei,Orchardgrass silage,Microaerophilic,30
+Lactobacillus siliginis,Wheat sourdough,Anaerobic,37
+Lactobacillus similis,Fermented cane molasses of alcohol plants,Microaerophilic,37
+Lactobacillus songhuajiangensis,Sourdough,Microaerophilic,28
+Lactobacillus spicheri,Rice sourdough,Microaerophilic,30
+Lactobacillus sucicola,Sap of an Oak tree,Microaerophilic,30
+Lactobacillus suebicus,Apple mash,Microaerophilic,30
+Lactobacillus sunkii,"Sunki, a Japanese traditional pickle",Microaerophilic,30
+Lactobacillus taiwanensis,Silage cattle feed,Microaerophilic,37
+Lactobacillus thailandensis,Fermented tea leaves (miang),Microaerophilic,30
+Lactobacillus tucceti,Sausage,Aerobic,30
+Lactobacillus ultunensis,"Gastric biopsies, Human stomach mucosa",Anaerobic,37
+Lactobacillus uvarum,Must of Bobal grape variety,Microaerophilic,30
+Lactobacillus vaccinostercus,Cow dung,Microaerophilic,30
+Lactobacillus vaginalis,Vaginal swab,Anaerobic,28
+Lactobacillus versmoldensis,Poultry salami,Microaerophilic,30
+Lactobacillus vespulae,Gut of queen wasp,Microaerophilic,30
+Lactobacillus vini,Must of grape,Aerobic,37
+Lactobacillus wasatchensis,Cheddar cheese,Anaerobic,25
+Lactobacillus xiangfangensis,Pickles,Aerobic,30
+Lactobacillus yonginensis,Kimchi,Microaerophilic,30
+Lactobacillus zeae,Corn steep liquor,Anaerobic,37
+Lactobacillus zymae,Artisanal wheat sourdough,Microaerophilic,30

@@ -1,0 +1,544 @@
+isolate.code,name,former.name.1,former.name.2,strain,clone,species,genus,family,order,class,phylum,kingdom,domain,bv,bv.choice
+2,Chlamydomonas strain UMACC 229,,,UMACC 229,,,Chlamydomonas,Chlamydomonadaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.191245447,1
+4,Navicula strain UMACC 231,,,UMACC 231,,,Navicula,Naviculaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.753261,1
+5,Phaeocystis antarctica strain CCMP 1871,,,CCMP 1871,,antarctica,Phaeocystis,Phaeocystaceae,Phaeocystales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.079181246,1
+6,Chaetoceros sp. strain CCAP 1010/10,,,CCAP 1010/10,,,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.187126,1
+7,Chaetoceros deflandrei,,,,,deflandrei,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.187126,3
+8,Corethron pennatum,Corethron criophilum,,,,pennatum,Corethron,Corethraceae,Corethrales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,5.283301229,2
+9,Fragilariopsis cylindrus,Nitzschia cylindrus,,,,cylindrus,Fragilariopsis,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.780811529,1
+10,Fragilariopsis kerguelensis,Nitzschia kerguelensis,,,,kerguelensis,Fragilariopsis,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.113943352,2
+11,Pseudo-nitzschia turgiduloides,Nitzschia turgiduloides,,,,turgiduloides,Pseudo-nitzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.142389466,2
+12,Stellarima microtrias,,,,,microtrias,Stellarima,Coscinodiscaceae,Coscinodiscales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,4.944457996,1
+13,Synedra sp.,,,,,,Synedra,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.918924067,1
+14,Emiliania huxleyi,Coccolithus huxleyi,,,,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+15,Emiliania huxleyi R strain TQ26,Coccolithus huxleyi,,R strain TQ26,,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+16,Dunaliella viridis,Dunaliella euchlora,,,,viridis,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,3
+17,Dunaliella salina,,,,,salina,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,3
+19,Prymnesium parvum f. patelliferum strain K0252,Prymnesium patelliferum,,K0252,,parvum,Prymnesium,Prymnesiaceae,Prymnesiales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.469822016,1
+20,Thalassiosira curviseriata,,,,,curviseriata,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.552668216,1
+21,Anabaena sp.,,,,,,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,1
+22,Chlorella sp.,,,,,,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,2.013915739,1
+23,Gephyrocapsa oceanica strain NS6-2,,,NS6-2,,oceanica,Gephyrocapsa,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.937016107,1
+24,"Gephyrocapsa oceanica strain AB1, CAWPOT",,,"AB1, CAWPOT",,oceanica,Gephyrocapsa,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.937016107,1
+25,Alexandrium minutum,,,,,minutum,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.483757194,3
+27,Aphanizomenon ovalisporum,,,,,ovalisporum,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+28,Cyclotella meneghiniana strain Hunter River,,,Hunter River,,meneghiniana,Cyclotella,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.192244052,1
+29,Cylindrospermopsis raciborskii strain CYP-026J,,,CYP-026J,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+30,Emiliania huxleyi strain S. Africa,Coccolithus huxleyi,,S. Africa,,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+31,Microcystis aeruginosa strain UV-006,,,UV-006,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+35,Chaetoceros sp. strain CS256,,,CS256,,,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.187126,1
+36,Cryptomonas sp. strain CRFI01,,,"CRFI01, CRF101",,,Cryptomonas,Cryptomonadaceae,Cryptomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,2.910906017,1
+37,Trichodesmium erythraeum strain GBRTRLI101,,,GBRTRLI101,,erythraeum,Trichodesmium,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.361727836,1
+38,"Isochrysis galbana clone T-ISO, NEPCC 601",,,,"NEPCC 601, T-ISO",galbana,Isochrysis,Isochrysidaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.562298955,1
+40,Cylindrotheca closterium strain NT-6,Nitzschia closterium,,NT-6,,closterium,Cylindrotheca,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.317370266,1
+41,Nitzschia paleacea strain NT7,Nitzschia frustulum,,NT7,,paleacea,Nitzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.135083697,1
+42,Rhodomonas sp. strain NT15,,,NT15,,,Rhodomonas,Pyrenomonadaceae,Pyrenomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,1.80127547,1
+46,Cylindrospermopsis raciborskii strain ITEP-O18,,,ITEP-O18,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+47,Phaeocystis globosa strain CCMP 1528,,,CCMP 1528,,globosa,Phaeocystis,Phaeocystaceae,Phaeocystales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.839232646,1
+49,Skeletonema tropicum clone S. trop.,,,,S. trop.,tropicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+50,Skeletonema tropicum clone 21-L,,,,21-L,tropicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+51,Asterionellopsis glacialis,Asterionella japonica,,,,glacialis,Asterionellopsis,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.188600414,1
+52,Odontella mobiliensis,Biddulphia mobiliensis,,,,mobiliensis,Odontella,Triceratiaceae,Triceratiales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,5.074421448,1
+53,Chaetoceros didymus,,,,,didymus,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.49130529,1
+54,Rhizosolenia setigera,,,,,setigera,Rhizosolenia,Rhizosoleniaceae,Rhizosoleniales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,4.673571645,1
+55,Skeletonema tropicum clone fall,,,,fall,tropicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+56,Skeletonema tropicum clone spring,,,,spring,tropicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+57,Thalassionema nitzschioides,,,,,nitzschioides,Thalassionema,Thalassionemataceae,Thalassionematales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.995110771,1
+60,Coscinodiscus pavillardii,,,,,pavillardii,Coscinodiscus,Coscinodiscaceae,Coscinodiscales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,6.496929648,1
+62,Chaetoceros sp.,,,,,,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.187126,1
+63,Gymnodinium sp. isolate 581 (probably G. simplex),,,isolate 581,,,Gymnodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.621361401,1
+65,Crocosphaera watsonii strain A 2.5,,,A 2.5,,watsonii,Crocosphaera,Cyanobacteriaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.347986606,1
+66,Alexandrium tamiyavanichii strain Chula-5,Protogonyaulax cohorticula ,,Chula-5,,tamiyavanichii ,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.483757194,3
+67,Chlorella vulgaris,,,,,vulgaris,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.900448191,1
+68,Gymnodinium sp. isolate 582 (probably G. simplex),,,isolate 582,,,Gymnodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.621361401,1
+69,Nannochloris (possibly Stichococcus) sp.,,,,,,Nannochloris,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,0.548171225,1
+70,Desmodesmus quadricaudatus,Scenedesmus quadricauda,,,,quadricaudatus,Desmodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.184715756,2
+71,Cylindrospermopsis raciborskii strain PMC 117.02,,,PMC 117.02,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+72,Proboscia indica,Rhizosolenia alata f. indica,,,,indica,Proboscia,Rhizosoleniaceae,Rhizosoleniales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,4.784935502,2
+73,Neocalyptrella robusta,Rhizosolenia robusta,,,,robusta,Neocalyptrella,Rhizosoleniaceae,Rhizosoleniales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,6.12581911,2
+74,Stephanopyxis palmeriana,,,,,palmeriana,Stephanopyxis,Stephanopyxidaceae,Melosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,5.549170266,1
+75,Thalassiosira rotula,,,,,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+76,Cylindrospermopsis raciborskii strain PMC 99.06,,,PMC 99.06,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+78,Crocosphaera watsonii strain P-3,,,P-3,,watsonii,Crocosphaera,Cyanobacteriaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.347986606,1
+79,Crocosphaera watsonii strain P-7,,,P-7,,watsonii,Crocosphaera,Cyanobacteriaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.347986606,1
+80,Odontella sinensis,Biddulphia sinensis,,,,sinensis,Odontella,Triceratiaceae,Triceratiales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,6.000379842,1
+81,Skeletonema costatum,,,,,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+83,Gephyrocapsa oceanica var. typica strain A4727,,,A4727,,oceanica,Gephyrocapsa,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.937016107,1
+84,Gephyrocapsa oceanica var. typica strain A4725,,,A4725,,oceanica,Gephyrocapsa,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.937016107,1
+85,Gymnodinium catenatum strain GCCV-10,,,GCCV-10,,catenatum,Gymnodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.621361401,3
+87,Thalassiosira rotula clone C8,,,,C8,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+88,Chaetoceros simplex strain NEPCC 591,,,NEPCC 591,,simplex,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.536479098,1
+89,Synechococcus strain WH8103,,,WH8103,,,Synechococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.165366041,1
+90,Amphiprora sp.,,,,,,Amphiprora,Amphipleuraceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.7454758,1
+91,Chaetoceros lorenzianus clone Bushehr,,,,Bushehr,lorenzianus,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.921053632,1
+92,Coscinodiscus excentricus var. lineatus,,,,,excentricus,Coscinodiscus,Coscinodiscaceae,Coscinodiscales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,4.903089987,1
+93,Leptocylindrus danicus,,,,,danicus,Leptocylindrus,Leptocylindraceae,Leptocylindrales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.279583507,1
+94,Prochlorococcus marinus strain SS120,,,SS120,,marinus,Prochlorococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.886056648,3
+95,Chlorella sp. strain MFD-1,,,MFD-1,,,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,2.013915739,1
+98,"Prymnesium parvum strain UTEX LB 2797, UTEX LB ZZ181",,,"UTEX LB 2797, UTEX LB ZZ181",,parvum,Prymnesium,Prymnesiaceae,Prymnesiales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.469822016,1
+99,"Chlorella sorokiniana strain CCAP 211/8K, 7-11-05",Chlorella pyrenoidosa,,"CCAP 211/8K, 7-11-05",,sorokiniana,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.575187845,2
+100,"Synechococcus sp. strain UV-005, PCC 6311",,,"UV-005, PCC 6311",,,Synechococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.165366041,1
+102,Coelastrum astroideum,Coelastrum microporum f. astroidea,,,,astroideum,Coelastrum,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.106821273,2
+103,Cosmarium subprotumidum,,,,,subprotumidum,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.757016235,1
+104,Monoraphidium minutum,Selenastrum minutum,,,,minutum,Monoraphidium,Ankistrodesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.322219295,1
+105,Chattonella marina,,,,,marina,Chattonella,Chattonellaceae,Chattonellales,Raphidophyceae,Ochrophyta,Chromista,Eukaryota,5.116939647,1
+106,"Emiliania huxleyi strain M181, Bigelow 1A1",Coccolithus huxleyi,,"M181, Bigelow 1A1",,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+107,Emiliania huxleyi strain CCMP373,Coccolithus huxleyi,,"CCMP373, BT-6",,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+109,Chaetoceros lorenzianus clone Bermuda,,,,Bermuda,lorenzianus,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.921053632,1
+111,Anabaena flos-aquae strain UTEX 1444,,,UTEX 1444,,flos-aquae,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,3
+112,Cyclotella meneghiniana strain Lake Kinneret,,,Lake Kinneret,,meneghiniana,Cyclotella,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.192244052,1
+113,Chlorella homosphaera,Mychonastes homosphaera,,,,homosphaera,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,0.621176282,2
+114,Synechococcus sp. strain A,,,A,,,Synechococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.165366041,1
+115,Synechococcus sp. strain B,,,B,,,Synechococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.165366041,1
+116,Akashiwo sanguinea,Gymnodinium splendens,Gymodinium sanguineum,,,sanguinea,Akashiwo,,,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.681241237,1
+120,Thalassiosira oceanica clone 13-1,Cyclotella nana ,,,13-Jan,oceanica,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.849296041,1
+121,Aphanizomenon aphanizomenoides,Anabaena aphanizomenoides,,,,aphanizomenoides,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+122,Microcystis ichthyoblabe,,,,,ichthyoblabe,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,0.963787827,1
+123,Karenia mikimotoi,Gymnodinium nagasakiense,,,,mikimotoi,Karenia,Kareniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.621361401,4
+124,Microcystis aeruginosa,,,,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+125,Microcystis wesenbergii,,,,,wesenbergii,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.631033705,3
+126,Pseudo-nitzschia americana,Nitzschia americana,,,,americana,Pseudo-nitzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.079181246,3
+127,"Lingulodinium polyedrum strain 70A, UCSB 5M-20",Gonyaulax polyedra ,,"70A, UCSB 5M-20",,polyedrum,Lingulodinium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.484541905,4
+130,Gymnodinium catenatum strain Se-GC,,,Se-GC,,catenatum,Gymnodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.621361401,3
+131,Chattonella marina var. antiqua strain Ho-1,Chattonella antiqua ,,Ho-1,,marina,Chattonella,Chattonellaceae,Chattonellales,Raphidophyceae,Ochrophyta,Chromista,Eukaryota,5.116939647,1
+132,Eucampia zodiacus,,,,,zodiacus,Eucampia,Hemiaulaceae,Hemiaulales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.763641696,1
+133,Heterosigma akashiwo,,,,,akashiwo,Heterosigma,Chattonellaceae,Chattonellales,Raphidophyceae,Ochrophyta,Chromista,Eukaryota,3.051923916,1
+134,"Trichodesmium erythraeum strain IMS101, CCMP 1985",,,"IMS101, CCMP 1985",,erythraeum,Trichodesmium,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.361727836,1
+135,Aphanizomenon flos-aquae var. klebahnii,,,,,flos-aquae,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+136,Chlorella sp.,,,,,,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,2.013915739,1
+137,Golenkinia radiata,,,,,radiata,Golenkinia,Neochloridaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.807386433,1
+138,Biceratium furca,Ceratium furca,,,,furca,Biceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.73731202,2
+139,Neoceratium fusus,Ceratium fusus,,,,fusus,Neoceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.6427085,4
+140,Chaetoceros pseudocurvisetus,,,,,pseudocurvisetus,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.397940009,1
+141,Anabaena sp.,,,,,,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,1
+142,Aphanizomenon flos-aquae,,,,,flos-aquae,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+143,Microcystis aeruginosa,,,,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+144,Mallomonas caudata strain MR,,,MR,,caudata,Mallomonas,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,3.535536985,1
+145,Chaetoceros lorenzianus clone Northern Sargasso,,,,Northern Sargasso,lorenzianus,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.921053632,1
+146,Skeletonema costatum,,,,,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+147,"Chaetoceros calcitrans strain CCAP 1010/11, NEPCC 590",,,"CCAP 1010/11, NEPCC 590",,calcitrans,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.143039289,1
+148,Synura petersenii strain JC,,,JC,,petersenii,Synura,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.506357857,3
+149,Synura petersenii strain WM,,,WM,,petersenii,Synura,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.506357857,3
+150,Mallomonas crassisquama,,,,,crassisquama,Mallomonas,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.646433746,3
+151,Mallomonas elongata,,,,,elongata,Mallomonas,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.646433746,3
+152,Mallomonas tonsurata,,,,,tonsurata,Mallomonas,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.646433746,3
+153,Synura petersenii strain JD,,,JD,,petersenii,Synura,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.506357857,3
+154,Asterionella formosa,,,,,formosa,Asterionella,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.53612308,1
+155,Mallomonas areolata,,,,,areolata,Mallomonas,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.646433746,3
+156,Mallomonas caudata strain DG,,,DG,,caudata,Mallomonas,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,3.535536985,1
+157,Mallomonas acaroides,,,,,acaroides,Mallomonas,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.646433746,3
+158,Gephyrocapsa oceanica var. typica strain ESP186,,,ESP186,,oceanica,Gephyrocapsa,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.937016107,1
+159,Mallomonas caudata strain AG,,,AG,,caudata,Mallomonas,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,3.535536985,1
+160,Stephanodiscus hantzschii,,,,,hantzschii,Stephanodiscus,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.825515445,1
+161,Microcystis aeruginosa strain NIES 299,,,NIES 299,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+164,Planktothrix mougeotii,Oscillatoria mougeotii,,,,mougeotii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.56075475,3
+165,Leptolyngbya tenuis,Phormidium tenue ,,,,tenuis,Leptolyngbya,Pseudoanabaenaceae,Pseudoanabaenales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.497777861,3
+167,Microcystis aeruginosa,,,,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+168,Gephyrocapsa oceanica var. typica strain JS8,,,JS8,,oceanica,Gephyrocapsa,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.937016107,1
+169,Peridinium sp. strain 1,,,1,,,Peridinium,Peridiniaceae,Peridiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.303240824,1
+170,Prorocentrum gracile,,,,,gracile,Prorocentrum,Prorocentraceae,Prorocentrales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.293570038,1
+171,Prorocentrum micans,,,,,micans,Prorocentrum,Prorocentraceae,Prorocentrales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.029374544,1
+172,Dunaliella viridis,,,,,viridis,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,3
+173,Gyrodinium uncatenum strain GYRO,,,GYRO,,uncatenum,Gyrodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.30311,3
+174,Chaetoceros sp.,,,,,,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.187126,1
+175,Gyrodinium uncatenum,,,,,uncatenum,Gyrodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.30311,3
+176,Prorocentrum minimum,,,,,minimum,Prorocentrum,Prorocentraceae,Prorocentrales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.927094148,1
+177,Conticribra weissflogii,Thalassiosira weissflogii,,,,weissflogii,Conticribra,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.231703179,2
+178,Gephyrocapsa oceanica var. typica strain PC71,,,PC71,,oceanica,Gephyrocapsa,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.937016107,1
+179,"Pycnococcus provasolii clone ?48-23, CCAP 190/1",,,,"?48-23, CCAP 190/1",provasolii,Pycnococcus,Pycnococcaceae,Pseudoscourfieldiales,Prasinophyceae,Chlorophyta,Plantae,Eukaryota,1.037426498,1
+180,Chaetoceros didymus clone Slope water,,,,Slope water,didymus,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.49130529,1
+181,Chaetoceros lorenzianus clone Slope water,,,,Slope water,lorenzianus,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.921053632,1
+182,Aulacoseira granulata var. angustissima,,,,,granulata,Aulacoseira,Aulacoseiraceae,Aulacoseirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.223750088,1
+183,Merismopedia tenuissima,,,,,tenuissima,Merismopedia,Merismopediaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,0.159428438,1
+184,Microcystis aeruginosa,,,,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+185,Oscillatoria sp.,,,,,,Oscillatoria,Oscillatoriaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.28268772,1
+186,Alexandrium tamarense,Protogonyaulax tamarensis,,,,tamarense,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.112942086,1
+187,Alexandrium catenella strain OF878-1,Protogonyaulax catenella ,,OF878-1,,catenella,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.67507933,1
+188,Conticribra guillardii clone 7-15,Thalassiosira guillardi ,Cyclotella nana ,,15-Jul,guillardii,Conticribra,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.166854754,4
+189,Ankistrodesmus falcatus strain S/ANKIS-1,,,S/ANKIS-1,,falcatus,Ankistrodesmus,Ankistrodesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.525524886,1
+190,Volvox aureus,,,,,aureus,Volvox,Volvocaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.117604,3
+191,Cylindrotheca closterium,Nitzschia closterium,,,,closterium,Cylindrotheca,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.317370266,1
+192,Aphanizomenon ovalisporum strain UAM 290,,,UAM290,,ovalisporum,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+193,Picochlorum atomus,Nannochloris atomus,,,,atomus,Picochlorum,,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,0.548303411,2
+194,Phaeodactylum tricornutum,Nitzschia closterium forma minutissima,,,,tricornutum,Phaeodactylum,Phaeodactylaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.627660367,1
+195,Stichococcus (possibly S. cylindricus),,,,,,Stichococcus,Prasiolaceae,Prasiolales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,0.961866769,1
+197,Ceratium schrankii,,,,,schrankii,Ceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.6427085,3
+198,"Thalassiosira pseudonana clone CCMP1335, 3H, NEPCC 58",Cyclotella nana ,,,"CCMP1335, 3H, NEPCC 58",pseudonana,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.268715388,1
+200,Thalassiosira pseudonana clone 5A,Cyclotella nana ,,,5A,pseudonana,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.268715388,1
+201,"Conticribra weissflogii clone CCMP1336, Actin",Thalassiosira weissflogii,Thalassiosira fluviatilis ,,"CCMP1336, Actin",weissflogii,Conticribra,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.231703179,2
+203,Dunaliella sp.,,,,,,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,1
+204,"Rhodomonas salina clone CCMP1310, 3C",Chroomonas salina,,,"CCMP1319, 3C",salina,Rhodomonas,Pyrenomonadaceae,Pyrenomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,2.36361198,1
+205,"Skeletonema marinoi clone CCMP1332, Skel.",Skeletonema costatum,,,"CCMP1332, Skel.",marinoi,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,2
+206,Skeletonema costatum,,,,,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+207,Thalassiosira pseudonana clone e.p.,Cyclotella nana ,,,e.p.,pseudonana,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.268715388,1
+208,"Volvox globator strain UTEX LB955, SAG 199.80",,,"UTEX LB955, SAG 199.80",,globator,Volvox,Volvocaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.117604,3
+209,Monodopsis subterranea,Monodus subterraneus,,,,subterranea,Monodopsis,Monodopsidaceae,Eustigmatales,Eustigmatophyceae,Ochrophyta,Chromista,Eukaryota,2.358563,4
+210,Asterionellopsis glacialis,Asterionella glacialis,,,,glacialis,Asterionellopsis,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.188600414,1
+211,Detonula confervacea,,,,,confervacea,Detonula,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.214880815,1
+212,Olisthodiscus luteus clone OLMS,,,,OLMS,luteus,Olisthodiscus,Chattonellaceae,Chattonellales,Raphidophyceae,Ochrophyta,Chromista,Eukaryota,2.988277018,1
+214,Dactyliosolen fragilissimus,Rhizosolenia fragilissima,,,,fragilissimus,Dactyliosolen,Rhizosoleniaceae,Rhizosoleniales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,4.362081192,1
+215,Skeletonema costatum clone SK6C,,,,SK6C,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+216,Thalassiosira nordenskioeldii clone TN-2,,,,TN-2,nordenskioeldii,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.727489251,1
+217,Thalassiosira rotula clone A8,,,,A8,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+218,Phaeodactylum tricornutum clone Pet Pd,Nitzschia closterium forma minutissima,,,PetPD,tricornutum,Phaeodactylum,Phaeodactylaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.627660367,1
+219,Alexandrium tamarense clone GTMP,Protogonyaulax tamarensis,,,GTMP,tamarense,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.112942086,1
+220,Asterionellopsis glacialis,Asterionella japonica,,,,glacialis,Asterionellopsis,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.188600414,1
+221,Rhizosolenia setigera,,,,,setigera,Rhizosolenia,Rhizosoleniaceae,Rhizosoleniales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,4.673571645,1
+222,Skeletonema costatum clone 9,,,,9,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+223,Thalassionema nitzschioides,,,,,nitzschioides,Thalassionema,Thalassionemataceae,Thalassionematales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.995110771,1
+224,Stephanodiscus minutus strain LM STEPH S-1 JM,,,LM STEPH S-1 JM,,minutus,Stephanodiscus,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.118425684,3
+225,Gymnodinium catenatum,,,,,catenatum,Gymnodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.621361401,3
+226,Scenedesmus sp.,,,,,,Scenedesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.02022462,1
+227,Anabaena sp.,,,,,,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,1
+228,Aphanizomenon sp.,,,,,,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,1
+229,Microcystis aeruginosa strain Berkeley 7005,,,Berkely 7005,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+230,Microcystis sp.,,,,,,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.631033705,1
+231,Prochlorococcus marinus strain MED4 (clade 2),,,MED4,,marinus,Prochlorococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.886056648,3
+232,Prorocentrum minimum,,,,,minimum,Prorocentrum,Prorocentraceae,Prorocentrales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.927094148,1
+233,Alexandrium fundyense strain MI,,,MI,,fundyense,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.483757194,3
+234,Detonula confervacea,,,,,confervacea,Detonula,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.214880815,1
+235,Thalassiosira nordenskioeldii,,,,,nordenskioeldii,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.727489251,1
+236,Chlamydomonas reinhardtii,,,,,reinhardtii,Chlamydomonas,Chlamydomonadaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.191245447,3
+237,Synechococcus lividus,,,,,lividus,Synechococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.165366041,3
+238,Gephyrocapsa oceanica var. typica strain ARC3,,,ARC3,,oceanica,Gephyrocapsa,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.937016107,1
+239,Alexandrium fundyense strain BoF,,,BoF,,fundyense,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.483757194,3
+240,Pseudo-nitzschia granii,,,,,granii,Pseudo-nitzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.079181246,3
+241,Cryptomonas erosa,,,,,erosa,Cryptomonas,Cryptomonadaceae,Cryptomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,2.726928917,1
+242,Pseudo-nitzschia multiseries,Nitzschia pungens f. multiseries,,,,multiseries,Pseudo-nitzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.049992857,1
+243,Amphidinium carteri,Amphidinium carterae,,,,carteri,Amphidinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,1.8219245,3
+244,Chlamydomonas sp.,,,,,,Chlamydomonas,Chlamydomonadaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.191245447,1
+245,Entomoneis sp.,,,,,,Entomoneis,Entomoneidaceae,Surirellales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.442534703,1
+246,Pseudo-nitzschia multiseries,Nitzschia pungens f. multiseries,,,,multiseries,Pseudo-nitzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.049992857,1
+247,Eutreptiella pomquetensis,Tetreutreptia pomquetensis,,,,pomquetensis,Eutreptiella,Eutreptiaceae,Eutreptiales,Euglenophyceae,Euglenophyta,Protozoa,Eukaryota,3.190600615,3
+248,Fragilaria crotonensis,,,,,crotonensis,Fragilaria,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.867124701,1
+249,Staurastrum pingue,,,,,pingue,Staurastrum,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.301029996,1
+250,Cylindrospermopsis raciborskii strain ACT-9502,,,ACT-9502,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+251,Diatoma tenue,Diatoma elongatum,,,,tenue,Diatoma,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.222416625,1
+252,Fragilaria capucina,,,,,capucina,Fragilaria,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.46655534,1
+253,Fragilaria crotonensis,,,,,crotonensis,Fragilaria,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.867124701,1
+254,Nitzschia holsatica,Nitzschia actinastroides,,,,holsatica,Nitzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.140508043,2
+255,Synedra acus var. radians,,,,,acus,Synedra,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.896425583,1
+256,Skeletonema costatum clone FHS 3,,,,FHS 3,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+257,Skeletonema costatum clone FHS 7,,,,FHS 7,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+258,Cylindrospermopsis raciborskii strain PMC 99.12,,,PMC 99.12,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+259,Phaeodactylum tricornutum strain NEPCC 640,Nitzschia closterium forma minutissima,,NEPCC 640,,tricornutum,Phaeodactylum,Phaeodactylaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.627660367,1
+260,Emiliania huxleyi strain Van556,Coccolithus huxleyi,,Van556,,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+261,Synura sphagnicola,,,,,sphagnicola,Synura,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.506357857,3
+262,Phaeodactylum tricornutum strain CCAP 1052/1A,Nitzschia closterium forma minutissima,,CCAP 1052/1A,,tricornutum,Phaeodactylum,Phaeodactylaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.627660367,1
+263,Prymnesium parvum f. patelliferum strain CCAP 946/4,Prymnesium patelliferum,,CCAP 946/4,,parvum,Prymnesium,Prymnesiaceae,Prymnesiales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.469822016,1
+264,Asterionellopsis glacialis,Asterionella japonica,,,,glacialis,Asterionellopsis,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.188600414,1
+265,Cryptomonas pyrenoidifera,Cryptomonas ovata var. palustris,,,,pyrenoidifera,Cryptomonas,Cryptomonadaceae,Cryptomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,3.09312789,2
+266,Odontella aurita,Biddulphia aurita,,,,aurita,Odontella,Triceratiaceae,Triceratiales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,4.337662883,1
+268,Prymnesium parvum strain CCAP 946/1B,,,CCAP 946/1B,,parvum,Prymnesium,Prymnesiaceae,Prymnesiales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.469822016,1
+269,Asterionella formosa,,,,,formosa,Asterionella,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.53612308,1
+270,Cosmarium abbreviatum,,,,,abbreviatum,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.653212514,1
+271,Staurastrum avicula,,,,,avicula,Staurastrum,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.219293468,3
+272,Staurastrum cingulum,,,,,cingulum,Staurastrum,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.707477346,1
+273,Asterionella formosa,,,,,formosa,Asterionella,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.53612308,1
+274,Closterium acutum,,,,,acutum,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.906545955,1
+275,Fragilaria crotonensis,,,,,crotonensis,Fragilaria,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.867124701,1
+276,Staurastrum pingue,,,,,pingue,Staurastrum,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.301029996,1
+277,Staurastrum planctonicum,,,,,planctonicum,Staurastrum,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.219293468,3
+278,Stephanodiscus hantzschii,,,,,hantzschii,Stephanodiscus,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.825515445,1
+279,Cylindrospermopsis raciborskii strain CYLI-53,,,CYLI-53,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+280,"Botryococcus braunii strain CHN 357, UTEX 572",,,"CHN 357, UTEX 572",,braunii,Botryococcus,Botryococcaceae,Trebouxiales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.794526923,1
+281,Aphanizomenon gracile strain 16D11,,,16D11,,gracile,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+282,Monoraphidium convolutum strain CCAP 202/10B,Ankistrodesmus convolutus,,CCAP 202/10B,,convolutum,Monoraphidium,Selenastraceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.226664762,2
+283,Closterium limneticum,,,,,limneticum,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+284,Cosmarium biretum,,,,,biretum,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,3
+285,Cosmarium kjellmanii,,,,,kjellmanii,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,3
+286,Staurastrum chaetoceras,,,,,chaetoceras,Staurastrum,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.602059991,1
+287,Planktothrix agardhii,Oscillatoria agardhii,,,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+288,Aphanizomenon aphanizomenoides strain 22C4-9,,,22C4-9,,aphanizomenoides,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+289,Cylindrospermopsis raciborskii strain 24G7,,,24G7,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+290,Anabaena macrospora strain ST195AS,,,ST195AS,,macrospora,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.975456047,1
+291,Aphanizomenon flos-aquae strain ST115AF,,,ST115AF,,flos-aquae,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+293,Anabaena bergii strain LIE02AB,,,LIE02AB,,bergii,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,3
+294,Staurastrum anatinum,,,,,anatinum,Staurastrum,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.219293468,3
+296,Aulacoseira baicalensis,,,,,baicalensis,Aulacoseira,Aulacoseiraceae,Aulacoseirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.018124528,3
+297,Synechocystis limnetica,,,,,limnetica,Synechocystis,Merismopediaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,0.533454475,3
+298,"Isochrysis galbana strain CCMP1323, Iso.",,,"CCMP1323, Iso.",,galbana,Isochrysis,Isochrysidaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.562298955,1
+300,Anabaena flos-aquae,,,,,flos-aquae,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,3
+301,Cryptomonas curvata strain CCAP 969/62,,,CCAP 969/62,,curvata,Cryptomonas,Cryptomonadaceae,Cryptomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,3.848060463,1
+302,Planktothrix agardhii,Oscillatoria agardhii,,,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+303,Asterionella formosa,,,,,formosa,Asterionella,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.53612308,1
+304,Ceratium furcoides,,,,,furcoides,Ceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.6427085,3
+305,Cryptomonas marssonii,,,,,marssonii,Cryptomonas,Cryptomonadaceae,Cryptomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,2.910906017,3
+306,Dinobryon divergens,,,,,divergens,Dinobryon,Dinobryaceae,Chromulinales,Chrysophyceae,Ochrophyta,Chromista,Eukaryota,2.079234836,1
+307,Staurastrum cingulum,,,,,cingulum,Staurastrum,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.707477346,1
+308,Synura petersenii strain CCAP 960/3,,,CCAP 960/3,,petersenii,Synura,Mallomonadaceae,Synurales,Synurophyceae,Ochrophyta,Chromista,Eukaryota,2.506357857,3
+310,Asterionella formosa,,,,,formosa,Asterionella,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.53612308,1
+311,Aphanizomenon flos-aquae,,,,,flos-aquae,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+312,Melosira italica ssp. subarctica,Aulacoseira subarctica,,,,italica,Melosira,Melosiraceae,Melosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.986923613,1
+313,Limnothrix redekei,Oscillatoria redekei,,,,redekei,Limnothrix,Pseudoanabaenaceae,Pseudoanabaenales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.28268772,4
+315,Stephanodiscus astraea,,,,,astraea,Stephanodiscus,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.984347258,1
+316,Stephanodiscus hantzschii,,,,,hantzschii,Stephanodiscus,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.825515445,1
+317,Phaeocystis pouchetii,,,,,pouchetii,Phaeocystis,Phaeocystaceae,Phaeocystales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.839232641,3
+318,Diacronema lutheri strain NEPCC 5,Monochrysis lutheri,Pavlova lutheri,NEPCC 5,,lutheri,Diacronema,Pavlovaceae,Pavlovales,Pavlovophyceae,Haptophyta,Chromista,Eukaryota,1.86332286,1
+319,Skeletonema costatum,,,,,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+320,Alexandrium ostenfeldii clone LF-37,,,,LF-37,osterfeldii,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.483757194,3
+321,Prymnesium parvum strain K0081,,,K0081,,parvum,Prymnesium,Prymnesiaceae,Prymnesiales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.469822016,1
+324,Gymnodinium corollarium clone GCTV-B4,,,GCTV-B4,,corollarium,Gymnodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.621361401,3
+327,Amphidinium carteri,,,,,carteri,Amphidinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,1.8219245,3
+328,Eutreptiella gymnastica,,,,,gymnastica,Eutreptiella,Eutreptiaceae,Eutreptiales,Euglenophyceae,Euglenophyta,Protozoa,Eukaryota,3.190600615,3
+329,Karlodinium veneficum strain KT76E,Gymnodinium galatheanum,,KT76E,,veneficum,Karlodinium,Kareniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.832508913,2
+330,Gymnodinium aureolum,Gyrodinium aureolum,,,,aureolum,Gymnodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.621361401,3
+331,Gyrodinium estuariale,,,,,estuariale,Gyrodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.30311,3
+332,Heterocapsa rotundata,Katodinium rotundatum,,,,rotundata,Heterocapsa,Heterocapsaceae,Peridiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.2470731,4
+333,Micromonas pusilla,,,,,pusilla,Micromonas,Mamiellaceae,Mamiellales,Mamiellophyceae,Chlorophyta,Plantae,Eukaryota,0.618048097,1
+334,Ochromonas minima,,,,,minima,Ochromonas,Chromulinaceae,Chromulinales,Chrysophyceae,Ochrophyta,Chromista,Eukaryota,2.045345579,3
+335,Olisthodiscus luteus,,,,,luteus,Olisthodiscus,Chattonellaceae,Chattonellales,Raphidophyceae,Ochrophyta,Chromista,Eukaryota,2.988277018,1
+338,Pyramimonas disomata,,,,,disomata,Pyramimonas,Pyramimonadaceae,Pyramimonadales,Prasinophyceae,Chlorophyta,Plantae,Eukaryota,1.999300167,3
+339,Scrippsiella trochoidea,Glenodinium trochoideum,,,,trochoidea,Scripsiella,Peridiniaceae,Peridiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.972396723,4
+340,Planktothrix agardhii,Oscillatoria agardhii,,,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+341,Prymnesium parvum strain RL10parv93,,,RL10parv93,,parvum,Prymnesium,Prymnesiaceae,Prymnesiales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.469822016,1
+342,Prymnesium parvum f. patelliferum strain RHpat93,Prymnesium patelliferum,,RHpat93,,parvum,Prymnesium,Prymnesiaceae,Prymnesiales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.469822016,1
+343,Dunaliella tertiolecta strain CCAP 19/6B,,,CCAP 19/6B,,tertiolecta,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,3
+344,Biceratium furca,Ceratium furca,,,,furca,Biceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.73731202,2
+345,Neoceratium fusus,Ceratium fusus var. seta,,,,fusus,Neoceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.6427085,4
+346,Neoceratium lineatum,Ceratium lineatum,,,,lineatum,Neoceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.6427085,4
+347,Ceratium tripos var. atlanticum,,,,,tripos,Ceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.6427085,3
+348,Emiliania huxleyi strain G1779Ga,Coccolithus huxleyi,,G1779Ga,,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+349,Diacronema lutheri strain CCMP1325,Monochrysis lutheri,Pavlova lutheri,"Mono, CCMP 1325",,lutheri,Diacronema,Pavlovaceae,Pavlovales,Pavlovophyceae,Haptophyta,Chromista,Eukaryota,1.86332286,1
+351,Cryptomonas sp. strain F,,,F,,,Cryptomonas,Cryptomonadaceae,Cryptomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,2.910906017,1
+352,Emiliania huxleyi strain PML B92/11,Coccolithus huxleyi,,PML B92/11,,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+353,Emiliania huxleyi strain B92/21,Coccolithus huxleyi,,B92/21,,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+354,Anabaena sp. strain 123,,,123,,,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,1
+355,Anabaena sp. strain 14,,,14,,,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,1
+356,Anabaena sp. strain 202A1,,,202A1,,,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,1
+357,Anabaena sp. strain 90,,,90,,,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,1
+358,Emiliania huxleyi clone M,Coccolithus huxleyi,,,M,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+359,Eutreptiella sp. strain R,,,R,,,Eutreptiella,Eutreptiaceae,Eutreptiales,Euglenophyceae,Euglenophyta,Protozoa,Eukaryota,3.190600615,1
+361,Chaetoceros sp.,,,,,,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.187126,1
+362,Nitzschia frigida,,,,,frigida,Nitzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.857690576,1
+364,Prochlorococcus marinus strain MIT9312 (clade 1),,,MIT9312,,marinus,Prochlorococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.886056648,3
+365,Prochlorococcus marinus strain MIT9215 (clade 1),,,MIT9215,,marinus,Prochlorococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.886056648,3
+366,Prochlorococcus marinus strain MIT9515 (clade 2),,,MIT9515,,marinus,Prochlorococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.886056648,3
+367,Alexandrium monilatum,,,,,monilatum,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.483757194,3
+368,Prochlorococcus marinus strain NATL2A,,,NATL2A,,marinus,Prochlorococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.886056648,3
+369,Prochlorococcus marinus strain MIT9313,,,MIT9313,,marinus,Prochlorococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.886056648,3
+370,Coscinodiscus wailesii,,,,,wailesii,Coscinodiscus,Coscinodiscaceae,Coscinodiscales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,6.96744304,1
+371,Microcystis aeruginosa strain NRC-1,,,NRC-1,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+372,Scrippsiella trochoidea strain ScrpMxB,Glenodinium trochoideum,,ScrpMxB,,trochoidea,Scripsiella,Peridiniaceae,Peridiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,2.972396723,4
+373,Aphanizomenon flos-aquae var. klebahnii strain EAWAG no. 103,,,EAWAG no. 103,,flos-aquae,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+374,"Aphanocapsa incerta strain CCAP 1450/2, UV-003, CCALA 105",Microcystis incerta,,"CCAP LB1450/2, UV-003, CCALA 105",,incerta,Aphanocapsa,Merismopediaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.179533824,3
+375,Asterionella formosa,,,,,formosa,Asterionella,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.53612308,1
+376,Chlorella sp.,,,,,,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,2.013915739,1
+377,Chlorella vulgaris,,,,,vulgaris,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.900448191,1
+378,Chlorella vulgaris,,,,,vulgaris,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.900448191,1
+379,Chlorella vulgaris strain no. 369,,,369,,vulgaris,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.900448191,1
+380,Cryptomonas czosnowskii strain CCAP 969/67,,,CCAP 969/67,,czosnowskii,Cryptomonas,Cryptomonadaceae,Cryptomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,2.910906017,3
+381,Desmodesmus quadricaudatus,Scenedesmus quadricauda,,,,quadricaudatus,Desmodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.184715756,2
+382,Desmodesmus quadricaudatus strain UTEX 614,Scenedesmus quadricauda,,UTEX 614,,quadricaudatus,Desmodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.184715756,2
+383,Euglena gracilis var. bacillaris,,,,,gracilis,Euglena,Euglenaceae,Euglenales,Euglenophyceae,Euglenophyta,Protozoa,Eukaryota,3.65777422,1
+384,Haematococcus pluvialis,,,,,pluvialis,Haematococcus,Haematococcaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,3.68247612,1
+385,Microcystis aeruginosa strain RID-2,,,RID-2,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+386,Monoraphidium contortum,Ankistrodesmus falcatus var. spirilliformis,,4b,,contortum,Monoraphidium,Selenastraceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.329719141,1
+387,Mucidosphaerium pulchellum strain 222/2,Dictyosphaerium pulchellum ,,222/2,,pulchellum,Mucidosphaerium,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.40557942,2
+389,Oscillatoria sp.,,,,,,Oscillatoria,Oscillatoriaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.28268772,1
+390,Peridinium bipes,,,,,bipes,Peridinium,Peridiniaceae,Peridiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.303240824,3
+391,Planktothrix agardhii,Oscillatoria agardhii,,,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+392,Planktothrix agardhii,Oscillatoria agardhii,,,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+393,Planktothrix agardhii strain 1459/12g,Oscillatoria agardhii,,1459/12g,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+394,Planktothrix agardhii strain UWCC FW 277,Oscillatoria agardhii,,UWCC FW 277,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+395,Raphidocelis subcapitata,Selenastrum capricornutum,,,,subcapitata,Raphidocelis,Selenastraceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.333930102,4
+396,"Acutodesmus obliquus strain SAG 276-3a ,CCAP 276/3A, UTEX 72",Scenedesmus acutus f. alterans,Scenedesmus obliquus,"SAG 276-3a ,CCAP 276/3A, UTEX 72",,obliquus,Acutodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.549968865,2
+397,Stephanodiscus hantzschii var. pusilla,,,,,hantzschii,Stephanodiscus,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.825515445,1
+398,Romeria leopoliensis strain 1402-1,Anacystis nidulans,Synechococcus leopoliensis,SAG 1402-1,,leopoliensis,Romeria,Pseudoanabaenaceae,Pseudoanabaenales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,0.3710679,3
+399,Synechocystis bourrellyi strain no. 153,Synechocystis minima ,,153,,bourrellyi,Synechocystis,Merismopediaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,0.533454475,3
+400,Trichormus variabilis,Anabaena variabilis,,,,variabilis,Trichormus,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.516403148,2
+402,Alexandrium tamarense clone GT-6,Protogonyaulax tamarensis,,,GT-6,tamarense,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.112942086,1
+403,Chaetoceros affinis,,,,,affinis,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.346093056,1
+404,Chaetoceros calcitrans,,,,,calcitrans,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.143039289,1
+405,Chaetoceros curvisetus,Chaetoceros curvisetum,,,,curvisetus,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.480370219,1
+406,Chaetoceros gracilis strain NEPCC 645,,,NEPCC 645,,gracilis,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.244537384,1
+407,Chaetoceros gracilis strain S/CHAET-1,,,S/CHAET-1,,gracilis,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.244537384,1
+408,Chaetoceros simplex var. calcitrans,,,,,simplex,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.536479098,1
+409,Chaetoceros simplex var. calcitrans,,,,,simplex,Chaetoceros,Chaetocerotaceae,Chaetocerotales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.536479098,1
+410,Chloroidea ellipsoideum clone KMCC C-20,Chlorella ellipsoidea,,,KMCC C-20,ellipsoideum,Chloroidea,Oocystaceae,Oocstales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,2.013915739,4
+411,Conticribra weissflogii,Thalassiosira weissflogii,,,,weissflogii,Conticribra,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.231703179,2
+412,Coscinodiscus sp.,,,,,,Coscinodiscus,Coscinodiscaceae,Coscinodiscales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.738528613,1
+413,Cyclotella cryptica,,,,,cryptica,Cyclotella,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.704301194,3
+414,Cylindrotheca closterium,Nitzschia closterium,,,,closterium,Cylindrotheca,Bacillariaceae,Bacillariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.317370266,1
+415,Ditylum brightwellii,,,,,brightwellii,Ditylum,Lithodesmiaceae,Lithodesmiales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,4.816622052,1
+416,Ditylum brightwellii,,,,,brightwellii,Ditylum,Lithodesmiaceae,Lithodesmiales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,4.816622052,1
+417,Dunaliella sp.,,,,,,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,1
+418,Dunaliella tertiolecta,,,,,tertiolecta,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,3
+419,Dunaliella tertiolecta,,,,,tertiolecta,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,3
+420,"Dunaliella tertiolecta strain CCMP1320, NEPCC 1",,,"CCMP1320, NEPCC 1",,tertiolecta,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,3
+421,Emiliania huxleyi,Coccolithus huxleyi,,,,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+422,Emiliania huxleyi clone P3,Coccolithus huxleyi,,,P3,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+423,Emiliania huxleyi clone P8,Coccolithus huxleyi,,,P8,huxleyi,Emiliania,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.481859156,1
+424,Gephyrocapsa oceanica strain JSI,,,JSI,,oceanica,Gephyrocapsa,Noëlaerhabdaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,2.937016107,1
+425,Isochrysis galbana,,,,,galbana,Isochrysis,Isochrysidaceae,Isochrysidales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.562298955,1
+426,"Biceratium furca strain B. Meeson, UCSB 5M-30",Ceratium furca,,"B. Meeson, UCSB 5M-30",,furca,Biceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.73731202,2
+427,Diacronema lutheri,Monochrysis lutheri,Pavlova lutheri,,,lutheri,Diacronema,Pavlovaceae,Pavlovales,Pavlovophyceae,Haptophyta,Chromista,Eukaryota,1.86332286,1
+428,Phaeocystis pouchetii strain AJ 01,,,AJ 01,,pouchetii,Phaeocystis,Phaeocystaceae,Phaeocystales,Coccolithophyceae,Haptophyta,Chromista,Eukaryota,1.839232641,3
+429,Phaeodactylum tricornutum,Nitzschia closterium forma minutissima,,,,tricornutum,Phaeodactylum,Phaeodactylaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.627660367,1
+430,Phaeodactylum tricornutum,Nitzschia closterium forma minutissima,,,,tricornutum,Phaeodactylum,Phaeodactylaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.627660367,1
+431,Phaeodactylum tricornutum,Nitzschia closterium forma minutissima,,,,tricornutum,Phaeodactylum,Phaeodactylaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.627660367,1
+432,Phaeodactylum tricornutum,Nitzschia closterium forma minutissima,,,,tricornutum,Phaeodactylum,Phaeodactylaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.627660367,1
+433,Nannochloropsis oculata clone KMCC C-31,Nannochloris oculata,Picochlorum oculatum,,KMCC C-31,oculata,Nannochloropsis,Monodopsidaceae,Eustigmatales,Eustigmatophyceae,Ochrophyta,Chromista,Eukaryota,0.548171225,4
+435,Rhodomonas salina,,,,,salina,Rhodomonas,Pyrenomonadaceae,Pyrenomonadales,Cryptophyceae,Cryptophyta,Chromista,Eukaryota,2.36361198,1
+436,Skeletonema costatum,,,,,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+437,Skeletonema costatum,,,,,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+439,Thalassiosira eccentrica,,,,,eccentrica,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.168933938,1
+440,Thalassiosira rotula,,,,,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+441,"Dunaliella bioculata strain SAG19-4, CCAP 19/4",Dunaliella marina,,"SAG19-4, CCAP 19/4",,bioculata,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,3
+442,Dunaliella primolecta,,,,,primolecta,Dunaliella,Dunaliellaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.6983672,3
+443,"Spirulina platensis var. tenuis strain UTEX 1928, UTEX 1926",Arthrospira platensis var. tenuis,,UTEX 1928,,platensis,Spirulina,Pseudoanabaenaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.297016614,3
+444,Arthrospira fusiformis,Spirulina fusiformis,,,,fusiformis,Arthrospira,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.297016614,4
+445,Chlorella vulgaris strain Emerson,Chlorella pyrenoidosa,,Emerson,,vulgaris,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.900448191,1
+446,Chloroidea ellipsoideum,Chlorella ellipsoidea,,,,ellipsoideum,Chloroidea,Oocystaceae,Oocstales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,2.013915739,4
+447,"Euglena gracilis strain CCAP 1224/5Z, Z",,,"CCAP 1224/5Z, Z",,gracilis,Euglena,Euglenaceae,Euglenales,Euglenophyceae,Euglenophyta,Protozoa,Eukaryota,3.65777422,1
+448,Spirulina platensis var. tenuis,Arthrospira platensis var. tenuis,,,,platensis,Spirulina,Pseudoanabaenaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.297016614,3
+449,Trichormus variabilis,Anabaena variabilis,,,,variabilis,Trichormus,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.516403148,2
+450,Skeletonema costatum s.s. strain FDK009,,,FDK009,,costatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.907601307,1
+451,Skeletonema pseudocostatum strain FDK225,,,FDK225,,pseudocostatum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+452,Skeletonema marinoi–dohrnii complex strain FDK031,,,FDK031,,marinoi-dohrnii,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+453,Skeletonema marinoi–dohrnii complex strain FDK032,,,FDK032,,marinoi-dohrnii,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+454,Skeletonema marinoi–dohrnii complex strain FDK033,,,FDK033,,marinoi-dohrnii,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+455,Skeletonema marinoi–dohrnii complex strain FDK035,,,FDK035,,marinoi-dohrnii,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+456,Skeletonema marinoi–dohrnii complex strain FDK039,,,FDK039,,marinoi-dohrnii,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+457,Skeletonema japonicum strain FDK154,,,FDK154,,japonicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+458,Skeletonema japonicum strain FDK157,,,FDK157,,japonicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+459,Skeletonema japonicum strain FDK158,,,FDK158,,japonicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+460,Skeletonema japonicum strain FDK159,,,FDK159,,japonicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+461,Skeletonema japonicum strain FDK161,,,FDK161,,japonicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+462,Skeletonema tropicum strain FDK199,,,FDK199,,tropicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+463,Skeletonema tropicum strain FDK202,,,FDK202,,tropicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+464,Skeletonema tropicum strain FDK204,,,FDK204,,tropicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+465,Skeletonema tropicum strain FDK205,,,FDK205,,tropicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+466,Skeletonema tropicum strain FDK207,,,FDK207,,tropicum,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+467,Skeletonema menzelii strain FDK221,,,FDK221,,menzelii,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+468,Skeletonema menzelii strain DM08080630,,,DM08080630,,menzelii,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+469,Skeletonema menzelii strain DM08080730,,,DM08080730,,menzelii,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+470,Skeletonema menzelii strain FDK222,,,FDK222,,menzelii,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+471,Skeletonema ardens strain FDK003,,,FDK003,,ardens,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+472,Skeletonema ardens strain FDK004,,,FDK004,,ardens,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+473,Skeletonema ardens strain FDK005,,,FDK005,,ardens,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+474,Skeletonema ardens strain FDK006,,,FDK006,,ardens,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+475,Skeletonema ardens strain FDK007,,,FDK007,,ardens,Skeletonema,Skeletonemaceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.42023403,3
+476,Alexandrium catenella strain ACC02,,,ACC02,,catenella,Alexandrium,Gonyaulacaceae,Gonyaulacales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.67507933,1
+477,Phaeodactylum tricornutum strain CCMP633,Nitzschia closterium forma minutissima,,CCMP633,,tricornutum,Phaeodactylum,Phaeodactylaceae,Naviculales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,1.627660367,1
+478,Anabaena cylindrica strain PCC 7122,,,,,cylindrica,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.477121255,1
+479,Aphanizomenon gracile,,,,,gracile,Aphanizomenon,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.824714867,3
+480,Cylindrospermopsis raciborskii strain LETC CIRF-01,,,LETC CIRF-01,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+481,Microcystis aeruginosa strain PCC 7941,,,PCC 7941,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+482,Microcystis aeruginosa strain NIVA-CYA 140,,,NIVA-CYA 140,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+483,Planktothrix agardhii strain NIVA-CYA 116,,,NIVA-CYA 116,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+484,Planktothrix agardhii strain NIVA-CYA 126,,,NIVA-CYA 126,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+485,Monoraphidium griffithii strain NIVA-CHL8,Ankistrodesmus falcatus,,NIVA-CHL8,,griffithii,Monoraphidium,Selenastraceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.054626787,1
+486,Chlamydomonas reinhardtii strain NIVA-CHL13,,,NIVA-CHL13,,reinhardtii,Chlamydomonas,Chlamydomonadaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.191245447,3
+488,Monoraphidium minutum,Selenastrum minutum,,,,minutum,Monoraphidium,Ankistrodesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.322219295,1
+489,Acutodesmus acuminatus strain UTEX 415,Scenedesmus acuminatus ,,UTEX 415,,acuminatus,Acutodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.679323264,2
+490,Desmodesmus maximus strain SAG 39.81,Scenedesmus maximus ,,,,maximus,Desmodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.02022462,4
+491,"Chlorella vulgaris strain UTEX 259, UMACC 248",,,"UTEX 259, UMACC 248",,vulgaris,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.900448191,1
+492,Chlorella vulgaris strain UMACC 001,,,UMACC 001,,vulgaris,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.900448191,1
+493,Phormidium simplicissimum,Oscillatoria simplicissima,,,,simplicissimum,Phormidium,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.128404632,3
+495,"Pelagomonas calceolata strain RCC879, Biosope_45 B2E",,,"RCC879, Biosope_45 B2E",,calceolata,Pelagomonas,Pelagomonadaceae,Pelagomonadales,Pelagophyceae,Ochrophyta,Chromista,Eukaryota,1.15036202,1
+496,Acutodesmus obliquus,Scenedesmus acutus,,,,obliquus,Acutodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.549968865,2
+497,"Desmodesmus quadricaudatus strain A 119, Greifswald/15",Scenedesmus quadricauda,,"A 119, Greifswald/15",,quadricaudatus,Desmodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.184715756,2
+498,Raphidocelis subcapitata,Selenastrum capricornutum,,,,subcapitata,Raphidocelis,Selenastraceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.333930102,4
+499,Microcystis viridis strain N-1,,,N-1,,viridis,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.631033705,3
+500,Microcystis aeruginosa strain NIES 102,,,NIES 102,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+501,Microcystis aeruginosa strain K-5,,,K-5,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+502,Microcystis aeruginosa strain K-3A,,,K-3A,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+503,Anabaena ucrainica strain LBRI 47,,,LBRI 47,,ukrainica,Anabaena,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.15399188,3
+506,Monoraphidium contortum,,,,,contortum,Monoraphidium,Selenastraceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.329719141,1
+507,Closterium parvulum,,,,,parvulum,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.482873584,1
+508,Acutodesmus obliquus,Scenedesmus acutus,,,,obliquus,Acutodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.549968865,2
+509,Synechocystis sp. strain PCC 6803,,,PCC 6803,,,Synechocystis,Merismopediaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,0.533454475,1
+510,Chlorogonium sp.,,,,,,Chlorogonium,Haematococcaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.783725182,1
+511,Chlorella sp. strain YEL,,,YEL,,,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,2.013915739,1
+512,Micractinium pusillum,,,,,pusillum,Micractinium,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.596693777,1
+513,Scenedesmus almeriensis strain CCAP 276/24,,,CCAP 276/24,,almeriensis,Scenedesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.02022462,3
+514,Acutodesmus obliquus,Scendesmus crassus,Scendesmus acutus,,,obliquus,Acutodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2,2
+515,Mucidosphaerium pulchellum,Dictyosphaerium pulchellum ,,,,pulchellum,Mucidosphaerium,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.40557942,2
+516,Fragilaria  bidens,,,,,bidens,Fragilaria,Fragilariaceae,Fragilariales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.447158031,1
+517,Desmodesmus abundans,Scenedesmus abundans,,,,abundans,Desmodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.028126396,2
+518,Acutodesmus dimorphus,Scenedesmus dimorphus,,,,dimorphus,Acutodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.318875777,2
+519,Scedesmus ecornis,,,,,ecornis,Scenedesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.02022462,3
+520,Closterium acerosum strain UTEX LB1076,,,UTEX LB1076,,acerosum,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+522,Desmidium swartzii strain UTEX 560,,,UTEX 560,,swartzii,Desmidium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,3.681241237,1
+524,Cosmarium sp.,,,,,,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,1
+527,Volvox aureus  strain UTEX LB106,,,UTEX LB106,,aureus,Volvox,Volvocaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,1.117604,3
+529,"Pandorina morum strain UTEX 18, CCAP 60/1b",,,"UTEX 18, CCAP 60/1b",,morum,Pandorina,Volvocaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.565894687,1
+530,"Pleodorina californica strain UTEX LB198, SAG 162-1",Eudorina californica,,"UTEX LB198, SAG 162-1",,californica,Pleodorina,Volvocaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.347789,4
+531,"Pediastrum boryanum var. cornutum strain UTEX LB470, SAG 261-3a",Pediastrum duplex,,"UTEX LB470, SAG 261-3a",,boryanum,Pediastrum,Hydrodictyaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.290483673,1
+532,"Haematococcus droebakensis strain UTEX LB55, CCAP 34/2C",,,"UTEX LB55, CCAP 34/2C",,droebakensis,Haematococcus,Haematococcaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,3.682476,3
+533,"Cosmarium botrytis strain UTEX 301, SAG 136.80",,,"UTEX 301, SAG 136.80",,botrytis,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,3
+534,Chlamydomonas globosa,,,,,globosa,Chlamydomonas,Chlamydomonadaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.133040988,1
+535,Lobochlamys segnis,Chlamydomonas intermedia,Chlamydomonas segnis,,,segnis,Lobochlamys,Chlamydomonadaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.191245447,4
+536,Chlamydomonas subcaudata,,,,,subcaudata,Chlamydomonas,Chlamydomonadaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.191245447,3
+537,Chlamydomonas alpina,Chloromonas alpina,,,,alpina,Chlamydomonas,Chlamydomonadaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.191245447,3
+538,Chlorella sp. strain 580,,,580,,,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,2.013915739,1
+539,Microcystis flos-aquae,,,,,flos-aquae,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.631033705,3
+540,Chroococcus minutus,,,,,minutus,Chroococcus,Chroococcaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.520233785,1
+541,Planktothrix agardhii,,,,,agardhii,Planktothrix,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.5607547,1
+542,Thalassiosira rotula strain CCAP1085_21,,,CCAP1085_21,,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+543,Thalassiosira rotula strain CCMP1647,,,CCMP1647,,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+544,Thalassiosira rotula strain CCMP3264,,,CCMP3264,,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+545,Thalassiosira rotula strain CCMP3096,,,CCMP3096,,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+546,Thalassiosira rotula strain JpnTR18,,,JpnTR18,,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+547,Thalassiosira rotula strain P17F4,,,P17F4,,rotula,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.576110894,1
+548,"Thalassiosira pseudonana strain CCMP1011, STX97",,,"CCMP1011, STX97",,pseudonana,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.268715388,1
+549,"Thalassiosira pseudonana strain CCMP1012, SWAN1",,,"CCMP1012, SWAN1",,pseudonana,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.268715388,1
+550,"Thalassiosira pseudonana strain CCMP1013, W",,,"CCMP1013, W",,pseudonana,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.268715388,1
+551,"Thalassiosira pseudonana strain CCMP1014, FCRG66",,,"CCMP1014, FCRG66",,pseudonana,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.268715388,1
+552,"Thalassiosira pseudonana strain CCMP1015, ARC5",,,"CCMP1015, ARC5",,pseudonana,Thalassiosira,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.268715388,1
+553,"Conticribra weissflogii strain CCMP1053, SA",Thalassiosira weissflogii ,,"CCMP1053, SA",,weissflogii,Conticribra,Thalassiosiraceae,Thalassiosirales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,3.231703179,2
+554,Akashiwo sanguinea strain BWA,,,BWA,,sanguinea,Akashiwo,,,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.681241237,1
+555,Akashiwo sanguinea strain GBB,,,GBB,,sanguinea,Akashiwo,,,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.681241237,1
+556,Akashiwo sanguinea strain RMB,,,RMB,,sanguinea,Akashiwo,,,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.681241237,1
+557,Akashiwo sanguinea strain YRB,,,YRB,,sanguinea,Akashiwo,,,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.681241237,1
+559,Trichodesmium erythraeum strain KO4_20,,,KO4_20,,erythraeum,Trichodesmium,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.361727836,1
+560,Trichodesmium erythraeum strain 21_75,,,21_75,,erythraeum,Trichodesmium,Phormidiaceae,Oscillatoriales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,2.361727836,1
+561,Crocosphaera watsonii strain 3A,,,3A,,watsonii,Crocosphaera,Cyanobacteriaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.347986606,1
+562,Crocosphaera watsonii strain WH005,,,WH005,,watsonii,Crocosphaera,Cyanobacteriaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.347986606,1
+563,Crocosphaera watsonii strain WH84,,,WH84,,watsonii,Crocosphaera,Cyanobacteriaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.347986606,1
+564,Prorocentrum donghaiense,,,,,donghaiense,Prorocentrum,Prorocentraceae,Prorocentrales,Dinophyceae,Dinophyta,Chromista,Eukaryota,4.020516373,3
+565,Synechococcus sp. strain CCFWC 502,,,CCFWC 502,,,Synechococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,-0.165366041,1
+566,Oocystis sp. strain OOCYS9,,,OOCYS9,,,Oocystis,Oocystaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,2.091586018,1
+567,Amphora sp. strain AMPHO46,,,AMPHO46,,,Amphora,Catenulaceae,Thalassiophysales,Bacillariophyceae,Ochrophyta,Chromista,Eukaryota,2.680793783,1
+568,Peridinium bipes f. occultatum,,,,,bipes,Peridinium,Peridiniaceae,Peridiniales,Dinophyceae,Dinophyta,Chromista,Eukaryota,3.303240824,3
+569,Ochromonas sp. (probably Ochromonas globosa),,,,,,Ochromonas,Chromulinaceae,Chromulinales,Chrysophyceae,Ochrophyta,Chromista,Eukaryota,2.045345579,1
+574,Cylindrospermopsis raciborskii strain CR1,,,CR1,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+575,Cylindrospermopsis raciborskii strain CR2,,,CR2,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+576,Cylindrospermopsis raciborskii strain CR3,,,CR3,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+577,Cylindrospermopsis raciborskii strain CR4,,,CR4,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+578,Cylindrospermopsis raciborskii strain CR5,,,CR5,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+579,Cylindrospermopsis raciborskii strain CR6,,,CR6,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+580,Cylindrospermopsis raciborskii strain CR7,,,CR7,,raciborskii,Cylindrospermopsis,Nostocaceae,Nostocales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.560880567,1
+581,Chlorella pyrenoidosa,,,,,pyrenoidosa,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,1.575187845,1
+582,"Chlamydomonas acidophila strain CCAP 11/137, SAG 2045",,,"CCAP 11/137, SAG 2045",,acidophila,Chlamydomonas,Chlamydomonadaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2.191245447,3
+583,Oocystis borgei,,,,,borgei,Oocystis,Oocystaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,3.256537071,1
+584,Closterium ehrenbergii strain 81-103-4,,,81-103-4,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+585,Closterium ehrenbergii strain 81-86-2,,,81-86-2,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+586,Closterium ehrenbergii strain 81-2-6,,,81-2-6,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+587,Closterium ehrenbergii strain 81-11-6,,,81-11-6,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+588,Closterium ehrenbergii strain D-4-3,,,D-4-3,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+589,Closterium ehrenbergii strain D-4-4,,,D-4-4,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+590,Closterium ehrenbergii strain 83-5-6,,,83-5-6,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+591,Closterium ehrenbergii strain 83-6-5,,,83-6-5,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+592,Closterium ehrenbergii strain HK-25-1,,,HK-25-1,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+593,Closterium ehrenbergii strain TY-13-3,,,TY-13-3,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+594,Closterium ehrenbergii strain 86-6-2,,,86-6-2,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+595,Closterium ehrenbergii strain 81-59-1,,,81-59-1,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+596,Closterium ehrenbergii strain 86-41-2,,,86-41-2,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+597,Closterium ehrenbergii strain 86-43-9,,,86-43-9,,ehrenbergii,Closterium,Closteriaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.774635394,3
+598,Haematococcus pluvialis strain 26,,,26,,pluvialis,Haematococcus,Haematococcaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,3.68247612,1
+599,Haematococcus pluvialis strain 30,,,30,,pluvialis,Haematococcus,Haematococcaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,3.68247612,1
+600,Haematococcus pluvialis strain 34,,,34,,pluvialis,Haematococcus,Haematococcaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,3.68247612,1
+601,Haematococcus pluvialis strain WZ,,,WZ,,pluvialis,Haematococcus,Haematococcaceae,Chlamydomonadales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,3.68247612,1
+602,Acutodesmus obliquus,Scenedesmus crassus,,,,obliquus,Acutodesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,Plantae,Eukaryota,2,2
+603,Nannochloropsis oceanica strain CCAP 849/10,,,CCAP 849/10,,oceanica,Nannochloris,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,Plantae,Eukaryota,0.548171225,3
+604,Synechococcus elongatus strain PCC 6301,,,PCC 6301,,elongatus,Synechococcus,Synechococcaceae,Synechococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,0.20399196,1
+605,Microcystis aeruginosa,,,,,aeruginosa,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,Bacteria,Prokaryota,1.484755387,1
+606,Pseudochattonella farcimen,,,,,farcimen,Pseudochattonella,,Florenciellales,Dictyochophyceae,Ochrophyta,Chromista,Eukaryota,2.369215857,1
+607,"Cosmarium crenatum var. boldtianum strain SVCK 561, ASW Wien #07 141",,,"SVCK 561, ASW Wien #07 141",,crenatum,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,3
+608,"Cosmarium punctulatum var. subpunctulatum strain SVCK 571, ASW Wien #07 136",,,"SVCK 571, ASW Wien #07 136",,punctulatum,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,3
+609,Cosmarium regnesii var. polonicum strain SVCK 465,,,SVCK 465,,regnesii,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,3
+610,"Cosmarium meneghinii strain SVCK 59, 1927/Praha Ac. A 231",,,"SVCK 59, 1927/Praha Ac. A 231",,meneghinii,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,3
+611,"Cosmarium punctulatum var. subpunctulatum SVCK 570, ASW Wien #07 182",,,"SVCK 570, ASW Wien #07 182",,punctulatum,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,3
+612,Cosmarium beatum SVCK 533,,,SVCK 533,,beatum,Cosmarium,Desmidiaceae,Desmidiales,Conjugatophyceae,Charophyta,Plantae,Eukaryota,2.3881881,3

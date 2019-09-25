@@ -1,0 +1,19 @@
+Original,New,Priority,Category
+Cryophilic,psychrophilic,1,1
+Psychrophile,psychrophilic,1,1
+Psychrophilic,psychrophilic,1,1
+Psychotropic,facultative psychrophilic,1,2
+Psychrotrophic,facultative psychrophilic,1,2
+Psychrotolerant,psychrotolerant,1,3
+Mesophile,mesophilic,1,4
+mesophilic,mesophilic,1,4
+Mesophilic,mesophilic,1,4
+Thermophile,thermophilic,1,5
+thermophilic,thermophilic,1,5
+Thermophilic,thermophilic,1,5
+Thermotolerant,thermotolerant,1,6
+Extremely thermophilic,extreme thermophilic,1,7
+Extreme Thermophilic,extreme thermophilic,1,7
+Hyperthermophilic,extreme thermophilic,1,7
+Hyperthermophile,extreme thermophilic,1,7
+Unknown,NA,0,0
