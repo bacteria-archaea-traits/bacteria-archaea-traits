@@ -51,9 +51,9 @@ Directory | Content
 
 ### Large datasets not included in Github
 
-There are two datasets too large to be kept at GitHub, and these are automatically downloaded from Figshare when the `workflow.R` is first run. If you experience problems, these files need to be manually downloaded from FigShare and placed in the project directory as outlined here.
+There are two datasets too large to be kept at GitHub, and these are automatically downloaded from Figshare when `workflow.R` is first run. If you experience problems, these files need to be manually downloaded from their sources and placed in the project directory as outlined here.
 
-File | Link | Where to put
+File | Where to access | Where to place
 --- | --- | ---
 `genome_metadata.txt` | ftp://ftp.patricbrc.org/RELEASE_NOTES/ | `data/raw/patric/`
 `taxonomy_names.csv` | https://figshare.com/s/ab40d2a35266d729698c | `output/taxonomy/`
