@@ -7,3 +7,6 @@
 # Large datasets (NCBI taxonomy and PATRIC)
 taxonomy_names.csv
 genome_metadata.txt
+
+# Manuscript files
+doc/
