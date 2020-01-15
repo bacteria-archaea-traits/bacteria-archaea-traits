@@ -24,6 +24,7 @@ for (i in 1:length(fap)) {
       chunk <- store[store$group==grp,]
       chunk$subgroup <- chunk$group
       chunk$group <- group
+        
       store <- rbind(store, chunk)
     } else {
       temp <- strsplit(fap[i], "\t")[[1]]
@@ -32,7 +33,19 @@ for (i in 1:length(fap)) {
     }
   }
 }
+dim(store)
 
+store1 <- store[!duplicated(store[c("species", "group", "subgroup")]),]
+dim(store1)
+
+store2 <- store1[store1$species %in% nam$name_txt,]
+dim(store2)
+
+store3 <- merge(store2, nam[c("tax_id", "name_txt" )], by.x="species", by.y="name_txt", all.x=TRUE, sort=FALSE)
+dim(store3)
+
+# This shows a species that's being categorsied in multiple ways
+store3[store3$species=="Methanoperedens nitroreducens",]
 
 #Save file
 write.csv(store, "output/prepared_data/faprotax.csv", row.names=FALSE)
