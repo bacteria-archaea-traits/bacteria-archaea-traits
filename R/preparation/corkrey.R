@@ -1,7 +1,5 @@
 # Corkrey
 
-print("Processing data-set 'corkrey'...", quote = FALSE)
-
 # Get data
 cor <- read_csv("data/raw/corkrey/journal.pone.0153343.s004.CSV")
 ref <- read_csv("data/raw/corkrey/corkrey_refs.csv")
@@ -28,5 +26,3 @@ cor2 <- cor %>%
 
 #Save data
 write.csv(cor2, "output/prepared_data/corkrey.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

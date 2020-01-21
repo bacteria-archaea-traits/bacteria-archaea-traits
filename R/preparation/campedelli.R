@@ -1,7 +1,5 @@
 # Campedelli
 
-print("Processing data-set 'campedelli'...", quote = FALSE)
-
 # Open original dataset
 cam <- read_csv("data/raw/campedelli/campedelli.csv")
 
@@ -20,5 +18,3 @@ cam2 <- cam %>% left_join(nam, by=c("species"="name_txt")) %>%
 
 #Save master data
 write.csv(cam2, "output/prepared_data/campedelli.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

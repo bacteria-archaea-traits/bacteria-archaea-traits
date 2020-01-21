@@ -1,7 +1,5 @@
 # Prochlorococcus data extraction
 
-print("Processing data-set 'prochlorococcus'...", quote = FALSE)
-
 # Open original dataset
 pro <- read.csv("data/raw/prochlorococcus/cyano data.csv", as.is=TRUE)
 pro_tm <- read.csv("output/taxonomy/taxmap_prochlorococcus.csv", as.is=TRUE)
@@ -29,5 +27,3 @@ pro$isolation_source <- "seawater"
 
 # Save master data
 write.csv(pro, "output/prepared_data/prochlorococcus.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

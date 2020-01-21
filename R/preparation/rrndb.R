@@ -1,7 +1,5 @@
 # rrnDB data preparation
 
-print("Processing data-set 'rrndb'...", quote = FALSE)
-
 # Open original dataset
 rrn <- read.delim("data/raw/rrndb/rrnDB-5.4.tsv", as.is=TRUE)
 
@@ -25,5 +23,3 @@ rrn <- unique(rrn[, names(rrn)])
 
 #Save master data
 write.csv(rrn, "output/prepared_data/rrndb.csv", row.names=FALSE, quote=TRUE)
-
-print("Done", quote = FALSE)

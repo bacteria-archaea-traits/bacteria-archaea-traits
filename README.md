@@ -66,7 +66,9 @@ Any varaible that is required in the preparation code is named in capital and wi
 
 Variable | Description
 --- | ---
+`CONSTANT_PREPARE_FILE_PATH` | This is the path to the folder containing all scripts for preparing raw data-sets
 `CONSTANT_DATA_PATH` | This is the path to the folder containing all prepared data for merging
+`CONSTANT_PREPARE_DATASETS` | This is a vector of the names of data sets that need to be prepared using dedicated scripts
 `CONSTANT_EXCLUDED_DATASETS` | This is a vector of the names of data sets that should NOT be included in the following merger
 `CONSTANT_CATEGORICAL_DATA_COLUMNS` | Vector with the name of columns holding categorical trait data
 `CONSTANT_CONTINOUS_DATA_COLUMNS` | Vector with the name of columns holding continuous (integers/doubles/floats) trait data

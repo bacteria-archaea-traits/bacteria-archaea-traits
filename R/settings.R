@@ -1,6 +1,7 @@
 # Workflow settings
 
 # File paths
+CONSTANT_PREPARE_FILE_PATH <- "R/preparation"
 CONSTANT_DATA_PATH <- "output/prepared_data"
 CONSTANT_LOOKUP_TABLE_PATH <- "data/conversion_tables"
 
@@ -8,6 +9,20 @@ CONSTANT_LOOKUP_TABLE_PATH <- "data/conversion_tables"
 CONSTANT_EXCLUDED_DATASETS <- c("bergeys.csv")
 #Note: Bergeys is currently used as a filler after species condensation, and therefore should not be included
 #in the general processing of data sets
+
+
+####################
+# Data preparation #
+####################
+
+#List datasets that need to be prepared before merging
+CONSTANT_PREPARE_DATASETS <- c("bacdive-microa","campedelli","corkrey","edwards","engqvist","fierer","genbank","gold","jemma-refseq",
+                               "kegg","kremer","masonmm","mediadb","metanogen","microbe-directory","nielsensl","pasteur","patric",
+                               "prochlorococcus","protraits","roden-jin","rrndb","silva")
+
+#Process single for testing:
+#CONSTANT_PREPARE_DATASETS <- c("fierer")
+
 
 ######################
 # Trait condensation #

@@ -1,7 +1,5 @@
 # Metanogen data extraction
 
-print("Processing data-set 'metanogen'...", quote = FALSE)
-
 # Open original dataset
 met <- read.csv("data/raw/metanogen/metanogen.biotech.uni.wroc.csv", as.is=TRUE)
 
@@ -35,11 +33,13 @@ met <- subset(met, select = -c(unique_name))
 # Add column for oxygen requirement (this data frame only contains methanogenic archaea, so all anaerobic)
 met$metabolism <- "Anaerobic"
 
+#Add column for process (this data frame only contains methanogenic organisms)
+#This may later be expanded to take into account the substrate use information (H2/CO2 etc)
+met$processes <- "methanogenesis"
+
 # Add in isolation_source concatenation
 cc <- c("environment")
 met$isolation_source <- apply(met[cc], 1, function(x) paste(x[!is.na(x)], collapse = ", "))
 met$isolation_source <- tolower(met$isolation_source)
 
 write.csv(met, "output/prepared_data/methanogen.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

@@ -1,8 +1,5 @@
 # Edwards
 
-print("Processing data-set 'edwards'...", quote = FALSE)
-
-
 # Open original dataset and citation table
 edw <- read_csv("data/raw/edwards/Table1.csv")
 edw_cit <- read_csv("data/raw/edwards/Table2.csv")
@@ -29,5 +26,3 @@ edw2 <- edw %>%
   
 #Save master data
 write.csv(edw2, "output/prepared_data/edwards.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

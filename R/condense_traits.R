@@ -26,7 +26,7 @@ dat<- vector("list",length(files))
 i <- 1
 while(i <= length(files)) {
   print(sprintf("Loading: %s",files[i]))
-  dat[[i]] <- prepare_datasets(files[i])
+  dat[[i]] <- load_prepared_dataset(files[i])
   i<-i+1
 }
 

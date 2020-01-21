@@ -1,7 +1,5 @@
 # KEGG prepare code.
 
-print("Processing data-set 'kegg'...", quote = FALSE)
-
 # The full dataset contains a row for each chromosome and plasmid. The following tallies these number in a abbreviated dataset.
 keg <- read.csv("data/raw/kegg/kegg_full.csv", as.is=TRUE)
 
@@ -52,5 +50,3 @@ keg2 <- keg[,c("tax_id","org_name","genome_size","coding_genes","isolation_sourc
 keg2 <- unique(keg2[, names(keg2)])
 
 write.csv(keg2, "output/prepared_data/kegg.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

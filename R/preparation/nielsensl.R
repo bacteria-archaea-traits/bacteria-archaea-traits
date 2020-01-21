@@ -1,8 +1,6 @@
 # Nielsen SL. 2006 data extraction
 # Note: Sizes is given in micrometre, growth rate is given in d-1 
 
-print("Processing data-set 'nielsensl'...", quote = FALSE)
-
 # Open original dataset
 library("readxl")
 nie = read_xlsx("data/raw/nielsensl/Cyano.xlsx")
@@ -33,5 +31,3 @@ nie2 <- nie %>% slice(2:n()) %>%
 
 #Save master data
 write.csv(nie2, "output/prepared_data/nielsensl.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)
