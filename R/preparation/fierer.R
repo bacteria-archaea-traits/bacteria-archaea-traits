@@ -1,7 +1,5 @@
 # Fierer data extraction
 
-print("Processing data-set 'fierer'...", quote = FALSE)
-
 # Open corrected dataset 
 # Note: this dataset was received from source with various corrections of excel number conversion issues,
 # However, the corrected dataset turned out to be missing a significant proportion of relevant data. 
@@ -274,6 +272,10 @@ cc <- c("environment", "subenvironment")
 fie$isolation_source <- apply(fie[cc], 1, function(x) paste(x[!is.na(x)], collapse = ", "))
 fie$isolation_source <- tolower(fie$isolation_source)
 
+#Add nitrate_reduction where MetabAssays contains 'nitrate reduction to nitrite'
+#Apparently aerobic denitrification is more common than previously assumed..
+fie$processes[grepl("nitrate reduction to nitrite", fie$MetabAssays)] <- "nitrate_reduction"
+
 # Add doi.org/ to all dois
 fie$reference <- paste("doi.org/", fie$reference, sep="")
 
@@ -281,7 +283,7 @@ fie$reference <- paste("doi.org/", fie$reference, sep="")
 #check <- fie2[fie2$org_name == "Salinibacillus xinjiangensis", ] 
 
 #Reduce to needed columns
-all_cols <- c("tax_id","name_class","org_name","Strain","metabolism","sporulation","cell_shape","motility","optimum_ph","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","isolation_source","reference")
+all_cols <- c("tax_id","name_class","org_name","Strain","metabolism","processes","sporulation","cell_shape","motility","optimum_ph","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","isolation_source","reference")
 fie2 <- fie[,all_cols]
 
 #Remove any fully duplicated rows
@@ -292,5 +294,3 @@ fie2$ref_type <- "doi"
 
 #Save output
 write.csv(fie2, "output/prepared_data/fierer.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

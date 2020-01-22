@@ -1,7 +1,5 @@
 # MediaDB data extraction
 
-print("Processing data-set 'mediadb'...", quote = FALSE)
-
 # Open original dataset
 med <- read.csv("data/raw/mediadb/media_database.csv", as.is=TRUE)
 
@@ -43,5 +41,3 @@ med2$reference <- "doi.org/10.1371/journal.pone.0103548"
 
 #Save file
 write.csv(med2, "output/prepared_data/mediadb.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

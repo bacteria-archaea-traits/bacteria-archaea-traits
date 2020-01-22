@@ -1,7 +1,5 @@
 #Pasteur collection Bacteria
 
-print("Processing data-set 'pasteur'...", quote = FALSE)
-
 #Note, this data set has a lot of isolation source information, however, 
 #for implementation >2000 will need to be translated manually 
 
@@ -79,5 +77,3 @@ write.csv(pas6, "output/prepared_data/pasteur.csv", row.names=FALSE)
 # check <- pas5 %>% filter(!is.na(isolation_source)) %>% 
 #   anti_join(iso, by = c("isolation_source" = "Original")) %>% 
 #   distinct(isolation_source)
-
-print("Done", quote = FALSE)

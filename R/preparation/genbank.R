@@ -3,8 +3,6 @@
 
 # Note: These two data frames contain mostly the same information, but are joined to include reference information
 
-print("Processing data-set 'genbank'...", quote = FALSE)
-
 # Read datasets
 gen1 <- read_delim("data/raw/genbank/prokaryotes_ftp.txt", delim="\t", na = c("", "NA", "-"), ) %>%
   filter(Status %in% c("Complete Genome"))
@@ -89,5 +87,3 @@ gen <- gen1 %>%
 
 
 write.csv(gen, "output/prepared_data/genbank.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

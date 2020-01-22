@@ -1,7 +1,5 @@
 # ProTrais
 
-print("Processing data-set 'protraits'...", quote = FALSE)
-
 prt95 <- read.delim("data/raw/protraits/ProTraits_binaryIntegratedPr0.95.txt", header = TRUE, stringsAsFactors = FALSE, quote = "")
 
 prt95[prt95 == "?"] <- NA
@@ -119,5 +117,3 @@ df2$reference <- "doi.org/10.1093/nar/gkw964"
 # Save 
 #Save master data
 write.csv(df2, "output/prepared_data/protraits.csv", row.names=FALSE, quote=TRUE)
-
-print("Done", quote = FALSE)

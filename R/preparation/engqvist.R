@@ -1,7 +1,5 @@
 # Engqvist
 
-print("Processing data-set 'engqvist'...", quote = FALSE)
-
 eng <- read_tsv(file = "data/raw/engqvist/temperature_data.tsv")
 
 eng2 <- eng %>%
@@ -18,5 +16,3 @@ eng2$reference <- "doi.org/10.1186/s12866-018-1320-7"
 
 # Save master data
 write.csv(eng2, "output/prepared_data/engqvist.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

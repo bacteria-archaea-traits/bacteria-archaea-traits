@@ -1,8 +1,6 @@
 # Silva data preparation
 # Source of growth rates
 
-print("Processing data-set 'silva'...", quote = FALSE)
-
 # Open original dataset
 sil <- read.csv("data/raw/silva/data_silva_DN070917.csv", as.is=TRUE)
 
@@ -73,5 +71,3 @@ sil2$ref_type <- "full_text"
 
 # Save master data
 write.csv(sil2, "output/prepared_data/silva.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

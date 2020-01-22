@@ -1,7 +1,5 @@
 # microbe-directory data extraction
 
-print("Processing data-set 'microbe-directory'...", quote = FALSE)
-
 # Open original dataset, with a series of errors
 mid <- read.csv("data/raw/microbe-directory/microbe-directory.csv", as.is=TRUE)
 
@@ -38,5 +36,3 @@ mid4$reference <- "doi.org/10.12688/gatesopenres.12772.1"
 
 #Save output
 write.csv(mid4, "output/prepared_data/microbe-directory.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

@@ -1,8 +1,6 @@
 # Kremer et al. 2017 data extraction
 # Source of growth rates - so only records with max growth rates will be included
 
-print("Processing data-set 'kremer'...", quote = FALSE)
-
 # Open original datasets
 
 #Main data
@@ -63,5 +61,3 @@ kre5$reference <- "doi.org/10.1002/lno.10523"
 
 #Save file
 write.csv(kre5, "output/prepared_data/kremer.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

@@ -1,7 +1,5 @@
 # PATRIC
 
-print("Processing data-set 'patric'...[may be several minutes]", quote = FALSE)
-
 # Open original dataset
 pat <- read_delim("data/raw/patric/genome_metadata.txt", delim="\t")
 
@@ -246,5 +244,3 @@ pat4$gc_content[!is.na(pat4$gc_content) & pat4$gc_content < 1] <- pat4$gc_conten
 
 #Save master data
 write.csv(pat4, "output/prepared_data/patric.csv", row.names=FALSE, quote=TRUE)
-
-print("Done", quote = FALSE)

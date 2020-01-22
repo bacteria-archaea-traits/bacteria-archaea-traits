@@ -1,5 +1,4 @@
 # BacDive - Microaerophiles only!
-print("Processing data-set 'bacdive-microa'...", quote = FALSE)
 
 # Open original dataset, combine all cells into one long vector, clean and attempt to extract species names (i.e., strings >10 characters)
 # bac <- read_csv("data/raw/bacdive-microa/bacdive-microa.csv", local = locale(encoding = "latin1"))
@@ -26,5 +25,3 @@ bac <- bac %>% mutate(ref_type = "doi", reference = "doi.org/10.1093/nar/gky879"
 
 #Save master data
 write.csv(bac, "output/prepared_data/bacdive-microa.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

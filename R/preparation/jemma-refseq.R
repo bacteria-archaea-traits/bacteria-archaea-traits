@@ -1,7 +1,5 @@
 # Jemma refseq data extraction
 
-print("Processing data-set 'jemma-refseq'...", quote = FALSE)
-
 # Open original dataset
 jem <- read.csv("data/raw/jemma-refseq/Bacteria_archaea_traits_dataset.csv", as.is=TRUE)
 
@@ -66,5 +64,3 @@ jem2 <- unique(jem2[, names(jem2)])
 
 # Save master data
 write.csv(jem2, "output/prepared_data/jemma-refseq.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

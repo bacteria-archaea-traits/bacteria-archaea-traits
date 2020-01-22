@@ -1,7 +1,5 @@
 # Mason MM 1935 data set (growth rates)
 
-print("Processing data-set 'masonmm'...", quote = FALSE)
-
 # Get data
 mas <- read.csv("data/raw/masonmm/masonmm.csv", as.is=TRUE)
 
@@ -30,5 +28,3 @@ mas2$ref_type <- "full_text"
 
 #Save output
 write.csv(mas2, "output/prepared_data/masonmm.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

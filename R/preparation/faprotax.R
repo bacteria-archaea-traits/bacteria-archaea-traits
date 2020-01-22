@@ -1,7 +1,5 @@
 # FAPROTAX.txt
 
-print("Processing data-set 'faprotax'...", quote = FALSE)
-
 # Open original dataset
 fap <- readLines("data/raw/faprotax/FAPROTAX.txt")
 
@@ -49,5 +47,3 @@ store3[store3$species=="Methanoperedens nitroreducens",]
 
 #Save file
 write.csv(store3, "output/prepared_data/faprotax.csv", row.names=FALSE)
-
-print("Done", quote = FALSE)

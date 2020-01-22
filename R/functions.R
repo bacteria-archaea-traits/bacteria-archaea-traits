@@ -3,9 +3,21 @@
 options(stringsAsFactors=FALSE)
 
 
+# PREPARATION
+
+prepare_dataset <- function(CONSTANT_PREPARE_FILE_PATH,file) {
+  # Create file path
+  runfile <- sprintf("%s/%s.R",CONSTANT_PREPARE_FILE_PATH,file)
+  # Run file
+  print(sprintf("Processing data-set: %s...",file))
+  source(runfile)
+  print("Done")
+}
+
+
 # TRAIT CONDENSATION
 
-prepare_datasets <- function(file) {
+load_prepared_dataset <- function(file) {
   
   #Extract unique name for reference
   data_source <- gsub(".csv","",file)

@@ -1,7 +1,5 @@
 # GOLD data preparation
 
-print("Processing data-set 'gold'...[may be several minutes]", quote = FALSE)
-
 # Open original dataset
 gol <- read.delim("data/raw/gold/Mark_Westoby_Organism_Metadata_Export_02152018.txt", as.is=TRUE)
 # Replace (null) in gold with NA
@@ -347,5 +345,3 @@ gol2$reference <- "doi.org/10.1093/nar/gky977"
 
 #Save master data
 write.csv(gol2, "output/prepared_data/gold.csv", row.names=FALSE, quote=TRUE)
-
-print("Done", quote = FALSE)
