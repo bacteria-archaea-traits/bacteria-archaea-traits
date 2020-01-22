@@ -48,6 +48,6 @@ dim(store3)
 store3[store3$species=="Methanoperedens nitroreducens",]
 
 #Save file
-write.csv(store, "output/prepared_data/faprotax.csv", row.names=FALSE)
+write.csv(store3, "output/prepared_data/faprotax.csv", row.names=FALSE)
 
 print("Done", quote = FALSE)
