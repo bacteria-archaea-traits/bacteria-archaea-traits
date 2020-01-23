@@ -56,6 +56,8 @@ colnames(fie)[which(names(fie) == "Motility")] <- "motility"
 colnames(fie)[which(names(fie) == "pH_optimum")] <- "optimum_ph"
 colnames(fie)[which(names(fie) == "Temp_optimum")] <- "optimum_tmp"
 colnames(fie)[which(names(fie) == "DOI")] <- "reference"
+colnames(fie)[which(names(fie) == "CarbonSubstrate")] <- "carbon_substrates"
+
 
 #Change character columns to numeric
 fie$optimum_tmp <- as.numeric(as.character(fie$optimum_tmp))
@@ -274,7 +276,7 @@ fie$isolation_source <- tolower(fie$isolation_source)
 
 #Add nitrate_reduction where MetabAssays contains 'nitrate reduction to nitrite'
 #Apparently aerobic denitrification is more common than previously assumed..
-fie$processes[grepl("nitrate reduction to nitrite", fie$MetabAssays)] <- "nitrate_reduction"
+fie$pathways[grepl("nitrate reduction to nitrite", fie$MetabAssays)] <- "nitrate_reduction"
 
 # Add doi.org/ to all dois
 fie$reference <- paste("doi.org/", fie$reference, sep="")
@@ -283,7 +285,7 @@ fie$reference <- paste("doi.org/", fie$reference, sep="")
 #check <- fie2[fie2$org_name == "Salinibacillus xinjiangensis", ] 
 
 #Reduce to needed columns
-all_cols <- c("tax_id","name_class","org_name","Strain","metabolism","processes","sporulation","cell_shape","motility","optimum_ph","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","isolation_source","reference")
+all_cols <- c("tax_id","name_class","org_name","Strain","metabolism","pathways","carbon_substrates","sporulation","cell_shape","motility","optimum_ph","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","isolation_source","reference")
 fie2 <- fie[,all_cols]
 
 #Remove any fully duplicated rows

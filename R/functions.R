@@ -32,7 +32,32 @@ load_prepared_dataset <- function(file) {
   return(as.data.frame(dat))
 }
 
+
 # SPECIES CONDENSATION
+
+# Function to condense and concatenate unique concatenated data 
+
+condense_concatenated_traits <- function(df,data,trait) {
+  
+  results <- data %>% group_by(species_tax_id) %>% 
+    filter(!is.na(.data[[trait]])) %>%
+    summarise(tmp = paste0(unique(unlist(strsplit(as.character(.data[[trait]]), ", "))), collapse=", "), n = n())
+  
+  # Join columns on to main data frame by species, 
+  df <- df %>% left_join(results, by = "species_tax_id")
+  
+  # Move data from temporary columns to main columns
+  # Use n column to select rows from where to move data from
+  df[!is.na(df$n),trait] <- df$tmp[!is.na(df$tmp)]
+  df[!is.na(df$n),sprintf("%s.prop",trait)] <- 100
+  df[!is.na(df$n),sprintf("%s.count",trait)] <- as.integer(df$n[!is.na(df$n)])
+  
+  # #Remove temporary columns
+  df <- subset(df, select = -c(tmp,n))
+  
+  #Return updated data frame
+  return(df)
+}
 
 
 # Function to obtain mean, stdev and count of all continuous traits
@@ -254,7 +279,102 @@ condense_categorical_traits <- function(df,data,minProp,trait,priority=FALSE){
 # data frame with species from the NCBI phylogeny
 # Note: This function is quite slow
 
+#New faster version
 fill_gtdb_with_ncbi <- function(df,gtdb) {
+  
+  phyl <- c("superkingdom","phylum","class","order","family","genus","species")
+  
+  #Species
+  dat <- df %>% left_join(gtdb, by = c("species_tax_id"="ncbi_species_taxid"))
+  
+  #Add tag for at what level the gtdb data takes over the ncbi data
+  dat$gtdb_phyl_lvl[!is.na(dat$species_gtdb)] <- "species"
+  #Move species_gtdb to speciesagg
+  dat$speciesagg[!is.na(dat$species_gtdb)] <- dat$species_gtdb[!is.na(dat$species_gtdb)]
+  
+  #Now all species have been matched between ncbi and gtdb
+  #Proceed to get all ncbi species that has not been matched
+  
+  #Remove tax id and species column and only include unique phylogenies
+  gtdb[,"ncbi_species_taxid"] <- NULL
+  
+  #Remove this level form gtdb
+  gtdb[,"species_gtdb"] <- NULL
+  
+  #Remove duplicates
+  gtdb <- gtdb[!duplicated(gtdb),]
+  
+  #Create gtdb_phyl list and remove species
+  gtdb_phyl <- phyl[!phyl == "species"]
+  
+  while(length(gtdb_phyl)) {
+    
+    this_level <- gtdb_phyl[max(length(gtdb_phyl))]  
+    
+    #Get remaining unique this_level and species from NCBI
+    tmp <- dat %>% filter(is.na(speciesagg) & !is.na(species) & !is.na(.data[[this_level]])) %>% 
+      select(.data[[this_level]],species) %>%
+      distinct()
+    
+    #Merge gtdb onto this at this level to match with ncbi
+    joinx <- this_level
+    joiny <- sprintf("%s_gtdb",this_level)
+    
+    tmp2 <- merge(tmp, gtdb, by.x = joinx, by.y = joiny)
+    
+    #Now we know which NCBI species match GTDB at this level
+    
+    #Rename tmp colum names to unique terms (for easy removal after joining)
+    tmp2 <- tmp2[,c(sprintf("%s_gtdb",gtdb_phyl[!gtdb_phyl == this_level]),this_level,"species")]
+    #Rename all columns but species - this column is used to join on later
+    names(tmp2) <- c(sprintf("tmp_%s",gtdb_phyl), "species")
+    
+    #Join with main data frame by species (we always want to match species)
+    dat <- dat %>% left_join(tmp2, by = "species")
+    
+    #Move data to gtdb columns (including ncbi species name)
+    dat[!is.na(dat$tmp_superkingdom), c(sprintf("%s_gtdb",gtdb_phyl),"speciesagg")] <- dat[!is.na(dat$tmp_superkingdom), c(sprintf("tmp_%s",gtdb_phyl),"species")]
+    
+    #Add phyl_level flag
+    dat$gtdb_phyl_lvl[!is.na(dat$tmp_superkingdom)] <- this_level
+    
+    #Remove tmp columns
+    dat <- dat[, !grepl("tmp_",names(dat))]
+    
+    print(sprintf("Merged to gtdb %s",this_level))
+    
+    #Prepare next level:
+    
+    #remove this level from phyl
+    gtdb_phyl <- gtdb_phyl[!(gtdb_phyl == gtdb_phyl[max(length(gtdb_phyl))])]
+    
+    #Remove processed column
+    gtdb[,sprintf("%s_gtdb",this_level)] <- NULL
+    
+    #Remove duplicates
+    gtdb <- gtdb[!duplicated(gtdb),]
+    
+    if(!is.data.frame(gtdb)) {
+      #Only one column left when removing the second last, force column to data frame
+      gtdb <- as.data.frame(gtdb)
+      names(gtdb) <- "superkingdom_gtdb"
+    } 
+  }
+  
+  #FINISH
+  
+  #Transfer speciesagg data to species_gtdb
+  dat$species_gtdb <- dat$speciesagg
+  #Remove unneeded columns
+  dat$speciesagg <- NULL
+  
+  print("Done")
+  return(dat)
+}
+
+
+# Old version (slow)
+fill_gtdb_with_ncbi_old <- function(df,gtdb) {
   
   print("Filling any missing GTDB phylogeny with data from NCBI")
   print("(This may take a long time!)")

@@ -31,7 +31,7 @@ CONSTANT_PREPARE_DATASETS <- c("bacdive-microa","campedelli","corkrey","edwards"
 # Update these vectors as more columns/traits are added
 
 # Categorical traits
-CONSTANT_CATEGORICAL_DATA_COLUMNS <- c("gram_stain", "metabolism", "sporulation", "motility", "range_tmp", "range_salinity", "cell_shape", "isolation_source")
+CONSTANT_CATEGORICAL_DATA_COLUMNS <- c("gram_stain", "metabolism", "pathways", "carbon_substrates", "sporulation", "motility", "range_tmp", "range_salinity", "cell_shape", "isolation_source")
 
 # Continuous traits
 CONSTANT_CONTINOUS_DATA_COLUMNS <- c("d1_lo","d1_up", "d2_lo", "d2_up", "doubling_h", "doubling_h_norm", "genome_size", "gc_content", "coding_genes", "optimum_tmp", "optimum_ph", "growth_tmp", "rRNA16S_genes", "tRNA_genes")
@@ -50,7 +50,11 @@ CONSTANT_FINAL_COLUMNS <- CONSTANT_FINAL_COLUMNS[!(CONSTANT_FINAL_COLUMNS %in% c
 # List any data column that has an associated renaming table 
 # Note: These tables must be named as "renaming_column-name".csv
 
-CONSTANT_DATA_FOR_RENAMING <- c("cell_shape", "gram_stain", "isolation_source", "metabolism", "motility", "range_salinity", "range_tmp", "sporulation")
+CONSTANT_DATA_FOR_RENAMING <- c("cell_shape", "gram_stain", "isolation_source", "metabolism", "pathways", "carbon_substrates", "motility", "range_salinity", "range_tmp", "sporulation")
+
+# List data that needs to be translated but that are in comma delimited form from original source
+# (i.e. each data point takes the form of 'x, y, z ...')
+CONSTANT_DATA_COMMA_CONCATENATED <- c("pathways","carbon_substrates")
 
 #Species names starting with 'Candidatus' are by definition uncultured organisms, 
 #but in some cases these still have various trait data assigned to them which would generally 
@@ -70,8 +74,11 @@ CONSTANT_FILL_GTDB_WITH_NCBI <- FALSE
 ########################
 
 # Categorical traits
-# Some categorical traits need to be processed throught their own function (special)
-CONSTANT_SPECIAL_CATEGORICAL_TRAITS <- c("isolation_source")
+# Some categorical traits need to be processed throught their own function (special),
+# mostly because no simple decision can be made on what to prioritise. Hence, 
+# any traits listed in below vector will be excluded form the general method of condensing 
+# categorical traits
+CONSTANT_SPECIAL_CATEGORICAL_TRAITS <- c("isolation_source", "pathways", "carbon_substrates")
 
 # Create a list of general categorical traits to process using the normal function
 CONSTANT_GENERAL_CATEGORICAL_PROCESSING <- CONSTANT_CATEGORICAL_DATA_COLUMNS[!CONSTANT_CATEGORICAL_DATA_COLUMNS %in% CONSTANT_SPECIAL_CATEGORICAL_TRAITS]

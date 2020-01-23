@@ -38,7 +38,7 @@ roj3$ref_type <- "full_text"
 
 #Reduce to required columns and rename to standard
 roj4 <- roj3 %>% select(organism,tax_id,species_tax_id,energy_process,reference,ref_type) %>%
-  rename(org_name=organism, processes=energy_process)
+  rename(org_name=organism, pathways=energy_process)
 
 #Save master data
 write.csv(roj4, "output/prepared_data/roden-jin.csv", row.names=FALSE)

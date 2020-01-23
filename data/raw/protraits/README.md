@@ -19,10 +19,10 @@ Only the following columns are used:
 - mobility
 - sporulation
 - gram_stain.positive
-- All columns containing the words "oxygenreq" and "shape"
+- All columns containing the words "oxygenreq", "shape" and "metabolism"
 
 For binary columns/traits we use the value "0" as not present (i.e. not motile) and "1" as present (motile). 
 
 For traits spread over multiple columns (such as "oxygen requirement" and "shape" where there is a column for each type of oxygen use - i.e. "oxygenreq.facultative" and "oxygenreq.strictanaero"), we replace the content of any field containing a "1" with the name of the particular column  (i.e. "facultative"), and then merge all columns of the respective trait into one column (i.e. "metabolism"). NA and "0" are ignored in these columns.
 
-In the end, the ProTraits dataset is reduced to 7 columns and 2820 rows with information, covering the triats "sporulation", "gram_stain", "metabolism", "cell_shape" and "motility".
+In the end, the ProTraits dataset is reduced to 10 columns and 2833 rows with information, covering the triats "sporulation", "gram_stain", "metabolism", "pathways", "cell_shape" and "motility".

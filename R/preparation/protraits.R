@@ -20,8 +20,7 @@ prt95[prt95 == "?"] <- NA
 #Grab required columns based on key names
 single_cols <- c("Organism_name","Tax_ID","motility","mobility","sporulation","gram_stain.positive")
 
-multi_cols <- names(prt95[,grepl("oxygenreq",names(prt95))])
-multi_cols <- c(multi_cols, names(prt95[,grepl("shape",names(prt95))]))
+multi_cols <- names(prt95[,grepl("oxygenreq|shape|metabolism",names(prt95))])
 
 #Limit data frame to required columns
 df <- prt95[,c(single_cols,multi_cols)]
@@ -83,6 +82,29 @@ for(a in 1:length(cols)) {
 } 
 # Remove original columns
 df <- df[, !grepl("shape.", names(df))]
+
+
+# metabolis= pathways
+
+#Remove all "0" values from selected columns
+cols <- names(df[,grepl("metabolism.",names(df))])
+for(i in 1:length(cols)) {
+  for(a in 1:nrow(df)) {
+    if(!is.na(df[a,cols[i]]) & df[a,cols[i]] == "0") {
+      df[a,cols[i]] <- NA
+    }
+  }
+}
+
+names(df[,grepl("metabolism.",names(df))])
+df$pathways <- NA
+cols <- names(df[,grepl("metabolism.",names(df))])
+# Move data from each column into new column
+for(a in 1:length(cols)) {
+  df[!is.na(df[,cols[a]]),"pathways"] <- df[!is.na(df[,cols[a]]),cols[a]]
+} 
+# Remove original columns
+df <- df[, !grepl("metabolism.", names(df))]
 
 
 # motility / mobility

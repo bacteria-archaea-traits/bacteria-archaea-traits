@@ -161,6 +161,15 @@ for(i in 1:length(CONSTANT_CONTINOUS_DATA_COLUMNS)) {
   df_final <- condense_continous_traits(df_final,process,CONSTANT_CONTINOUS_DATA_COLUMNS[i]) 
 }
 
+# Condensene concatenated data where all unique data points are combined into one string
+# (takes concatenated data and restructure it into a concatenated string of unique values)
+
+for(i in 1:length(CONSTANT_DATA_COMMA_CONCATENATED)) {
+  print(sprintf("Condensing %s to concatenated string",CONSTANT_DATA_COMMA_CONCATENATED[i]))
+  df_final <- condense_concatenated_traits(df_final,process,CONSTANT_DATA_COMMA_CONCATENATED[i]) 
+}
+
+
 # condensen isolation_source per species
 # This is done step wise from term 1 -> term 4
 

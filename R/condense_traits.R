@@ -117,7 +117,46 @@ while(i <= length(CONSTANT_DATA_FOR_RENAMING)) {
   #Get file
   look <- read.csv(sprintf("%s/%s",CONSTANT_LOOKUP_TABLE_PATH ,file), as.is=TRUE)
   if(nrow(look)>0) {
-    df2[,CONSTANT_DATA_FOR_RENAMING[i]] <- look$New[match(unlist(df2[,CONSTANT_DATA_FOR_RENAMING[i]]), look$Original)]
+    
+    #Check if data is in comma delimited list form
+    #(i.e. each data point takes the form of 'x, y, z, ...')
+    if (CONSTANT_DATA_FOR_RENAMING[i] %in% CONSTANT_DATA_COMMA_CONCATENATED) {
+    
+      #Don't look for words where original == new
+      look <- look %>% filter(is.na(New) | (!is.na(New) & !(Original == New)))
+      
+      #Ensure word search can deal with parentheses
+      look$Original <- gsub("\\(", "\\\\(", look$Original)
+      look$Original <- gsub("\\)","\\\\)", look$Original)
+
+      #We have to include a trick to deliniate words properly
+      #Expect a comma at end of all words (insert for pattern and replacements)
+      
+      # Create named vector of terms to replace and their replacement
+      v <- vector(mode = "character", length = nrow(look))
+      for (b in 1:nrow(look)) {
+        if(!is.na(look$New[b])) {
+          v[b] <- paste0(look$New[b],",") # adds element to vector
+        } else {
+          v[b] <- NA
+        }
+        names(v)[b] <- paste0(look$Original[b],",") # adds name to the current element 
+      }
+      
+      #Add comma to last word (end of string)
+      df2[!is.na(df2[,CONSTANT_DATA_FOR_RENAMING[i]]),CONSTANT_DATA_FOR_RENAMING[i]] <- paste0(df2[!is.na(df2[,CONSTANT_DATA_FOR_RENAMING[i]]),CONSTANT_DATA_FOR_RENAMING[i]],",")
+      
+      #Replace specific words in string with words in look up vector
+      df2[,CONSTANT_DATA_FOR_RENAMING[i]] <- df2[,CONSTANT_DATA_FOR_RENAMING[i]] %>% str_replace_all(v)
+      
+      #Remove comma at end of string
+      df2[,CONSTANT_DATA_FOR_RENAMING[i]] <-  gsub(",$", "", df2[,CONSTANT_DATA_FOR_RENAMING[i]])
+
+    } else {
+      #Data in single data point form - just match across
+      df2[,CONSTANT_DATA_FOR_RENAMING[i]] <- look$New[match(unlist(df2[,CONSTANT_DATA_FOR_RENAMING[i]]), look$Original)]
+    }
+    
   } else {
     print(sprintf("Issue with lookup table for %s",CONSTANT_DATA_FOR_RENAMING[i]))
   }
@@ -129,6 +168,10 @@ while(i <= length(CONSTANT_DATA_FOR_RENAMING)) {
 df2[!is.na(df2$isolation_source) & df2$isolation_source == "unclassified", "isolation_source"] <- NA
 
 rm(look,file,i)
+
+#Get list of unique substrates for translation table
+# subs <- unique(unlist(str_split(df2$carbon_substrates[!is.na(df2$carbon_substrates)], ", ")))
+# write.csv(subs,"substrates.csv")
 
 ################
 # Map taxonomy #

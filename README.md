@@ -76,7 +76,8 @@ Variable | Description
 `CONSTANT_ALL_DATA_COLUMNS` | Vector holding all data columns
 `CONSTANT_FINAL_COLUMNS` | Vector holding all columns to be included in final output
 `CONSTANT_DATA_FOR_RENAMING` | Vector holding the name of columns where the data will need to be re-named according to respective lookup tables
-`CONSTANT_SPECIAL_CATEGORICAL_TRAITS` | Vector holding holding column names of traits that should NOT be condensed using the standard condensation code
+`CONSTANT_DATA_COMMA_CONCATENATED` | Vector holding names of traits that should be combined into a concatenated string for each species (may be concatenated on input as well)
+`CONSTANT_SPECIAL_CATEGORICAL_TRAITS` | Vector holding column names of traits that should NOT be condensed using the standard condensation code
 `CONSTANT_GENERAL_CATEGORICAL_PROCESSING` | Vector holding column names of traits that SHOULD be condensed using the standard condensation code
 `CONSTANT_DOMINANT_TRAIT_PROPORTION` | The proportion (out of 100) that a trait value must occupy of a population in order to be selected as the appropriate representation of that species
 `CONSTANT_FILL_GTDB_WITH_NCBI` | TRUE/FALSE Should the NCBI phylogeny should be used as space filler in the GTDB phylogeny
