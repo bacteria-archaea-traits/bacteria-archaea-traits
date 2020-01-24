@@ -1,4 +1,4 @@
-"species","group","subgroup","ref","note","tax_id"
+"species","pathways","subpathways","reference","note","tax_id"
 "Methanoperedens nitroreducens","methanotrophy",NA,"DOI:10.1038/nature12375","elements:C,H; main_element:C; electron_donor:C; electron_acceptor:variable; aerobic:variable; exclusively_prokaryotic:yes; light_dependent:no",1392998
 "Methanoperedens nitroreducens","nitrate_reduction","nitrate_respiration","DOI:10.1038/nature12375","",1392998
 "Methanoperedens nitroreducens","hydrocarbon_degradation","methanotrophy","DOI:10.1038/nature12375","elements:C,H; main_element:C; electron_donor:C; electron_acceptor:variable; aerobic:variable; exclusively_prokaryotic:yes; light_dependent:no",1392998
