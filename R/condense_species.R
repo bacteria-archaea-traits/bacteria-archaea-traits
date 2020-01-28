@@ -173,6 +173,8 @@ for(i in 1:length(CONSTANT_DATA_COMMA_CONCATENATED)) {
 # condensen isolation_source per species
 # This is done step wise from term 1 -> term 4
 
+print("Condensing isolation source by species")
+
 tmp <- process %>% group_by(species,isolation_source) %>% 
   filter(!is.na(isolation_source)) %>% 
   summarise(n = n())
@@ -368,11 +370,10 @@ rm(ruling,results,resolved,remove,process)
 #Fill data from other sources#
 ##############################
 
-#MAKE SURE TO CREATE BERGEYS REFERENCE ID AND INSERT HERE WHERE BERGEYS DATA ARE INSERTED
+print("Filling in missing data from Bergeys")
 
 # Load Bergeys data
 ber <- read.csv("output/prepared_data/bergeys.csv")
-
 
 # Remove specific trait data from Candidatus species (uncultured)
 # This is done here as bergeys is used as filler
@@ -446,14 +447,18 @@ df_final$doubling_h_norm[!is.na(df_final$doubling_h) & !is.na(df_final$tmp_tmp) 
 df_final <- subset(df_final, select = -c(tmp_tmp))
 
 
-####
-
-#Ensure coccus shaped cells (round) also have a length value (d2) if no length is supplied
+#########################################
+#Ensure coccus shaped cells (round) also# 
+#have a length value (d2) if no length  #
+#########################################
 
 df_final$d2_lo[!is.na(df_final$cell_shape) & df_final$cell_shape == "coccus" & !is.na(df_final$d1_lo) & is.na(df_final$d2_lo)] <- as.double(df_final$d1_lo[!is.na(df_final$cell_shape) & df_final$cell_shape == "coccus" & !is.na(df_final$d1_lo) & is.na(df_final$d2_lo)])
 df_final$d2_up[!is.na(df_final$cell_shape) & df_final$cell_shape == "coccus" & !is.na(df_final$d1_up) & is.na(df_final$d2_up)] <- as.double(df_final$d1_up[!is.na(df_final$cell_shape) & df_final$cell_shape == "coccus" & !is.na(df_final$d1_up) & is.na(df_final$d2_up)])
 
-####
+
+#########################
+#Mark specific organisms#
+#########################
 
 # Add intracellular status based on curated list of organisms (1 = intracellular, NA = no information)
 
@@ -477,7 +482,7 @@ rm(intr)
 
 ####
 
-# Add phototroph information based on curated list of organisms (1 = phototroph, NA = no information)
+# Mark phototrophic organisms based on curated list of organisms (1 = phototroph, NA = no information)
 pho <- read.csv("data/conversion_tables/phototrophic_organisms.csv")
 df_final$phototroph <- NA
 

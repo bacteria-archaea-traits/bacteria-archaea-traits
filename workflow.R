@@ -35,32 +35,11 @@ for(q in 1:length(CONSTANT_PREPARE_DATASETS)) {
   prepare_dataset(CONSTANT_PREPARE_FILE_PATH,CONSTANT_PREPARE_DATASETS[q])
 }
 
-# source("R/preparation/bacdive-microa.R")
-# source("R/preparation/campedelli.R")
-# source("R/preparation/corkrey.R")
-# source("R/preparation/edwards.R")
-# source("R/preparation/engqvist.R")
-# source("R/preparation/fierer.R")
-# source("R/preparation/genbank.R")
-# source("R/preparation/gold.R")
-# source("R/preparation/jemma-refseq.R")
-# source("R/preparation/kegg.R")
-# source("R/preparation/kremer.R")
-# source("R/preparation/masonmm.R")
-# source("R/preparation/mediadb.R")
-# source("R/preparation/metanogen.R")
-# source("R/preparation/microbe-directory.R")
-# source("R/preparation/nielsensl.R")
-# source("R/preparation/pasteur.R")
-# source("R/preparation/patric.R")
-# source("R/preparation/prochlorococcus.R")
-# source("R/preparation/protraits.R")
-# source("R/preparation/rrndb.R")
-# source("R/preparation/silva.R")
 
 # 2. Merging
 
-# Choose taxonomy to be used ("NCBI" or Genome Taxonomy Database "GTDB"). Note that all other CONSTANTS are set in the "R/settings.R" file loaded above.
+# Choose taxonomy to be used ("NCBI" or Genome Taxonomy Database "GTDB"). 
+# Note that all other CONSTANTS are set in the "R/settings.R" file loaded above.
 CONSTANT_BASE_PHYLOGENY <- "NCBI"
 
 source("R/condense_traits.R")

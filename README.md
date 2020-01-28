@@ -26,6 +26,7 @@ The coded workflow corresponding with the data descriptor: Madin et al. (XXXX) A
 1. prochlorococcus.csv
 1. protraits.csv
 1. rrndb.csv
+1. roden-jin.csv
 1. silva.csv
 
 ### Overview of project files
@@ -106,5 +107,86 @@ If you want to run the full merger including the preparation of each raw dataset
 
 If you have updated a preparation (clean) script for an individual dataset or added a new dataset, you only need to run the particular clean-up script for that data set and introduce the new data into the merger by re-running (in that order):
 
-1. `condense_traits.R`
-2. `condense_species.R`
+1. Indicate the phylogeny to use (CONSTANT_BASE_PHYLOGENY = "NCBI" or "GTDB")
+2. `condense_traits.R`
+3. `condense_species.R`
+
+### How to add a new dataset
+
+1. create a folder in data/raw/ with the name you want to identify the dataset by in the merger
+2. Place the new data file in this folder and rename the file to the exact same name as the folder. Add a readme file with details of the origin and processing of the data.
+3. In the R/preparation/ folder create a new R script with the exact same name as the data set. This file should contain all code necessary to do the following:
+  - Load the new data set from data/raw/
+  - Clean up data, ensuring data formats are correct for each data type (ex. fix excel conversion of numbers to dates, ensure species names are correct where possible etc.)
+  - Rename specific columns to their set column name based on data type (see section "column names and descriptions")
+  - Save the prepared dataset as a .csv file in data/output/prepared_data/
+4. Add the new data set name to the vector named "CONSTANT_PREPARE_DATASETS" located in R/settings.R. This ensure the data set clean up file is run when running the full workflow.
+
+If the new data set only includes data columns that is already present in the merger, nothing more is required. Simply re-run the workflow.R and the new data is included in the final outputs.
+
+If the new data set contains new data types / columns, see section "How to add a new data type".
+
+### How to add a new data type
+
+When adding a new type of data to the merger (i.e. a new data column), it is necessary to tell the code how to process this data. This is done in the R/settings.R file as follows:
+
+Note: All vectors referred to in below is located in R/settings.R
+
+1. For each new data type, determine whether the data is categorical (i.e. named values) or continuous (numbers), and add the name of the respective column to the appropriate vector `CONSTANT_CATEGORICAL_DATA_COLUMNS` or `CONSTANT_CONTINUOUS_DATA_COLUMNS`.
+2. If the new data require translation to a common terminology, a renaming table named "renaming_[new column name].csv" must be added to the data/conversion_tables/ folder, and the column name must be added to the `CONSTANT_DATA_FOR_RENAMING` vector. See section "how to create a term conversion table" below for details. Some example columns are "metabolism", "sporulation", "motility".
+3. If the new data is comma delimited on input (i.e. a data point takes the form of "x, y, z, ...") *AND/OR* if the data should be combined as comma delimited strings during species condensation, the name of the data column must be added to the vector `CONSTANT_DATA_COMMA_CONCATENATED`. This data will NOT be processed in any way other than ensured that only unique values are included in each string on output (i.e. inputs #1 = "x, y, z" and #2 = "y, u" for a given species are combined in output to "x, y, z, u"). Current example columns are "pathways" and "carbon_substrates".
+4. If the new data is categorical but NOT of a general sort (or no grouping and priority list exists in the name conversion table) and therefore should NOT be processed usign the general condensation scripts for categorical data, the column name must be included in the vector `CONSTANT_SPECIAL_CATEGORICAL_TRAITS`. This is also the case if the data is comma delimited (see #3). For special data columns, code for processing this particular data column should be added to the species condensation file where required.
+
+### How to create a term conversion table
+
+If categorical data values require translation to a uniform terminology (usually always the case when combining multiple data sets of the same categorical data), then it is necessary to create a conversion table containing the original and new terms for each possible input term from any data set.
+
+- These tables must be named "renaming_[new column name].csv". 
+- The table must contain the columns "Original" and "New", containing the original term and the term it should be translated to, respectively.
+- If the respective categorical data is to be processed using the general species condensation script for determining which categorical value to chose from many options (using dominance and term priorities - see examples "metabolism", "sporulation", "motility" and others), the translation table must contain the two addtional columns "Priority" and "Category". 
+  - "Category": this column contains numeric ids that groups different but related terms. For instance, the metabolisms "aerobic" and "obligate aerobic" is grouped in category #1, whereas the terms "anaerobic" and "obligate anaerobic" are grouped into category #2.
+  - "Priority": This column contains numeric ids that indicates the specificity or value of a term over another WITHIN each term category.For instance, the terms within category #1 above have prioirities "aerobic"" = 1 and "obligate aerobic" = 2 (higher values indicate higher priority) because the term "obligate aerobic" should be chosen over "aerobic" when the two terms are matched in occurence in the species condensation.
+
+### Column names and descriptions in species condensed data set
+
+`tax_id`: The NCBI taxonomy id at the lowest phylogenetic level identified by the species name
+`species_tax_id`: The NCBI taxonomy id at species level
+`species`: Species name of organism (this and below: NCBI or GTDB naming depending on the phylogeny chosen)
+`genus`: Genus of organism
+`family`Family of organism
+`order`: Order of organism
+`class`: Class of organism
+`phylum`: Phylum of organism
+`superkingdom`: Kingdom of organism
+`gram_stain`: Gram reaction of organism (+/-)
+`metabolism`: Oxygen use (aerobic, anaerobic etc.)
+`pathways`: List of metabolic pathways the organism can carry out (i.e. nitrate reduction, sulfur oxidation)
+`carbon_substrates`: List of carbon substrates the organism can utilise
+`sporulation`: If the organism sporulates (yes/no)
+`motility`: If the organism is motile and how
+`range_tmp`: Temperature range reported for the organism
+`range_salinity`: Salinity range reported for the organism
+`cell_shape`: Cell shape of organism
+`isolation_source`: Isolation sources reported for organism
+`d1_lo`: Lowest diameter
+`d1_up`: Largest diameter
+`d2_lo`: Smallest length
+`d2_up`: Largest length
+`doubling_h`: Minimum doubling time in hours
+`doubling_h_norm`: Minimmum doubling time calculated to 20 degree celcius (Q10 = 2, see settings)
+`genome_size`: Genome size of organism
+`gc_contenvt`: GC content of organism (ratio)
+`coding_genes`: Number of coding genes
+`optimum_tmp`: Optimum temperature
+`optimum_ph`: Optimum pH
+`growth_tmp`: Reported growth temperature (not necessarily optimal)
+`rRNA16S_genes`: Number of 16S rRNA genes
+`tRNA_genes`: Number of tRNA genes
+`data_source`: List of data sources from where the information for the specific organism was obtained
+`ref_id`: List of reference ids to original litterature (where available) from where the data was obtained
+`intracellular`: If the organism has an intracellular lifestyle (0/1)
+`phototroph`: If the organism is phototrophic (0/1)
+`[col name].count`: All columns ending in ".count" indicates number of data points condensed for specific column value
+`[col name].prop`: All columns ending in ".prop" indicates the proportion of all condensed data points that agree with the chosen value
+`[col name].stdev`: All columns ending in ".stdev" indicates the standard deviation of the condensed data points
+

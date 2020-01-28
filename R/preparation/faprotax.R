@@ -36,14 +36,31 @@ dim(store)
 store1 <- store[!duplicated(store[c("species", "pathways", "subpathways")]),]
 dim(store1)
 
+#There are a few errors in the output for pathways where species names are included
+#Remove all 'pathways' with * in the name
+store1 <- store1 %>% filter(!grepl("\\*|human|pathogen|parasites|symbionts|gut",store1$pathways))
+
 store2 <- store1[store1$species %in% nam$name_txt,]
 dim(store2)
 
-store3 <- merge(store2, nam[c("tax_id", "name_txt" )], by.x="species", by.y="name_txt", all.x=TRUE, sort=FALSE)
+#Only include organisms with both genus and species name 
+store3 <- store2[lengths(strsplit(store2$species, " ")) == 2,]
 dim(store3)
 
+store4 <- merge(store3, nam[c("tax_id", "name_txt" )], by.x="species", by.y="name_txt", all.x=TRUE, sort=FALSE)
+dim(store4)
+
+#Add ref_type column
+store4$ref_type <- NA
+
+store4$ref_type[grepl("DOI",store4$reference)] <- "doi"
+store4$ref_type[grepl("^[0-9]",store4$reference)] <- "doi"
+store4$ref_type[!is.na(store4$reference) & is.na(store4$ref_type)] <- "full_text"
+
 # This shows a species that's being categorsied in multiple ways
-store3[store3$species=="Methanoperedens nitroreducens",]
+store4[store4$species=="Methanoperedens nitroreducens",]
+
+store4 <- store4 %>% rename(org_name = species)
 
 #Save file
-write.csv(store3, "output/prepared_data/faprotax.csv", row.names=FALSE)
+write.csv(store4, "output/prepared_data/faprotax.csv", row.names=FALSE)

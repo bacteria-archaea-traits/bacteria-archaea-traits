@@ -16,12 +16,12 @@ CONSTANT_EXCLUDED_DATASETS <- c("bergeys.csv")
 ####################
 
 #List datasets that need to be prepared before merging
-CONSTANT_PREPARE_DATASETS <- c("bacdive-microa","campedelli","corkrey","edwards","engqvist","fierer","genbank","gold","jemma-refseq",
+CONSTANT_PREPARE_DATASETS <- c("amend-shock","bacdive-microa","campedelli","corkrey","edwards","engqvist","faprotax","fierer","genbank","gold","jemma-refseq",
                                "kegg","kremer","masonmm","mediadb","metanogen","microbe-directory","nielsensl","pasteur","patric",
                                "prochlorococcus","protraits","roden-jin","rrndb","silva")
 
 #Process single for testing:
-#CONSTANT_PREPARE_DATASETS <- c("fierer")
+#CONSTANT_PREPARE_DATASETS <- c("faprotax")
 
 
 ######################

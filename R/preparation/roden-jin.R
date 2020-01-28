@@ -30,15 +30,13 @@ roj$organism[roj$organism == "Azotobacter vinilandii"] <- "Azotobacter vinelandi
 
 #Get tax ids by names
 roj2 <- roj %>% inner_join(nam[,c("name_txt","tax_id")], by = c("organism"="name_txt"))
-#Get species tax ids
-roj3 <- roj2 %>% inner_join(tax[,c("tax_id","species_tax_id")], by = "tax_id")
 
 #Add reference type
-roj3$ref_type <- "full_text"
+roj2$ref_type <- "full_text"
 
 #Reduce to required columns and rename to standard
-roj4 <- roj3 %>% select(organism,tax_id,species_tax_id,energy_process,reference,ref_type) %>%
+roj3 <- roj2 %>% select(organism,tax_id,energy_process,reference,ref_type) %>%
   rename(org_name=organism, pathways=energy_process)
 
 #Save master data
-write.csv(roj4, "output/prepared_data/roden-jin.csv", row.names=FALSE)
+write.csv(roj3, "output/prepared_data/roden-jin.csv", row.names=FALSE)

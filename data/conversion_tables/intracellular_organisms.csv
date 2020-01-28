@@ -18,7 +18,6 @@ Phytoplasma,genus
 Spiroplasma,genus
 Entomoplasma,genus
 Mesoplasma,genus
-Mycoplasma,genus
 Ureaplasma,genus
 Mycobacterium leprae,species
 Mycobacterium tuberculosis,species
@@ -79,6 +78,7 @@ Sulcia muelleri_A,species
 Zinderia insecticola,species
 Tremblaya phenacola,species
 Blattabacterium,genus
+Mycoplasma,genus
 Mycoplasmopsis,genus
 Mesomycoplasma,genus
 Mycoplasmoides,genus

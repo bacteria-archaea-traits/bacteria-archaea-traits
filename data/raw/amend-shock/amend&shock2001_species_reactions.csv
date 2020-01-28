@@ -1,0 +1,204 @@
+id,organisms
+A1 ,"Acidovorax delafieldii, Acidovorax facilis, Alcaligenes xylosoxidans, Ancylobacter aquaticus, Hydrogenophaga palleronii, Pseudomonas hydrogenovora, Xanthobacter autotrophicus[379], P. fumarii[9]Sulfolobus acidocaldarius, Sulfolobus solfataricus, Sulfolobus shibatae, A. brierleyi, A. infernus, M. sedula[293]Bacillus schlegelii[189]Hydrogenobacter halophilus[225]Hydrogenophilus thermoluteolus[228], [229]Calderobacterium hydrogenophilum[195], M. prunae[296], Hydrogenobacter thermophilus[226], P. aerophilum[345], A. pyrophilus[82], Hydrogenobacter acidophilus[224], Sulfurospirillum arcachonense[380]"
+A2 ,Acetobacter peroxidans [381]
+B1,"As written: F. placidus[84], A. pyrophilus[82], Veillonella alcalescens, Micrococcus denitrificans, Thiobacillus denitrificans[6]"
+B1,Inferred: B. schlegelii[189]C. hydrogenophilum[195]
+B1,"Hydrogen from an organic source: Pseudomonas strain MT?1 [385], Silicibacter lacuscaerulensis[386], P. aerophilum[345], Thermothrix thioparus[277], [278], Clostridium perfringens, Aerobacter aerogenes, Escherichia coli, Pseudomonas aeruginosa, Pseudomonas denitrificans, Spirillum itersoni, Selenomonas ruminantium[6]"
+B2,"As written: A. pyrophilus [82], M. denitrificans, T. denitrificans[6]"
+B2,"Hydrogen from an organic source: P. aerophilum [345], T. thioparus[277], [278], C. perfringens, P. aeruginosa, P. denitrificans[6]"
+B3,"As written: Ammonifex degensii [187], P. fumarii ([9], V. alcalescens[6]"
+B4,"As written: Nitrobacter, Nitrospina, Nitrococcus[387]"
+B5,"As written: F. placidus [84], M. denitrificans, T. denitrificans[6]"
+B5,"Hydrogen from an organic source: T. thioparus [277], [278], C. perfringens, P. aeruginosa, P. denitrificans[6]"
+B6,"As written: A. pyrophilus [82], M. denitrificans, T. denitrificans[6],"
+B6,"Hydrogen from an organic source: T. thioparus [277], [278], C. perfringens, P. aeruginosa, P. denitrificans[6]"
+B7,"As written: M. denitrificans, T. denitrificans[6]"
+B7,"Hydrogen from an organic source: T. thioparus [277], [278], C. perfringens, P. aeruginosa, P. denitrificans[6]"
+B8,"As written: M. denitrificans, T. denitrificans[6]"
+B8,"Hydrogen from an organic source: T. thioparus [277], [278], C. perfringens, P. aeruginosa, P. denitrificans[6]"
+B9,"As written: Methanosarcina barkeri [388], Desulfovibrio gigas, Desulfovibrio vulgaris, Desulfovibrio desulfuricans, Desulfovibrio salexigens[389], Desulfovibrio africanus[389], [390], Desulfovibrio baculatus[390]"
+B10,"As written: Nitrosococcus, Nitrosomonas, Nitrosospira, Nitrosovibrio[387], Nitrosolobus[391]"
+B11,"As written: Planctomycete [85], [86], [392]"
+C1,"As written: Archaeoglobus lithotrophicus [37], Desulfotomaculum auripigmentum[393], Desulfacinum infernum[206], Desulfonatronum lacustre[394], Thermodesulfobacterium mobile[265], Thermodesulfobacterium commune[263], Desulfotomaculum putei[175], Desulfotomaculum luciae[175], [208], Archaeoglobus profundus[331], Thermodesulfovibrio yellowstonii[267], Desulfotomaculum kuznetsovii[207], Desulfotomaculum geothermicum[35], Desulfonatronovibrio hydrogenovorans[395], Desulfotomaculum thermocisternum[180], Desulfotomaculum thermosapovorans[212], A. degensii[187], Desulfotomaculum australicum[170], Desulfotomaculum halophilum[178], Desulfobulbus rhabdoformis[396], D. desulfuricans[381], Desulfotomaculum thermoacetoxidans[210]"
+C1,"Hydrogen from an organic source: Archaeoglobus fulgidus [328]-[330], Thermocladium modestius[259]"
+C2,"As written: Desulfovibrio sulfodismutans [397], [398], Desulfocapsa sulfoexigens[399], Desulfocapsa thiozymogenes[400]"
+C3,"As written: D. desulfuricans [381], D. infernum[206], D. lacustre[394], A. veneficus[295], D. putei[175], A. profundus[331], T. yellowstonii[267], D. kuznetsovii[207], D. hydrogenovorans[395], D. thermocisternum[180], D. thermosapovorans[212], D. halophilum[178], D. rhabdoformis[396], Desulfurobacterium thermolithotrophum[216], Pyrodictium brockii[352]"
+C3,"Hydrogen from an organic source: A. fulgidus [328]-[330], Pyrobaculum islandicum[346]"
+C4,"As written: Thiobacillus thiooxidans, T. thioparus[381]"
+C5,"As written: Thiobacillus novellus [381], A. pyrophilus[82], P. aerophilum[345], Thermothrix azorensis[276], T. thiopara[277], [278], Thiobacillus hydrothermalis[401], Thiomicrospira crunogena[402], Thiomicrospira chilensis[403]"
+C6,As written: Thiobacillus neapolitanus [381]
+C7,As written: T. thioparus [381]
+C8,"As written: D. sulfodismutans [397], [398], D. sulfoexigens[399], D. thiozymogenes[400], D. hydrogenovorans[395]"
+C9,As written: purple and green photosynthetic Bacteria [404]
+C10,"As written: A. fulgidus [329], D. infernum[206], F. placidus[84], D. lacustre[394], P. occultum[352], A. veneficus[295], D. putei[175], D. luciae[175], [208], A. profundus[331],T. yellowstonii[267], D. kuznetsovii[207], D. thermocisternum[180], D. thermosapovorans[212], D. thermolithotrophum[216], D. australicum[178], D. rhabdoformis[396], Thermotoga subterranea[281]"
+C10,"Hydrogen from an organic source: T. modestius [259], P. islandicum[346], Pyrodictium abyssi[352], Thermotoga elfii[279], Thermotoga hypogea[280]"
+C11,"As written: D. sulfodismutans [397], [398]"
+C12,"As written: Thiobacillus tepidarius, T. neapolitanus[87]"
+C13,"As written: T. tepidarius, T. neapolitanus[87]"
+C14,"As written: T. neapolitanus [381], T. chilensis[403], T. hydrothermalis[401], T. azorensis[276], Sulfolobus hakonensis[316], T. tepidarius[87]"
+C15,Hydrogen from an organic source: Bacterium paratyphosum B [405]
+C16,"As written: T. thioparus [381], T. thiooxidans, T. ferrooxidans[387], A. pyrophilus[82], A. infernus, A. brierleyi[292], Acidianus ambivalens[289]-[291], M. sedula[297], M. prunae[296], S. acidocaldarius[313], S. solfataricus[320], S. metallicus[317], Sulfolobacillus thermosulfidooxidans[246], Sulfobacillus acidophilus[245], S. shibatae[318], [319], S. hakonensis[316], S. yellowstonii[322], Sulfurococcus mirabilis[321], T. thiopara[277], [278], T. azorensis[276], T. prosperus[406], T. hydrothermalis[401], T. chilensis[403], T. crunogena[402], Beggiatoa[407]-[409], Thiovulum[409]"
+C17,"As written: D. sulfoexigens [399], D. thiozymogenes, Desulfobulbus propionicus[400]"
+C18,"As written: T. thiooxidans, T. thioparus[381]"
+C19,"As written: P. occultum, P. brockii[353], A. infernus, A. brierleyi[292], A. degensii[187], T. tenax[375], [377], Thermoproteus neutrophilus, T. maritimus[375], P. islandicum[346], A. pyrophilus[82], A. ambivalens[289]-[291], Desulfurella kamchatkensis, Desulfurella propionica[214], D. thermolithotrophum[216], Hyperthermus butylicus[338], Stetteria hydrogenophila[355]Stygiolobus azoricus[312], S. arcachonense[380]"
+C19,"Hydrogen from an organic source: Thermococcus litoralis [368], [369], Thermococcus zilligii[323], [324], Thermococcus alcaliphilus[360], Pyrobaculum organotrophum[346], Thermoproteus uzoniensis[378], Thermoplasma acidophilum, T. volcanium[325], Thermofilum pendens[376], Pyrococcus woesei[351], Thermococcus profundus[371], Thermococcus celer[363], Desulfurococcus mucosus, Desulfurococcus mobilis[337], Thermococcus stetteri[373], Pyrococcus abyssi[347], Pyrococcus furiosus[349], Pyrococcus horikoshii[350], P. abyssi[352], T. modestius[259], Thermococcus acidaminovorans[358], Thermococcus guaymasensis, Thermococcus aggregans[359], Thermococcus chitonophagus[364], Thermococcus barossii[362], Thermococcus fumicolans[365], Thermococcus gorgonarius[366], Thermococcus hydrothermalis[367], Thermococcus pacificus[214], Thermococcus siculi[372], Thermosipho africanus[273], T. maritima[287], Thermotoga neapolitana[288], Desulfurococcus amylolyticus[336], Staphylothermus marinus[354]"
+C20,"As written: Thiovulum, Beggiatoa[409], T. chilensis[403], T. hydrothermalis[401], Thiobacillus propserus[406], T. crunogena[402], T. azorensis[276], S. hakonensis[316], T. thioparus[410]"
+C21,As written: T. thioparus [410]
+C22,"As written: T. thioparus [410], Thiovulum[409], Beggiatoa[407]-[409]"
+C23,"T. denitrificans [381], P. aerophilum[345], A. pyrophilus[82], T. thioparus[277], [278]"
+C24,"T. denitrificans [381], A. pyrophilus[82], Thioploca chileae, Thioploca araucae[411]"
+C25,"F. placidus [84], T. thioparus[277], [278]"
+C26,"T. chileae, T. araucae[411], T. thioparus[277], [278]"
+C27,"T. chileae, T. araucae [411], T. thioparus[277], [278]"
+D1,"As written: Methanococcus vannielii, M. barkeri[387]Methanobacterium wolfei, Methanobacterium alcaliphilum[391], M. thermolithotrophicus[302], M. jannaschii[126]M. kandleri[94], Methanococcus CS?1 [165], Methanococcus fervens (AG86)[303], [339], Methanobacterium thermoautotrophicus[306], Methanothermus fervidus[343], Methanothermus sociabilis[344], Methanococcus igneus[340], Methanobacterium thermoalcaliphilum[300], Methanobacterium thermoaggregans[299], Methanocalculus halotolerans[412], Methanobacterium thermoflexum, Methanobacterium defluvii[298], Methanobacterium subterraneum[43], Methanococcus infernus[341], Methanococcus vulcanius[303], Methanoplanus petrolearius[413]"
+D2,"As written: T. thioparus, Paracoccus[87]"
+D3,"As written: T. thioparus, Paracoccus[87]"
+D4,"As written: B. schlegelii, Pseudomonas carboxydovorans, Alcaligenes carboxydus[387]"
+D5,As written: Methanobacterium thermoautotrophicum [387]
+D6,As written: Methanobacterium formicicum [381]
+D7,"As written: T. thioparus, Paracoccus[87]"
+D8,"As written: T. thioparus, Paracoccus[87]"
+D9,As written: Methylococcus thermophilus [233]
+E1,"Acetogenium kivui [254], Desulfotomaculum thermobenzoicum[211], D. thermoacetoxidans[210]"
+E2,"M. halotolerans [412], Methanococcus CS?1[165], M. thermolithotrophicus[302], M. thermoflexum, M. defluvii[298], M. subterraneum[43], M. petrolearius[413]"
+E3,"P. aerophilum [345], S. arcachonense[380]"
+E4,Methanothrix thermoacetophila [414]
+E5,"P. aerophilum [345], S. arcachonense[380]"
+E6,Natroniella acetigena [415]
+E7,"Bacillus stearothermophilus [416], S. arcachonense[380]"
+E8,"Methanolobus siciliae [417], Methanohalophilus zhilinae[418]"
+E9,"M. barkeri, Methanolobus tindarius[419]"
+E10,N. acetigena [415]
+E11,"strain CV [420], [421]"
+E12,M. petrolearius [413]
+E13,B. infernus [116]
+E14,"A. degensii [187], T. thioparus[277], [278], P. aerophilum[345]"
+E15,"P. aerophilum [345], T. thioparus[277], [278]"
+E16,P. aerophilum [345]
+E17,"Geobacter metallireducens [422], [423]"
+E18,P. aerophilum [345]
+E19,B. infernus [116]
+E20,"Sulfurospirillum barnesii strain SES?3 [380], [424], Bacillus arsenicoselenatis, Bacillus selenitireducens[425]"
+E21,"S. barnesii strain SES?3 [380], [424], B. selenitireducens[425]"
+E22,"B. selenitireducens [425], S. barnesii strain SES?3 [380], [424], [426], B. stearothermophilus[381], [416]"
+E23,B. stearothermophilus [416]
+E24,D. thermobenzoicum [211]
+E25,M. barkeri [427]
+E26,"strain EbN1, strain PbN1 [428]"
+E27,Cluster ANME?1 (suggested) [429]
+E28,"D. putei [175], D. luciae[175], [208], D. kuznetsovii[207], D. thermobenzoicum[211], D. geothermicum[35], D. hydrogenovorans[395], D. thermosapovorans[212], A. degensii[187], D. australicum[178], A. fulgidus[328], [329]"
+E29,"A. veneficus [295], D. putei[175], D. kuznetsovii[207], D. thermobenzoicum[211], D. geothermicum[35], D. hydrogenovorans[395], D. thermosapovorans[212], D. australicum[178], A. fulgidus[328], [329]"
+E30,"D. putei [175], D. luciae[175], [208], D. kuznetsovii[207], D. thermobenzoicum[211], D. thermosapovorans[212], D. australicum[178], A. fulgidus[328], [329]"
+E31,"T. tenax [377], S. arcachonense[380]"
+E32,"D. thermoacetoxidans [210], Thermodesulforhabdus norvegicus[266], D. kuznetsovii[207], D. australicum[170]"
+E33,"A. veneficus [295], D. kuznetsovii[207]"
+E34,"D. kuznetsovii [207], D. propionica[214]"
+E35,"Desulfuromonas palmitatis [430], Desulfuromonas acetoxidans[431], Geobacter sulfurreducens[432], D. kamchatkensis, D. propionica[214], Desulfurella acetivorans[213]"
+E36,"D. kuznetsovii [207], D. thermobenzoicum[211], D. thermocisternum[180]"
+E37,"Desulforhopalus vacuolatus [433], D. geothermicum[35], D. rhabdoformis[237]"
+E38,"D. kuznetsovii [207], D. thermobenzoicum[211], D. thermocisternum[180]"
+E39,"D. rhabdoformis [237], D. vacuolatus[433], D. geothermicum[35]"
+E40,"D. kuznetsovii [207], D. thermobenzoicum[211], D. propionica[214], D. thermocisternum[180]"
+E41,"D. rhabdoformis [237], D. vacuolatus[433]"
+E42,D. propionica [214]
+E43,"A. fulgidus [328]-[330], D. thermoacetoxidans[210], Desulfotomaculum nigrificans ssp. salinus[209], T. mobile[264], [265], D. kuznetsovii[207], D. thermobenzoicum[211], D. thermosapovorans[212], D. australicum[170]"
+E44,"D. auripigmentum [393], D. vacuolatus[433], T. commune[263], D. putei[175], D. luciae[175], [208], T. yellowstonii[267], D. geothermicum[35], D. thermocisternum[180], D. australicum[178], D. rhabdoformis[396]"
+E45,"D. nigrificans ssp. salinus[209], T. mobile[264], [265], D. kuznetsovii[207], D. thermobenzoicum[211], D. thermosapovorans[212], A. fulgidus[328]-[330]"
+E46,"D. australicum [178], D. rhabdoformis[396], D. vacuolatus[433], D. geothermicum[35], D. putei[175], D. thermocisternum[180]"
+E47,"D. nigrificans ssp. salinus[209], T. mobile[264], [265], D. kuznetsovii[207], D. thermobenzoicum[211], D. propionica[214], D. thermosapovorans[212], A. fulgidus[328]-[330]"
+E48,"S. barnesii strain SES?3 ([380], [426], T. commune[263], D. putei[175], D. luciae[175], [208], D. australicum[178], D. rhabdoformis[396], D. thermocisternum[180], Thermoanaerobacter sulfurophilus[256]"
+E49,"D. kamchatkensis, D. propionica[214]"
+E50,"S. barnesii strain SES?3 [380], [426], S. arcachonense[380], T. sulfurophilus[256]"
+E51,D. thermocisternum [180] a
+E52,"D. thermobenzoicum [211], Desulfobacula toluolica[434], D. auripigmentum[435], D. kuznetsovii[207], D. geothermicum[35], D. thermosapovorans[212]b"
+E53,D. thermocisternum [180] a
+E54,"D. thermobenzoicum [211], D. kuznetsovii[207], D. geothermicum[35], D. thermosapovorans[212]b"
+E55,D. thermocisternum [180] a
+E56,"D. thermobenzoicum [211], D. kuznetsovii[207], D. thermosapovorans[212]b"
+E57,"D. toluolica [434], D. kuznetsovii[207]"
+E58,D. kuznetsovii [207]
+E59,D. kuznetsovii [207]
+E60,"D. thermobenzoicum [211], D. toluolica[434], D. australicum[170]"
+E61,D. thermobenzoicum [211]
+E62,D. thermobenzoicum [211]
+E63,"D. putei [175], D. kuznetsovii[207], D. thermosapovorans[212]"
+E64,"D. kuznetsovii [207], D. thermosapovorans[212]"
+E65,"D. kuznetsovii [207], D. thermosapovorans[212]"
+E66,T. tenax [377]
+E67,"D. nigrificans ssp. salinus[209], D. putei[175], D. luciae[175], [208], D. toluolica[434], D. kuznetsovii[207], D. thermobenzoicum[211], D. geothermicum[35], D. thermocisternum[180], D. australicum[170]"
+E68,"D. thermosapovorans [212], D. australicum[178], D. rhabdoformis[396]"
+E69,"A. veneficus [295], D. putei[175], D. kuznetsovii[207], D. thermobenzoicum[211], D. geothermicum[35], D. thermocisternum[180]"
+E70,"D. thermosapovorans [212], D. australicum[178], D. rhabdoformis[396]"
+E71,"D. kuznetsovii [207], D. thermobenzoicum[211], D. thermocisternum[180]"
+E72,"D. thermosapovorans [212], D. australicum[178], D. rhabdoformis[396]"
+E73,"D. acetoxidans [431], T. tenax[377]"
+E74,"D. toluolica [434], D. kuznetsovii[207], D. thermobenzoicum[211], D. thermocisternum[180]"
+E75,D. rhabdoformis [396]
+E76,D. thermosapovorans [212]
+E77,"D. kuznetsovii [207], D. thermobenzoicum[211], D. thermocisternum[180]"
+E78,D. rhabdoformis [396]
+E79,"D. kuznetsovii [207], D. thermobenzoicum[211], D. thermocisternum[180]"
+E80,D. rhabdoformis [396]
+E81,D. acetoxidans [431]
+E82,"D. thermobenzoicum [211], D. toluolica[434], D. kuznetsovii[207], D. thermocisternum[180]"
+E83,"D. thermosapovorans [212], D. australicum[178]"
+E84,"D. thermobenzoicum [211], D. kuznetsovii[207], D. thermocisternum[180]"
+E85,"D. thermosapovorans [212], D. australicum[178]"
+E86,"D. thermobenzoicum [211], D. kuznetsovii[207], D. thermocisternum[180]"
+E87,"D. thermosapovorans [212], D. australicum[178]"
+E88,D. thermosapovorans [212]
+E89,D. thermosapovorans [212]
+E90,D. thermosapovorans [212]
+E91,strain TD3[436]
+E92,strain TD3[436]
+E93,strain TD3[436]
+E94,strain TD3[436]
+E95,strain Hxd3[437]
+E96,D. toluolica [434]
+E97,"Brevibacterium flavum, Corynebacterium acetoacidophilum, Corynebacterium acetoglutamicum, Corynebacterium acetophilum[438]"
+E98,Brevibacterium [438]
+E99,Brevibacterium glutaricum [438]
+E100,E. coli [440]
+E101,E. coli [440]
+E102,Dethiosulfovibrio peptidovorans [439]
+E103,D. peptidovorans [439]
+E104,D. peptidovorans [439]
+E105,D. peptidovorans [439]
+E106,Caloramator proteoclasticus [200]
+E107,C. proteoclasticus [200]
+E108,C. proteoclasticus [200]
+E109,C. proteoclasticus [200]
+E110,Clostridium sporogenes [441]
+F1,"As written: S. acidophilus, S. thermosulfidooxidans[183]"
+F2,"As written: S. acidocaldarius, T. thiooxidans, T. ferrooxidans[442]"
+F3,"As written: G. sulfurreducens [432], Thermoterrabacterium ferrireducens[275]"
+F4,"As written: S. thermosulfidooxidans [246], [443], A. brierleyi[292], [294], T. prosperus[406], S. acidophilus[245], Acidimicrobium ferrooxidans[182], S. yellowstonii[322]"
+F5,"As written: S. thermosulfidooxidans [246], [443], T. ferrooxidans[387], S. yellowstonii[322], T. prosperus[406]"
+F5,"Inferred: A. brierleyi [292], [297], [444],"
+F6,"As written: S. thermosulfidooxidans [246], [443], M. sedula[297], S. metallicus[317], M. prunae[296], T. prosperus[406], S. yellowstonii[322]"
+F6,"Inferred: A. brierleyi [292], [297], [444]"
+F7,As written: S. hakonensis [316]
+F8,"As written: S. thermosulfidooxidans [246], [443], M. sedula[297], S. metallicus[317], M. prunae[296], T. prosperus[406], S. yellowstonii[322]"
+F8,Inferred: A. brierleyi [297]
+F9,As written: S. thermosulfidooxidans [246]
+F10,"As written: S. yellowstonii [322], T. prosperus[406], S. metallicus[317], S. thermosulfidooxidans[246], [443], M. sedula[297], M. prunae[296]"
+F10,Inferred: A. brierleyi [297]
+F11,"As written: S. thermosulfidooxidans [246], T. prosperus[406]"
+F12,"As written: Shewanella putrefaciens [114], [115], D. desulfuricans[114]"
+F13,"Inferred: T. prosperus [406], S. metallicus[317], M. sedula[297], M. prunae[296]"
+F14,B. infernus [116]
+F15,"G. metallireducens [422], [423], D. palmitatis[430], G. sulfurreducens[432]"
+F16,G. sulfurreducens [432]
+F17,strain SES [445]
+F18,"G. metallireducens [114], [115]"
+F19,D. palmitatis [430]
+F20,B. infernus [116]
+F21,"S. barnesii strain SES?3 [380], [426], B. arsenicoselenatis, B. selenitireducens[425]"
+F22,"D. auripigmentum [393], B. arsenicoselenatis, B. selenitireducens[425]"
+F23,"S. barnesii strain SES?3 [380], [426], B. arsenicoselenatis, B. selenitireducens[425]"
+F24,"S. barnesii strain SES?3 [380], [424], B. arsenicoselenatis, B. selenitireducens[425]"
+F25,"S. barnesii strain SES?3 [380], [424], B. arsenicoselenatis, B. selenitireducens[425]"
+F26,"B. arsenicoselenatis, B. selenitireducens[425]"
+F27,"S. putrefaciens [114], [115], D. desulfuricans[114], G. metallireducens[114], [115]"
+F28,D. auripigmentum [393]
+F29,D. palmitatis [430]
