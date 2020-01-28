@@ -1,110 +1,110 @@
-Original,New,Comment
-alanine,alanine,
-glucose,glucose,
-serine,serine,
-threonine,threonine,
-dextrin,dextrin,
-fructose,fructose,
-glutamic acid,glutamate,
-maltose,maltose,
-mannose,mannose,
-sucrose,sucrose,
-arabinose,arabinose,
-cellobiose,cellobiose,
-galactose,galactose,
-raffinose,raffinose,
-salicin,salicin,
-xylose,xylose,
-glycerol,glycerol,
-mannitol,mannitol,
-sorbitol,sorbitol,
-ethanol,ethanol,
-acetate,acetate,
-arginine,arginine,
-butanol,butanol,
-glycine,glycine,
-histidine,histidine,
-lactate,lactate,
-leucine,leucine,
-propionic acid (propionate),propionate,
-lactose,lactose,
-melibiose,melibiose,
-N-acetylgulcosamine,N-acetylgulcosamine,
-rhamnose,rhamnose,
-ribose,ribose,
-trehalose,trehalose,
-asparagine,asparagine,
-galcturonic acid,galacturonic acid,
-gluconic acid,gluconic acid,
-myo-inositol,myo-inositol,
-pyruvic acid (pyruvate),pyruvate,
-malate,malate,
-glycogen,glycogen,
-succinic acid (succinate),succinate,
-urocanic acid,urocanic acid,
-arabitol,arabitol,
-alpha-ketovaleric acid,alpha-ketovaleric acid,
-aspartic acid (aspartate),aspartate,
-formic acid,formic acid,
-methyl pyruvate,methyl pyruvate,
-proline,proline,
-pyruvic acid methyl ester,pyruvic acid methyl ester,
-Tween 40,Tween 40,
-Tween 80,Tween 80,
-citrate,citrate,
-gelatin,gelatin,
-malonic acid (malonate),malonate,
-"2,3-butanediol","2,3-butanediol",
-adipate,adipate,
-4-hydroxbenzoate,4-hydroxbenzoate,
-ornithine,ornithine,
-phenylacetate,phenylacetate,
-phenylalanine,phenylalanine,
-3-hydroxybutyrate,3-hydroxybutyrate,
-2-ketogluconate,2-ketogluconate,
-5-ketoguconate,5-ketoguconate,
-adonitol,adonitol,
-fucose,fucose,
-glucosamine,glucosamine,
-xylitol,xylitol,
-inosine,inosine,
-urea,urea,
-alaninamide,alaninamide,
-glucuronamide,glucuronamide,
-itaconate,itaconate,
-galactonic acid,galactonic acid,
-uridine,uridine,
-Tween 20,Tween 20,
-Tween 60,Tween 60,
-tryptophan,tryptophan,
-valerate,valerate,
-caprate,caprate,
-alpha-cyclodextrin,alpha-cyclodextrin,
-hyroxl-proline,hyrdoxyproline,
-3-hydroxybenzoate,3-hydroxybenzoate,
-suberic acid,suberic acid,
-thymidine,thymidine,
-methyl beta-D-glucoside,methyl beta-D-glucoside,
-putrescine,putrescine,
-phenethylamine,phenethylamine,
-trisodium citrate,trisodium citrate,
-carnitine,carnitine,
-gamma-aminobutyric acid,gamma-aminobutyric acid,
-2-aminethanol,2-aminethanol,
-quinic acid,quinic acid,
-H2_CO2,H2_CO2,
-2-propanol,2-propanol,
-isobutanol,isobutanol,
-cyclopentanol,cyclopentanol,
-propionate,propionate,
-H2_methanol,H2_methanol,
-2-butanol,2-butanol,
-dimethylamine,dimethylamine,
-dimethyl_sulfide,dimethyl_sulfide,
-trimethylamine,trimethylamine,
-methanol,methanol,
-methylamine,methylamine,
-1-butanol,1-butanol,
-propanol,propanol,
-carbon_monoxide,carbon_monoxide,
-citric acide (citrate),citrate,
+Original,New,carbon_substrate_group
+1-butanol,1-butanol,alcohols
+"2,3-butanediol","2,3-butanediol",alcohols
+2-aminethanol,2-aminethanol,alcohols
+2-butanol,2-butanol,alcohols
+2-propanol,2-propanol,alcohols
+adonitol,adonitol,alcohols
+butanol,butanol,alcohols
+cyclopentanol,cyclopentanol,alcohols
+ethanol,ethanol,alcohols
+H2_methanol,H2_methanol,alcohols
+isobutanol,isobutanol,alcohols
+methanol,methanol,alcohols
+propanol,propanol,alcohols
+alaninamide,alaninamide,amine/amide
+dimethylamine,dimethylamine,amine/amide
+glucosamine,glucosamine,amine/amide
+glucuronamide,glucuronamide,amine/amide
+methylamine,methylamine,amine/amide
+N-acetylgulcosamine,N-acetylgulcosamine,amine/amide
+phenethylamine,phenethylamine,amine/amide
+trimethylamine,trimethylamine,amine/amide
+urea,urea,amine/amide
+glutamic acid,glutamate,amino acids
+alanine,alanine,amino acids
+arginine,arginine,amino acids
+asparagine,asparagine,amino acids
+aspartic acid (aspartate),aspartate,amino acids
+glycine,glycine,amino acids
+histidine,histidine,amino acids
+hyroxl-proline,hyrdoxyproline,amino acids
+inosine,inosine,amino acids
+leucine,leucine,amino acids
+ornithine,ornithine,amino acids
+phenylalanine,phenylalanine,amino acids
+proline,proline,amino acids
+pyruvic acid (pyruvate),pyruvate,amino acids
+serine,serine,amino acids
+threonine,threonine,amino acids
+thymidine,thymidine,amino acids
+tryptophan,tryptophan,amino acids
+carbon_monoxide,carbon_monoxide,one-carbon compounds
+H2_CO2,H2_CO2,one-carbon compounds
+formic acid,formic acid,organic acids
+galactonic acid,galactonic acid,organic acids
+galcturonic acid,galacturonic acid,organic acids
+gamma-aminobutyric acid,gamma-aminobutyric acid,organic acids
+gluconic acid,gluconic acid,organic acids
+suberic acid,suberic acid,organic acids
+2-ketogluconate,2-ketogluconate,organic acid derivatives
+3-hydroxybenzoate,3-hydroxybenzoate,organic acid derivatives
+3-hydroxybutyrate,3-hydroxybutyrate,organic acid derivatives
+4-hydroxbenzoate,4-hydroxbenzoate,organic acid derivatives
+5-ketoguconate,5-ketogluconate,organic acid derivatives
+acetate,acetate,organic acid derivatives
+adipate,adipate,organic acid derivatives
+citrate,citrate,organic acid derivatives
+citric acide (citrate),citrate,organic acid derivatives
+itaconate,itaconate,organic acid derivatives
+lactate,lactate,organic acid derivatives
+malate,malate,organic acid derivatives
+malonic acid (malonate),malonate,organic acid derivatives
+propionic acid (propionate),propionate,organic acid derivatives
+propionate,propionate,organic acid derivatives
+pyruvic acid methyl ester,pyruvic acid methyl ester,organic acid derivatives
+succinic acid (succinate),succinate,organic acid derivatives
+trisodium citrate,trisodium citrate,organic acid derivatives
+valerate,valerate,organic acid derivatives
+urocanic acid,urocanic acid,organic acids
+alpha-ketovaleric acid,alpha-ketovaleric acid,other
+caprate,caprate,other
+carnitine,carnitine,other
+dimethyl_sulfide,dimethyl_sulfide,other
+gelatin,gelatin,other
+methyl beta-D-glucoside,methyl beta-D-glucoside,other
+methyl pyruvate,methyl pyruvate,other
+phenylacetate,phenylacetate,other
+putrescine,putrescine,other
+quinic acid,quinic acid,other
+salicin,salicin,other
+Tween 20,Tween 20,other
+Tween 40,Tween 40,other
+Tween 60,Tween 60,other
+Tween 80,Tween 80,other
+uridine,uridine,other
+glycerol,glycerol,other
+glycogen,glycogen,sugars
+arabitol,arabitol,sugar alcohols
+mannitol,mannitol,sugar alcohols
+sorbitol,sorbitol,sugar alcohols
+xylitol,xylitol,sugar alcohols
+alpha-cyclodextrin,alpha-cyclodextrin,sugars
+arabinose,arabinose,sugars
+cellobiose,cellobiose,sugars
+dextrin,dextrin,sugars
+fructose,fructose,sugars
+fucose,fucose,sugars
+galactose,galactose,sugars
+glucose,glucose,sugars
+lactose,lactose,sugars
+maltose,maltose,sugars
+mannose,mannose,sugars
+melibiose,melibiose,sugars
+myo-inositol,myo-inositol,sugars
+raffinose,raffinose,sugars
+rhamnose,rhamnose,sugars
+ribose,ribose,sugars
+sucrose,sucrose,sugars
+trehalose,trehalose,sugars
+xylose,xylose,sugars
