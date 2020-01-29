@@ -332,14 +332,6 @@ resolved <- subset(resolved,select = -c(h1,h2,h3,h4))
 #Set unresolved isolation sources to NA
 resolved[resolved$isolation_source == "unresolved","isolation_source"] <- NA
 
-#NOTE: SOMETHING TO CONSIDER. AT THIS POINT, (see i.e. Salmonella enterica), A RELATIVELY RARE h4 IS OFTEN CHOSEN 
-#OVER JUST STOPPING AT H3. FOR SALMONELLA, THERE ARE 2596 RECORDS OF host_animal_ENDOTHERM, AND JUST 15 RECORDS OF
-#host_animal_endotherm_blood. SHOULD WE STOP AT h3?
-
-#Get list of species that could not be resolved just to check what's up
-#inconsistent <- resolved[is.na(resolved$isolation_source),"species"]
-#check <- ruling[ruling$species %in% inconsistent$species,]
-
 #Get count data for each species and selected term from original data frame
 #Where a isolation_source term has been reduced to a common parent no counts are recorded at this stage (NA)
 #This should be updated to include the sum of all recordswhere selected terms exists
@@ -393,7 +385,6 @@ names(ber) <- paste0("ber.", names(ber))
 df_final <- df_final %>% left_join(ber, by = c("species_tax_id" = "ber.species_tax_id"))
 
 # Transfer values from bergeys data columns to species with missing values
-
 
 #Add count, prop and stdev for each data point (n = 1)
 
