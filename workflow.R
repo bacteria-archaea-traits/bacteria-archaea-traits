@@ -32,9 +32,8 @@ if(!exists('tax') || !is.data.frame(get('tax'))) {
 # 1. Preparing original datasets (see/edit list in settings.R)
 # Refer to README.md files in each of the original dataset directories for more information.
 for(q in 1:length(CONSTANT_PREPARE_DATASETS)) {
-  prepare_dataset(CONSTANT_PREPARE_FILE_PATH,CONSTANT_PREPARE_DATASETS[q])
+  prepare_dataset(CONSTANT_PREPARE_FILE_PATH, CONSTANT_PREPARE_DATASETS[q])
 }
-
 
 # 2. Merging
 
