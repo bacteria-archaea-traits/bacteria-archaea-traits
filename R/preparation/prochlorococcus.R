@@ -5,6 +5,9 @@ pro <- read.csv("data/raw/prochlorococcus/cyano data.csv", as.is=TRUE)
 pro_tm <- read.csv("output/taxonomy/taxmap_prochlorococcus.csv", as.is=TRUE)
 pro_ref <- read.csv("data/raw/prochlorococcus/cyano data_refs.csv", as.is=TRUE)
 
+#Fix naming
+names(pro_ref) <- c("ref_id","reference")
+
 # In this data set we're missing actual species names and thus we have to map according to the provided accession number
 # We do this using a pre-prepared tax map
 
