@@ -161,12 +161,12 @@ for(i in 1:nrow(ref2)) {
 }
 ref2$ref_type <- "full_text"
 
-#Merge references onto main 
+# Merge references onto main
 mi7 <- mi6 %>% left_join(ref2, by = c("ref_id"="id")) %>%
   select(-ref_id,-reaction_id)
 
-#Note: this data set also includes informaiton on metabolism (anaerobic or aerobic), heterotrophy or autotrophy and max growth temperature.
-#However, this is not included for now.
+# Note: this data set also includes informaiton on metabolism (anaerobic or aerobic), heterotrophy or autotrophy and max growth temperature.
+# However, this is not included for now.
 
-#Save data 
+# Save data 
 write.csv(mi7, "output/prepared_data/amend-shock.csv")
