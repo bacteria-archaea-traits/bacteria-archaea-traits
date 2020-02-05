@@ -453,45 +453,45 @@ df_final$d2_up[!is.na(df_final$cell_shape) & df_final$cell_shape == "coccus" & !
 
 # Add intracellular status based on curated list of organisms (1 = intracellular, NA = no information)
 
-#Load list
-intr <- read.csv("data/conversion_tables/intracellular_organisms.csv")
-df_final$intracellular <- NA
-
-for(i in 1:nrow(intr)) {
-  
-  if(intr$phyl_level[i] == "order") {
-    df_final$intracellular[df_final$order == intr$name[i]] <- "1"
-  } else if (intr$phyl_level[i] == "genus") {
-    df_final$intracellular[df_final$genus == intr$name[i]] <- "1"
-  } else if (intr$phyl_level[i] == "species") {
-    df_final$intracellular[df_final$species == intr$name[i]] <- "1"
-  }
-  #print(sprintf("%s -> %s",intr$phyl_level[i],intr$name[i]))
-}
-
-rm(intr)
-
-####
-
-# Mark phototrophic organisms based on curated list of organisms (1 = phototroph, NA = no information)
-pho <- read.csv("data/conversion_tables/phototrophic_organisms.csv")
-df_final$phototroph <- NA
-
-for(i in 1:nrow(pho)) {
-  
-  if(pho$phyl_level[i] == "order") {
-    df_final$phototroph[df_final$order == pho$name[i]] <- "1"
-  } else if (pho$phyl_level[i] == "genus") {
-    df_final$phototroph[df_final$genus == pho$name[i]] <- "1"
-  } else if (pho$phyl_level[i] == "phylum") {
-    df_final$phototroph[df_final$phylum == pho$name[i]] <- "1"
-  } else if (pho$phyl_level[i] == "species") {
-    df_final$phototroph[df_final$species == pho$name[i]] <- "1"
-  }
-  #print(sprintf("%s -> %s",pho$phyl_level[i], pho$name[i]))
-}
-
-rm(pho)
+# #Load list
+# intr <- read.csv("data/conversion_tables/intracellular_organisms.csv")
+# df_final$intracellular <- NA
+# 
+# for(i in 1:nrow(intr)) {
+#   
+#   if(intr$phyl_level[i] == "order") {
+#     df_final$intracellular[df_final$order == intr$name[i]] <- "1"
+#   } else if (intr$phyl_level[i] == "genus") {
+#     df_final$intracellular[df_final$genus == intr$name[i]] <- "1"
+#   } else if (intr$phyl_level[i] == "species") {
+#     df_final$intracellular[df_final$species == intr$name[i]] <- "1"
+#   }
+#   #print(sprintf("%s -> %s",intr$phyl_level[i],intr$name[i]))
+# }
+# 
+# rm(intr)
+# 
+# ####
+# 
+# # Mark phototrophic organisms based on curated list of organisms (1 = phototroph, NA = no information)
+# pho <- read.csv("data/conversion_tables/phototrophic_organisms.csv")
+# df_final$phototroph <- NA
+# 
+# for(i in 1:nrow(pho)) {
+#   
+#   if(pho$phyl_level[i] == "order") {
+#     df_final$phototroph[df_final$order == pho$name[i]] <- "1"
+#   } else if (pho$phyl_level[i] == "genus") {
+#     df_final$phototroph[df_final$genus == pho$name[i]] <- "1"
+#   } else if (pho$phyl_level[i] == "phylum") {
+#     df_final$phototroph[df_final$phylum == pho$name[i]] <- "1"
+#   } else if (pho$phyl_level[i] == "species") {
+#     df_final$phototroph[df_final$species == pho$name[i]] <- "1"
+#   }
+#   #print(sprintf("%s -> %s",pho$phyl_level[i], pho$name[i]))
+# }
+# 
+# rm(pho)
 
 ###########################
 # Remove all rows with    #
