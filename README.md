@@ -4,12 +4,14 @@ The coded workflow corresponding with the data descriptor: Madin et al. (XXXX) A
 
 ### Current datasets included in merger workflow
 
+1. amend-shock.csv
 1. bacdive-microa.csv
 1. bergeys.csv
 1. campedelli.csv
 1. corkrey.csv
 1. edwards.csv
 1. engqvist.csv
+1. faprotax.csv
 1. fierer.csv
 1. genbank.csv
 1. gold.csv
@@ -25,8 +27,8 @@ The coded workflow corresponding with the data descriptor: Madin et al. (XXXX) A
 1. patric.csv
 1. prochlorococcus.csv
 1. protraits.csv
-1. rrndb.csv
 1. roden-jin.csv
+1. rrndb.csv
 1. silva.csv
 
 ### Overview of project files
@@ -94,50 +96,55 @@ The `condensed_traits` is all the datasets combined and condensed into one row p
 
 The `condensed_species` is produced from the `condensed_traits` where data has been condensed to one row per species as per the NCBI taxonomy.
 
-- [condensed_traits.csv](output/condensed_traits.csv)
-- [condensed_species.csv](output/condensed_species.csv)
+- [condensed_species_NCBI.csv](output/condensed_species_NCBI.csv)
+- [condensed_traits_NCBI.csv](output/condensed_traits_NCBI.csv)
+- [condensed_species_GTDB.csv](output/condensed_species_GTDB.csv)
+- [condensed_traits_GTDB.csv](output/condensed_traits_GTDB.csv)
 
 ### Run scripts
 
 R version [>3.5]
 
-If you want to run the full merger including the preparation of each raw dataset, then you only need to run the `workflow.R` script in the root folder
+The workflow is outlined in `workflow.R`. If you want to run the full merger including the preparation of each data source, then you only need to run the `workflow.R` script:
 
 `source("workflow.R")`
 
-If you have updated a preparation (clean) script for an individual dataset or added a new dataset, you only need to run the particular clean-up script for that data set and introduce the new data into the merger by re-running (in that order):
+If you have updated a preparation script for an individual dataset or added a new dataset, you only need to run the particular preparation script (e.g., for `corkrey`):
 
-1. Indicate the phylogeny to use (CONSTANT_BASE_PHYLOGENY = "NCBI" or "GTDB")
-2. `condense_traits.R`
-3. `condense_species.R`
+`source("R/preparation/corkrey.R")`
 
-### How to add a new dataset
+Then run the merger for all prepared data by:
+1. Indicating the phylogeny to use (CONSTANT_BASE_PHYLOGENY = "NCBI" or "GTDB")
+2. `source("R/condense_traits.R")`
+3. `source("R/condense_species.R")`
 
-1. create a folder in data/raw/ with the name you want to identify the dataset by in the merger
-2. Place the new data file in this folder and rename the file to the exact same name as the folder. Add a readme file with details of the origin and processing of the data.
-3. In the R/preparation/ folder create a new R script with the exact same name as the data set. This file should contain all code necessary to do the following:
-  - Load the new data set from data/raw/
-  - Clean up data, ensuring data formats are correct for each data type (ex. fix excel conversion of numbers to dates, ensure species names are correct where possible etc.)
+See `workflow.R` for more detail. 
+
+### Adding a new data source
+
+1. Create a folder in `data/raw/` with the name you want to identify the dataset by in the merger (e.g., `data/raw/newdata/`).
+2. Place the new data file in this folder. Create a `README.md` file with details of the data sources origin and how the data will be processed.
+3. In the `R/preparation/` folder create a new R script with the exact same name as the data set (e.g., `newdata.R`). This file should contain all code necessary to do the following:
+  - Load the new data set from `data/raw/newdata/` (assuming the `newdata` naming example above)
+  - Clean up data, ensuring data formats are correct for each data type (e.g., fix Excel conversion of numbers to dates, deal with invalid charaters, etc.)
   - Rename specific columns to their set column name based on data type (see section "column names and descriptions")
-  - Save the prepared dataset as a .csv file in data/output/prepared_data/
-4. Add the new data set name to the vector named "CONSTANT_PREPARE_DATASETS" located in R/settings.R. This ensure the data set clean up file is run when running the full workflow.
+  - Save the prepared dataset as a .csv file in `data/output/prepared_data/`, so for our example case this would be: `newdata.csv`
+4. Add the new data set name to the vector named "CONSTANT_PREPARE_DATASETS" located in `R/settings.R`. This ensures the data preparation file is run when running the full workflow.
 
-If the new data set only includes data columns that is already present in the merger, nothing more is required. Simply re-run the workflow.R and the new data is included in the final outputs.
+If the new data set only includes data columns with names that are already present in the merger, nothing more is required. Simply re-run the workflow.R and the new data is included in the final outputs. If the new data set contains new data types / columns, see section "Adding a new data type".
 
-If the new data set contains new data types / columns, see section "How to add a new data type".
+### Adding a new data type
 
-### How to add a new data type
+When adding a new type of data to the merger (i.e., a new data column), it is necessary to tell the code how to process this data. This is done in the `R/settings.R` file as follows:
 
-When adding a new type of data to the merger (i.e. a new data column), it is necessary to tell the code how to process this data. This is done in the R/settings.R file as follows:
+> Note: All vectors referred to in below are located in `R/settings.R`
 
-Note: All vectors referred to in below is located in R/settings.R
-
-1. For each new data type, determine whether the data is categorical (i.e. named values) or continuous (numbers), and add the name of the respective column to the appropriate vector `CONSTANT_CATEGORICAL_DATA_COLUMNS` or `CONSTANT_CONTINUOUS_DATA_COLUMNS`.
-2. If the new data require translation to a common terminology, a renaming table named "renaming_[new column name].csv" must be added to the data/conversion_tables/ folder, and the column name must be added to the `CONSTANT_DATA_FOR_RENAMING` vector. See section "how to create a term conversion table" below for details. Some example columns are "metabolism", "sporulation", "motility".
+1. For each new data type, determine whether the data is categorical (i.e., named values) or continuous (numbers), and add the name of the respective column to the appropriate vector `CONSTANT_CATEGORICAL_DATA_COLUMNS` or `CONSTANT_CONTINUOUS_DATA_COLUMNS`.
+2. If the new data require translation to a common terminology, a renaming table named "renaming_[new column name].csv" must be added to the data/conversion_tables/ folder, and the column name must be added to the `CONSTANT_DATA_FOR_RENAMING` vector. See section "Creating a conversion table" below for details. Some example columns are "metabolism", "sporulation", "motility".
 3. If the new data is comma delimited on input (i.e. a data point takes the form of "x, y, z, ...") *AND/OR* if the data should be combined as comma delimited strings during species condensation, the name of the data column must be added to the vector `CONSTANT_DATA_COMMA_CONCATENATED`. This data will NOT be processed in any way other than ensured that only unique values are included in each string on output (i.e. inputs #1 = "x, y, z" and #2 = "y, u" for a given species are combined in output to "x, y, z, u"). Current example columns are "pathways" and "carbon_substrates".
-4. If the new data is categorical but NOT of a general sort (or no grouping and priority list exists in the name conversion table) and therefore should NOT be processed usign the general condensation scripts for categorical data, the column name must be included in the vector `CONSTANT_SPECIAL_CATEGORICAL_TRAITS`. This is also the case if the data is comma delimited (see #3). For special data columns, code for processing this particular data column should be added to the species condensation file where required.
+4. If the new data is categorical but NOT of a general sort (or no grouping and priority list exists in the name conversion table) and therefore should NOT be processed using the general condensation scripts for categorical data, the column name must be included in the vector `CONSTANT_SPECIAL_CATEGORICAL_TRAITS`. This is also the case if the data is comma delimited (see #3). For special data columns, code for processing this particular data column should be added to the species condensation file where required.
 
-### How to create a term conversion table
+### Creating a conversion table
 
 If categorical data values require translation to a uniform terminology (usually always the case when combining multiple data sets of the same categorical data), then it is necessary to create a conversion table containing the original and new terms for each possible input term from any data set.
 
