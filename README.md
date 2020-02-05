@@ -180,7 +180,6 @@ If categorical data values require translation to a uniform terminology (usually
 `d2_lo`: Smallest length
 `d2_up`: Largest length
 `doubling_h`: Minimum doubling time in hours
-`doubling_h_norm`: Minimmum doubling time calculated to 20 degree celcius (Q10 = 2, see settings)
 `genome_size`: Genome size of organism
 `gc_contenvt`: GC content of organism (ratio)
 `coding_genes`: Number of coding genes
@@ -196,4 +195,3 @@ If categorical data values require translation to a uniform terminology (usually
 `[col name].count`: All columns ending in ".count" indicates number of data points condensed for specific column value
 `[col name].prop`: All columns ending in ".prop" indicates the proportion of all condensed data points that agree with the chosen value
 `[col name].stdev`: All columns ending in ".stdev" indicates the standard deviation of the condensed data points
-
