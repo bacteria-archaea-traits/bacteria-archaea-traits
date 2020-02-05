@@ -34,7 +34,7 @@ CONSTANT_PREPARE_DATASETS <- c("amend-shock","bacdive-microa","campedelli","cork
 CONSTANT_CATEGORICAL_DATA_COLUMNS <- c("gram_stain", "metabolism", "pathways", "carbon_substrates", "sporulation", "motility", "range_tmp", "range_salinity", "cell_shape", "isolation_source")
 
 # Continuous traits
-CONSTANT_CONTINOUS_DATA_COLUMNS <- c("d1_lo","d1_up", "d2_lo", "d2_up", "doubling_h", "doubling_h_norm", "genome_size", "gc_content", "coding_genes", "optimum_tmp", "optimum_ph", "growth_tmp", "rRNA16S_genes", "tRNA_genes")
+CONSTANT_CONTINOUS_DATA_COLUMNS <- c("d1_lo","d1_up", "d2_lo", "d2_up", "doubling_h", "genome_size", "gc_content", "coding_genes", "optimum_tmp", "optimum_ph", "growth_tmp", "rRNA16S_genes", "tRNA_genes")
 
 # Other data
 CONSTANT_OTHER_COLUMNS <- c("tax_id", "species_tax_id", "data_source", "org_name", "species", "genus", "family", "order", "class", "phylum", "superkingdom", "reference", "ref_type")

@@ -265,21 +265,22 @@ if(exists("CONSTANT_REMOVE_FROM_CANDIDATUS") && length(CONSTANT_REMOVE_FROM_CAND
 # growth temperature (growth_tmp) for which the growth rate were measured. If this value is 
 # not available, the optimum temperature (optimum_tmp) is assumed and used for calculation
 
-# Create new data column
-df3$doubling_h_norm <- as.numeric(NA)
-
-# Create temporary temperature column
-df3$tmp_tmp <- NA
-
-# Populate temporary column with growth temperatures and fill with optimum temperatures
-df3$tmp_tmp <- df3$growth_tmp
-df3$tmp_tmp[is.na(df3$tmp_tmp) & !is.na(df3$optimum_tmp)] <- df3$optimum_tmp[is.na(df3$tmp_tmp) & !is.na(df3$optimum_tmp)]
-
-# Calculate rates for each row based on temperature value in temporary table
-df3$doubling_h_norm[!is.na(df3$doubling_h) & !is.na(df3$tmp_tmp)] <- apply(df3[!is.na(df3$doubling_h) & !is.na(df3$tmp_tmp), c("tmp_tmp","doubling_h")],1 , function(x) temp_adjust_doubling_h(x['doubling_h'], x['tmp_tmp'], CONSTANT_GROWTH_RATE_ADJUSTMENT_FINAL_TMP, CONSTANT_GROWTH_RATE_ADJUSTMENT_Q10))
-
-# Remove temporary temperature column
-df3 <- subset(df3, select = -c(tmp_tmp))
+# 
+# # Create new data column
+# df3$doubling_h_norm <- as.numeric(NA)
+# 
+# # Create temporary temperature column
+# df3$tmp_tmp <- NA
+# 
+# # Populate temporary column with growth temperatures and fill with optimum temperatures
+# df3$tmp_tmp <- df3$growth_tmp
+# df3$tmp_tmp[is.na(df3$tmp_tmp) & !is.na(df3$optimum_tmp)] <- df3$optimum_tmp[is.na(df3$tmp_tmp) & !is.na(df3$optimum_tmp)]
+# 
+# # Calculate rates for each row based on temperature value in temporary table
+# df3$doubling_h_norm[!is.na(df3$doubling_h) & !is.na(df3$tmp_tmp)] <- apply(df3[!is.na(df3$doubling_h) & !is.na(df3$tmp_tmp), c("tmp_tmp","doubling_h")],1 , function(x) temp_adjust_doubling_h(x['doubling_h'], x['tmp_tmp'], CONSTANT_GROWTH_RATE_ADJUSTMENT_FINAL_TMP, CONSTANT_GROWTH_RATE_ADJUSTMENT_Q10))
+# 
+# # Remove temporary temperature column
+# df3 <- subset(df3, select = -c(tmp_tmp))
 
 
 ####
