@@ -24,5 +24,11 @@ This includes
 - removal of units for temperature (i.e. "C", "degrees", "celsius"...)
 - splitting different size range formats into separate columns and ensuring "length" is longer than "width".
 
+# Update on 06/10/2020
+New GOLD dataset included:
 
+(3) GOLD_Organism_Metabolism_08252020.csv
+
+This file contains metabolism (metabolic pathway) data from the GOLD database
+This is merged into above main GOLD data during prep..
 

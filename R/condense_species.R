@@ -23,16 +23,6 @@ if(CONSTANT_BASE_PHYLOGENY == "NCBI") {
   df <- filter(df, !grepl("+[[:space:]]+sp[.]+", species))
 }
 
-# Remove size values > 100um. 
-# While some rare microbes are very large, most data with size values >100um
-# have been found to be either length of filaments (multiple individual cells) 
-# or due to errors in unit input which has resulted in conversion to very large values
-# (i.e. 5mm -> 5000um, where originally mm should have been um)
-df[!is.na(df$d1_lo) & df$d1_lo > 100, "d1_lo"] <- NA # total of 16 as per 21/03/2019
-df[!is.na(df$d1_up) & df$d1_up > 100, "d1_up"] <- NA # total of 4
-df[!is.na(df$d2_lo) & df$d2_lo > 100, "d2_lo"] <- NA # total of 16
-df[!is.na(df$d2_up) & df$d2_up > 100, "d2_up"] <- NA # total of 4
-
 ############################################################
 
 

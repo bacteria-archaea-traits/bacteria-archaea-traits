@@ -129,7 +129,7 @@ while(i <= length(CONSTANT_DATA_FOR_RENAMING)) {
       look$Original <- gsub("\\(", "\\\\(", look$Original)
       look$Original <- gsub("\\)","\\\\)", look$Original)
 
-      #We have to include a trick to deliniate words properly
+      #We have to include a trick to delineate words properly
       #Expect a comma at end of all words (insert for pattern and replacements)
       
       # Create named vector of terms to replace and their replacement
@@ -152,6 +152,9 @@ while(i <= length(CONSTANT_DATA_FOR_RENAMING)) {
       #Remove comma at end of string
       df2[,CONSTANT_DATA_FOR_RENAMING[i]] <-  gsub(",$", "", df2[,CONSTANT_DATA_FOR_RENAMING[i]])
 
+      #NOTE: Due to translation there may be multiple occurences of the same name in each string. 
+      #This is allowed to enable any count of each occurence for each species if needed
+      
     } else {
       #Data in single data point form - just match across
       df2[,CONSTANT_DATA_FOR_RENAMING[i]] <- look$New[match(unlist(df2[,CONSTANT_DATA_FOR_RENAMING[i]]), look$Original)]

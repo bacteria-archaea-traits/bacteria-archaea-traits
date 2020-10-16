@@ -32,6 +32,7 @@ Mycobacterium pinnipedii,species
 Mycobacterium suricattae,species
 Tropheryma whipplei,species
 Buchnera aphidicola,species
+Buchnera aphidicola_P,species
 Candidatus Hodgkinia cicadicola,species
 Candidatus Nasuia deltocephalinicola,species
 Candidatus Carsonella ruddii,species
@@ -88,3 +89,5 @@ Mycoplasmopsis_A,genus
 Mycoplasmopsis_B,genus
 Eperythrozoon_B,genus
 Eperythrozoon_A,genus
+Holospora obtusa,species
+Holospora undulata,species

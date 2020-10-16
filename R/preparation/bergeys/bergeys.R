@@ -207,8 +207,9 @@ for(i in 1:nrow(ber)) {
 
 
 # Remove sizes values if considered too large based on checks of raw data and text extractions
-# This is a course exclusion system and should probably be refined in future versions to target
-# verified data errors
+# This is a corse exclusion system and should probably be refined in future versions to target
+# verified data errors. Note: This does not seem to hit large cyanobacteria 
+
 ber[!is.na(ber$d1_lo) & ber$d1_lo >= 5,"d1_lo"] <- NA
 ber[!is.na(ber$d1_up) & ber$d1_up >= 10,"d1_up"] <- NA
 ber[!is.na(ber$d2_lo) & ber$d2_lo >= 100,"d2_lo"] <- NA
@@ -218,6 +219,8 @@ ber[!is.na(ber$d2_up) & ber$d2_up >= 100,"d2_up"] <- NA
 ber[!is.na(ber$d1_lo) & ber$d1_lo < 0.1,"d1_lo"] <- NA
 ber[!is.na(ber$d1_lo) & ber$d1_lo < 0.1,"d1_up"] <- NA
 
+# Fix specific size values that is proven wrong
+ber[!is.na(ber$tax_id) & ber$tax_id == 1584, c("d1_lo","d1_up","d2_lo","d2_up")] <- c(0.5,0.8,2,9)
 
 # Remove species size values where check shows it is wrong (typically cell wall or phage info)
 # Note, if bergeys text extraction gets improved, this should be re-evaluated.
@@ -226,6 +229,7 @@ ber[!is.na(ber$d1_lo) & ber$d1_lo < 0.1,"d1_up"] <- NA
 # ber[!is.na(ber$species_name) & ber$species_name == "Halomonas halodurans", c("d1_lo","d1_up","d2_lo","d2_up")] <- NA
 # ber[!is.na(ber$species_name) & ber$species_name == "Asticcacaulis excentricus", c("d1_lo","d1_up","d2_lo","d2_up")] <- NA
 # ber[!is.na(ber$species_name) & ber$species_name == "Caulobacter vibrioides", c("d1_lo","d1_up","d2_lo","d2_up")] <- NA
+ber[!is.na(ber$tax_id) & ber$tax_id == 782, c("d1_lo","d1_up","d2_lo","d2_up")] <- NA
 
 
 # Get minimum doubling times and convert to same unit (h-1)

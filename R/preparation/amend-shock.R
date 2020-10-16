@@ -169,4 +169,4 @@ mi7 <- mi6 %>% left_join(ref2, by = c("ref_id"="id")) %>%
 # However, this is not included for now.
 
 # Save data 
-write.csv(mi7, "output/prepared_data/amend-shock.csv")
+write.csv(mi7, "output/prepared_data/amend-shock.csv", row.names = FALSE)

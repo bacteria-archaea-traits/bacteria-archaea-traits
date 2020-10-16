@@ -1,36 +1,36 @@
 Original,New,pathway_group
 acetogenesis,acetogenesis,acetogenesis
 reductive_acetogenesis,acetogenesis,acetogenesis
-aerobic_anoxygenic_phototrophy,aerobic_anoxygenic_phototrophy,phototrophy (unspecified)
-aerobic_chemoheterotophy,aerobic_chemo_heterotrophy,heterotrophy (unspecified)
-aerobic_chemoheterotrophy,aerobic_chemo_heterotrophy,heterotrophy (unspecified)
-aerobic_heterotrophy,aerobic_heterotrophy,heterotrophy (unspecified)
+aerobic_anoxygenic_phototrophy,aerobic_anoxygenic_phototrophy,aerobic_phototrophy
+aerobic_chemoheterotophy,aerobic_chemo_heterotrophy,aerobic_heterotrophy
+aerobic_chemoheterotrophy,aerobic_chemo_heterotrophy,aerobic_heterotrophy
+aerobic_heterotrophy,aerobic_heterotrophy,aerobic_heterotrophy
 aliphatic_non_methane_hydrocarbon_degradation,aliphatic_non_methane_hydrocarbon_degradation,hydrocarbons
 aminoacid_degradation,aminoacid_degradation,other
 anammox,annamox,nitrogen
-anoxygenic_photoautotrophy,anoxygenic_photoautotrophy,phototrophy (unspecified)
-anoxygenic_photoautotrophy_H2_oxidizing,anoxygenic_photoautotrophy_hydrogen_oxidation,hydrogen
-anoxygenic_photoautotrophy_Fe_oxidizing,anoxygenic_photoautotrophy_iron_oxidation,iron
-anoxygenic_photoautotrophy_S_oxidizing,anoxygenic_photoautotrophy_sulfur_oxidation,sulfur
+anoxygenic_photoautotrophy,anoxygenic_photoautotrophy,anoxygenic_phototrophy
+anoxygenic_photoautotrophy_H2_oxidizing,anoxygenic_photoautotrophy_hydrogen_oxidation,anoxygenic_phototrophy_hydrogen
+anoxygenic_photoautotrophy_Fe_oxidizing,anoxygenic_photoautotrophy_iron_oxidation,anoxygenic_phototrophy_iron
+anoxygenic_photoautotrophy_S_oxidizing,anoxygenic_photoautotrophy_sulfur_oxidation,anoxygenic_phototrophy_sulfur
 aromatic_compound_degradation,aromatic_compound_degradation,hydrocarbons
 aromatic_hydrocarbon_degradation,aromatic_hydrocarbon_degradation,hydrocarbons
-arsenate_detoxification,arsenate_reduction,other
-arsenate_respiration,arsenate_reduction,other
-dissimilatory_arsenate_reduction,arsenate_reduction,other
-arsenite_oxidation_detoxification,arsenite_oxidation,other
-arsenite_oxidation_energy_yielding,arsenite_oxidation,other
-dissimilatory_arsenite_oxidation,arsenite_oxidation,other
+arsenate_detoxification,arsenate_reduction,arsen
+arsenate_respiration,arsenate_reduction,arsen
+dissimilatory_arsenate_reduction,arsenate_reduction,arsen
+arsenite_oxidation_detoxification,arsenite_oxidation,arsen
+arsenite_oxidation_energy_yielding,arsenite_oxidation,arsen
+dissimilatory_arsenite_oxidation,arsenite_oxidation,arsen
 carbonmonoxide_oxidation,carbonmonoxide_oxidation,other
 carbonmonoxide_reduction,carbonmonoxide_reduction,other
 carbonylsulfide_oxidation,carbonylsulfide_oxidation,sulfur
 carbonylsulfide_reduction,carbonylsulfide_reduction,sulfur
-cellulolysis,cellulose_degradation,other
-cellulosedegrader,cellulose_degradation,other
+cellulolysis,cellulose_degradation,polymer_degradation
+cellulosedegrader,cellulose_degradation,polymer_degradation
 chalcopyrite_oxidation,chalcopyrite_oxidation,iron
 chemoheterotrophy,chemo_heterotrophy,heterotrophy (unspecified)
-chitinolysis,chitin_degradation,other
+chitinolysis,chitin_degradation,polymer_degradation
 chlorate_reducers,chlorate_reduction,other
-cobalt_reduction,cobalt_reduction,other
+cobalt_reduction,cobalt_reduction,cobalt
 covellite_oxidation,covellite_oxidation,iron
 denitrification,denitrification,nitrogen
 nitrate_denitrification,denitrification,nitrogen
@@ -38,7 +38,7 @@ nitrogenproducer,denitrification,nitrogen
 dithionite_disproportionation,dithionite_disproportionation,sulfur
 fermentation,fermentation,fermentation
 fumarate_respiration,fumarate_reduction,other
-galena_oxidation,galena_oxidation,other
+galena_oxidation,galena_oxidation,lead
 hydrocarbon_degradation,hydrocarbon_degradation,hydrocarbons
 oil_bioremediation,hydrocarbon_degradation,hydrocarbons
 dark_hydrogen_oxidation,hydrogen_oxidation_dark,hydrogen
@@ -48,7 +48,7 @@ dark_iron_oxidation,iron_oxidation_dark,iron
 iron_reduction,iron_reduction,iron
 iron_respiration,iron_reduction,iron
 ironreducer,iron_reduction,iron
-ligninolysis,ligninolysis,other
+ligninolysis,ligninolysis,polymer_degradation
 manganese_oxidation,manganese_oxidation,manganese
 manganese_reduction,manganese_reduction,manganese
 manganese_respiration,manganese_reduction,manganese
@@ -80,18 +80,18 @@ aerobic_nitrite_oxidation,nitrite_oxidation,nitrogen
 nitrite_denitrification,nitrite_reduction,nitrogen
 nitrite_respiration,nitrite_reduction,nitrogen
 nitrite_ammonification,nitrite_reduction_to_ammonia,nitrogen
-nitrogen_fixation,nitrogen_fixation,nitrogen
-nitrogenfixation,nitrogen_fixation,nitrogen
+nitrogen_fixation,nitrogen_fixation,nitrogen_fixation
+nitrogenfixation,nitrogen_fixation,nitrogen_fixation
 nitrous_oxide_denitrification,nitrous_oxide_reduction,nitrogen
-pahdegrading,pah_degradation,hydrocarbons
+pahdegrading,pah_degradation,xenobiotic_degradation
 photoautotrophy,photoautotrophy,phototrophy (unspecified)
-photoheterotrophy,photoheterotrophy,phototrophy (unspecified)
+photoheterotrophy,photoheterotrophy,photoheterotrophy (unspecified)
 phototrophy,phototrophy,phototrophy (unspecified)
-plastic_degradation,plastic_degradation,hydrocarbons
+plastic_degradation,plastic_degradation,xenobiotic_degradation
 pyrite_oxidation,pyrite_oxidation,iron
 pyrrhotite_oxidation,pyrrhotite_oxidation,iron
-selenate_reduction,selenate_reduction,other
-sphalerite_oxidation,sphalerite_oxidation,other
+selenate_reduction,selenate_reduction,selenium
+sphalerite_oxidation,sphalerite_oxidation,zinc
 sulfate_reduction,sulfate_reduction,sulfur
 sulfate_respiration,sulfate_reduction,sulfur
 sulfatereducer,sulfate_reduction,sulfur
@@ -116,7 +116,148 @@ thiosulfate_oxidation,thiosulfate_oxidation,sulfur
 dark_thiosulfate_oxidation,thiosulfate_oxidation_dark,sulfur
 thiosulfate_respiration,thiosulfate_reduction,sulfur
 trithionate_oxidation,trithionate_oxidation,sulfur
-uraninite_oxidation,uraninite_oxidation,other
-uranyl_reduction,uranyl_reduction,other
-ureolysis,urea_degradation,other
-xylanolysis,xylan_degradation,other
+uraninite_oxidation,uraninite_oxidation,uranium
+uranyl_reduction,uranyl_reduction,uranium
+ureolysis,urea_degradation,nitrogen
+xylanolysis,xylan_degradation,polymer_degradation
+Cellulose degrader,cellulose_degradation,other
+Methanogen,methanogenesis,methanogenesis
+Carbon dioxide fixation,autotrophy,autotrophy (unspecified)
+Acetate producer,NA,NA
+Ethanol production,fermentation,fermentation
+Hydrogenotrophic,hydrogen_oxidation,hydrogen
+Nitrogen fixation,nitrogen_fixation,nitrogen_fixation
+Alkane degrader,hydrocarbon_degradation,hydrocarbons
+Sulfate reducer,sulfate_reduction,sulfur
+Sulfur reducer,sulfur_reduction,sulfur
+Biomass degrader,NA,NA
+Methanol degrading,NA,NA
+Ammonia-oxidizer,nitrification,nitrogen
+Carbon fixation,autotrophy,autotrophy (unspecified)
+Nitrifying,nitrification,nitrogen
+Surfactant-degrading,NA,NA
+Iron reducer,iron_reduction,iron
+Lactose fermenting,fermentation,fermentation
+Metal reducer,NA,NA
+Gelatin hydrolysis negative,NA,NA
+Benzene degradation,hydrocarbon_degradation,hydrocarbons
+Type A toxin producer,NA,NA
+Stores polyhydroxybutyrate,NA,NA
+Uranium reducer,uranyl_reduction,uranium
+Dechlorinates Tetrachloroethene,chlorocarbon_degradation,chlorocarbon
+Propionate-oxidizing,propionate_oxidation,other
+Sulfur oxidizer,sulfur_oxidation,sulfur
+Chitin degradation,chitin_degradation,other
+Iron oxidizer,iron_oxidation,iron
+PCP-degrading,chlorocarbon_degradation,chlorocarbon
+Succinic acid production,NA,NA
+Nitrogen producer,NA,NA
+Denitrifying,denitrification,nitrogen
+PAH-degrading,PAH_degradation,xenobiotic_degradation
+Degrades long-chain alkanes,hydrocarbon_degradation,hydrocarbons
+Hydrocarbon degrading,hydrocarbon_degradation,hydrocarbons
+Chromium reducer,chromium_reduction,chrome
+Oil degrading,hydrocarbon_degradation,hydrocarbons
+MTBE degrader,MTBE_degradation,xenobiotic_degradation
+Naphthalene-degrading,hydrocarbon_degradation,hydrocarbons
+Pollutant degrader,NA,NA
+Atrazine metabolism,NA,NA
+Hydrogen oxidizer,hydrogen_oxidation,hydrogen
+Magnetite production,NA,NA
+Propionate metabolism,NA,NA
+Acetotrophic,NA,NA
+Homofermentative,fermentation,fermentation
+Hydrogen production,NA,NA
+Fatty-acid-oxidizer,NA,NA
+Arsenite oxidizer,arsenite_oxidation,arsen
+PCB degrading,PCB_degradation,xenobiotic_degradation
+EDTA degrading,EDTA_degradation,xenobiotic_degradation
+Acetogen,acetogenesis,other
+Nitrate reducer,nitrate_reduction,nitrogen
+Bacteriocins producer,NA,NA
+Dehalogenation,chlorocarbon_degradation,chlorocarbon
+Degrades aromatic hydrocarbons,hydrocarbon_degradation,hydrocarbons
+Syntrophic,NA,NA
+Cellobiose-degrading,cellobiose_degradation,other
+Methanol reducer,NA,NA
+Desulfurylates coal,NA,NA
+Toxic metal reducer,NA,NA
+Nitrite-oxidizer,nitrite_oxidation,nitrogen
+Degrades pollutants,NA,NA
+Degrades organic material,heterotrophic,heterotrophy (unsepecified)
+Chlorate-reducer,chlorate_reduction,other
+Hydrocarbon-oxidizing,hydrocarbon_degradation,hydrocarbons
+Hydrocarbons metabolizer,hydrocarbon_degradation,hydrocarbons
+Volacein producer,NA,NA
+Saprotroph,NA,NA
+Saccharolytic,heterotrophic,heterotrophy (unsepecified)
+Sulfur respiration,sulfur_reduction,sulfur
+Sulfur metabolizing,NA,NA
+Oxalic acid degrader,NA,NA
+Gelatin hydrolysis positive,gelatin_degradation,other
+Chlorophenol degrading,chlorocarbon_degradation,chlorocarbon
+Acetate oxidizer,NA,NA
+Gramicidin producer,NA,NA
+Tyrosidine producer,NA,NA
+Respiratory arsenate reductase,arsenate_reduction,arsen
+Selenate reducer,Selenate_reduction,selen
+Auxotroph,NA,NA
+Acid-producing,NA,NA
+Xylan degrader,xylan_degradation,polymer_degradation
+Streptomycin producer,NA,NA
+Uricolytic,urea_degradation,nitrogen
+Hydrogen sulfide producer,NA,NA
+Arsenate-respiring,arsenate_reduction,arsen
+Dinitrogen-fixing,nitrogen_fixation,nitrogen_fixation
+Prototrophic,NA,NA
+Hepatotoxins synthesis,NA,NA
+Patellamides producer,NA,NA
+Cyanotroph,NA,NA
+Polymer degrader,polymer_degradation,polymer_degradation
+Grows on ethers,NA,NA
+Uranium oxidizer,uranium_oxidation,uranium
+Nocardicin A producer,NA,NA
+Sugars fermentor,fermentation,fermentation
+Thiosulfate reducer,thiosulfate_reduction,sulfur
+Polyisoprene rubber degrader,polyisoprene_degradation,polymer_degradation
+Methane oxidation,methane_oxidation,one-carbon compounds
+TCE degrader,TCE_degrader,xenobiotic_degradation
+Nystatin producer,NA,NA
+Hydrogen metabolizer,NA,NA
+Sulfide oxidizer,sulfide_oxidation,sulfur
+Sulphide oxidizer,sulfide_oxidation,sulfur
+Aminoacid degrading,NA,NA
+Manganese oxidizer,manganese_oxidation,manganese
+Carbon monoxide oxidizer,carbon_monoxide_oxidation,one-carbon compounds
+Toxin producer,NA,NA
+Acetogenic,acetogenesis,acetogenesis
+Pristinamycin producer,NA,NA
+Ethanogenic,NA,NA
+Utilize carbohydrates,heterotrophic,heterotrophy (unsepecified)
+Taurine fermenter,fermentation,fermentation
+Daptomycin producer,NA,NA
+Nitrogen fixer- anaerobic,nitrogen_fixation,nitrogen_fixation
+Hydrogen sulfide gas release,NA,NA
+Himastatin producer,NA,NA
+Solvent producer,NA,NA
+Nitrogen fixer- aerobic,nitrogen_fixation,nitrogen_fixation
+DMSP degrader,DMSP_degradation,other
+Pyrrolizidine alkaloids metabolizer,NA,NA
+Explosive compound (RDX) degrader,RDX_degradation,xenobiotic_degradation
+Hexachlorocyclohexane degrader,chlorocarbon_degradation,chlorocarbon
+Lignin degrader,lignin_degradation,polymer_degradation
+Thiosulfate producer,NA,NA
+Agroclavine producer,NA,NA
+Bottromycin producer,NA,NA
+Chloramphenicol producer,NA,NA
+Fradicin producer,NA,NA
+Xylose fermenting,fermentation,fermentation
+Mannan lysing,NA,NA
+Melanin producer,NA,NA
+Degrades crude oil,hydrocarbon_degradation,hydrocarbons
+Haloalkalophile,NA,NA
+Methylotrophic,methylotrophy,one-carbon compounds
+Boron accumulating,NA,NA
+Sulfur producer,NA,NA
+Monoterpene oxidizer,NA,NA
+Undefined,NA,NA

@@ -204,3 +204,57 @@ patric,1649647,,metabolism,anaerobic,NA,Cannot be verified. Possibly uncultured 
 gold,402777,Kamptonema formosum PCC 6407,metabolism,anaerobic,aerobic,"According to the Pasteur collection, PCC6407 is aerobic",https://catalogue-crbip.pasteur.fr/recherche_catalogue.xhtml
 gold,1064515,Dolichospermum circinale ACFR02,metabolism,anaerobic,aerobic,"This was previously Anabaena circinale, a heterocyst nitrogen fixing aerobic cyanobacteria",
 gold,1566628,Microbispora sp. NBRC 110460,genome_size,304005,NA,Inconsisten across other sequences in ncbi reaching >8Mbp,NCBI
+fierer,283816,Bacillus herbersteinensis,d1_lo,250,NA,No size indicated in original publication or found elsewhere,doi.org/10.1099/ijs.0.63660-0
+fierer,283816,Bacillus herbersteinensis,d2_lo,250,NA,No size indicated in original publication or found elsewhere,doi.org/10.1099/ijs.0.63660-0
+fierer,209246,Nocardia inohanensis,d1_lo,950,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.02794-0
+fierer,209249,Nocardia niigatensis,d1_lo,2350,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.02794-0
+fierer,209247,Nocardia yamanashiensis,d1_lo,1450,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.02794-0
+fierer,323273,Nonlabens tegetincola,d1_lo,3000,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.63810-0
+fierer,237576,Oribacterium sinus,d1_lo,1250,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.63060-0
+fierer,558172,Pseudochrobactrum lubricantis,d1_lo,2000,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.008540-0
+fierer,1458253,Streptococcus dentisani,d1_lo,1500,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.054098-0
+fierer,1458253,Streptococcus dentisani,d2_lo,1500,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.054098-0
+fierer,684663,Yaniella fodinae,d1_lo,1700,1,"Size recorded is the mean of colony diameter, not cell. Cell measurements in original pub.",doi.org/10.1099/ijs.0.020636-0
+fierer,684663,Yaniella fodinae,d2_lo,1700,1.5,"Size recorded is the mean of colony diameter, not cell. Cell measurements in original pub.",doi.org/10.1099/ijs.0.020636-0
+gold,1227487,Halogeometricum pallidum JCM 14848,d1_lo,200,0.8,"Originally named Halosarcina pallida. Size recorded in GOLD is that of colony diameter, new size (coccus) as per original publication.",doi.org/10.1099/ijs.0.65398-0 
+gold,1227487,Halogeometricum pallidum JCM 14848,d2_lo,200,NA,"Originally named Halosarcina pallida. Size recorded in GOLD is that of colony diameter, new size (coccus) as per original publication.",doi.org/10.1099/ijs.0.65398-0 
+gold,1227487,Halosarcina pallida JCM 14848,d1_lo,200,0.8,"Size recorded in GOLD is that of colony diameter, new size (coccus) as per original publication.",doi.org/10.1099/ijs.0.65398-0 
+gold,1227487,Halosarcina pallida JCM 14848,d2_lo,200,NA,"Size recorded in GOLD is that of colony diameter, new size (coccus) as per original publication.",doi.org/10.1099/ijs.0.65398-0 
+gold,1121355,Corynebacterium caspium DSM 44850,d1_lo,500,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.02950-0
+gold,1121355,Corynebacterium caspium DSM 44850,d1_up,2000,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.02950-0
+gold,1121370,Corynebacterium ulceribovis DSM 45146,d1_lo,2000,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.65832-0
+gold,1121370,Corynebacterium ulceribovis DSM 45146,d1_up,4000,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.65832-0
+gold,1131253,Gluconobacter oxydans WSH-003,d1_lo,500,NA,"Size recorded seems to be colony diameter, not cell.",doi.org/10.1099/00207713-39-2-174
+gold,1131253,Gluconobacter oxydans WSH-003,d1_up,800,NA,"Size recorded seems to be colony diameter, not cell.",doi.org/10.1099/00207713-39-2-174
+gold,1131253,Gluconobacter oxydans WSH-003,d2_lo,4200,NA,"Size recorded seems to be colony diameter, not cell.",doi.org/10.1099/00207713-39-2-174
+gold,1122247,Mycobacterium hassiacum DSM 44199,d1_lo,2000,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/00207713-47-1-86
+gold,1122247,Mycobacterium hassiacum DSM 44199,d1_up,5000,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/00207713-47-1-86
+gold,696762,Planktotalea frisia SH6-1,d1_lo,500,0.4,Wrong size given. ,doi.org/10.1099/ijs.0.033563-0
+fierer,229919,Anaerolinea thermolimosa,d2_lo,100,NA,Length given is of multicellular filament,doi.org/10.1099/ijs.0.64169-0
+fierer,360411,Bellilinea caldifistulae,d2_lo,100,NA,Length given is of multicellular filament,doi.org/10.1099/ijs.0.65098-0 
+fierer,229920,Leptolinea tardivitalis,d2_lo,100,NA,Length given is of multicellular filament,doi.org/10.1099/ijs.0.64169-0
+fierer,229921,Levilinea saccharolytica,d2_lo,100,NA,Length given is of multicellular filament,doi.org/10.1099/ijs.0.64169-0
+fierer,1204385,Litorilinea aerophila,d2_lo,100,NA,Length given is of multicellular filament,
+fierer,360412,Longilinea arvoryzae,d2_lo,100,NA,Length given is of multicellular filament,doi.org/10.1099/ijs.0.65098-0 
+fierer,242606,Luteibacter rhizovicinus,d2_lo,4000,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.63497-0
+fierer,328224,Marinomonas dokdonensis,d2_lo,3000,1,"Size recorded is the mean of colony diameter, not cell. Full size description in original publication.",doi.org/10.1099/ijs.0.63830-0
+fierer,1134406,Ornatilinea apprima,d2_lo,200,NA,Length given is of multicellular filament,
+fierer,252967,Spirochaeta perfilievii,d2_lo,105,10,Length given is average of min and max - min length retaind for d2_lo.,doi.org/10.1099/ijs.0.018333-0
+fierer,252967,Spirochaeta perfilievii,d2_lo,105,10,Length given is average of min and max - min length retaind for d2_lo.,doi.org/10.1099/ijs.0.018333-0
+fierer,252967,Spirochaeta perfilievii,d2_lo,105,10,Length given is average of min and max - min length retaind for d2_lo.,doi.org/10.1099/ijs.0.018333-0
+fierer,1458253,Streptococcus dentisani,d1_lo,1500,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.054098-0 
+fierer,1458253,Streptococcus dentisani,d2_lo,1500,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.054098-0 
+fierer,1458253,Streptococcus dentisani,d1_lo,1500,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.054098-0 
+fierer,1458253,Streptococcus dentisani,d2_lo,1500,NA,"Size recorded is the mean of colony diameter, not cell.",doi.org/10.1099/ijs.0.054098-0 
+gold,1104325,"Enterococcus faecium Hucker1, NRRL B-2354",d2_lo,1000,NA,Not correct.,
+gold,1104325,"Enterococcus faecium Hucker1, NRRL B-2354",d2_up,2000,NA,Not correct.,
+gold,1158600,Enterococcus faecium ATCC 8459,d2_lo,1000,NA,Not correct.,
+gold,1158600,Enterococcus faecium ATCC 8459,d2_up,2000,NA,Not correct.,
+gold,1522315,Numidum massiliense mt3,d1_lo,2.7,0.5,Not correct. Correct from original publication,doi.org/10.1016/j.nmni.2016.05.009
+gold,1522315,Numidum massiliense mt3,d2_lo,10000,2.7,Not correct. Correct from original publication,doi.org/10.1016/j.nmni.2016.05.009
+methanogen,145262,Methanothermobacter thermautotrophicus,d1_lo,0.4,0.35,Not precise. Corrected from amended description.,doi.org/10.1099/00207713-50-1-43
+methanogen,145262,Methanothermobacter thermautotrophicus,d1_up,0.6,0.5,Not precise. Corrected from amended description.,doi.org/10.1099/00207713-50-1-43
+methanogen,145262,Methanothermobacter thermautotrophicus,d2_up,120,7,Size recorded is that of filaments. Corrected to larger length from original publication.,doi.org/10.1099/00207713-50-1-43
+methanogen,49341,Methanothermobacter thermophilus,d1_lo,0.4,0.35,Not precise. Corrected from amended description (now M. thermoautotrophicus).,doi.org/10.1099/00207713-50-1-43
+methanogen,49341,Methanothermobacter thermophilus,d1_up,0.4,0.5,Not precise. Corrected from amended description (now M. thermoautotrophicus).,doi.org/10.1099/00207713-50-1-43
+methanogen,49341,Methanothermobacter thermophilus,d2_up,120,7,Size recorded is that of filaments. Corrected to larger length from amended description (now M. thermoautotrophicus).,doi.org/10.1099/00207713-50-1-43

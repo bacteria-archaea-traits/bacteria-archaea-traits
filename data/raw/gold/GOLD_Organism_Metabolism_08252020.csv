@@ -1,0 +1,1828 @@
+GOLD_ID,NCBI_TAXONOMY_ID,DOMAIN,ORGANISM_NAME,SPECIES,METABOLISM
+Go0000002,515635,BACTERIAL,Dictyoglomus turgidum DSM 6724,Dictyoglomus turgidum,Cellulose degrader
+Go0000003,521011,ARCHAEAL,"Methanosphaerula palustris E1-9c, DSM 19958",Methanosphaerula palustris,Methanogen
+Go0000009,639283,BACTERIAL,Starkeya novella DSM 506,Starkeya novella,Carbon dioxide fixation
+Go0000016,357809,BACTERIAL,Lachnoclostridium phytofermentans ISDg,Lachnoclostridium phytofermentans,Acetate producer
+Go0000016,357809,BACTERIAL,Lachnoclostridium phytofermentans ISDg,Lachnoclostridium phytofermentans,Cellulose degrader
+Go0000016,357809,BACTERIAL,Lachnoclostridium phytofermentans ISDg,Lachnoclostridium phytofermentans,Ethanol production
+Go0000020,444158,ARCHAEAL,Methanococcus maripaludis C6,Methanococcus maripaludis,Hydrogenotrophic
+Go0000020,444158,ARCHAEAL,Methanococcus maripaludis C6,Methanococcus maripaludis,Methanogen
+Go0000020,444158,ARCHAEAL,Methanococcus maripaludis C6,Methanococcus maripaludis,Nitrogen fixation
+Go0000023,448385,BACTERIAL,Sorangium cellulosum So ce 56,Sorangium cellulosum,Cellulose degrader
+Go0000027,96561,BACTERIAL,Desulfococcus oleovorans Hxd3,Desulfococcus oleovorans,Alkane degrader
+Go0000027,96561,BACTERIAL,Desulfococcus oleovorans Hxd3,Desulfococcus oleovorans,Sulfate reducer
+Go0000030,438753,BACTERIAL,Azorhizobium caulinodans ORS 571,Azorhizobium caulinodans,Nitrogen fixation
+Go0000034,350688,BACTERIAL,Alkaliphilus oremlandii OhILAs,Alkaliphilus oremlandii,Nitrogen fixation
+Go0000037,398579,BACTERIAL,"Shewanella pealeana ANG-SQ1, ATCC 700345",Shewanella pealeana,Sulfur reducer
+Go0000042,298653,BACTERIAL,Frankia sp. EAN1pec,Frankia sp. EAN1pec,Nitrogen fixation
+Go0000044,315750,BACTERIAL,Bacillus pumilus SAFR-032,Bacillus pumilus,Biomass degrader
+Go0000051,416591,BACTERIAL,Pseudothermotoga lettingae TMO,Pseudothermotoga lettingae,Methanol degrading
+Go0000055,1268556,ARCHAEAL,Candidatus Nitrosocaldus yellowstonensis HL72,Candidatus Nitrosocaldus yellowstonensis,Ammonia-oxidizer
+Go0000055,1268556,ARCHAEAL,Candidatus Nitrosocaldus yellowstonensis HL72,Candidatus Nitrosocaldus yellowstonensis,Carbon fixation
+Go0000055,1268556,ARCHAEAL,Candidatus Nitrosocaldus yellowstonensis HL72,Candidatus Nitrosocaldus yellowstonensis,Nitrifying
+Go0000070,78245,BACTERIAL,Xanthobacter autotrophicus Py2,Xanthobacter autotrophicus,Nitrogen fixation
+Go0000071,402881,BACTERIAL,Parvibaculum lavamentivorans DS-1,Parvibaculum lavamentivorans,Surfactant-degrading
+Go0000073,456442,ARCHAEAL,Methanoregula boonei 6A8,Methanoregula boonei,Methanogen
+Go0000087,404589,BACTERIAL,Anaeromyxobacter sp. Fw109-5,Anaeromyxobacter sp. Fw109-5,Iron reducer
+Go0000097,272620,BACTERIAL,Klebsiella pneumoniae pneumoniae MGH78578,Klebsiella pneumoniae,Lactose fermenting
+Go0000116,426368,ARCHAEAL,Methanococcus maripaludis C7,Methanococcus maripaludis,Hydrogenotrophic
+Go0000116,426368,ARCHAEAL,Methanococcus maripaludis C7,Methanococcus maripaludis,Methanogen
+Go0000116,426368,ARCHAEAL,Methanococcus maripaludis C7,Methanococcus maripaludis,Nitrogen fixation
+Go0000117,366394,BACTERIAL,Sinorhizobium medicae WSM419,Sinorhizobium medicae,Nitrogen fixation
+Go0000119,419665,ARCHAEAL,Methanococcus aeolicus Nankai-3,Methanococcus aeolicus,Methanogen
+Go0000120,406327,ARCHAEAL,Methanococcus vannielii SB,Methanococcus vannielii,Methanogen
+Go0000121,293826,BACTERIAL,Alkaliphilus metalliredigens QYMF,Alkaliphilus metalliredigens,Metal reducer
+Go0000123,290402,BACTERIAL,Clostridium beijerinckii NCIMB 8052,Clostridium beijerinckii,Gelatin hydrolysis negative
+Go0000134,420247,ARCHAEAL,"Methanobrevibacter smithii PS, ATCC 35061",Methanobrevibacter smithii,Methanogen
+Go0000136,351746,BACTERIAL,Pseudomonas putida F1,Pseudomonas putida,Benzene degradation
+Go0000140,413999,BACTERIAL,Clostridium botulinum type A - Hall,Clostridium botulinum,Type A toxin producer
+Go0000147,288000,BACTERIAL,Bradyrhizobium sp. BTAi1,Bradyrhizobium sp. BTAi1,Nitrogen fixation
+Go0000147,288000,BACTERIAL,Bradyrhizobium sp. BTAi1,Bradyrhizobium sp. BTAi1,Stores polyhydroxybutyrate
+Go0000148,351605,BACTERIAL,Geobacter uraniireducens Rf4,Geobacter uraniireducens,Iron reducer
+Go0000148,351605,BACTERIAL,Geobacter uraniireducens Rf4,Geobacter uraniireducens,Uranium reducer
+Go0000152,349163,BACTERIAL,Acidiphilium cryptum JF-5,Acidiphilium cryptum,Iron reducer
+Go0000153,216389,BACTERIAL,Dehalococcoides mccartyi BAV1,Dehalococcoides mccartyi,Dechlorinates Tetrachloroethene
+Go0000155,370438,BACTERIAL,Pelotomaculum thermopropionicum SI,Pelotomaculum thermopropionicum,Propionate-oxidizing
+Go0000156,412965,BACTERIAL,Candidatus Vesicomyosocius okutanii HA,Candidatus Vesicomyosocius okutanii HA,Sulfur oxidizer
+Go0000159,114615,BACTERIAL,Bradyrhizobium sp. ORS 278,Bradyrhizobium sp. ORS 278,Nitrogen fixation
+Go0000159,114615,BACTERIAL,Bradyrhizobium sp. ORS 278,Bradyrhizobium sp. ORS 278,Stores polyhydroxybutyrate
+Go0000161,376686,BACTERIAL,"Flavobacterium johnsoniae UW101, ATCC 17061",Flavobacterium johnsoniae,Chitin degradation
+Go0000163,399549,ARCHAEAL,Metallosphaera sedula DSM 5348,Metallosphaera sedula,Iron oxidizer
+Go0000166,319224,BACTERIAL,Shewanella putrefaciens CN-32,Shewanella putrefaciens,Iron reducer
+Go0000167,399739,BACTERIAL,Pseudomonas mendocina ymp,Pseudomonas mendocina,PCP-degrading
+Go0000168,758828,BACTERIAL,Succinivibrionaceae bacterium WG-1,Succinivibrionaceae bacterium WG-1,Succinic acid production
+Go0000169,351627,BACTERIAL,Caldicellulosiruptor saccharolyticus DSM 8903,Caldicellulosiruptor saccharolyticus,Biomass degrader
+Go0000169,351627,BACTERIAL,Caldicellulosiruptor saccharolyticus DSM 8903,Caldicellulosiruptor saccharolyticus,Cellulose degrader
+Go0000169,351627,BACTERIAL,Caldicellulosiruptor saccharolyticus DSM 8903,Caldicellulosiruptor saccharolyticus,Nitrogen producer
+Go0000171,379731,BACTERIAL,Pseudomonas stutzeri A1501,Pseudomonas stutzeri,Denitrifying
+Go0000178,350054,BACTERIAL,Mycolicibacterium gilvum PYR-GCK,Mycolicibacterium gilvum,PAH-degrading
+Go0000179,290318,BACTERIAL,Chlorobium phaeovibrioides DSM 265,Chlorobium phaeovibrioides,Nitrogen fixation
+Go0000180,420246,BACTERIAL,Geobacillus thermodenitrificans NG80-2,Geobacillus thermodenitrificans,Degrades long-chain alkanes
+Go0000180,420246,BACTERIAL,Geobacillus thermodenitrificans NG80-2,Geobacillus thermodenitrificans,Hydrocarbon degrading
+Go0000181,269482,BACTERIAL,Burkholderia vietnamiensis G4,Burkholderia vietnamiensis,Benzene degradation
+Go0000182,349161,BACTERIAL,Desulfotomaculum reducens MI-1,Desulfotomaculum reducens,Chromium reducer
+Go0000182,349161,BACTERIAL,Desulfotomaculum reducens MI-1,Desulfotomaculum reducens,Metal reducer
+Go0000182,349161,BACTERIAL,Desulfotomaculum reducens MI-1,Desulfotomaculum reducens,Sulfate reducer
+Go0000182,349161,BACTERIAL,Desulfotomaculum reducens MI-1,Desulfotomaculum reducens,Uranium reducer
+Go0000185,351160,ARCHAEAL,Methanocella arvoryzae MRE50,Methanocella arvoryzae,Methanogen
+Go0000186,402880,ARCHAEAL,Methanococcus maripaludis C5,Methanococcus maripaludis,Hydrogenotrophic
+Go0000186,402880,ARCHAEAL,Methanococcus maripaludis C5,Methanococcus maripaludis,Methanogen
+Go0000186,402880,ARCHAEAL,Methanococcus maripaludis C5,Methanococcus maripaludis,Nitrogen fixation
+Go0000189,323850,BACTERIAL,Shewanella loihica PV-4,Shewanella loihica,Iron reducer
+Go0000189,323850,BACTERIAL,Shewanella loihica PV-4,Shewanella loihica,Uranium reducer
+Go0000197,164757,BACTERIAL,Mycobacterium sp. JLS,Mycobacterium sp. JLS,PAH-degrading
+Go0000201,368407,ARCHAEAL,"Methanoculleus marisnigri JR1, DSM 1498",Methanoculleus marisnigri,Methanogen
+Go0000207,410358,ARCHAEAL,Methanocorpusculum labreanum Z,Methanocorpusculum labreanum,Methanogen
+Go0000209,351348,BACTERIAL,Marinobacter aquaeolei VT8,Marinobacter aquaeolei,Hydrocarbon degrading
+Go0000209,351348,BACTERIAL,Marinobacter aquaeolei VT8,Marinobacter aquaeolei,Iron oxidizer
+Go0000209,351348,BACTERIAL,Marinobacter aquaeolei VT8,Marinobacter aquaeolei,Oil degrading
+Go0000212,420662,BACTERIAL,Methylibium petroleiphilum PM1,Methylibium petroleiphilum,Benzene degradation
+Go0000212,420662,BACTERIAL,Methylibium petroleiphilum PM1,Methylibium petroleiphilum,MTBE degrader
+Go0000213,415426,ARCHAEAL,Hyperthermus butylicus DSM 5456,Hyperthermus butylicus,Sulfur reducer
+Go0000229,365044,BACTERIAL,Polaromonas naphthalenivorans CJ2,Polaromonas naphthalenivorans,Naphthalene-degrading
+Go0000229,365044,BACTERIAL,Polaromonas naphthalenivorans CJ2,Polaromonas naphthalenivorans,PAH-degrading
+Go0000234,391774,BACTERIAL,Desulfovibrio vulgaris vulgaris DP4,Desulfovibrio vulgaris,Pollutant degrader
+Go0000234,391774,BACTERIAL,Desulfovibrio vulgaris vulgaris DP4,Desulfovibrio vulgaris,Sulfate reducer
+Go0000236,290340,BACTERIAL,Paenarthrobacter aurescens TC1,Paenarthrobacter aurescens,Atrazine metabolism
+Go0000237,350058,BACTERIAL,Mycolicibacterium vanbaalenii PYR-1,Mycolicibacterium vanbaalenii,PAH-degrading
+Go0000240,189918,BACTERIAL,Mycobacterium sp. KMS,Mycobacterium sp. KMS,PAH-degrading
+Go0000244,318586,BACTERIAL,Paracoccus denitrificans PD1222,Paracoccus denitrificans,Hydrogen oxidizer
+Go0000244,318586,BACTERIAL,Paracoccus denitrificans PD1222,Paracoccus denitrificans,Stores polyhydroxybutyrate
+Go0000245,290317,BACTERIAL,Chlorobium phaeobacteroides DSM 266,Chlorobium phaeobacteroides,Nitrogen fixation
+Go0000251,338966,BACTERIAL,Pelobacter propionicus DSM 2379,Pelobacter propionicus,Iron reducer
+Go0000258,28049,BACTERIAL,Acidothermus cellulolyticus 11B,Acidothermus cellulolyticus,Biomass degrader
+Go0000258,28049,BACTERIAL,Acidothermus cellulolyticus 11B,Acidothermus cellulolyticus,Cellulose degrader
+Go0000260,156889,BACTERIAL,Magnetococcus marinus MC-1,Magnetococcus marinus,Iron reducer
+Go0000260,156889,BACTERIAL,Magnetococcus marinus MC-1,Magnetococcus marinus,Magnetite production
+Go0000265,62928,BACTERIAL,Azoarcus sp. BH72,Azoarcus sp. BH72,Nitrogen fixation
+Go0000267,335543,BACTERIAL,Syntrophobacter fumaroxidans MPOB,Syntrophobacter fumaroxidans,Propionate metabolism
+Go0000268,349307,ARCHAEAL,Methanothrix thermoacetophila PT,Methanothrix thermoacetophila,Acetotrophic
+Go0000268,349307,ARCHAEAL,Methanothrix thermoacetophila PT,Methanothrix thermoacetophila,Methanogen
+Go0000269,322159,BACTERIAL,Streptococcus thermophilus LMD-9,Streptococcus thermophilus,Homofermentative
+Go0000274,290399,BACTERIAL,Arthrobacter sp. FB24,Arthrobacter sp. FB24,Hydrocarbon degrading
+Go0000293,316055,BACTERIAL,Rhodopseudomonas palustris BisA53,Rhodopseudomonas palustris,Carbon dioxide fixation
+Go0000293,316055,BACTERIAL,Rhodopseudomonas palustris BisA53,Rhodopseudomonas palustris,Hydrogen production
+Go0000293,316055,BACTERIAL,Rhodopseudomonas palustris BisA53,Rhodopseudomonas palustris,Nitrogen fixation
+Go0000293,316055,BACTERIAL,Rhodopseudomonas palustris BisA53,Rhodopseudomonas palustris,Pollutant degrader
+Go0000294,339670,BACTERIAL,Burkholderia cepacia AMMD,Burkholderia cepacia,Nitrogen fixation
+Go0000294,339670,BACTERIAL,Burkholderia cepacia AMMD,Burkholderia cepacia,Pollutant degrader
+Go0000298,335541,BACTERIAL,"Syntrophomonas wolfei Goettingen, DSM 2245B",Syntrophomonas wolfei,Fatty-acid-oxidizer
+Go0000299,318167,BACTERIAL,Shewanella frigidimarina NCIMB 400,Shewanella frigidimarina,Iron reducer
+Go0000302,335283,BACTERIAL,Nitrosomonas eutropha C91,Nitrosomonas eutropha,Ammonia-oxidizer
+Go0000302,335283,BACTERIAL,Nitrosomonas eutropha C91,Nitrosomonas eutropha,Nitrifying
+Go0000304,187272,BACTERIAL,Alkalilimnicola ehrlichii MLHE-1,Alkalilimnicola ehrlichii,Arsenite oxidizer
+Go0000312,381666,BACTERIAL,Cupriavidus necator H16,Cupriavidus necator,Hydrogen oxidizer
+Go0000315,326424,BACTERIAL,Frankia alni ACN14a,Frankia alni,Nitrogen fixation
+Go0000316,393595,BACTERIAL,Alcanivorax borkumensis SK2,Alcanivorax borkumensis,Hydrocarbon degrading
+Go0000321,101510,BACTERIAL,Rhodococcus jostii RHA1,Rhodococcus jostii,PCB degrading
+Go0000328,269798,BACTERIAL,Cytophaga hutchinsonii ATCC 33406,Cytophaga hutchinsonii,Cellulose degrader
+Go0000328,269798,BACTERIAL,Cytophaga hutchinsonii ATCC 33406,Cytophaga hutchinsonii,Chitin degradation
+Go0000329,266779,BACTERIAL,Chelativorans sp. BNC1,Chelativorans sp. BNC1,EDTA degrading
+Go0000329,266779,BACTERIAL,Chelativorans sp. BNC1,Chelativorans sp. BNC1,Nitrogen fixation
+Go0000330,203124,BACTERIAL,Trichodesmium erythraeum IMS101,Trichodesmium erythraeum,Nitrogen fixation
+Go0000332,269796,BACTERIAL,"Rhodospirillum rubrum S1, ATCC 11170",Rhodospirillum rubrum,Nitrogen fixation
+Go0000333,1525,BACTERIAL,Moorella thermoacetica ATCC 39073,Moorella thermoacetica,Acetogen
+Go0000333,1525,BACTERIAL,Moorella thermoacetica ATCC 39073,Moorella thermoacetica,Carbon dioxide fixation
+Go0000339,164756,BACTERIAL,Mycobacterium sp. MCS,Mycobacterium sp. MCS,PAH-degrading
+Go0000345,292414,BACTERIAL,Ruegeria sp. TM1040,Ruegeria sp. TM1040,Carbon fixation
+Go0000346,216596,BACTERIAL,Rhizobium leguminosarum bv. viciae 3841,Rhizobium leguminosarum,Nitrogen fixation
+Go0000360,323097,BACTERIAL,Nitrobacter hamburgensis X14,Nitrobacter hamburgensis,Nitrifying
+Go0000362,316057,BACTERIAL,Rhodopseudomonas palustris BisB5,Rhodopseudomonas palustris,Carbon dioxide fixation
+Go0000362,316057,BACTERIAL,Rhodopseudomonas palustris BisB5,Rhodopseudomonas palustris,Hydrogen production
+Go0000362,316057,BACTERIAL,Rhodopseudomonas palustris BisB5,Rhodopseudomonas palustris,Nitrogen fixation
+Go0000362,316057,BACTERIAL,Rhodopseudomonas palustris BisB5,Rhodopseudomonas palustris,Pollutant degrader
+Go0000363,318161,BACTERIAL,Shewanella denitrificans OS217,Shewanella denitrificans,Denitrifying
+Go0000367,259564,ARCHAEAL,Methanococcoides burtonii DSM 6242,Methanococcoides burtonii,Methanogen
+Go0000368,266265,BACTERIAL,Paraburkholderia xenovorans LB400,Paraburkholderia xenovorans,PCB degrading
+Go0000369,709991,BACTERIAL,"Odoribacter splanchnicus 1651/6, DSM 20712",Odoribacter splanchnicus,Nitrate reducer
+Go0000372,362948,BACTERIAL,Lactobacillus salivarius salivarius UCC118,Lactobacillus salivarius,Bacteriocins producer
+Go0000373,316056,BACTERIAL,Rhodopseudomonas palustris BisB18,Rhodopseudomonas palustris,Carbon dioxide fixation
+Go0000373,316056,BACTERIAL,Rhodopseudomonas palustris BisB18,Rhodopseudomonas palustris,Hydrogen production
+Go0000373,316056,BACTERIAL,Rhodopseudomonas palustris BisB18,Rhodopseudomonas palustris,Nitrogen fixation
+Go0000373,316056,BACTERIAL,Rhodopseudomonas palustris BisB18,Rhodopseudomonas palustris,Pollutant degrader
+Go0000374,203122,BACTERIAL,Saccharophagus degradans 2-40,Saccharophagus degradans,Cellulose degrader
+Go0000374,203122,BACTERIAL,Saccharophagus degradans 2-40,Saccharophagus degradans,Ethanol production
+Go0000375,338969,BACTERIAL,Rhodoferax ferrireducens T118,Rhodoferax ferrireducens,Iron reducer
+Go0000376,138119,BACTERIAL,Desulfitobacterium hafniense Y51,Desulfitobacterium hafniense,Dehalogenation
+Go0000382,323259,ARCHAEAL,Methanospirillum hungatei JF-1,Methanospirillum hungatei,Methanogen
+Go0000387,48935,BACTERIAL,Novosphingobium aromaticivorans DSM 12444,Novosphingobium aromaticivorans,Degrades aromatic hydrocarbons
+Go0000391,316058,BACTERIAL,Rhodopseudomonas palustris HaA2,Rhodopseudomonas palustris,Carbon dioxide fixation
+Go0000391,316058,BACTERIAL,Rhodopseudomonas palustris HaA2,Rhodopseudomonas palustris,Hydrogen production
+Go0000391,316058,BACTERIAL,Rhodopseudomonas palustris HaA2,Rhodopseudomonas palustris,Nitrogen fixation
+Go0000391,316058,BACTERIAL,Rhodopseudomonas palustris HaA2,Rhodopseudomonas palustris,Pollutant degrader
+Go0000392,106370,BACTERIAL,Frankia casuarinae CcI3,Frankia casuarinae,Nitrogen fixation
+Go0000395,347834,BACTERIAL,"Rhizobium etli CFN 42, DSM 11541",Rhizobium etli,Nitrogen fixation
+Go0000397,56780,BACTERIAL,Syntrophus aciditrophicus SB,Syntrophus aciditrophicus,Syntrophic
+Go0000405,760011,BACTERIAL,"Sphaerochaeta coccoides SPN1, DSM 17374",Sphaerochaeta coccoides,Cellobiose-degrading
+Go0000406,339860,ARCHAEAL,Methanosphaera stadtmanae DSM 3091,Methanosphaera stadtmanae,Methanogen
+Go0000406,339860,ARCHAEAL,Methanosphaera stadtmanae DSM 3091,Methanosphaera stadtmanae,Methanol reducer
+Go0000412,326298,BACTERIAL,Sulfurimonas denitrificans DSM 1251,Sulfurimonas denitrificans,Carbon dioxide fixation
+Go0000412,326298,BACTERIAL,Sulfurimonas denitrificans DSM 1251,Sulfurimonas denitrificans,Desulfurylates coal
+Go0000412,326298,BACTERIAL,Sulfurimonas denitrificans DSM 1251,Sulfurimonas denitrificans,Nitrate reducer
+Go0000412,326298,BACTERIAL,Sulfurimonas denitrificans DSM 1251,Sulfurimonas denitrificans,Sulfur oxidizer
+Go0000416,323848,BACTERIAL,Nitrosospira multiformis ATCC 25196,Nitrosospira multiformis,Ammonia-oxidizer
+Go0000416,323848,BACTERIAL,Nitrosospira multiformis ATCC 25196,Nitrosospira multiformis,Nitrifying
+Go0000422,1140,BACTERIAL,Synechococcus elongatus PCC 7942,Synechococcus elongatus,Carbon fixation
+Go0000426,317025,BACTERIAL,Hydrogenovibrio crunogenus XCL-2,Hydrogenovibrio crunogenus,Carbon dioxide fixation
+Go0000426,317025,BACTERIAL,Hydrogenovibrio crunogenus XCL-2,Hydrogenovibrio crunogenus,Desulfurylates coal
+Go0000426,317025,BACTERIAL,Hydrogenovibrio crunogenus XCL-2,Hydrogenovibrio crunogenus,Sulfur oxidizer
+Go0000427,207559,BACTERIAL,Desulfovibrio alaskensis G20,Desulfovibrio alaskensis,Sulfate reducer
+Go0000427,207559,BACTERIAL,Desulfovibrio alaskensis G20,Desulfovibrio alaskensis,Toxic metal reducer
+Go0000430,110662,BACTERIAL,Synechococcus sp. CC9605,Synechococcus sp. CC9605,Carbon dioxide fixation
+Go0000432,316279,BACTERIAL,Synechococcus sp. CC9902,Synechococcus sp. CC9902,Carbon dioxide fixation
+Go0000435,482957,BACTERIAL,Burkholderia cepacia 383,Burkholderia cepacia,Nitrogen fixation
+Go0000438,338963,BACTERIAL,"Pelobacter carbinolicus Bd1, GraBd1",Pelobacter carbinolicus,Iron reducer
+Go0000440,323261,BACTERIAL,Nitrosococcus oceani C-107,Nitrosococcus oceani,Ammonia-oxidizer
+Go0000440,323261,BACTERIAL,Nitrosococcus oceani C-107,Nitrosococcus oceani,Denitrifying
+Go0000440,323261,BACTERIAL,Nitrosococcus oceani C-107,Nitrosococcus oceani,Nitrifying
+Go0000445,240292,BACTERIAL,Anabaena variabilis ATCC 29413,Anabaena variabilis,Carbon dioxide fixation
+Go0000445,240292,BACTERIAL,Anabaena variabilis ATCC 29413,Anabaena variabilis,Hydrogen production
+Go0000445,240292,BACTERIAL,Anabaena variabilis ATCC 29413,Anabaena variabilis,Nitrogen fixation
+Go0000446,323098,BACTERIAL,Nitrobacter winogradskyi Nb-255,Nitrobacter winogradskyi,Carbon dioxide fixation
+Go0000446,323098,BACTERIAL,Nitrobacter winogradskyi Nb-255,Nitrobacter winogradskyi,Nitrifying
+Go0000446,323098,BACTERIAL,Nitrobacter winogradskyi Nb-255,Nitrobacter winogradskyi,Nitrite-oxidizer
+Go0000447,292415,BACTERIAL,Thiobacillus denitrificans ATCC 25259,Thiobacillus denitrificans,Carbon fixation
+Go0000447,292415,BACTERIAL,Thiobacillus denitrificans ATCC 25259,Thiobacillus denitrificans,Iron oxidizer
+Go0000447,292415,BACTERIAL,Thiobacillus denitrificans ATCC 25259,Thiobacillus denitrificans,Sulfur oxidizer
+Go0000448,269797,ARCHAEAL,"Methanosarcina barkeri Fusaro, DSM 804",Methanosarcina barkeri,Methanogen
+Go0000451,255470,BACTERIAL,Dehalococcoides mccartyi CBDB1,Dehalococcoides mccartyi,Dechlorinates Tetrachloroethene
+Go0000452,264198,BACTERIAL,Cupriavidus pinatubonensis JMP134,Cupriavidus pinatubonensis,Degrades pollutants
+Go0000457,269800,BACTERIAL,Thermobifida fusca YX,Thermobifida fusca,Cellulose degrader
+Go0000457,269800,BACTERIAL,Thermobifida fusca YX,Thermobifida fusca,Degrades organic material
+Go0000459,159087,BACTERIAL,Dechloromonas aromatica RCB,Dechloromonas aromatica,Benzene degradation
+Go0000459,159087,BACTERIAL,Dechloromonas aromatica RCB,Dechloromonas aromatica,Chlorate-reducer
+Go0000459,159087,BACTERIAL,Dechloromonas aromatica RCB,Dechloromonas aromatica,Hydrocarbon-oxidizing
+Go0000473,330779,ARCHAEAL,Sulfolobus acidocaldarius 98-3,Sulfolobus acidocaldarius,Sulfur oxidizer
+Go0000509,243164,BACTERIAL,Dehalococcoides mccartyi 195,Dehalococcoides mccartyi,Dechlorinates Tetrachloroethene
+Go0000516,264203,BACTERIAL,Zymomonas mobilis mobilis ZM4,Zymomonas mobilis,Ethanol production
+Go0000526,76114,BACTERIAL,Aromatoleum aromaticum EbN1,Aromatoleum aromaticum,Denitrifying
+Go0000526,76114,BACTERIAL,Aromatoleum aromaticum EbN1,Aromatoleum aromaticum,Hydrocarbons metabolizer
+Go0000526,76114,BACTERIAL,Aromatoleum aromaticum EbN1,Aromatoleum aromaticum,Nitrate reducer
+Go0000543,221988,BACTERIAL,Mannheimia succiniciproducens MBEL55E,Mannheimia succiniciproducens,Succinic acid production
+Go0000556,177439,BACTERIAL,Desulfotalea psychrophila LSv54,Desulfotalea psychrophila,Sulfate reducer
+Go0000581,882,BACTERIAL,Desulfovibrio vulgaris vulgaris Hildenborough,Desulfovibrio vulgaris,Pollutant degrader
+Go0000581,882,BACTERIAL,Desulfovibrio vulgaris vulgaris Hildenborough,Desulfovibrio vulgaris,Sulfate reducer
+Go0000602,243231,BACTERIAL,Geobacter sulfurreducens PCA,Geobacter sulfurreducens,Toxic metal reducer
+Go0000613,243365,BACTERIAL,Chromobacterium violaceum ATCC 12472,Chromobacterium violaceum,Volacein producer
+Go0000642,228410,BACTERIAL,Nitrosomonas europaea ATCC 19718,Nitrosomonas europaea,Carbon dioxide fixation
+Go0000642,228410,BACTERIAL,Nitrosomonas europaea ATCC 19718,Nitrosomonas europaea,Nitrifying
+Go0000660,224911,BACTERIAL,Bradyrhizobium japonicum USDA 110,Bradyrhizobium japonicum,Nitrogen fixation
+Go0000660,224911,BACTERIAL,Bradyrhizobium japonicum USDA 110,Bradyrhizobium japonicum,Stores polyhydroxybutyrate
+Go0000665,303,BACTERIAL,Pseudomonas putida KT2440,Pseudomonas putida,Saprotroph
+Go0000671,211586,BACTERIAL,Shewanella oneidensis MR-1,Shewanella oneidensis,Metal reducer
+Go0000685,194439,BACTERIAL,Chlorobaculum tepidum TLS,Chlorobaculum tepidum,Nitrogen fixation
+Go0000693,273068,BACTERIAL,Thermoanaerobacter tengcongensis MB4,Thermoanaerobacter tengcongensis,Saccharolytic
+Go0000695,2214,ARCHAEAL,Methanosarcina acetivorans C2A,Methanosarcina acetivorans,Methanogen
+Go0000700,190192,ARCHAEAL,Methanopyrus kandleri AV19,Methanopyrus kandleri,Methanogen
+Go0000702,186497,ARCHAEAL,Pyrococcus furiosus DSM 3638,Pyrococcus furiosus,Sulfur respiration
+Go0000705,178306,ARCHAEAL,Pyrobaculum aerophilum IM2,Pyrobaculum aerophilum,Nitrate reducer
+Go0000707,176299,BACTERIAL,Agrobacterium tumefaciens C58-UWash,Agrobacterium tumefaciens,Nitrogen fixation
+Go0000711,103690,BACTERIAL,Nostoc sp. PCC 7120,Nostoc sp. PCC 7120,Nitrogen fixation
+Go0000723,273063,ARCHAEAL,Sulfurisphaera tokodaii 7,Sulfurisphaera tokodaii,Sulfur metabolizing
+Go0000724,556269,BACTERIAL,Oxalobacter formigenes OXCC13,Oxalobacter formigenes,Oxalic acid degrader
+Go0000725,272562,BACTERIAL,Clostridium acetobutylicum ATCC 824,Clostridium acetobutylicum,Gelatin hydrolysis positive
+Go0000726,266834,BACTERIAL,Sinorhizobium meliloti 1021,Sinorhizobium meliloti,Nitrogen fixation
+Go0000726,266834,BACTERIAL,Sinorhizobium meliloti 1021,Sinorhizobium meliloti,Stores polyhydroxybutyrate
+Go0000728,273057,ARCHAEAL,Saccharolobus solfataricus P2,Saccharolobus solfataricus,Sulfur metabolizing
+Go0000734,272844,ARCHAEAL,Pyrococcus abyssi GE5,Pyrococcus abyssi,Sulfur respiration
+Go0000775,70601,ARCHAEAL,Pyrococcus horikoshii OT3,Pyrococcus horikoshii,Sulfur respiration
+Go0000778,224325,ARCHAEAL,"Archaeoglobus fulgidus VC-16, DSM 4304",Archaeoglobus fulgidus,Sulfate reducer
+Go0000784,187420,ARCHAEAL,Methanothermobacter thermautotrophicus Delta H,Methanothermobacter thermautotrophicus,Methanogen
+Go0000789,243232,ARCHAEAL,Methanocaldococcus jannaschii DSM 2661,Methanocaldococcus jannaschii,Methanogen
+Go0000878,168384,BACTERIAL,Marvinbryantia formatexigens I-52,Marvinbryantia formatexigens,Cellulose degrader
+Go0000935,452471,BACTERIAL,Candidatus Amoebophilus asiaticus 5a2,Candidatus Amoebophilus asiaticus 5a2,Sulfur oxidizer
+Go0000939,452863,BACTERIAL,Pseudarthrobacter chlorophenolicus A6,Pseudarthrobacter chlorophenolicus,Chlorophenol degrading
+Go0000939,452863,BACTERIAL,Pseudarthrobacter chlorophenolicus A6,Pseudarthrobacter chlorophenolicus,PAH-degrading
+Go0000940,513049,BACTERIAL,Arthrospira maxima CS-328,Arthrospira maxima,Hydrogen production
+Go0000949,865861,BACTERIAL,Clostridium ultunense DSM 10521,Clostridium ultunense,Acetate oxidizer
+Go0000949,865861,BACTERIAL,Clostridium ultunense DSM 10521,Clostridium ultunense,Syntrophic
+Go0000950,731,BACTERIAL,Haemophilus somnus V,Haemophilus somnus,Syntrophic
+Go0000953,930171,BACTERIAL,Pseudarthrobacter phenanthrenivorans Sphe3,Pseudarthrobacter phenanthrenivorans,PAH-degrading
+Go0000964,1064539,BACTERIAL,Azospirillum brasilense Sp245,Azospirillum brasilense,Nitrogen fixation
+Go0000965,322710,BACTERIAL,"Azotobacter vinelandii DJ, ATCC BAA-1303",Azotobacter vinelandii,Nitrogen fixation
+Go0000965,322710,BACTERIAL,"Azotobacter vinelandii DJ, ATCC BAA-1303",Azotobacter vinelandii,Stores polyhydroxybutyrate
+Go0000975,358681,BACTERIAL,Brevibacillus brevis NBRC 100599,Brevibacillus brevis,Gramicidin producer
+Go0000975,358681,BACTERIAL,Brevibacillus brevis NBRC 100599,Brevibacillus brevis,Tyrosidine producer
+Go0001008,491073,BACTERIAL,Burkholderia silvatlantica PVA5,Burkholderia silvatlantica,Nitrogen fixation
+Go0001016,439292,BACTERIAL,Bacillus selenitireducens MLS10,Bacillus selenitireducens,Respiratory arsenate reductase
+Go0001046,340100,BACTERIAL,Bordetella petrii DSM 12804,Bordetella petrii,Selenate reducer
+Go0001050,375,BACTERIAL,Bradyrhizobium japonicum,Bradyrhizobium japonicum,Nitrogen fixation
+Go0001050,375,BACTERIAL,Bradyrhizobium japonicum,Bradyrhizobium japonicum,Stores polyhydroxybutyrate
+Go0001099,360110,BACTERIAL,Campylobacter jejuni jejuni 84-25,Campylobacter jejuni,Auxotroph
+Go0001110,634452,BACTERIAL,Acetobacter pasteurianus IFO 3283-01,Acetobacter pasteurianus,Acid-producing
+Go0001110,634452,BACTERIAL,Acetobacter pasteurianus IFO 3283-01,Acetobacter pasteurianus,Nitrogen fixation
+Go0001119,698758,BACTERIAL,Amphibacillus xylanus NBRC 15112,Amphibacillus xylanus,Xylan degrader
+Go0001122,39152,ARCHAEAL,Methanococcus maripaludis KA1,Methanococcus maripaludis,Hydrogenotrophic
+Go0001122,39152,ARCHAEAL,Methanococcus maripaludis KA1,Methanococcus maripaludis,Methanogen
+Go0001122,39152,ARCHAEAL,Methanococcus maripaludis KA1,Methanococcus maripaludis,Nitrogen fixation
+Go0001125,366602,BACTERIAL,Caulobacter sp. K31,Caulobacter sp. K31,Chlorophenol degrading
+Go0001127,162154,BACTERIAL,Candidatus Arcobacter sulfidicus,Candidatus Arcobacter sulfidicus,Sulfur oxidizer
+Go0001145,34067,BACTERIAL,Cycloclasticus sp. TU126,Cycloclasticus sp. TU126,PAH-degrading
+Go0001147,455632,BACTERIAL,Streptomyces griseus griseus NBRC 13350,Streptomyces griseus,Streptomycin producer
+Go0001167,526218,BACTERIAL,Sebaldella termitidis ATCC 33386,Sebaldella termitidis,Uricolytic
+Go0001172,525897,BACTERIAL,Desulfomicrobium baculatum DSM 4028,Desulfomicrobium baculatum,Sulfate reducer
+Go0001177,572480,BACTERIAL,Arcobacter nitrofigilis DSM 7299,Arcobacter nitrofigilis,Nitrogen fixation
+Go0001178,550540,BACTERIAL,"Ferrimonas balearica PAT, DSM 9799",Ferrimonas balearica,Iron reducer
+Go0001189,522772,BACTERIAL,"Denitrovibrio acetiphilus N2460, DSM 12809",Denitrovibrio acetiphilus,Nitrate reducer
+Go0001191,525909,BACTERIAL,"Acidimicrobium ferrooxidans ICP, DSM 10331",Acidimicrobium ferrooxidans,Iron oxidizer
+Go0001214,471852,BACTERIAL,Thermomonospora curvata DSM 43183,Thermomonospora curvata,Cellulose degrader
+Go0001221,485918,BACTERIAL,"Chitinophaga pinensis UQM 2034, DSM 2588",Chitinophaga pinensis,Biomass degrader
+Go0001221,485918,BACTERIAL,"Chitinophaga pinensis UQM 2034, DSM 2588",Chitinophaga pinensis,Chitin degradation
+Go0001223,485915,BACTERIAL,"Desulfohalobium retbaense HR100, DSM 5692",Desulfohalobium retbaense,Sulfate reducer
+Go0001229,521096,BACTERIAL,"Tsukamurella paurometabola 33, DSM 20162",Tsukamurella paurometabola,Hydrogen sulfide producer
+Go0001238,395493,BACTERIAL,Beggiatoa alba B18LD,Beggiatoa alba,Sulfur oxidizer
+Go0001239,422289,BACTERIAL,Beggiatoa sp. PS,Beggiatoa sp. PS,Sulfur oxidizer
+Go0001240,422288,BACTERIAL,Beggiatoa sp. SS,Beggiatoa sp. SS,Sulfur oxidizer
+Go0001241,395963,BACTERIAL,Beijerinckia indica indica ATCC 9039,Beijerinckia indica,Nitrogen fixation
+Go0001243,634458,BACTERIAL,Acetobacter pasteurianus IFO 3283-01-42C,Acetobacter pasteurianus,Acid-producing
+Go0001243,634458,BACTERIAL,Acetobacter pasteurianus IFO 3283-01-42C,Acetobacter pasteurianus,Nitrogen fixation
+Go0001248,391612,BACTERIAL,Crocosphaera chwakensis CCY 0110,Crocosphaera chwakensis,Nitrogen fixation
+Go0001249,43989,BACTERIAL,Crocosphaera subtropica BH68,Crocosphaera subtropica,Nitrogen fixation
+Go0001250,65393,BACTERIAL,Gloeothece citriformis PCC 7424,Gloeothece citriformis,Nitrogen fixation
+Go0001251,395961,BACTERIAL,Cyanothece sp. PCC 7425,Cyanothece sp. PCC 7425,Nitrogen fixation
+Go0001253,497965,BACTERIAL,Gloeothece verrucosa PCC 7822,Gloeothece verrucosa,Nitrogen fixation
+Go0001254,41431,BACTERIAL,Rippkaea orientalis PCC 8801,Rippkaea orientalis,Nitrogen fixation
+Go0001255,860575,BACTERIAL,Crocosphaera subtropica BH63E,Crocosphaera subtropica,Nitrogen fixation
+Go0001256,391609,BACTERIAL,Dehalobium chlorocoercia DF-1,Dehalobium chlorocoercia,PCB degrading
+Go0001263,443152,BACTERIAL,Marinobacter algicola DG893,Marinobacter algicola,Hydrocarbon degrading
+Go0001265,756067,BACTERIAL,Microcoleus vaginatus FGP-2,Microcoleus vaginatus,Nitrogen fixation
+Go0001266,278137,BACTERIAL,Mycolicibacterium gilvum Spyr1,Mycolicibacterium gilvum,PAH-degrading
+Go0001281,391596,BACTERIAL,Pedobacter sp. BAL39,Pedobacter sp. BAL39,Nitrogen fixation
+Go0001300,391601,BACTERIAL,Stenotrophomonas sp. SKA14,Stenotrophomonas sp. SKA14,Nitrogen fixation
+Go0001301,91464,BACTERIAL,Synechococcus sp. PCC 7335,Synechococcus sp. PCC 7335,Nitrogen fixation
+Go0001325,331678,BACTERIAL,Chlorobium phaeobacteroides BS1,Chlorobium phaeobacteroides,Nitrogen fixation
+Go0001326,324602,BACTERIAL,Chloroflexus aurantiacus J-10-fl,Chloroflexus aurantiacus,Carbon dioxide fixation
+Go0001331,118005,BACTERIAL,Chrysiogenes arsenatis DSM 11915,Chrysiogenes arsenatis,Arsenate-respiring
+Go0001349,748727,BACTERIAL,Clostridium ljungdahlii PETC,Clostridium ljungdahlii,Acetogen
+Go0001349,748727,BACTERIAL,Clostridium ljungdahlii PETC,Clostridium ljungdahlii,Ethanol production
+Go0001350,86416,BACTERIAL,Clostridium pasteurianum BC1,Clostridium pasteurianum,Nitrogen fixation
+Go0001352,309798,BACTERIAL,Coprothermobacter proteolyticus DSM 5265,Coprothermobacter proteolyticus,Acetogen
+Go0001367,165597,BACTERIAL,Crocosphaera watsonii WH 8501,Crocosphaera watsonii,Nitrogen fixation
+Go0001369,344748,BACTERIAL,Crocosphaera watsonii WH0002,Crocosphaera watsonii,Nitrogen fixation
+Go0001370,311424,BACTERIAL,Dehalococcoides mccartyi VS,Dehalococcoides mccartyi,Dechlorinates Tetrachloroethene
+Go0001374,272564,BACTERIAL,Desulfitobacterium hafniense DCB-2,Desulfitobacterium hafniense,Degrades pollutants
+Go0001375,177437,BACTERIAL,"Desulfobacterium autotrophicum HRM2, DSM 3382",Desulfobacterium autotrophicum,Sulfate reducer
+Go0001378,573370,BACTERIAL,Desulfovibrio magneticus RS-1,Desulfovibrio magneticus,Magnetite production
+Go0001378,573370,BACTERIAL,Desulfovibrio magneticus RS-1,Desulfovibrio magneticus,Sulfate reducer
+Go0001379,281689,BACTERIAL,Desulfuromonas acetoxidans DSM 684,Desulfuromonas acetoxidans,Syntrophic
+Go0001477,370405,BACTERIAL,Gallionella ferruginea capsiferriformans TW-2,Gallionella ferruginea,Iron oxidizer
+Go0001479,395494,BACTERIAL,Gallionella capsiferriformans ES-2,Gallionella capsiferriformans,Iron oxidizer
+Go0001484,139438,BACTERIAL,Geovibrio thiophilus AAFu3T,Geovibrio thiophilus,Sulfur reducer
+Go0001486,316067,BACTERIAL,Geobacter daltonii FRC-32,Geobacter daltonii,Iron reducer
+Go0001486,316067,BACTERIAL,Geobacter daltonii FRC-32,Geobacter daltonii,Uranium reducer
+Go0001487,404380,BACTERIAL,"Geobacter bemidjiensis Bem, DSM 16622",Geobacter bemidjiensis,Iron reducer
+Go0001491,272568,BACTERIAL,Gluconacetobacter diazotrophicus PA1 5,Gluconacetobacter diazotrophicus,Nitrogen fixation
+Go0001525,964,BACTERIAL,Herbaspirillum seropedicae Z67,Herbaspirillum seropedicae,Nitrogen fixation
+Go0001527,290337,BACTERIAL,Klebsiella oxytoca M5al VJSK009,Klebsiella oxytoca,Dinitrogen-fixing
+Go0001527,290337,BACTERIAL,Klebsiella oxytoca M5al VJSK009,Klebsiella oxytoca,Prototrophic
+Go0001528,244366,BACTERIAL,Klebsiella variicola 342,Klebsiella variicola,Nitrogen fixation
+Go0001546,395495,BACTERIAL,Leptothrix cholodnii SP-6,Leptothrix cholodnii,Iron oxidizer
+Go0001578,1641,BACTERIAL,Listeria grayi murrayi CLIP12515,Listeria grayi,Nitrate reducer
+Go0001580,272627,BACTERIAL,Magnetospirillum magnetotacticum MS-1,Magnetospirillum magnetotacticum,Iron reducer
+Go0001580,272627,BACTERIAL,Magnetospirillum magnetotacticum MS-1,Magnetospirillum magnetotacticum,Magnetite production
+Go0001581,431944,BACTERIAL,Magnetospirillum gryphiswaldense MSR-1,Magnetospirillum gryphiswaldense,Iron reducer
+Go0001581,431944,BACTERIAL,Magnetospirillum gryphiswaldense MSR-1,Magnetospirillum gryphiswaldense,Magnetite production
+Go0001586,1163748,BACTERIAL,Marinobacter hydrocarbonoclasticus ATCC 49840,Marinobacter hydrocarbonoclasticus,Hydrocarbon degrading
+Go0001586,1163748,BACTERIAL,Marinobacter hydrocarbonoclasticus ATCC 49840,Marinobacter hydrocarbonoclasticus,Iron oxidizer
+Go0001586,1163748,BACTERIAL,Marinobacter hydrocarbonoclasticus ATCC 49840,Marinobacter hydrocarbonoclasticus,Oil degrading
+Go0001587,314342,BACTERIAL,Marinobacter sp. FO2,Marinobacter sp. F02,Iron oxidizer
+Go0001595,267872,BACTERIAL,Microcystis aeruginosa PCC 7806,Microcystis aeruginosa,Hepatotoxins synthesis
+Go0001676,598659,BACTERIAL,Nautilia profundicola Am-H,Nautilia profundicola,Hydrogen oxidizer
+Go0001676,598659,BACTERIAL,Nautilia profundicola Am-H,Nautilia profundicola,Sulfur reducer
+Go0001684,314253,BACTERIAL,Nitrobacter sp. Nb-311A,Nitrobacter sp. Nb-311A,Nitrite-oxidizer
+Go0001685,314278,BACTERIAL,Nitrococcus mobilis Nb-231,Nitrococcus mobilis,Nitrite-oxidizer
+Go0001686,473788,BACTERIAL,Nitrosococcus oceani AFC27,Nitrosococcus oceani,Ammonia-oxidizer
+Go0001687,1227,BACTERIAL,Nitrosococcus sp.,Nitrosococcus sp,Ammonia-oxidizer
+Go0001687,1227,BACTERIAL,Nitrosococcus sp.,Nitrosococcus sp,Nitrifying
+Go0001688,42353,BACTERIAL,Nitrosomonas sp.,Nitrosomonas sp,Ammonia-oxidizer
+Go0001688,42353,BACTERIAL,Nitrosomonas sp.,Nitrosomonas sp,Nitrifying
+Go0001689,314272,BACTERIAL,Nitrosomonas sp 17,Nitrosomonas sp,Ammonia-oxidizer
+Go0001689,314272,BACTERIAL,Nitrosomonas sp 17,Nitrosomonas sp,Nitrifying
+Go0001690,314229,BACTERIAL,Nitrospira marina Nb-295,Nitrospira marina,Nitrite-oxidizer
+Go0001691,330214,BACTERIAL,Nitrospira defluvii,Nitrospira defluvii,Nitrite-oxidizer
+Go0001692,314274,BACTERIAL,Nitrospina gracilis Nb-211,Nitrospina gracilis,Nitrite-oxidizer
+Go0001693,313624,BACTERIAL,Nodularia spumigena CCY9414,Nodularia spumigena,Nitrogen fixation
+Go0001694,63737,BACTERIAL,Nostoc punctiforme PCC 73102,Nostoc punctiforme,Carbon dioxide fixation
+Go0001694,63737,BACTERIAL,Nostoc punctiforme PCC 73102,Nostoc punctiforme,Nitrogen fixation
+Go0001760,439495,BACTERIAL,Pseudovibrio sp. JE062,Pseudovibrio sp. JE062,Denitrifying
+Go0001774,123214,BACTERIAL,Persephonella marina EX-H1,Persephonella marina,Hydrogen oxidizer
+Go0001774,123214,BACTERIAL,Persephonella marina EX-H1,Persephonella marina,Nitrate reducer
+Go0001784,910450,BACTERIAL,Prochloron didemni P1-Palau,Prochloron didemni,Patellamides producer
+Go0001790,290512,BACTERIAL,"Prosthecochloris aestuarii SK413, DSM 271",Prosthecochloris aestuarii,Nitrogen fixation
+Go0001806,977880,BACTERIAL,Cupriavidus taiwanensis LMG 19424,Cupriavidus taiwanensis,Nitrogen fixation
+Go0001809,395491,BACTERIAL,Rhizobium leguminosarum bv. trifolii WSM1325,Rhizobium leguminosarum,Nitrogen fixation
+Go0001811,395492,BACTERIAL,Rhizobium leguminosarum bv. trifolii WSM2304,Rhizobium leguminosarum,Nitrogen fixation
+Go0001812,363754,BACTERIAL,Rhizobium freirei PRF 81,Rhizobium freirei,Nitrogen fixation
+Go0001813,476282,BACTERIAL,Bradyrhizobium japonicum SEMIA 5079,Bradyrhizobium japonicum,Nitrogen fixation
+Go0001814,468557,BACTERIAL,Pseudomonas pseudoalcaligenes MTCC 5210,Pseudomonas pseudoalcaligenes,Cyanotroph
+Go0001815,380,BACTERIAL,Sinorhizobium fredii NGR234,Sinorhizobium fredii,Nitrogen fixation
+Go0001815,380,BACTERIAL,Sinorhizobium fredii NGR234,Sinorhizobium fredii,Stores polyhydroxybutyrate
+Go0001817,234621,BACTERIAL,Rhodococcus erythropolis PR4,Rhodococcus erythropolis,Magnetite production
+Go0001817,234621,BACTERIAL,Rhodococcus erythropolis PR4,Rhodococcus erythropolis,Sulfate reducer
+Go0001823,395960,BACTERIAL,Rhodopseudomonas palustris TIE-1,Rhodopseudomonas palustris,Iron oxidizer
+Go0001824,371731,BACTERIAL,Rhodobacter sp. SW2,Rhodobacter sp. SW2,Iron oxidizer
+Go0001835,412593,BACTERIAL,Thermosulfidibacter takaii ABI70S6,Thermosulfidibacter takaii,Sulfur reducer
+Go0001838,246199,BACTERIAL,Ruminococcus albus 8,Ruminococcus albus,Cellulose degrader
+Go0001839,641112,BACTERIAL,Ruminococcus flavefaciens FD-1,Ruminococcus flavefaciens,Cellulose degrader
+Go0001844,761659,BACTERIAL,Salinibacter ruber M8,Salinibacter ruber,Polymer degrader
+Go0001891,59374,BACTERIAL,Fibrobacter succinogenes S85,Fibrobacter succinogenes,Cellulose degrader
+Go0001895,525146,BACTERIAL,Desulfovibrio desulfuricans desulfuricans ATCC 27774,Desulfovibrio desulfuricans,Sulfate reducer
+Go0001896,883,BACTERIAL,Desulfovibrio vulgaris Miyazaki F,Desulfovibrio vulgaris,Sulfate reducer
+Go0001897,675635,BACTERIAL,Pseudonocardia dioxanivorans CB1190,Pseudonocardia dioxanivorans,Grows on ethers
+Go0001897,675635,BACTERIAL,Pseudonocardia dioxanivorans CB1190,Pseudonocardia dioxanivorans,Nitrogen fixation
+Go0001902,647113,ARCHAEAL,Methanothermococcus okinawensis IH1,Methanothermococcus okinawensis,Methanogen
+Go0001903,880724,ARCHAEAL,"Methanotorris igneus Kol5, DSM 5666",Methanotorris igneus,Methanogen
+Go0001904,647171,ARCHAEAL,Methanotorris formicicus Mc-S-70,Methanotorris formicicus,Methanogen
+Go0001905,573064,ARCHAEAL,Methanocaldococcus fervens AG86,Methanocaldococcus fervens,Methanogen
+Go0001906,573063,ARCHAEAL,Methanocaldococcus infernus ME,Methanocaldococcus infernus,Methanogen
+Go0001908,644281,ARCHAEAL,Methanocaldococcus sp. FS406-22,Methanocaldococcus sp. FS406-22,Methanogen
+Go0001908,644281,ARCHAEAL,Methanocaldococcus sp. FS406-22,Methanocaldococcus sp. FS406-22,Nitrogen fixation
+Go0001914,648757,BACTERIAL,Rhodomicrobium vannielii ATCC 17100,Rhodomicrobium vannielii,Nitrogen fixation
+Go0001915,535289,BACTERIAL,Acidovorax ebreus TPSY,Acidovorax ebreus,Iron oxidizer
+Go0001915,535289,BACTERIAL,Acidovorax ebreus TPSY,Acidovorax ebreus,Uranium oxidizer
+Go0001916,568394,BACTERIAL,Ferrutens nitratireducens,Ferrutens nitratireducens,Iron oxidizer
+Go0001922,446462,BACTERIAL,Actinosynnema mirum DSM 43827,Actinosynnema mirum,Nocardicin A producer
+Go0001925,446465,BACTERIAL,"Brachybacterium faecium 6-10, DSM 4810",Brachybacterium faecium,Sugars fermentor
+Go0001927,446471,BACTERIAL,"Xylanimonas cellulosilytica XIL07, DSM 15894",Xylanimonas cellulosilytica,Cellulose degrader
+Go0001927,446471,BACTERIAL,"Xylanimonas cellulosilytica XIL07, DSM 15894",Xylanimonas cellulosilytica,Xylan degrader
+Go0001929,469381,BACTERIAL,"Dethiosulfovibrio peptidovorans SEBR 4207, DSM 11002",Dethiosulfovibrio peptidovorans,Thiosulfate reducer
+Go0001951,316276,BACTERIAL,Thermochromatium tepidum MC ATCC 43061,Thermochromatium tepidum,Nitrogen fixation
+Go0001960,365528,BACTERIAL,Frankia discariae BCU110501,Frankia discariae,Nitrogen fixation
+Go0001961,222534,BACTERIAL,Frankia elaeagni BMG5.12,Frankia elaeagni,Nitrogen fixation
+Go0001963,644283,BACTERIAL,Micromonospora aurantiaca ATCC 27029,Micromonospora aurantiaca,Polyisoprene rubber degrader
+Go0001964,627343,BACTERIAL,Zymomonas mobilis mobilis CP4,Zymomonas mobilis,Ethanol production
+Go0001965,555217,BACTERIAL,"Zymomonas mobilis mobilis T.H.Delft 1, ATCC 10988",Zymomonas mobilis,Ethanol production
+Go0001966,627344,BACTERIAL,Zymomonas mobilis mobilis ATCC 29191,Zymomonas mobilis,Ethanol production
+Go0001967,579138,BACTERIAL,"Zymomonas mobilis pomaceae Barker 1, ATCC 29192",Zymomonas mobilis,Ethanol production
+Go0001968,622759,BACTERIAL,Zymomonas mobilis mobilis NCIB 11163,Zymomonas mobilis,Ethanol production
+Go0001969,686340,BACTERIAL,Methylomicrobium album BG8,Methylomicrobium album,Hydrocarbon degrading
+Go0001969,686340,BACTERIAL,Methylomicrobium album BG8,Methylomicrobium album,Methane oxidation
+Go0001970,595536,BACTERIAL,Methylosinus trichosporium OB3b,Methylosinus trichosporium,Methane oxidation
+Go0001970,595536,BACTERIAL,Methylosinus trichosporium OB3b,Methylosinus trichosporium,Pollutant degrader
+Go0001970,595536,BACTERIAL,Methylosinus trichosporium OB3b,Methylosinus trichosporium,TCE degrader
+Go0001971,572477,BACTERIAL,Allochromatium vinosum DSM 180,Allochromatium vinosum,Sulfur oxidizer
+Go0001972,555778,BACTERIAL,"Halothiobacillus neapolitanus c2, ATCC 23641",Halothiobacillus neapolitanus,Carbon fixation
+Go0001972,555778,BACTERIAL,"Halothiobacillus neapolitanus c2, ATCC 23641",Halothiobacillus neapolitanus,Sulfur oxidizer
+Go0001973,75379,BACTERIAL,Thiomonas intermedia K12,Thiomonas intermedia,Sulfur oxidizer
+Go0001983,292,BACTERIAL,Burkholderia cepacia,Burkholderia cepacia,Nitrogen fixation
+Go0001983,292,BACTERIAL,Burkholderia cepacia,Burkholderia cepacia,Pollutant degrader
+Go0002010,399804,BACTERIAL,Shewanella putrefaciens 200,Shewanella putrefaciens,Iron reducer
+Go0002071,246202,BACTERIAL,Streptococcus sobrinus 6715,Streptococcus sobrinus,Acid-producing
+Go0002082,316284,BACTERIAL,Streptomyces noursei ATCC 11455,Streptomyces noursei,Nystatin producer
+Go0002087,204536,BACTERIAL,Sulfurihydrogenibium azorense Az-Fu1,Sulfurihydrogenibium azorense,Sulfur oxidizer
+Go0002088,436114,BACTERIAL,Sulfurihydrogenibium sp. YO3AOP1,Sulfurihydrogenibium sp. YO3AOP1,Sulfur oxidizer
+Go0002100,377629,BACTERIAL,Teredinibacter turnerae T7901,Teredinibacter turnerae,Cellulose degrader
+Go0002100,377629,BACTERIAL,Teredinibacter turnerae T7901,Teredinibacter turnerae,Dinitrogen-fixing
+Go0002102,340099,BACTERIAL,"Thermoanaerobacter pseudethanolicus 39E, ATCC 33223",Thermoanaerobacter pseudethanolicus,Ethanol production
+Go0002102,340099,BACTERIAL,"Thermoanaerobacter pseudethanolicus 39E, ATCC 33223",Thermoanaerobacter pseudethanolicus,Iron reducer
+Go0002102,340099,BACTERIAL,"Thermoanaerobacter pseudethanolicus 39E, ATCC 33223",Thermoanaerobacter pseudethanolicus,Sugars fermentor
+Go0002106,289376,BACTERIAL,Thermodesulfovibrio yellowstonii DSM 11347,Thermodesulfovibrio yellowstonii,Sulfate reducer
+Go0002107,416555,BACTERIAL,Thermolithobacter ferrireducens JW/KA-2,Thermolithobacter ferrireducens,Iron reducer
+Go0002110,309803,BACTERIAL,Thermotoga neapolitana DSM 4359,Thermotoga neapolitana,Sulfur reducer
+Go0002121,396588,BACTERIAL,Thioalkalivibrio sulfidophilus HL-EbGR7,Thioalkalivibrio sulfidophilus,Sulfur oxidizer
+Go0002122,396595,BACTERIAL,Thioalkalivibrio sp. K90mix,Thioalkalivibrio sp. K90mix,Sulfur oxidizer
+Go0002124,717227,BACTERIAL,Treponema primitia ZAS-1,Treponema primitia,Acetogen
+Go0002124,717227,BACTERIAL,Treponema primitia ZAS-1,Treponema primitia,Dinitrogen-fixing
+Go0002124,717227,BACTERIAL,Treponema primitia ZAS-1,Treponema primitia,Hydrogen metabolizer
+Go0002125,545695,BACTERIAL,Treponema azotonutricium ZAS-9,Treponema azotonutricium,Acetogen
+Go0002125,545695,BACTERIAL,Treponema azotonutricium ZAS-9,Treponema azotonutricium,Dinitrogen-fixing
+Go0002125,545695,BACTERIAL,Treponema azotonutricium ZAS-9,Treponema azotonutricium,Hydrogen metabolizer
+Go0002135,314345,BACTERIAL,Mariprofundus ferrooxydans PV-1,Mariprofundus ferrooxydans,Iron oxidizer
+Go0002136,580332,BACTERIAL,Sideroxydans lithotrophicus ES-1,Sideroxydans lithotrophicus,Iron oxidizer
+Go0002138,340101,BACTERIAL,Victivallis vadensis ATCC BAA-548,Victivallis vadensis,Cellobiose-degrading
+Go0002202,439522,BACTERIAL,Thiovulum majus Tm_Nivab2,Thiovulum majus,Sulfide oxidizer
+Go0002232,63186,BACTERIAL,Zobellia galactanivorans DsijT,Zobellia galactanivorans,Polymer degrader
+Go0002233,542,BACTERIAL,Zymomonas mobilis,Zymomonas mobilis,Ethanol production
+Go0002237,396597,BACTERIAL,Burkholderia ambifaria MEX-5,Burkholderia ambifaria,Nitrogen fixation
+Go0002237,396597,BACTERIAL,Burkholderia ambifaria MEX-5,Burkholderia ambifaria,Pollutant degrader
+Go0002238,396596,BACTERIAL,Burkholderia ambifaria IOP40-10,Burkholderia ambifaria,Nitrogen fixation
+Go0002238,396596,BACTERIAL,Burkholderia ambifaria IOP40-10,Burkholderia ambifaria,Pollutant degrader
+Go0002239,396598,BACTERIAL,Paraburkholderia graminis C4D1M,Paraburkholderia graminis,Nitrogen fixation
+Go0002239,396598,BACTERIAL,Paraburkholderia graminis C4D1M,Paraburkholderia graminis,Pollutant degrader
+Go0002240,398577,BACTERIAL,Burkholderia ambifaria MC40-6,Burkholderia ambifaria,Nitrogen fixation
+Go0002240,398577,BACTERIAL,Burkholderia ambifaria MC40-6,Burkholderia ambifaria,Pollutant degrader
+Go0002243,391038,BACTERIAL,Paraburkholderia phymatum STM815,Paraburkholderia phymatum,Nitrogen fixation
+Go0002244,398527,BACTERIAL,Paraburkholderia phytofirmans PsJN,Paraburkholderia phytofirmans,Nitrogen fixation
+Go0002245,394503,BACTERIAL,Ruminiclostridium cellulolyticum H10,Ruminiclostridium cellulolyticum,Cellulose degrader
+Go0002247,399795,BACTERIAL,Comamonas testosteroni KF-1,Comamonas testosteroni,Surfactant-degrading
+Go0002248,633145,BACTERIAL,Dehalococcoides mccartyi GT,Dehalococcoides mccartyi,Dechlorinates Tetrachloroethene
+Go0002249,218208,BACTERIAL,Desulfatibacillum aliphaticivorans AK-01,Desulfatibacillum aliphaticivorans,Alkane degrader
+Go0002249,218208,BACTERIAL,Desulfatibacillum aliphaticivorans AK-01,Desulfatibacillum aliphaticivorans,Sulfate reducer
+Go0002255,398767,BACTERIAL,Geobacter lovleyi SZ,Geobacter lovleyi,Metal reducer
+Go0002256,443144,BACTERIAL,Geobacter sp. M21,Geobacter sp. M21,Metal reducer
+Go0002257,180,BACTERIAL,Leptospirillum ferrooxidans DSM 2705,Leptospirillum ferrooxidans,Iron oxidizer
+Go0002260,460265,BACTERIAL,Methylobacterium nodulans ORS 2060,Methylobacterium nodulans,Nitrogen fixation
+Go0002262,426355,BACTERIAL,Methylobacterium radiotolerans JCM 2831,Methylobacterium radiotolerans,Nitrogen fixation
+Go0002264,395964,BACTERIAL,Methylocapsa acidiphila B2,Methylocapsa acidiphila,Methane oxidation
+Go0002267,28892,ARCHAEAL,"Methanofollis liminatans GKZPZ, DSM 4140",Methanofollis liminatans,Methanogen
+Go0002270,929705,BACTERIAL,"Sulfobacillus thermosulfidooxidans AT-1, DSM 9293",Sulfobacillus thermosulfidooxidans,Iron oxidizer
+Go0002270,929705,BACTERIAL,"Sulfobacillus thermosulfidooxidans AT-1, DSM 9293",Sulfobacillus thermosulfidooxidans,Sulphide oxidizer
+Go0002271,679936,BACTERIAL,"Sulfobacillus acidophilus NAL, DSM 10332",Sulfobacillus acidophilus,Iron oxidizer
+Go0002271,679936,BACTERIAL,"Sulfobacillus acidophilus NAL, DSM 10332",Sulfobacillus acidophilus,Sulphide oxidizer
+Go0002272,584708,BACTERIAL,"Aminomonas paucivorans GLU-3, DSM 12260",Aminomonas paucivorans,Aminoacid degrading
+Go0002275,563040,BACTERIAL,"Sulfurimonas autotrophica OK10, DSM 16294",Sulfurimonas autotrophica,Sulfur oxidizer
+Go0002284,76869,BACTERIAL,Pseudomonas putida GB-1,Pseudomonas putida,Manganese oxidizer
+Go0002289,458817,BACTERIAL,Shewanella halifaxensis HAW-EB4,Shewanella halifaxensis,Denitrifying
+Go0002293,858215,BACTERIAL,"Thermoanaerobacterium xylanolyticum LX-11, DSM 7097",Thermoanaerobacterium xylanolyticum,Saccharolytic
+Go0002294,580331,BACTERIAL,"Thermoanaerobacter italicus Ab9, DSM 9252",Thermoanaerobacter italicus,Saccharolytic
+Go0002295,401526,BACTERIAL,Thermosinus carboxydivorans Nor1,Thermosinus carboxydivorans,Carbon monoxide oxidizer
+Go0002296,41673,ARCHAEAL,Acidianus brierleyi,Acidianus brierleyi,Sulfur metabolizing
+Go0002311,634498,ARCHAEAL,Methanobrevibacter ruminantium M1,Methanobrevibacter ruminantium,Methanogen
+Go0002312,2186,ARCHAEAL,Methanothermococcus thermolithotrophicus,Methanothermococcus thermolithotrophicus,Methanogen
+Go0002313,2188,ARCHAEAL,Methanococcus voltae,Methanococcus voltae,Methanogen
+Go0002315,644295,ARCHAEAL,"Methanohalobium evestigatum Z-7303, DSM 3721",Methanohalobium evestigatum,Methanogen
+Go0002316,2162,ARCHAEAL,Methanobacterium formicicum MF,Methanobacterium formicicum,Methanogen
+Go0002317,589924,ARCHAEAL,"Ferroglobus placidus AEDII12DO, DSM 10642",Ferroglobus placidus,Iron oxidizer
+Go0002318,619593,ARCHAEAL,Acidianus sulfidivorans JP7,Acidianus sulfidivorans,Iron oxidizer
+Go0002319,313587,ARCHAEAL,Methanogenium frigidum Ace-2,Methanogenium frigidum,Methanogen
+Go0002320,313587,ARCHAEAL,Methanogenium frigidum Ace-2,Methanogenium frigidum,Methanogen
+Go0002321,91560,ARCHAEAL,Methanimicrococcus blatticola PA,Methanimicrococcus blatticola,Methanogen
+Go0002322,2320,ARCHAEAL,Methanopyrus kandleri,Methanopyrus kandleri,Methanogen
+Go0002323,990316,ARCHAEAL,Methanothrix soehngenii GP-6,Methanothrix soehngenii,Methanogen
+Go0002324,2214,ARCHAEAL,Methanosarcina acetivorans,Methanosarcina acetivorans,Methanogen
+Go0002331,456320,ARCHAEAL,Methanococcus voltae A3,Methanococcus voltae,Methanogen
+Go0002333,436308,ARCHAEAL,Nitrosopumilus maritimus SCM1,Nitrosopumilus maritimus,Ammonia-oxidizer
+Go0002340,388467,BACTERIAL,Planktothrix agardhii NIVA-CYA 126/8,Planktothrix agardhii,Carbon dioxide fixation
+Go0002340,388467,BACTERIAL,Planktothrix agardhii NIVA-CYA 126/8,Planktothrix agardhii,Hepatotoxins synthesis
+Go0002340,388467,BACTERIAL,Planktothrix agardhii NIVA-CYA 126/8,Planktothrix agardhii,Toxin producer
+Go0002357,556268,BACTERIAL,Oxalobacter formigenes HOxBLS,Oxalobacter formigenes,Oxalic acid degrader
+Go0002686,304371,ARCHAEAL,Methanocella paludicola SANAE,Methanocella paludicola,Methanogen
+Go0002686,304371,ARCHAEAL,Methanocella paludicola SANAE,Methanocella paludicola,Sulfur reducer
+Go0002795,34028,BACTERIAL,Comamonas sp.,Comamonas sp.,Surfactant-degrading
+Go0003218,760142,BACTERIAL,"Hippea maritima MH2, DSM 10411",Hippea maritima,Sulfur reducer
+Go0003221,608538,BACTERIAL,"Hydrogenobacter thermophilus TK-6, DSM 6534",Hydrogenobacter thermophilus,Hydrogen oxidizer
+Go0003237,491916,BACTERIAL,Rhizobium etli CIAT 652,Rhizobium etli,Nitrogen fixation
+Go0003323,498211,BACTERIAL,Cellvibrio japonicus Ueda107,Cellvibrio japonicus,Biomass degrader
+Go0003323,498211,BACTERIAL,Cellvibrio japonicus Ueda107,Cellvibrio japonicus,Cellulose degrader
+Go0003369,649753,BACTERIAL,Flavonifractor plautii DSM 6740,Flavonifractor plautii,Saccharolytic
+Go0003397,445932,BACTERIAL,Elusimicrobium minutum Pei191,Elusimicrobium minutum,Biomass degrader
+Go0003400,509173,BACTERIAL,Acinetobacter baumannii AYE,Acinetobacter baumannii,Prototrophic
+Go0003442,574087,BACTERIAL,"Acetohalobium arabaticum Z-7288, DSM 5501",Acetohalobium arabaticum,Acetogenic
+Go0003456,1426,BACTERIAL,Parageobacillus thermoglucosidasius M10EXG,Parageobacillus thermoglucosidasius,Acetate producer
+Go0003456,1426,BACTERIAL,Parageobacillus thermoglucosidasius M10EXG,Parageobacillus thermoglucosidasius,Ethanol production
+Go0003456,1426,BACTERIAL,Parageobacillus thermoglucosidasius M10EXG,Parageobacillus thermoglucosidasius,Sugars fermentor
+Go0003481,457429,BACTERIAL,Streptomyces pristinaespiralis ATCC 25486,Streptomyces pristinaespiralis,Pristinamycin producer
+Go0003489,868864,BACTERIAL,"Desulfurobacterium thermolithotrophum BSA, DSM 11699",Desulfurobacterium thermolithotrophum,Sulfur reducer
+Go0003490,765177,ARCHAEAL,"Desulfurococcus mucosus 07/1, DSM 2162",Desulfurococcus mucosus,Sulfur respiration
+Go0003524,399726,BACTERIAL,Thermoanaerobacter sp. X514,Thermoanaerobacter sp. X514,Metal reducer
+Go0003543,644897,BACTERIAL,Desulfovibrio termitidis HI1,Desulfovibrio termitidis,Denitrifying
+Go0003558,754504,BACTERIAL,Bradyrhizobium japonicum SEMIA 5080,Bradyrhizobium japonicum,Nitrogen fixation
+Go0003567,610130,BACTERIAL,"Lachnoclostridium saccharolyticum WM1, DSM 2544",Lachnoclostridium saccharolyticum,Cellulose degrader
+Go0003567,610130,BACTERIAL,"Lachnoclostridium saccharolyticum WM1, DSM 2544",Lachnoclostridium saccharolyticum,Ethanol production
+Go0003588,572545,BACTERIAL,Hungateiclostridium thermocellum DSM 2360,Hungateiclostridium thermocellum,Cellulose degrader
+Go0003588,572545,BACTERIAL,Hungateiclostridium thermocellum DSM 2360,Hungateiclostridium thermocellum,Ethanogenic
+Go0003588,572545,BACTERIAL,Hungateiclostridium thermocellum DSM 2360,Hungateiclostridium thermocellum,Ethanol production
+Go0003612,547558,ARCHAEAL,"Methanohalophilus mahii SLP, DSM 5219",Methanohalophilus mahii,Methanogen
+Go0003613,230356,ARCHAEAL,Methanolacinia paynteri G-2000,Methanolacinia paynteri,Methanogen
+Go0003614,1090322,ARCHAEAL,Methanolobus tindarius DSM 2278,Methanolobus tindarius,Methanogen
+Go0003615,867904,ARCHAEAL,Methanomethylovorans hollandica DSM 15978,Methanomethylovorans hollandica,Methanogen
+Go0003616,694440,ARCHAEAL,Methanomicrobium mobile DSM 1539,Methanomicrobium mobile,Methanogen
+Go0003617,937775,ARCHAEAL,"Methanoplanus limicola M3, DSM 2279",Methanoplanus limicola,Methanogen
+Go0003618,679926,ARCHAEAL,Methanolacinia petrolearia DSM 11571,Methanolacinia petrolearia,Methanogen
+Go0003619,679901,ARCHAEAL,"Methanosalsum zhilinae WeN5, DSM 4017",Methanosalsum zhilinae,Methanogen
+Go0003620,862719,BACTERIAL,Azospirillum lipoferum 4B,Azospirillum lipoferum,Nitrogen fixation
+Go0003638,483214,ARCHAEAL,Methanobrevibacter smithii DSM 2375,Methanobrevibacter smithii,Methanogen
+Go0003646,523846,ARCHAEAL,"Methanothermus fervidus V24S, DSM 2088",Methanothermus fervidus,Methanogen
+Go0003651,889378,BACTERIAL,"Spirochaeta africana Z-7692, DSM 8902",Spirochaeta africana,Saccharolytic
+Go0003651,889378,BACTERIAL,"Spirochaeta africana Z-7692, DSM 8902",Spirochaeta africana,Utilize carbohydrates
+Go0003654,573413,BACTERIAL,Sediminispirochaeta smaragdinae DSM 11293,Sediminispirochaeta smaragdinae,Utilize carbohydrates
+Go0003655,665571,BACTERIAL,Spirochaeta thermophila DSM 6192,Spirochaeta thermophila,Utilize carbohydrates
+Go0003657,935948,BACTERIAL,"Caldanaerobius polysaccharolyticus KMTHCJ, DSM 13641",Caldanaerobius polysaccharolyticus,Saccharolytic
+Go0003672,521001,ARCHAEAL,Methanobrevibacter smithii DSM 11975,Methanobrevibacter smithii,Methanogen
+Go0003674,521002,ARCHAEAL,"Methanobrevibacter smithii F1, DSM 2374",Methanobrevibacter smithii,Methanogen
+Go0003678,880072,BACTERIAL,"Desulfobacca acetoxidans ASRB2, DSM 11109",Desulfobacca acetoxidans,Sulfate reducer
+Go0003680,935942,BACTERIAL,"Desulfonatronum lacustre Z-7951, DSM 10312",Desulfonatronum lacustre,Sulfate reducer
+Go0003681,656914,BACTERIAL,"Desulfonispora thiosulfatigenes GKNTAUT , DSM 11270",Desulfonispora thiosulfatigenes,Taurine fermenter
+Go0003682,694431,BACTERIAL,"Desulfurella acetivorans A63, DSM 5264",Desulfurella acetivorans,Sulfur reducer
+Go0003685,667014,BACTERIAL,"Thermodesulfatator indicus CIR29812, DSM 15286",Thermodesulfatator indicus,Sulfate reducer
+Go0003687,747365,BACTERIAL,"Thermodesulfobium narugense Na82, DSM 14796",Thermodesulfobium narugense,Sulfate reducer
+Go0003712,537012,BACTERIAL,Bacteroides cellulosilyticus DSM 14838,Bacteroides cellulosilyticus,Cellulose degrader
+Go0003782,526947,BACTERIAL,Rhizobium etli GR56,Rhizobium etli,Nitrogen fixation
+Go0003783,526946,BACTERIAL,Rhizobium etli IE4771,Rhizobium etli,Nitrogen fixation
+Go0003784,2020311,BACTERIAL,Rhizobium sp. Kim5,Rhizobium sp. Kim5,Nitrogen fixation
+Go0003785,29449,BACTERIAL,Rhizobium etli S20,Rhizobium etli,Nitrogen fixation
+Go0003786,526949,BACTERIAL,Rhizobium phaseoli Brasil 5,Rhizobium phaseoli,Nitrogen fixation
+Go0003794,2020312,BACTERIAL,Rhizobium sp. CIAT 894,Rhizobium sp. CIAT 894,Nitrogen fixation
+Go0003795,521460,BACTERIAL,Caldicellulosiruptor bescii DSM 6725,Caldicellulosiruptor bescii,Cellulose degrader
+Go0003815,526222,BACTERIAL,Desulfovibrio salexigens DSM 2638,Desulfovibrio salexigens,Sulfate reducer
+Go0003859,538025,BACTERIAL,Rhizobium etli 8C-3,Rhizobium etli,Nitrogen fixation
+Go0003860,1206,BACTERIAL,Trichodesmium erythraeum 21-75,Trichodesmium erythraeum,Carbon fixation
+Go0003860,1206,BACTERIAL,Trichodesmium erythraeum 21-75,Trichodesmium erythraeum,Nitrogen fixation
+Go0003875,380394,BACTERIAL,Acidithiobacillus ferrooxidans ATCC 53993,Acidithiobacillus ferrooxidans,Iron oxidizer
+Go0003886,243159,BACTERIAL,Acidithiobacillus ferrooxidans ATCC 23270,Acidithiobacillus ferrooxidans,Iron oxidizer
+Go0003890,655438,BACTERIAL,Cycloclasticus pugetii PS-1,Cycloclasticus pugetii,PAH-degrading
+Go0003892,765698,BACTERIAL,Mesorhizobium ciceri bv. biserrulae WSM1271,Mesorhizobium ciceri,Nitrogen fixation
+Go0003902,633697,BACTERIAL,Eubacterium cellulosolvens 6,Eubacterium cellulosolvens,Cellulose degrader
+Go0003903,320502,BACTERIAL,"Hungateiclostridium alkalicellulosi Z-7026, DSM 17461",Hungateiclostridium alkalicellulosi,Cellulose degrader
+Go0003905,243261,BACTERIAL,Burkholderia sp. Ch1-1,Burkholderia sp. Ch1-1,PAH-degrading
+Go0003921,293647,BACTERIAL,Byssovorax cruenta By c2,Byssovorax cruenta,Cellulose degrader
+Go0003941,543736,BACTERIAL,Rhodococcus opacus PD630,Rhodococcus opacus,Hydrocarbon degrading
+Go0003943,596151,BACTERIAL,Desulfovibrio fructosovorans JJ,Desulfovibrio fructosovorans,Sulfate reducer
+Go0003955,536019,BACTERIAL,Mesorhizobium opportunistum WSM2075,Mesorhizobium opportunistum,Nitrogen fixation
+Go0003956,545694,BACTERIAL,Treponema primitia ZAS-2,Treponema primitia,Acetogen
+Go0003956,545694,BACTERIAL,Treponema primitia ZAS-2,Treponema primitia,Dinitrogen-fixing
+Go0003956,545694,BACTERIAL,Treponema primitia ZAS-2,Treponema primitia,Hydrogen metabolizer
+Go0003957,754035,BACTERIAL,Mesorhizobium australicum WSM2073,Mesorhizobium australicum,Nitrogen fixation
+Go0003986,557760,BACTERIAL,Rhodobacter sphaeroides KD131,Rhodobacter sphaeroides,Hydrogen production
+Go0004008,457430,BACTERIAL,Streptomyces filamentosus NRRL 11379,Streptomyces filamentosus,Daptomycin producer
+Go0004024,551115,BACTERIAL,Trichormus azollae 0708,Trichormus azollae,Nitrogen fixation
+Go0004027,129961,BACTERIAL,Spirulina major PCC 6313,Spirulina major,Carbon dioxide fixation
+Go0004040,46234,BACTERIAL,Anabaena sp. 90,Anabaena sp. 90,Nitrogen fixation
+Go0004134,279714,BACTERIAL,Pseudogulbenkiania ferrooxidans 2002,Pseudogulbenkiania ferrooxidans,Iron oxidizer
+Go0004134,279714,BACTERIAL,Pseudogulbenkiania ferrooxidans 2002,Pseudogulbenkiania ferrooxidans,Uranium oxidizer
+Go0004141,508746,BACTERIAL,Gloeothece sp. PCC 6909/1,Gloeothece sp. PCC 6909/1,Nitrogen fixation
+Go0004173,572262,BACTERIAL,Candidatus Thiodictyon syntrophicum Cad16,Candidatus Thiodictyon syntrophicum,Sulfide oxidizer
+Go0004179,553175,BACTERIAL,Porphyromonas endodontalis ATCC 35406,Porphyromonas endodontalis,Saccharolytic
+Go0004181,251229,BACTERIAL,Chroococcidiopsis thermalis PCC 7203,Chroococcidiopsis thermalis,Nitrogen fixation
+Go0004181,251229,BACTERIAL,Chroococcidiopsis thermalis PCC 7203,Chroococcidiopsis thermalis,Nitrogen fixer- anaerobic
+Go0004217,59405,BACTERIAL,Thauera aromatica 3CB2,Thauera aromatica,Degrades aromatic hydrocarbons
+Go0004217,59405,BACTERIAL,Thauera aromatica 3CB2,Thauera aromatica,Denitrifying
+Go0004252,657323,BACTERIAL,Ruminococcus sp. SR1/5,Ruminococcus sp.,Cellulose degrader
+Go0004253,657321,BACTERIAL,Ruminococcus bromii L2-63,Ruminococcus bromii,Cellulose degrader
+Go0004253,657321,BACTERIAL,Ruminococcus bromii L2-63,Ruminococcus bromii,Ethanol production
+Go0004277,657324,BACTERIAL,Butyrivibrio fibrisolvens 16/4,Butyrivibrio fibrisolvens,Cellulose degrader
+Go0004311,509190,BACTERIAL,Caulobacter segnis ATCC 21756,Caulobacter segnis,Chlorophenol degrading
+Go0004313,696281,BACTERIAL,"Desulfotomaculum ruminis DL, DSM 2154",Desulfotomaculum ruminis,Hydrogen sulfide gas release
+Go0004313,696281,BACTERIAL,"Desulfotomaculum ruminis DL, DSM 2154",Desulfotomaculum ruminis,Sulfate reducer
+Go0004314,29376,BACTERIAL,Desulfofundulus thermobenzoicus,Desulfofundulus thermobenzoicus,Hydrogen sulfide gas release
+Go0004314,29376,BACTERIAL,Desulfofundulus thermobenzoicus,Desulfofundulus thermobenzoicus,Sulfate reducer
+Go0004315,643562,BACTERIAL,Pseudodesulfovibrio aespoeensis Aspo-2,Pseudodesulfovibrio aespoeensis,Hydrogen sulfide gas release
+Go0004315,643562,BACTERIAL,Pseudodesulfovibrio aespoeensis Aspo-2,Pseudodesulfovibrio aespoeensis,Sulfate reducer
+Go0004335,657309,BACTERIAL,Bacteroides xylanisolvens XB1A,Bacteroides xylanisolvens,Xylan degrader
+Go0004363,760154,BACTERIAL,Sulfurospirillum barnesii SES-3,Sulfurospirillum barnesii,Sulfur respiration
+Go0004367,509193,BACTERIAL,"Thermoanaerobacter brockii finnii Ako-1, DSM 3389",Thermoanaerobacter brockii,Saccharolytic
+Go0004368,509192,BACTERIAL,Thermoanaerobacter ethanolicus JW 200,Thermoanaerobacter ethanolicus,Cellulose degrader
+Go0004368,509192,BACTERIAL,Thermoanaerobacter ethanolicus JW 200,Thermoanaerobacter ethanolicus,Ethanol production
+Go0004370,983594,BACTERIAL,Burkholderia cepacia ATCC 25416,Burkholderia cepacia,Nitrogen fixation
+Go0004370,983594,BACTERIAL,Burkholderia cepacia ATCC 25416,Burkholderia cepacia,Pollutant degrader
+Go0004375,868595,BACTERIAL,"Desulfotomaculum carboxydivorans CO-1-SRB, DSM 14880",Desulfotomaculum carboxydivorans,Hydrogen sulfide gas release
+Go0004375,868595,BACTERIAL,"Desulfotomaculum carboxydivorans CO-1-SRB, DSM 14880",Desulfotomaculum carboxydivorans,Sulfate reducer
+Go0004376,760568,BACTERIAL,Desulfofundulus kuznetsovii DSM 6115,Desulfofundulus kuznetsovii,Hydrogen sulfide gas release
+Go0004376,760568,BACTERIAL,Desulfofundulus kuznetsovii DSM 6115,Desulfofundulus kuznetsovii,Sulfate reducer
+Go0004377,696369,BACTERIAL,Desulfotomaculum nigrificans DSM 574,Desulfotomaculum nigrificans,Hydrogen sulfide gas release
+Go0004377,696369,BACTERIAL,Desulfotomaculum nigrificans DSM 574,Desulfotomaculum nigrificans,Sulfate reducer
+Go0004378,872,BACTERIAL,Desulfovibrio hanfordensis,Desulfovibrio hanfordensis,Hydrogen sulfide gas release
+Go0004378,872,BACTERIAL,Desulfovibrio hanfordensis,Desulfovibrio hanfordensis,Sulfate reducer
+Go0004379,644968,BACTERIAL,Desulfovibrio carbinoliphilus oakridgensis FW1012B,Desulfovibrio carbinoliphilus oakridgensis,Hydrogen sulfide gas release
+Go0004379,644968,BACTERIAL,Desulfovibrio carbinoliphilus oakridgensis FW1012B,Desulfovibrio carbinoliphilus oakridgensis,Sulfate reducer
+Go0004401,457431,BACTERIAL,Streptomyces filamentosus NRRL 15998,Streptomyces filamentosus,Daptomycin producer
+Go0004420,102897,BACTERIAL,Frankia sp. EUN1f,Frankia sp. EUN1f,Nitrogen fixation
+Go0004423,869211,BACTERIAL,"Spirochaeta thermophila Z-1203, DSM 6578",Spirochaeta thermophila,Cellulose degrader
+Go0004423,869211,BACTERIAL,"Spirochaeta thermophila Z-1203, DSM 6578",Spirochaeta thermophila,Utilize carbohydrates
+Go0004423,869211,BACTERIAL,"Spirochaeta thermophila Z-1203, DSM 6578",Spirochaeta thermophila,Xylan degrader
+Go0004436,28051,BACTERIAL,Lachnospira multipara D32,Lachnospira multipara,Cellulose degrader
+Go0004457,1491,BACTERIAL,Clostridium botulinum 17B,Clostridium botulinum,Type A toxin producer
+Go0004469,153948,BACTERIAL,Nitrosomonas sp. AL212,Nitrosomonas sp. AL212,Ammonia-oxidizer
+Go0004469,153948,BACTERIAL,Nitrosomonas sp. AL212,Nitrosomonas sp. AL212,Nitrifying
+Go0004478,29356,BACTERIAL,Clostridium chartatabidum DSM 5482,Clostridium chartatabidum,Cellulose degrader
+Go0004498,768670,BACTERIAL,"Calditerrivibrio nitroreducens Yu37-1, DSM 19672",Calditerrivibrio nitroreducens,Nitrate reducer
+Go0004499,926551,BACTERIAL,"Capnocytophaga cynodegmi E6447, DSM 19736",Capnocytophaga cynodegmi,Nitrate reducer
+Go0004513,301302,BACTERIAL,Roseburia faecis CC123,Roseburia faecis,Cellulose degrader
+Go0004517,40518,BACTERIAL,Ruminococcus bromii ATCC 27255,Ruminococcus bromii,Cellulose degrader
+Go0004518,657314,BACTERIAL,Blautia obeum A2-162,Blautia obeum,Cellulose degrader
+Go0004519,213810,BACTERIAL,Ruminococcus champanellensis 18P13,Ruminococcus champanellensis,Cellulose degrader
+Go0004520,657313,BACTERIAL,Blautia torques L2-14,Blautia torques,Cellulose degrader
+Go0004521,245012,BACTERIAL,Clostridiales sp. SM4/1,Clostridiales sp. SM4/1,Cellulose degrader
+Go0004522,245014,BACTERIAL,Clostridiales sp. SS3/4,Clostridiales sp. SS3/4,Cellulose degrader
+Go0004523,649756,BACTERIAL,Anaerostipes hadrus SSC/2,Anaerostipes hadrus,Cellulose degrader
+Go0004567,643648,BACTERIAL,Syntrophothermus lipocalidus DSM 12680,Syntrophothermus lipocalidus,Syntrophic
+Go0004587,457427,BACTERIAL,Streptomyces himastatinicus ATCC 53653,Streptomyces himastatinicus,Himastatin producer
+Go0004627,649759,BACTERIAL,Oxalobacter formigenes DSM 4420,Oxalobacter formigenes,Oxalic acid degrader
+Go0004654,862515,BACTERIAL,Prevotella marshii DSM 16973,Prevotella marshii,Saccharolytic
+Go0004748,509191,BACTERIAL,"Hungateiclostridium cellulolyticum CD2, DSM 1870",Hungateiclostridium cellulolyticum,Cellulose degrader
+Go0004750,573059,BACTERIAL,Desulfovibrio vulgaris RCH1,Desulfovibrio vulgaris,Hydrogen sulfide gas release
+Go0004750,573059,BACTERIAL,Desulfovibrio vulgaris RCH1,Desulfovibrio vulgaris,Sulfate reducer
+Go0004755,861360,BACTERIAL,Glutamicibacter arilaitensis re117,Glutamicibacter arilaitensis,Chlorophenol degrading
+Go0004756,573060,BACTERIAL,Acidovorax delafieldii 2AN,Acidovorax delafieldii,Iron oxidizer
+Go0004771,591167,BACTERIAL,"Streptomyces flavogriseus IAF 45 CD, ATCC 33331",Streptomyces flavogriseus,Cellulose degrader
+Go0004772,590998,BACTERIAL,"Cellulomonas fimi NRS 133, ATCC 484",Cellulomonas fimi,Biomass degrader
+Go0004772,590998,BACTERIAL,"Cellulomonas fimi NRS 133, ATCC 484",Cellulomonas fimi,Cellulose degrader
+Go0004772,590998,BACTERIAL,"Cellulomonas fimi NRS 133, ATCC 484",Cellulomonas fimi,Nitrate reducer
+Go0004772,590998,BACTERIAL,"Cellulomonas fimi NRS 133, ATCC 484",Cellulomonas fimi,Xylan degrader
+Go0004792,656024,BACTERIAL,Frankia symbiont of Datisca glomerata Dg1,Frankia symbiont of Datisca glomerata,Nitrogen fixation
+Go0004795,435,BACTERIAL,Acetobacter aceti,Acetobacter aceti,Acid-producing
+Go0004795,435,BACTERIAL,Acetobacter aceti,Acetobacter aceti,Nitrogen fixation
+Go0004796,264203,BACTERIAL,"Zymomonas mobilis mobilis ZM4, ATCC 31821, Plasmid",Zymomonas mobilis,Ethanol production
+Go0004815,915438,BACTERIAL,Prevotella oryzae DSM 17970,Prevotella oryzae,Xylan degrader
+Go0004816,1449,BACTERIAL,"Amphibacillus xylanus Ep01, DSM 6626",Amphibacillus xylanus,Xylan degrader
+Go0004825,508458,BACTERIAL,Synergistetes Syn_Fa1,(null),Aminoacids fermentor
+Go0004825,508458,BACTERIAL,Synergistetes Syn_Fa1,(null),Dehalogenation
+Go0004825,508458,BACTERIAL,Synergistetes Syn_Fa1,(null),Hydrogen production
+Go0004855,717961,BACTERIAL,Eubacterium siraeum V10Sc8a,Eubacterium siraeum,Cellulose degrader
+Go0004870,298654,BACTERIAL,Frankia inefficax EuI1c,Frankia inefficax,Nitrogen fixation
+Go0004883,472759,BACTERIAL,Nitrosococcus halophilus Nc4,Nitrosococcus halophilus,Ammonia-oxidizer
+Go0004883,472759,BACTERIAL,Nitrosococcus halophilus Nc4,Nitrosococcus halophilus,Nitrifying
+Go0004903,158189,BACTERIAL,Sphaerochaeta globosa Buddy,Sphaerochaeta globosa,Utilize carbohydrates
+Go0004914,596152,BACTERIAL,Desulfovibrio sp. U5L,Desulfovibrio sp. U5L,Hydrogen sulfide gas release
+Go0004914,596152,BACTERIAL,Desulfovibrio sp. U5L,Desulfovibrio sp. U5L,Sulfate reducer
+Go0004918,573061,BACTERIAL,"Clostridium cellulovorans 743B, ATCC 35296",Clostridium cellulovorans,Cellulose degrader
+Go0004933,637911,BACTERIAL,Actinobacillus minor NM305,Actinobacillus minor,Sugars fermentor
+Go0004987,634995,BACTERIAL,Desulfovibrio sp. H0407_2.3jLac,Desulfovibrio sp. H0407_2.3jLac,Hydrogen sulfide gas release
+Go0004987,634995,BACTERIAL,Desulfovibrio sp. H0407_2.3jLac,Desulfovibrio sp. H0407_2.3jLac,Sulfate reducer
+Go0005033,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough UA2,Desulfovibrio vulgaris,Hydrogen sulfide gas release
+Go0005033,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough UA2,Desulfovibrio vulgaris,Sulfate reducer
+Go0005039,158190,BACTERIAL,Sphaerochaeta pleomorpha Grapes,Sphaerochaeta pleomorpha,Utilize carbohydrates
+Go0005042,862751,BACTERIAL,Streptomyces sp. Sv. ACTE SirexAA-E,Streptomyces sp. SirexAA-E,Cellulose degrader
+Go0005055,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough HA3,Desulfovibrio vulgaris,Hydrogen sulfide gas release
+Go0005055,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough HA3,Desulfovibrio vulgaris,Sulfate reducer
+Go0005073,102129,BACTERIAL,Leptolyngbya sp. PCC 7375,Leptolyngbya sp. PCC 7375,Nitrogen fixation
+Go0005078,536227,BACTERIAL,Clostridium carboxidivorans P7,Clostridium carboxidivorans,Acetogenic
+Go0005078,536227,BACTERIAL,Clostridium carboxidivorans P7,Clostridium carboxidivorans,Solvent producer
+Go0005097,1237085,ARCHAEAL,Candidatus Nitrososphaera gargensis Ga9-2,Candidatus Nitrososphaera gargensis Ga9-2,Ammonia-oxidizer
+Go0005103,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough 3-10,Desulfovibrio vulgaris,Hydrogen sulfide gas release
+Go0005103,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough 3-10,Desulfovibrio vulgaris,Sulfate reducer
+Go0005104,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough A-1,Desulfovibrio vulgaris,Hydrogen sulfide gas release
+Go0005104,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough A-1,Desulfovibrio vulgaris,Sulfate reducer
+Go0005105,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough 9-11,Desulfovibrio vulgaris,Hydrogen sulfide gas release
+Go0005105,881,BACTERIAL,Desulfovibrio vulgaris Hildenborough 9-11,Desulfovibrio vulgaris,Sulfate reducer
+Go0005115,402777,BACTERIAL,Kamptonema formosum PCC 6407,Kamptonema formosum,Nitrogen fixation
+Go0005116,643473,BACTERIAL,Fortiea contorta PCC 7126,Fortiea contorta,Nitrogen fixation
+Go0005117,1609288,BACTERIAL,Streptomyces sp. ACT-1 XylebKG-1,Streptomyces sp. ACT-1 XylebKG-1,Cellulose degrader
+Go0005131,316,BACTERIAL,Pseudomonas stutzeri RCH2,Pseudomonas stutzeri,Denitrifying
+Go0005137,645464,BACTERIAL,Campylobacter jejuni jejuni M1,Campylobacter jejuni,Auxotroph
+Go0005139,717605,BACTERIAL,"Thermobacillus composti KWC4, DSM 18247",Thermobacillus composti,Xylan degrader
+Go0005154,979226,BACTERIAL,"Cohnella panacarvi Gsoil 349, DSM 18696",Cohnella panacarvi,Xylan degrader
+Go0005156,698762,BACTERIAL,"Thermanaeromonas toyohensis ToBE, DSM 14490",Thermanaeromonas toyohensis,Thiosulfate reducer
+Go0005162,484021,BACTERIAL,Klebsiella pneumoniae NTUH-K2044,Klebsiella pneumoniae,Lactose fermenting
+Go0005163,523844,ARCHAEAL,Methanosarcina thermophila TM-1,Methanosarcina thermophila,Methanogen
+Go0005169,1185652,BACTERIAL,Sinorhizobium fredii USDA 257,Sinorhizobium fredii,Nitrogen fixation
+Go0005169,1185652,BACTERIAL,Sinorhizobium fredii USDA 257,Sinorhizobium fredii,Nitrogen fixer- aerobic
+Go0005183,755178,BACTERIAL,Cyanobacterium aponinum PCC 10605,Cyanobacterium aponinum,Nitrogen fixation
+Go0005409,1170562,BACTERIAL,Calothrix parietina PCC 6303,Calothrix parietina,Nitrogen fixation
+Go0005435,709032,BACTERIAL,"Sulfuricurvum kujiense YK-1, DSM 16994",Sulfuricurvum kujiense,Sulfide oxidizer
+Go0005580,118161,BACTERIAL,Pleurocapsa sp. PCC 7319,Pleurocapsa sp. PCC 7319,Nitrogen fixation
+Go0005626,317936,BACTERIAL,Nostoc sp. PCC 7107,Nostoc sp. PCC 7107,Nitrogen fixation
+Go0005637,412895,BACTERIAL,Desulfotomaculum hydrothermale,Desulfotomaculum hydrothermale,Sulfate reducer
+Go0005660,634454,BACTERIAL,Acetobacter pasteurianus IFO 3283-07,Acetobacter pasteurianus,Acid-producing
+Go0005660,634454,BACTERIAL,Acetobacter pasteurianus IFO 3283-07,Acetobacter pasteurianus,Nitrogen fixation
+Go0005693,1912,BACTERIAL,Streptomyces hygroscopicus,Streptomyces hygroscopicus,Himastatin producer
+Go0005708,681847,BACTERIAL,Labrenzia sp. DG1229,Labrenzia sp. DG1229,DMSP degrader
+Go0005794,301375,ARCHAEAL,"Methanosaeta harundinacea 8Ac, DSM 17206",Methanosaeta harundinacea,Methanogen
+Go0005799,682633,BACTERIAL,Mesorhizobium ciceri ca181,Mesorhizobium ciceri,Nitrogen fixation
+Go0005833,379067,BACTERIAL,Streptomyces bingchengensis,Streptomyces bingchengensis,Himastatin producer
+Go0005835,29448,BACTERIAL,Bradyrhizobium elkanii,Bradyrhizobium elkanii,Nitrogen fixation
+Go0005838,637887,BACTERIAL,"Hungateiclostridium thermocellum LQ8, DSM 1313",Hungateiclostridium thermocellum,Cellulose degrader
+Go0005838,637887,BACTERIAL,"Hungateiclostridium thermocellum LQ8, DSM 1313",Hungateiclostridium thermocellum,Ethanogenic
+Go0005838,637887,BACTERIAL,"Hungateiclostridium thermocellum LQ8, DSM 1313",Hungateiclostridium thermocellum,Ethanol production
+Go0005845,686332,BACTERIAL,Paraburkholderia tuberum PVA5,Paraburkholderia tuberum,Nitrogen fixation
+Go0005857,485916,BACTERIAL,Desulfofarcimen acetoxidans DSM 771,Desulfofarcimen acetoxidans,Hydrogen sulfide gas release
+Go0005857,485916,BACTERIAL,Desulfofarcimen acetoxidans DSM 771,Desulfofarcimen acetoxidans,Sulfate reducer
+Go0005888,395962,BACTERIAL,Rippkaea orientalis PCC 8802,Rippkaea orientalis,Nitrogen fixation
+Go0005894,763057,BACTERIAL,Mesorhizobium huakuii 7653R,Mesorhizobium huakuii,Nitrogen fixation
+Go0005898,165696,BACTERIAL,Novosphingobium sp. TVG9-VII,Novosphingobium sp. TVG9-VII,Degrades aromatic hydrocarbons
+Go0005919,525898,BACTERIAL,"Sulfurospirillum deleyianum 5175, DSM 6946",Sulfurospirillum deleyianum,Sulfur respiration
+Go0005957,931627,BACTERIAL,Mycolicibacterium rhodesiae JS60,Mycolicibacterium rhodesiae,PAH-degrading
+Go0005967,28072,BACTERIAL,Nostoc sp. PCC 7524,Nostoc sp. PCC 7524,Nitrogen fixation
+Go0005969,1173025,BACTERIAL,Geitlerinema sp. PCC 7407,Geitlerinema sp. PCC 7407,Nitrogen fixation
+Go0005970,56107,BACTERIAL,Cylindrospermum stagnale PCC 7417,Cylindrospermum stagnale,Nitrogen fixation
+Go0005976,933853,BACTERIAL,Mariprofundus sp. GSB2,Mariprofundus sp. GSB2,Iron oxidizer
+Go0006018,707241,BACTERIAL,Sinorhizobium meliloti SM11,Sinorhizobium meliloti,Nitrogen fixation
+Go0006018,707241,BACTERIAL,Sinorhizobium meliloti SM11,Sinorhizobium meliloti,Stores polyhydroxybutyrate
+Go0006055,710687,BACTERIAL,Mycolicibacterium tusciae JS617,Mycolicibacterium tusciae,PAH-degrading
+Go0006060,1132509,ARCHAEAL,Halococcus hamelinensis 100A6,Halococcus hamelinensis,Carbon dioxide fixation
+Go0006072,471855,BACTERIAL,"Slackia heliotrinireducens RHS 1, DSM 20476",Slackia heliotrinireducens,Pyrrolizidine alkaloids metabolizer
+Go0006135,710421,BACTERIAL,Mycolicibacterium chubuense NBB4,Mycolicibacterium chubuense,PAH-degrading
+Go0006167,717773,BACTERIAL,Thiomicrospira cyclica ALM1,Thiomicrospira cyclica,Sulfur oxidizer
+Go0006180,388739,BACTERIAL,Roseobacter sp. SK209-2-6,Roseobacter sp. SK209-2-6,Denitrifying
+Go0006210,634455,BACTERIAL,Acetobacter pasteurianus IFO 3283-22,Acetobacter pasteurianus,Acid-producing
+Go0006210,634455,BACTERIAL,Acetobacter pasteurianus IFO 3283-22,Acetobacter pasteurianus,Nitrogen fixation
+Go0006211,634456,BACTERIAL,Acetobacter pasteurianus IFO 3283-26,Acetobacter pasteurianus,Acid-producing
+Go0006211,634456,BACTERIAL,Acetobacter pasteurianus IFO 3283-26,Acetobacter pasteurianus,Nitrogen fixation
+Go0006212,634457,BACTERIAL,Acetobacter pasteurianus IFO 3283-32,Acetobacter pasteurianus,Acid-producing
+Go0006212,634457,BACTERIAL,Acetobacter pasteurianus IFO 3283-32,Acetobacter pasteurianus,Nitrogen fixation
+Go0006217,392423,BACTERIAL,Hydrogenivirga sp. 128-5-R1-1,Hydrogenivirga sp. 128-5-R1-1,Hydrogen oxidizer
+Go0006217,392423,BACTERIAL,Hydrogenivirga sp. 128-5-R1-1,Hydrogenivirga sp. 128-5-R1-1,Sulfur oxidizer
+Go0006242,688245,BACTERIAL,Comamonas testosteroni sv. Ba CNB-1,Comamonas testosteroni,Surfactant-degrading
+Go0006244,608506,BACTERIAL,Caldicellulosiruptor obsidiansis OB47,Caldicellulosiruptor obsidiansis,Biomass degrader
+Go0006244,608506,BACTERIAL,Caldicellulosiruptor obsidiansis OB47,Caldicellulosiruptor obsidiansis,Cellulose degrader
+Go0006244,608506,BACTERIAL,Caldicellulosiruptor obsidiansis OB47,Caldicellulosiruptor obsidiansis,Nitrogen producer
+Go0006263,236097,BACTERIAL,Alcanivorax sp. DG881,Alcanivorax sp. DG881,Oil degrading
+Go0006298,391602,BACTERIAL,Beggiatoa sp. Orange Guaymas,Beggiatoa sp. 'Orange Guaymas',Sulfur oxidizer
+Go0006308,634459,BACTERIAL,Acetobacter pasteurianus IFO 3283-12,Acetobacter pasteurianus,Acid-producing
+Go0006308,634459,BACTERIAL,Acetobacter pasteurianus IFO 3283-12,Acetobacter pasteurianus,Nitrogen fixation
+Go0006315,1188231,BACTERIAL,Mariprofundus ferrooxydans M34,Mariprofundus ferrooxydans,Iron oxidizer
+Go0006323,105559,BACTERIAL,Nitrosococcus watsoni C-113,Nitrosococcus watsoni,Ammonia-oxidizer
+Go0006323,105559,BACTERIAL,Nitrosococcus watsoni C-113,Nitrosococcus watsoni,Nitrifying
+Go0006325,886377,BACTERIAL,"Muricauda ruestringensis B1, DSM 13258",Muricauda ruestringensis,Xylan degrader
+Go0006337,270374,BACTERIAL,Marinobacter sp. ELB17,Marinobacter sp. ELB17,Denitrifying
+Go0006340,632516,BACTERIAL,"Caldicellulosiruptor lactoaceticus 6A, DSM 9545",Caldicellulosiruptor lactoaceticus,Biomass degrader
+Go0006340,632516,BACTERIAL,"Caldicellulosiruptor lactoaceticus 6A, DSM 9545",Caldicellulosiruptor lactoaceticus,Cellulose degrader
+Go0006340,632516,BACTERIAL,"Caldicellulosiruptor lactoaceticus 6A, DSM 9545",Caldicellulosiruptor lactoaceticus,Nitrogen producer
+Go0006349,634453,BACTERIAL,Acetobacter pasteurianus IFO 3283-03,Acetobacter pasteurianus,Acid-producing
+Go0006349,634453,BACTERIAL,Acetobacter pasteurianus IFO 3283-03,Acetobacter pasteurianus,Nitrogen fixation
+Go0006354,926567,BACTERIAL,Thermanaerovibrio velox DSM 12556,Thermanaerovibrio velox,Sulfur reducer
+Go0006380,648999,BACTERIAL,Micromonospora sp. L5,Micromonospora sp. L5,Nitrogen fixation
+Go0006381,290513,BACTERIAL,Prosthecochloris sp.,Prosthecochloris sp.,Nitrogen fixation
+Go0006383,357276,BACTERIAL,Bacteroides dorei HGB3,Bacteroides dorei,Nitrate reducer
+Go0006397,593907,BACTERIAL,Cellulomonas gilvus ATCC 13127,Cellulomonas gilvus,Cellulose degrader
+Go0006431,28118,BACTERIAL,Bacteroides splanchnicus HGB2,Bacteroides splanchnicus,Nitrate reducer
+Go0006447,697329,BACTERIAL,Ruminococcus albus 7,Ruminococcus albus,Cellulose degrader
+Go0006506,1266925,BACTERIAL,Nitrosospira briensis C-128,Nitrosospira briensis,Ammonia-oxidizer
+Go0006506,1266925,BACTERIAL,Nitrosospira briensis C-128,Nitrosospira briensis,Nitrifying
+Go0006511,1263,BACTERIAL,Ruminococcus sp. HGF3,Ruminococcus sp. HGF3,Cellulose degrader
+Go0006519,915437,BACTERIAL,Saccharibacillus sacchari DSM 19268,Saccharibacillus sacchari,Cellulose degrader
+Go0006537,882090,ARCHAEAL,Methanolinea tarda NOBI-1,Methanolinea tarda,Propionate metabolism
+Go0006538,24,BACTERIAL,Shewanella putrefaciens W3-6-1,Shewanella putrefaciens,Iron reducer
+Go0006550,1313299,ARCHAEAL,"Stygiolobus azoricus FC6, DSM 6296",Stygiolobus azoricus,Sulfur reducer
+Go0006560,698936,BACTERIAL,Sinorhizobium meliloti BL225C,Sinorhizobium meliloti,Nitrogen fixation
+Go0006560,698936,BACTERIAL,Sinorhizobium meliloti BL225C,Sinorhizobium meliloti,Nitrogen fixer- aerobic
+Go0006560,698936,BACTERIAL,Sinorhizobium meliloti BL225C,Sinorhizobium meliloti,Stores polyhydroxybutyrate
+Go0006564,762903,BACTERIAL,Pseudopedobacter saltans DSM 12145,Pseudopedobacter saltans,Nitrogen fixation
+Go0006583,511051,BACTERIAL,"Caldisericum exile AZM16c01, NBRC 104410",Caldisericum exile,Thiosulfate reducer
+Go0006595,24,BACTERIAL,Shewanella putrefaciens ML-S2,Shewanella putrefaciens,Iron reducer
+Go0006609,632335,BACTERIAL,"Caldicellulosiruptor kristjanssonii 177R1B, DSM 12137",Caldicellulosiruptor kristjanssonii,Biomass degrader
+Go0006609,632335,BACTERIAL,"Caldicellulosiruptor kristjanssonii 177R1B, DSM 12137",Caldicellulosiruptor kristjanssonii,Cellulose degrader
+Go0006609,632335,BACTERIAL,"Caldicellulosiruptor kristjanssonii 177R1B, DSM 12137",Caldicellulosiruptor kristjanssonii,Nitrogen producer
+Go0006636,1173027,BACTERIAL,Microcoleus sp. PCC 7113,Microcoleus sp. PCC 7113,Nitrogen fixation
+Go0006642,714943,BACTERIAL,"Mucilaginibacter paludis TPT56, DSM 18603",Mucilaginibacter paludis,Xylan degrader
+Go0006654,942938,BACTERIAL,Alkalispirochaeta alkalica DSM 8900,Alkalispirochaeta alkalica,Cellobiose-degrading
+Go0006667,137722,BACTERIAL,Azospirillum lipoferum B510,Azospirillum lipoferum,Nitrogen fixation
+Go0006695,693982,BACTERIAL,Sinorhizobium meliloti AK83,Sinorhizobium meliloti,Nitrogen fixation
+Go0006695,693982,BACTERIAL,Sinorhizobium meliloti AK83,Sinorhizobium meliloti,Nitrogen fixer- aerobic
+Go0006695,693982,BACTERIAL,Sinorhizobium meliloti AK83,Sinorhizobium meliloti,Stores polyhydroxybutyrate
+Go0006703,102125,BACTERIAL,Xenococcus sp. PCC 7305,Xenococcus sp. PCC 7305,Nitrogen fixation
+Go0006704,698761,BACTERIAL,Rhizobium tropici CIAT899,Rhizobium tropici,Nitrate reducer
+Go0006714,42353,BACTERIAL,Nitrosomonas sp IS-79,Nitrosomonas sp. IS-79,Nitrifying
+Go0006717,446466,BACTERIAL,"Cellulomonas flavigena 134, DSM 20109",Cellulomonas flavigena,Biomass degrader
+Go0006717,446466,BACTERIAL,"Cellulomonas flavigena 134, DSM 20109",Cellulomonas flavigena,Cellulose degrader
+Go0006717,446466,BACTERIAL,"Cellulomonas flavigena 134, DSM 20109",Cellulomonas flavigena,Nitrate reducer
+Go0006717,446466,BACTERIAL,"Cellulomonas flavigena 134, DSM 20109",Cellulomonas flavigena,Xylan degrader
+Go0006719,432331,BACTERIAL,Sulfurihydrogenibium yellowstonense SS-5,Sulfurihydrogenibium yellowstonense,Sulfur oxidizer
+Go0006720,395965,BACTERIAL,"Methylocella silvestris BL2, DSM 15510",Methylocella silvestris,Methane oxidation
+Go0006753,710685,BACTERIAL,Mycolicibacterium rhodesiae NBB3,Mycolicibacterium rhodesiae,PAH-degrading
+Go0006756,1041930,ARCHAEAL,Methanocella conradii HZ254,Methanocella conradii,Methanogen
+Go0006776,742738,BACTERIAL,Flavonifractor plautii 1_3_50AFAA,Flavonifractor plautii,Saccharolytic
+Go0006780,742735,BACTERIAL,Lachnoclostridium clostridioforme 2_1_49FAA,Lachnoclostridium clostridioforme,Saccharolytic
+Go0006786,742734,BACTERIAL,Lachnoclostridium citroniae WAL-19142,Lachnoclostridium citroniae,Saccharolytic
+Go0006791,742736,BACTERIAL,Lachnoclostridium clostridioforme WAL-7855,Lachnoclostridium clostridioforme,Saccharolytic
+Go0006796,742731,BACTERIAL,Clostridium aldenense WAL-18727,Clostridium aldenense,Saccharolytic
+Go0006797,742739,BACTERIAL,Clostridium perfringens WAL-14572,Clostridium perfringens,Saccharolytic
+Go0006799,742732,BACTERIAL,Clostridium bolteae WAL-14578,Clostridium bolteae,Saccharolytic
+Go0006805,742733,BACTERIAL,Lachnoclostridium citroniae WAL-17108,Lachnoclostridium citroniae,Saccharolytic
+Go0006806,742740,BACTERIAL,Lachnoclostridium symbiosum WAL-14163,Lachnoclostridium symbiosum,Saccharolytic
+Go0006807,742741,BACTERIAL,Lachnoclostridium symbiosum WAL-14673,Lachnoclostridium symbiosum,Saccharolytic
+Go0006813,742737,BACTERIAL,Hungatella hathewayi WAL-18680,Hungatella hathewayi,Saccharolytic
+Go0006917,743525,BACTERIAL,"Thermus scotoductus SA-01, ATCC 700910",Thermus scotoductus,Iron reducer
+Go0006917,743525,BACTERIAL,"Thermus scotoductus SA-01, ATCC 700910",Thermus scotoductus,Sulfur oxidizer
+Go0007022,675511,BACTERIAL,Methylomicrobium buryatense 5G,Methylomicrobium buryatense,Hydrocarbon degrading
+Go0007022,675511,BACTERIAL,Methylomicrobium buryatense 5G,Methylomicrobium buryatense,Methane oxidation
+Go0007031,225937,BACTERIAL,Marinobacter adhaerens HP15,Marinobacter adhaerens,Iron oxidizer
+Go0007234,796606,BACTERIAL,Bacillus methanolicus MGA3,Bacillus methanolicus,Methanol degrading
+Go0007263,294671,ARCHAEAL,Methanobrevibacter olleyae YLM1,Methanobrevibacter olleyae,Methanogen
+Go0007264,2162,ARCHAEAL,Methanobacterium formicicum BRM9,Methanobacterium formicicum,Methanogen
+Go0007284,261292,BACTERIAL,Nitrosomonas sp. IS79A3,Nitrosomonas sp. Is79A3,Nitrifying
+Go0007289,403957,BACTERIAL,Virgibacillus sp. SK37,Virgibacillus sp. SK37,Biomass degrader
+Go0007348,754762,BACTERIAL,Rhizobium leguminosarum bv. trifolii WSM2297,Rhizobium leguminosarum,Nitrogen fixation
+Go0007350,420324,BACTERIAL,Microvirga lupini Lut6,Microvirga lupini,Nitrogen fixation
+Go0007351,754518,BACTERIAL,Rhizobium leguminosarum bv. trifolii CC278f,Rhizobium leguminosarum,Nitrogen fixation
+Go0007352,754522,BACTERIAL,Rhizobium leguminosarum bv. trifolii WSM2012,Rhizobium leguminosarum,Nitrogen fixation
+Go0007354,755176,BACTERIAL,Rhizobium leguminosarum bv. viciae WSM1455,Rhizobium leguminosarum,Nitrogen fixation
+Go0007356,754520,BACTERIAL,Rhizobium leguminosarum bv. trifolii CC283b,Rhizobium leguminosarum,Nitrogen fixation
+Go0007389,754764,BACTERIAL,Rhizobium leguminosarum bv. trifolii WSM597,Rhizobium leguminosarum,Nitrogen fixation
+Go0007391,754521,BACTERIAL,Rhizobium leguminosarum bv. trifolii TA1,Rhizobium leguminosarum,Nitrogen fixation
+Go0007392,754500,BACTERIAL,Bradyrhizobium sp. WSM1417,Bradyrhizobium sp. WSM1417,Nitrogen fixation
+Go0007393,319017,BACTERIAL,Bradyrhizobium sp. WSM471,Bradyrhizobium sp. WSM471,Nitrogen fixation
+Go0007394,319003,BACTERIAL,Bradyrhizobium sp. WSM1253,Bradyrhizobium sp. WSM1253,Nitrogen fixation
+Go0007437,1033991,BACTERIAL,Rhizobium leguminosarum bv. trifolii CB782,Rhizobium leguminosarum,Nitrogen fixation
+Go0007438,754523,BACTERIAL,Rhizobium leguminosarum bv. trifolii WSM1689,Rhizobium leguminosarum,Nitrogen fixation
+Go0007445,563045,BACTERIAL,Comamonas testosteroni S44,Comamonas testosteroni,Surfactant-degrading
+Go0007567,403957,BACTERIAL,Virgibacillus sp. SK37,Virgibacillus sp. SK37,Biomass degrader
+Go0007583,757424,BACTERIAL,Herbaspirillum seropedicae SmR1,Herbaspirillum seropedicae,Nitrogen fixation
+Go0007672,796385,ARCHAEAL,Methanosarcina barkeri CM1,Methanosarcina sp. CM1,Methanogen
+Go0007703,230361,ARCHAEAL,Methanobrevibacter millerae SM9,Methanobrevibacter millerae,Methanogen
+Go0007732,79929,ARCHAEAL,Methanothermobacter marburgensis Marburg DSM 2133,Methanothermobacter marburgensis,Methanogen
+Go0007899,337191,BACTERIAL,Gordonia sp. KTR9,Gordonia sp. KTR9,Explosive compound (RDX) degrader
+Go0007904,1209989,BACTERIAL,Tepidanaerobacter acetatoxydans Re1,Tepidanaerobacter acetatoxydans,Acetate oxidizer
+Go0007904,1209989,BACTERIAL,Tepidanaerobacter acetatoxydans Re1,Tepidanaerobacter acetatoxydans,Methanogen
+Go0007910,298655,BACTERIAL,Frankia saprophytica CN3,Frankia saprophytica,Nitrogen fixation
+Go0007938,928722,BACTERIAL,Sinorhizobium meliloti AK58,Sinorhizobium meliloti,Nitrogen fixation
+Go0007938,928722,BACTERIAL,Sinorhizobium meliloti AK58,Sinorhizobium meliloti,Nitrogen fixer- aerobic
+Go0007969,886913,BACTERIAL,Burkholderia cepacia Bu72,Burkholderia cepacia,Nitrogen fixation
+Go0007969,886913,BACTERIAL,Burkholderia cepacia Bu72,Burkholderia cepacia,Pollutant degrader
+Go0007974,49338,BACTERIAL,Desulfitobacterium hafniense TCE-1,Desulfitobacterium hafniense,Degrades pollutants
+Go0007979,933262,BACTERIAL,Desulfosarcina sp. BuS5,Desulfosarcina sp. BuS5,Sulfate reducer
+Go0007985,491071,BACTERIAL,Paraburkholderia tuberum STM678,Paraburkholderia tuberum,Nitrogen fixation
+Go0008001,710111,BACTERIAL,Frankia sp. QA3,Frankia sp. QA3,Nitrogen fixation
+Go0008002,885,BACTERIAL,Desulfovibrio sp. H0407_12.1Lac,Desulfovibrio sp.,Hydrogen sulfide gas release
+Go0008002,885,BACTERIAL,Desulfovibrio sp. H0407_12.1Lac,Desulfovibrio sp.,Sulfate reducer
+Go0008240,859314,BACTERIAL,"Desulfonema limicola Jadebusen, DSM 2076",Desulfonema limicola,Sulfate reducer
+Go0008268,859313,BACTERIAL,"Desulfonema magnum Montpellier, DSM 2077",Desulfonema magnum,Sulfate reducer
+Go0008272,423471,BACTERIAL,Crocosphaera watsonii WH 0003,Crocosphaera watsonii,Carbon dioxide fixation
+Go0008272,423471,BACTERIAL,Crocosphaera watsonii WH 0003,Crocosphaera watsonii,Nitrogen fixer- aerobic
+Go0008273,423474,BACTERIAL,Crocosphaera watsonii WH 8502,Crocosphaera watsonii,Carbon fixation
+Go0008273,423474,BACTERIAL,Crocosphaera watsonii WH 8502,Crocosphaera watsonii,Nitrogen fixer- aerobic
+Go0008274,423472,BACTERIAL,Crocosphaera watsonii WH 0005,Crocosphaera watsonii,Carbon fixation
+Go0008274,423472,BACTERIAL,Crocosphaera watsonii WH 0005,Crocosphaera watsonii,Nitrogen fixer- aerobic
+Go0008276,1284629,BACTERIAL,Crocosphaera watsonii WH 0402,Crocosphaera watsonii,Carbon fixation
+Go0008276,1284629,BACTERIAL,Crocosphaera watsonii WH 0402,Crocosphaera watsonii,Nitrogen fixer- aerobic
+Go0008290,928723,BACTERIAL,Sinorhizobium meliloti BO21CC,Sinorhizobium meliloti,Nitrogen fixation
+Go0008290,928723,BACTERIAL,Sinorhizobium meliloti BO21CC,Sinorhizobium meliloti,Nitrogen fixer- aerobic
+Go0008296,859321,BACTERIAL,Desulfosarcina variabilis Montpellier,Desulfosarcina variabilis,Sulfate reducer
+Go0008329,865865,BACTERIAL,delta proteobacterium sp. N47,delta proteobacterium sp. N47,Sulfate reducer
+Go0008361,861109,BACTERIAL,Sphingobium indicum B90A,Sphingobium indicum,Hexachlorocyclohexane degrader
+Go0008391,767817,BACTERIAL,"Desulfallas gibsoniae Groll, DSM 7213",Desulfallas gibsoniae,Hydrogen sulfide gas release
+Go0008391,767817,BACTERIAL,"Desulfallas gibsoniae Groll, DSM 7213",Desulfallas gibsoniae,Sulfate reducer
+Go0008421,864073,BACTERIAL,Herbaspirillum frisingense GSF30,Herbaspirillum frisingense,Nitrogen fixation
+Go0008470,547143,BACTERIAL,Hydrogenobaculum sp. 3684,Hydrogenobaculum sp. 3684,Arsenite oxidizer
+Go0008591,176901,BACTERIAL,Desulfovibrio sp. R2,Desulfovibrio sp. R2,Hydrogen sulfide gas release
+Go0008591,176901,BACTERIAL,Desulfovibrio sp. R2,Desulfovibrio sp. R2,Sulfate reducer
+Go0008633,887061,BACTERIAL,Methylovorus sp. MP688,Methylovorus sp. MP688,Methanol reducer
+Go0008636,887700,BACTERIAL,Acetobacter aceti NBRC 14818,Acetobacter aceti,Acid-producing
+Go0008636,887700,BACTERIAL,Acetobacter aceti NBRC 14818,Acetobacter aceti,Nitrogen fixation
+Go0008664,663932,BACTERIAL,Acetobacter aceti ATCC 23746,Acetobacter aceti,Acid-producing
+Go0008664,663932,BACTERIAL,Acetobacter aceti ATCC 23746,Acetobacter aceti,Nitrogen fixation
+Go0008742,882101,BACTERIAL,Sinorhizobium fredii GR64,Sinorhizobium fredii,Nitrogen fixation
+Go0008742,882101,BACTERIAL,Sinorhizobium fredii GR64,Sinorhizobium fredii,Nitrogen fixer- aerobic
+Go0008774,868131,ARCHAEAL,Methanobacterium paludis SWAN-1,Methanobacterium paludis,Methanogen
+Go0008778,872330,BACTERIAL,Acidithiobacillus sp. GGI-221,Acidithiobacillus sp. GGI-221,Iron oxidizer
+Go0008778,872330,BACTERIAL,Acidithiobacillus sp. GGI-221,Acidithiobacillus sp. GGI-221,Sulfur oxidizer
+Go0008840,121290,BACTERIAL,Hyphomicrobium sulfonivorans S1,Hyphomicrobium sulfonivorans,Sulfide oxidizer
+Go0008845,911116,ARCHAEAL,Methanobrevibacter smithii TS145A,Methanobrevibacter smithii,Methanogen
+Go0008846,110319,BACTERIAL,Nocardioides sp. CF8,Nocardioides sp. CF8,Chlorate-reducer
+Go0008860,632348,BACTERIAL,Caldicellulosiruptor kronotskyensis 2002,Caldicellulosiruptor kronotskyensis,Biomass degrader
+Go0008860,632348,BACTERIAL,Caldicellulosiruptor kronotskyensis 2002,Caldicellulosiruptor kronotskyensis,Cellulose degrader
+Go0008860,632348,BACTERIAL,Caldicellulosiruptor kronotskyensis 2002,Caldicellulosiruptor kronotskyensis,Nitrogen producer
+Go0008879,929558,BACTERIAL,Sulfurimonas gotlandica GD1,Sulfurimonas gotlandica,Carbon dioxide fixation
+Go0008879,929558,BACTERIAL,Sulfurimonas gotlandica GD1,Sulfurimonas gotlandica,Desulfurylates coal
+Go0008879,929558,BACTERIAL,Sulfurimonas gotlandica GD1,Sulfurimonas gotlandica,Nitrate reducer
+Go0008879,929558,BACTERIAL,Sulfurimonas gotlandica GD1,Sulfurimonas gotlandica,Sulfur oxidizer
+Go0008929,53442,BACTERIAL,Eubacterium callanderi KIST612,Eubacterium callanderi,Acetate producer
+Go0008929,53442,BACTERIAL,Eubacterium callanderi KIST612,Eubacterium callanderi,Carbon monoxide oxidizer
+Go0008929,53442,BACTERIAL,Eubacterium callanderi KIST612,Eubacterium callanderi,Ethanol production
+Go0008935,877455,ARCHAEAL,Methanobacterium lacus AL-21,Methanobacterium lacus,Methanogen
+Go0008939,905052,BACTERIAL,"Thauera selenatis AX, ATCC 55363",Thauera selenatis,Degrades aromatic hydrocarbons
+Go0008939,905052,BACTERIAL,"Thauera selenatis AX, ATCC 55363",Thauera selenatis,Denitrifying
+Go0008940,701347,BACTERIAL,Enterobacter lignolyticus SCF1,Enterobacter lignolyticus,Lignin degrader
+Go0008954,933,BACTERIAL,Thiomicrospira sp. KP2,Thiomicrospira sp. KP2,Carbon dioxide fixation
+Go0008954,933,BACTERIAL,Thiomicrospira sp. KP2,Thiomicrospira sp. KP2,Carbon fixation
+Go0008954,933,BACTERIAL,Thiomicrospira sp. KP2,Thiomicrospira sp. KP2,Sulfur oxidizer
+Go0008955,933,BACTERIAL,Thiomicrospira sp. JR2,Thiomicrospira sp. JR2,Carbon dioxide fixation
+Go0008955,933,BACTERIAL,Thiomicrospira sp. JR2,Thiomicrospira sp. JR2,Carbon fixation
+Go0008955,933,BACTERIAL,Thiomicrospira sp. JR2,Thiomicrospira sp. JR2,Sulfur oxidizer
+Go0009017,768492,BACTERIAL,Serratia plymuthica AS9,Serratia plymuthica,Cellulose degrader
+Go0009170,698948,BACTERIAL,Thermoanaerobacterium thermosaccharolyticum M0795,Thermoanaerobacterium thermosaccharolyticum,Thiosulfate producer
+Go0009197,491072,BACTERIAL,Paraburkholderia unamae MTI-641,Paraburkholderia unamae,Nitrogen fixation
+Go0009201,686330,BACTERIAL,Paraburkholderia silvatlantica SRMrh20,Paraburkholderia silvatlantica,Nitrogen fixation
+Go0009206,930169,BACTERIAL,Alcanivorax dieselolei B5,Alcanivorax dieselolei,Alkane degrader
+Go0009250,933801,ARCHAEAL,Acidianus hospitalis W1,Acidianus hospitalis,Iron oxidizer
+Go0009355,911117,ARCHAEAL,Methanobrevibacter smithii TS145B,Methanobrevibacter smithii,Methanogen
+Go0009356,715451,BACTERIAL,Alteromonas naphthalenivorans SN2,Alteromonas naphthalenivorans,Oil degrading
+Go0009356,715451,BACTERIAL,Alteromonas naphthalenivorans SN2,Alteromonas naphthalenivorans,PAH-degrading
+Go0009363,1509,BACTERIAL,"Clostridium sporogenes 388, DSM 795",Clostridium sporogenes,Aminoacid degrading
+Go0009373,911118,ARCHAEAL,Methanobrevibacter smithii TS146A,Methanobrevibacter smithii,Methanogen
+Go0009374,911119,ARCHAEAL,Methanobrevibacter smithii TS146B,Methanobrevibacter smithii,Methanogen
+Go0009375,911120,ARCHAEAL,Methanobrevibacter smithii TS146C,Methanobrevibacter smithii,Methanogen
+Go0009376,911121,ARCHAEAL,Methanobrevibacter smithii TS146D,Methanobrevibacter smithii,Methanogen
+Go0009377,911122,ARCHAEAL,Methanobrevibacter smithii TS146E,Methanobrevibacter smithii,Methanogen
+Go0009378,911123,ARCHAEAL,Methanobrevibacter smithii TS147A,Methanobrevibacter smithii,Methanogen
+Go0009410,911124,ARCHAEAL,Methanobrevibacter smithii TS147B,Methanobrevibacter smithii,Methanogen
+Go0009411,911125,ARCHAEAL,Methanobrevibacter smithii TS147C,Methanobrevibacter smithii,Methanogen
+Go0009412,911126,ARCHAEAL,Methanobrevibacter smithii TS94A,Methanobrevibacter smithii,Methanogen
+Go0009413,911127,ARCHAEAL,Methanobrevibacter smithii TS94B,Methanobrevibacter smithii,Methanogen
+Go0009414,911128,ARCHAEAL,Methanobrevibacter smithii TS94C,Methanobrevibacter smithii,Methanogen
+Go0009415,911129,ARCHAEAL,Methanobrevibacter smithii TS95A,Methanobrevibacter smithii,Methanogen
+Go0009443,911130,ARCHAEAL,Methanobrevibacter smithii TS95B,Methanobrevibacter smithii,Methanogen
+Go0009444,911131,ARCHAEAL,Methanobrevibacter smithii TS95C,Methanobrevibacter smithii,Methanogen
+Go0009445,911132,ARCHAEAL,Methanobrevibacter smithii TS95D,Methanobrevibacter smithii,Methanogen
+Go0009446,911133,ARCHAEAL,Methanobrevibacter smithii TS96A,Methanobrevibacter smithii,Methanogen
+Go0009447,911134,ARCHAEAL,Methanobrevibacter smithii TS96B,Methanobrevibacter smithii,Methanogen
+Go0009448,911135,ARCHAEAL,Methanobrevibacter smithii TS96C,Methanobrevibacter smithii,Methanogen
+Go0009580,1040981,BACTERIAL,Mesorhizobium ciceri WSM4083,Mesorhizobium ciceri,Nitrogen fixation
+Go0009581,1040983,BACTERIAL,Mesorhizobium erdmanii USDA 3471,Mesorhizobium erdmanii,Nitrogen fixation
+Go0009582,1040980,BACTERIAL,Mesorhizobium ciceri CMG6,Mesorhizobium ciceri,Nitrogen fixation
+Go0009583,1040984,BACTERIAL,Mesorhizobium sp. WSM1293,Mesorhizobium sp. WSM1293,Nitrogen fixation
+Go0009584,1040985,BACTERIAL,Mesorhizobium sp. WSM2561,Mesorhizobium sp. WSM2561,Nitrogen fixation
+Go0009585,1040986,BACTERIAL,Mesorhizobium sp. WSM3224,Mesorhizobium sp. WSM3224,Nitrogen fixation
+Go0009586,1040987,BACTERIAL,Mesorhizobium sp. WSM3626,Mesorhizobium sp. WSM3626,Nitrogen fixation
+Go0009587,1040988,BACTERIAL,Bradyrhizobium sp. WSM4349,Bradyrhizobium sp. WSM4349,Nitrogen fixation
+Go0009588,398261,BACTERIAL,Methylobacterium sp. WSM2598,Methylobacterium sp. WSM2598,Nitrogen fixation
+Go0009589,169679,BACTERIAL,Clostridium saccharobutylicum NCP 200,Clostridium saccharobutylicum,Solvent producer
+Go0009606,944435,BACTERIAL,Burkholderia sp. WSM2230,Burkholderia sp. WSM2230,Nitrogen fixation
+Go0009607,944436,BACTERIAL,Burkholderia sp. WSM2232,Burkholderia sp. WSM2232,Nitrogen fixation
+Go0009609,1038858,BACTERIAL,Azorhizobium doebereinerae UFLA1-100,Azorhizobium doebereinerae,Nitrogen fixation
+Go0009610,398525,BACTERIAL,Bradyrhizobium elkanii USDA 76,Bradyrhizobium elkanii,Nitrogen fixation
+Go0009611,1038860,BACTERIAL,Bradyrhizobium elkanii WSM2783,Bradyrhizobium elkanii,Nitrogen fixation
+Go0009622,1079454,BACTERIAL,Rhizobium leguminosarum bv. viciae Ps8,Rhizobium leguminosarum,Nitrogen fixation
+Go0009623,1090946,BACTERIAL,Rhizobium leguminosarum bv. viciae Vc2,Rhizobium leguminosarum,Nitrogen fixation
+Go0009624,1079455,BACTERIAL,Rhizobium leguminosarum bv. viciae Vh3,Rhizobium leguminosarum,Nitrogen fixation
+Go0009625,935554,BACTERIAL,Rhizobium leguminosarum bv. viciae WSM1481,Rhizobium leguminosarum,Nitrogen fixation
+Go0009626,1041145,BACTERIAL,Rhizobium leguminosarum bv. viciae VF39,Rhizobium leguminosarum,Nitrogen fixation
+Go0009627,935553,BACTERIAL,Rhizobium leguminosarum bv. viciae TOM,Rhizobium leguminosarum,Nitrogen fixation
+Go0009628,1041141,BACTERIAL,Rhizobium leguminosarum bv. viciae 128C53,Rhizobium leguminosarum,Nitrogen fixation
+Go0009658,1041142,BACTERIAL,Rhizobium leguminosarum bv. viciae GB30,Rhizobium leguminosarum,Nitrogen fixation
+Go0009659,1041140,BACTERIAL,Rhizobium leguminosarum bv. phaseoli FA23,Rhizobium leguminosarum,Nitrogen fixation
+Go0009660,935557,BACTERIAL,Sinorhizobium arboris LMG 14919,Sinorhizobium arboris,Nitrogen fixation
+Go0009661,1038869,BACTERIAL,Paraburkholderia mimosarum LMG 23256,Paraburkholderia mimosarum,Nitrogen fixation
+Go0009662,348824,BACTERIAL,Rhizobium favelukesii OR191,Rhizobium favelukesii,Nitrogen fixation
+Go0009663,1080187,BACTERIAL,Cupriavidus sp. gt. E UYPR2.512,Cupriavidus sp. UYPR2.512,Nitrogen fixation
+Go0009672,947301,BACTERIAL,Acidithiobacillus ferrooxidans SRDSM2,Acidithiobacillus ferrooxidans,Iron oxidizer
+Go0009672,947301,BACTERIAL,Acidithiobacillus ferrooxidans SRDSM2,Acidithiobacillus ferrooxidans,Sulfide oxidizer
+Go0009691,298701,BACTERIAL,Desulfovibrio sp. A2,Desulfovibrio sp. A2,Hydrogen sulfide gas release
+Go0009691,298701,BACTERIAL,Desulfovibrio sp. A2,Desulfovibrio sp. A2,Sulfate reducer
+Go0009734,743299,BACTERIAL,Acidithiobacillus ferrivorans SS3,Acidithiobacillus ferrivorans,Iron oxidizer
+Go0009734,743299,BACTERIAL,Acidithiobacillus ferrivorans SS3,Acidithiobacillus ferrivorans,Sulfur oxidizer
+Go0009735,646529,BACTERIAL,"Desulfosporosinus acidiphilus SJ4, DSM 22704",Desulfosporosinus acidiphilus,Hydrogen sulfide gas release
+Go0009735,646529,BACTERIAL,"Desulfosporosinus acidiphilus SJ4, DSM 22704",Desulfosporosinus acidiphilus,Sulfate reducer
+Go0009756,760136,BACTERIAL,Sinorhizobium sp. PC2,Sinorhizobium sp. PC2,Nitrogen fixation
+Go0009757,1708715,BACTERIAL,Ensifer aridi TW10,Ensifer aridi,Nitrogen fixation
+Go0009758,1041144,BACTERIAL,Rhizobium leguminosarum bv. viciae UPM1137,Rhizobium leguminosarum,Nitrogen fixation
+Go0009773,913865,BACTERIAL,Desulfosporosinus sp. OT,Desulfosporosinus sp. OT,Hydrogen sulfide gas release
+Go0009773,913865,BACTERIAL,Desulfosporosinus sp. OT,Desulfosporosinus sp. OT,Sulfate reducer
+Go0009782,1041143,BACTERIAL,Rhizobium leguminosarum bv. viciae UPM1131,Rhizobium leguminosarum,Nitrogen fixation
+Go0009783,796891,BACTERIAL,Rhizobium mesoamericanum STM6155,Rhizobium mesoamericanum,Nitrogen fixation
+Go0009784,1038870,BACTERIAL,Paraburkholderia mimosarum STM3621,Paraburkholderia mimosarum,Nitrogen fixation
+Go0009785,1040978,BACTERIAL,Cupriavidus taiwanensis STM6018,Cupriavidus taiwanensis,Nitrogen fixation
+Go0009786,1040979,BACTERIAL,Cupriavidus neocaledonicus STM6070,Cupriavidus neocaledonicus,Nitrogen fixation
+Go0009787,935550,BACTERIAL,Rhizobium leguminosarum bv. trifolii SRDI943,Rhizobium leguminosarum,Nitrogen fixation
+Go0009788,935549,BACTERIAL,Rhizobium leguminosarum bv. trifolii SRDI565,Rhizobium leguminosarum,Nitrogen fixation
+Go0009789,1041152,BACTERIAL,Sinorhizobium meliloti CIAM1775,Sinorhizobium meliloti,Nitrogen fixation
+Go0009803,653733,BACTERIAL,"Desulfurispirillum indicum S5, DSM 22839",Desulfurispirillum indicum,Selenate reducer
+Go0009812,388051,BACTERIAL,Cupriavidus sp. AMP6,Cupriavidus sp. amp6,Nitrogen fixation
+Go0009814,113395,BACTERIAL,Bradyrhizobium sp. TV2a.2,Bradyrhizobium sp. Tv2a-2,Nitrogen fixation
+Go0009815,189753,BACTERIAL,Bradyrhizobium sp. EC3.3,Bradyrhizobium sp. Ec3.3,Nitrogen fixation
+Go0009816,398524,BACTERIAL,Bradyrhizobium elkanii USDA 94,Bradyrhizobium elkanii,Nitrogen fixation
+Go0009817,1079479,BACTERIAL,Bradyrhizobium elkanii USDA 3254,Bradyrhizobium elkanii,Nitrogen fixation
+Go0009818,1079466,BACTERIAL,Bradyrhizobium elkanii USDA 3259,Bradyrhizobium elkanii,Nitrogen fixation
+Go0009846,1038859,BACTERIAL,Bradyrhizobium elkanii WSM1741,Bradyrhizobium elkanii,Nitrogen fixation
+Go0009847,1355477,BACTERIAL,Bradyrhizobium diazoefficiens USDA 122,Bradyrhizobium diazoefficiens,Nitrogen fixation
+Go0009848,936135,BACTERIAL,Bradyrhizobium japonicum USDA 123,Bradyrhizobium japonicum,Nitrogen fixation
+Go0009849,1038862,BACTERIAL,Bradyrhizobium japonicum USDA 124,Bradyrhizobium japonicum,Nitrogen fixation
+Go0009850,1038863,BACTERIAL,Bradyrhizobium japonicum USDA 135,Bradyrhizobium japonicum,Nitrogen fixation
+Go0009851,1079467,BACTERIAL,Bradyrhizobium japonicum USDA 38,Bradyrhizobium japonicum,Nitrogen fixation
+Go0009852,931866,BACTERIAL,Bradyrhizobium ottawaense USDA 4,Bradyrhizobium ottawaense,Nitrogen fixation
+Go0009853,1037409,BACTERIAL,Bradyrhizobium japonicum USDA 6,Bradyrhizobium japonicum,Nitrogen fixation
+Go0009861,683315,BACTERIAL,Frankia sp. DC12,Frankia sp. DC12,Nitrogen fixation
+Go0009884,318996,BACTERIAL,Bradyrhizobium sp. WSM1743,Bradyrhizobium sp. WSM1743,Nitrogen fixation
+Go0009885,1038866,BACTERIAL,Bradyrhizobium sp. WSM2793,Bradyrhizobium sp. WSM2793,Nitrogen fixation
+Go0009886,376,BACTERIAL,Bradyrhizobium sp. A30X,Bradyrhizobium sp.,Nitrogen fixation
+Go0009887,196490,BACTERIAL,Bradyrhizobium sp. Ai1a-2,Bradyrhizobium sp. Ai1a-2,Nitrogen fixation
+Go0009889,1040989,BACTERIAL,Bradyrhizobium sp. ARR65,Bradyrhizobium sp. ARR65,Nitrogen fixation
+Go0009890,443598,BACTERIAL,Bradyrhizobium sp. Cp5.3,Bradyrhizobium sp. Cp5.3,Nitrogen fixation
+Go0009891,376,BACTERIAL,Bradyrhizobium sp. FA23,Bradyrhizobium sp.,Nitrogen fixation
+Go0010058,935547,BACTERIAL,Mesorhizobium loti R7A,Mesorhizobium loti,Nitrogen fixation
+Go0010088,935546,BACTERIAL,Mesorhizobium loti NZP2037,Mesorhizobium loti,Nitrogen fixation
+Go0010089,935548,BACTERIAL,Mesorhizobium loti R88b,Mesorhizobium loti,Nitrogen fixation
+Go0010090,1040982,BACTERIAL,Mesorhizobium loti CJ3sym,Mesorhizobium loti,Nitrogen fixation
+Go0010091,1080179,BACTERIAL,Burkholderia sp. UYPR1.413,Burkholderia sp. UYPR1.413,Nitrogen fixation
+Go0010092,1038867,BACTERIAL,Bradyrhizobium sp. WSM3983,Bradyrhizobium sp. WSM3983,Nitrogen fixation
+Go0010127,157910,BACTERIAL,Paraburkholderia tuberum WSM4176,Paraburkholderia tuberum,Nitrogen fixation
+Go0010128,667585,BACTERIAL,Paraburkholderia sp. JPY251,Paraburkholderia sp. JPY251,Nitrogen fixation
+Go0010129,863227,BACTERIAL,Paraburkholderia symbiotica JPY347,Paraburkholderia symbiotica,Nitrogen fixation
+Go0010131,948106,BACTERIAL,Paraburkholderia dilworthii WSM3556,Paraburkholderia dilworthii,Nitrogen fixation
+Go0010132,668820,BACTERIAL,Burkholderia sp. JPY366,Burkholderia sp. JPY366,Nitrogen fixation
+Go0010149,996285,BACTERIAL,"Pseudomonas stutzeri CMT.A.9, DSM 4166",Pseudomonas stutzeri,Nitrogen fixation
+Go0010174,349742,BACTERIAL,Sedimenticola sp. CUZ,Sedimenticola sp. CUZ,Acetate oxidizer
+Go0010174,349742,BACTERIAL,Sedimenticola sp. CUZ,Sedimenticola sp. CUZ,Chlorate-reducer
+Go0010226,935563,BACTERIAL,Sinorhizobium meliloti WSM4191,Sinorhizobium meliloti,Nitrogen fixation
+Go0010227,1041159,BACTERIAL,Ensifer sp.  WSM1721,Ensifer sp.  WSM1721,Nitrogen fixation
+Go0010228,1041148,BACTERIAL,Sinorhizobium medicae DI28,Sinorhizobium medicae,Nitrogen fixation
+Go0010229,1041154,BACTERIAL,Sinorhizobium meliloti Mlalz-1,Sinorhizobium meliloti,Nitrogen fixation
+Go0010230,1041155,BACTERIAL,Sinorhizobium meliloti MVII-I,Sinorhizobium meliloti,Nitrogen fixation
+Go0010231,1041156,BACTERIAL,Sinorhizobium meliloti RRI128,Sinorhizobium meliloti,Nitrogen fixation
+Go0010232,1041157,BACTERIAL,Sinorhizobium meliloti WSM1022,Sinorhizobium meliloti,Nitrogen fixation
+Go0010236,936350,BACTERIAL,Rhizobium leguminosarum bv. phaseoli 4292,Rhizobium leguminosarum,Nitrogen fixation
+Go0010237,936136,BACTERIAL,Rhizobium leguminosarum bv. viciae 248,Rhizobium leguminosarum,Nitrogen fixation
+Go0010238,1041139,BACTERIAL,Rhizobium giardinii bv. giardinii H152,Rhizobium giardinii,Nitrogen fixation
+Go0010239,1041138,BACTERIAL,Rhizobium gallicum bv. gallicum R602sp,Rhizobium gallicum,Nitrogen fixation
+Go0010240,1041146,BACTERIAL,Rhizobium sullae WSM1592,Rhizobium sullae,Nitrogen fixation
+Go0010241,1079460,BACTERIAL,Rhizobium mongolense USDA 1844,Rhizobium mongolense,Nitrogen fixation
+Go0010242,1041147,BACTERIAL,Rhizobium leucaenae USDA 9039,Rhizobium leucaenae,Nitrogen fixation
+Go0010243,935557,BACTERIAL,Ensifer arboris B554,Ensifer arboris,Nitrogen fixation
+Go0010250,983920,BACTERIAL,Novosphingobium nitrogenifigens Y88,Novosphingobium nitrogenifigens,Nitrogen fixation
+Go0010263,935558,BACTERIAL,Sinorhizobium medicae WSM1115,Sinorhizobium medicae,Nitrogen fixation
+Go0010264,1041149,BACTERIAL,Sinorhizobium medicae WSM1369,Sinorhizobium medicae,Nitrogen fixation
+Go0010265,1041150,BACTERIAL,Sinorhizobium medicae WSM244,Sinorhizobium medicae,Nitrogen fixation
+Go0010266,936134,BACTERIAL,Ensifer sp. USDA 6670,Ensifer sp. USDA 6670,Nitrogen fixation
+Go0010267,1057002,BACTERIAL,Ensifer sp. BR816,Ensifer sp. BR816,Nitrogen fixation
+Go0010268,1041151,BACTERIAL,Sinorhizobium meliloti 4H41,Sinorhizobium meliloti,Nitrogen fixation
+Go0010269,1041153,BACTERIAL,Sinorhizobium meliloti GVPV12,Sinorhizobium meliloti,Nitrogen fixation
+Go0010276,936455,BACTERIAL,Bradyrhizobium genosp. SA-4 CB756,Bradyrhizobium genosp. SA-4,Nitrogen fixation
+Go0010306,348824,BACTERIAL,Rhizobium favelukesii LPU83,Rhizobium favelukesii LPU83,Nitrogen fixation
+Go0010346,125602,BACTERIAL,Desulfococcus biacutus KMRActS,Desulfococcus biacutus,Sulfate reducer
+Go0010409,452981,BACTERIAL,Roseobacter sp. LE17,Roseobacter sp. LE17,Carbon fixation
+Go0010430,443254,BACTERIAL,Marinitoga piezophila KA3,Marinitoga piezophila,Sulfur reducer
+Go0010446,908842,BACTERIAL,Magnetospirillum aberrantis SpK,Magnetospirillum aberrantis,Iron reducer
+Go0010446,908842,BACTERIAL,Magnetospirillum aberrantis SpK,Magnetospirillum aberrantis,Magnetite production
+Go0010482,1286635,BACTERIAL,"Desulfotignum phosphitoxidans FiPS-3, DSM 13687",Desulfotignum phosphitoxidans,Acetogen
+Go0010482,1286635,BACTERIAL,"Desulfotignum phosphitoxidans FiPS-3, DSM 13687",Desulfotignum phosphitoxidans,Sulfate reducer
+Go0010483,990284,BACTERIAL,Rhizobium mesoamericanum CCGE 501,Rhizobium mesoamericanum,Nitrogen fixation
+Go0010487,997296,BACTERIAL,Bacillus methanolicus PB1,Bacillus methanolicus,Methanol degrading
+Go0010516,993047,BACTERIAL,Rhizobium etli CNPAF512,Rhizobium etli,Nitrogen fixation
+Go0010596,990285,BACTERIAL,Rhizobium grahamii CCGE 502,Rhizobium grahamii,Nitrogen fixation
+Go0010597,1132836,BACTERIAL,Rhizobium sp. CCGE 510,Rhizobium sp. CCGE 510,Nitrogen fixation
+Go0010603,720554,BACTERIAL,"Hungateiclostridium clariflavum EBR 45, DSM 19732",Hungateiclostridium clariflavum,Cellulose degrader
+Go0010620,990287,BACTERIAL,Rhizobium endophyticum CCGE 2052,Rhizobium endophyticum,Nitrogen fixation
+Go0010621,990288,BACTERIAL,Acidithiobacillus caldus SM-1,Acidithiobacillus caldus,Sulfur oxidizer
+Go0010622,990998,BACTERIAL,"Vibrio ordalii Schiewe DF3K, ATCC 33509",Vibrio ordalii,Hydrogen sulfide gas release
+Go0010622,990998,BACTERIAL,"Vibrio ordalii Schiewe DF3K, ATCC 33509",Vibrio ordalii,Sulfate reducer
+Go0010864,1042209,BACTERIAL,Pseudomonas fluorescens HK44 pUTK21 plasmid,Pseudomonas fluorescens,Degrades aromatic hydrocarbons
+Go0010940,1001585,BACTERIAL,Pseudomonas mendocina NK-01,Pseudomonas mendocina,PCP-degrading
+Go0010986,342949,ARCHAEAL,Pyrococcus sp. NA2,Pyrococcus sp. NA2,Sulfur respiration
+Go0011096,1001994,ARCHAEAL,Nitrosarchaeum koreensis MY1,Nitrosarchaeum koreensis,Ammonia-oxidizer
+Go0011151,1042878,BACTERIAL,"Cupriavidus necator N-1, ATCC 43291",Cupriavidus necator,Degrades pollutants
+Go0011168,929469,BACTERIAL,Clostridium sp. URNW,Clostridium sp. URNW,Acetate producer
+Go0011168,929469,BACTERIAL,Clostridium sp. URNW,Clostridium sp. URNW,Cellobiose-degrading
+Go0011168,929469,BACTERIAL,Clostridium sp. URNW,Clostridium sp. URNW,Hydrogen production
+Go0011183,702113,BACTERIAL,Novosphingobium sp. PP1Y,Novosphingobium sp. PP1Y,Nitrogen fixation
+Go0011188,529709,ARCHAEAL,Pyrococcus yayanosii CH1,Pyrococcus yayanosii,Sulfur respiration
+Go0011230,1337936,BACTERIAL,Calothrix sp. 336/3,Calothrix sp. 336/3,Hydrogen production
+Go0011249,1123360,BACTERIAL,Litoreibacter arenae DSM 19593,Litoreibacter arenae DSM 19593,Aminoacid degrading
+Go0011300,1003237,BACTERIAL,Nitrospirillum amazonense Y2,Nitrospirillum amazonense,Nitrogen fixation
+Go0011322,32042,BACTERIAL,"Pseudomonas stutzeri Baumann 218, ZoBell 632",Pseudomonas stutzeri,Denitrifying
+Go0011365,1010818,BACTERIAL,Escherichia coli 92.0144 (F03),Escherichia coli,Lactose fermenting
+Go0011367,1017022,BACTERIAL,Escherichia coli 93-111,Escherichia coli,Lactose fermenting
+Go0011381,220687,BACTERIAL,Bacillus novalis IDA 3307,Bacillus novalis,Acetate oxidizer
+Go0011382,1046593,BACTERIAL,Leuconostoc carnosum KCTC 3525,Leuconostoc carnosum,Metal reducer
+Go0011479,1010815,BACTERIAL,Escherichia coli A9619-c2 (11c),Escherichia coli,Lactose fermenting
+Go0011480,1004153,BACTERIAL,Escherichia coli AA86,Escherichia coli,Lactose fermenting
+Go0011522,425942,BACTERIAL,Magnetospirillum bellicus VDY,Magnetospirillum bellicus,Chlorate-reducer
+Go0011522,425942,BACTERIAL,Magnetospirillum bellicus VDY,Magnetospirillum bellicus,Fatty-acid-oxidizer
+Go0011522,425942,BACTERIAL,Magnetospirillum bellicus VDY,Magnetospirillum bellicus,Hydrogenotrophic
+Go0011523,73030,BACTERIAL,Dechloromonas agitata CKB,Dechloromonas agitata,Chlorate-reducer
+Go0011553,96563,BACTERIAL,Pseudomonas stutzeri CGMCC 1.1803,Pseudomonas stutzeri,Denitrifying
+Go0011572,1017021,BACTERIAL,Escherichia coli C54-58 (1b),Escherichia coli,Ethanol production
+Go0011572,1017021,BACTERIAL,Escherichia coli C54-58 (1b),Escherichia coli,Lactose fermenting
+Go0011572,1017021,BACTERIAL,Escherichia coli C54-58 (1b),Escherichia coli,Respiratory arsenate reductase
+Go0011573,1010817,BACTERIAL,Escherichia coli C691-71 (14b),Escherichia coli,Ethanol production
+Go0011573,1010817,BACTERIAL,Escherichia coli C691-71 (14b),Escherichia coli,Lactose fermenting
+Go0011573,1010817,BACTERIAL,Escherichia coli C691-71 (14b),Escherichia coli,Respiratory arsenate reductase
+Go0011586,1037911,BACTERIAL,Pseudomonas fluorescens A506,Pseudomonas fluorescens,Nitrogen fixer- aerobic
+Go0011587,1038922,BACTERIAL,Pseudomonas fluorescens Q2-87,Pseudomonas fluorescens,Nitrogen fixer- aerobic
+Go0011588,1038923,BACTERIAL,Pseudomonas fluorescens Q8r1-96,Pseudomonas fluorescens,Nitrogen fixer- aerobic
+Go0011589,1038924,BACTERIAL,Pseudomonas fluorescens SS101,Pseudomonas fluorescens,Nitrogen fixer- aerobic
+Go0011691,1042877,ARCHAEAL,Thermococcus sp. 4557,Thermococcus sp. 4557,Sulfur reducer
+Go0011707,886291,BACTERIAL,Alcanivorax sp. sk2-jrc,Alcanivorax sp. sk2-jrc,Alkane degrader
+Go0011738,1010819,BACTERIAL,Escherichia coli H16,Escherichia coli,Ethanol production
+Go0011738,1010819,BACTERIAL,Escherichia coli H16,Escherichia coli,Lactose fermenting
+Go0011738,1010819,BACTERIAL,Escherichia coli H16,Escherichia coli,Respiratory arsenate reductase
+Go0011745,1010808,BACTERIAL,Escherichia coli O10 Bi8337-41,Escherichia coli,Ethanol production
+Go0011745,1010808,BACTERIAL,Escherichia coli O10 Bi8337-41,Escherichia coli,Lactose fermenting
+Go0011745,1010808,BACTERIAL,Escherichia coli O10 Bi8337-41,Escherichia coli,Respiratory arsenate reductase
+Go0011746,1010809,BACTERIAL,Escherichia coli O16 F11119-41,Escherichia coli,Ethanol production
+Go0011746,1010809,BACTERIAL,Escherichia coli O16 F11119-41,Escherichia coli,Lactose fermenting
+Go0011746,1010809,BACTERIAL,Escherichia coli O16 F11119-41,Escherichia coli,Respiratory arsenate reductase
+Go0011747,1010810,BACTERIAL,Escherichia coli O17 K12a,Escherichia coli,Ethanol production
+Go0011747,1010810,BACTERIAL,Escherichia coli O17 K12a,Escherichia coli,Lactose fermenting
+Go0011747,1010810,BACTERIAL,Escherichia coli O17 K12a,Escherichia coli,Respiratory arsenate reductase
+Go0011748,1010811,BACTERIAL,Escherichia coli O20 P7a,Escherichia coli,Ethanol production
+Go0011748,1010811,BACTERIAL,Escherichia coli O20 P7a,Escherichia coli,Lactose fermenting
+Go0011748,1010811,BACTERIAL,Escherichia coli O20 P7a,Escherichia coli,Respiratory arsenate reductase
+Go0011749,1010812,BACTERIAL,Escherichia coli O33 E40,Escherichia coli,Ethanol production
+Go0011749,1010812,BACTERIAL,Escherichia coli O33 E40,Escherichia coli,Lactose fermenting
+Go0011749,1010812,BACTERIAL,Escherichia coli O33 E40,Escherichia coli,Respiratory arsenate reductase
+Go0011750,1010813,BACTERIAL,Escherichia coli O34 H304,Escherichia coli,Ethanol production
+Go0011750,1010813,BACTERIAL,Escherichia coli O34 H304,Escherichia coli,Lactose fermenting
+Go0011750,1010813,BACTERIAL,Escherichia coli O34 H304,Escherichia coli,Respiratory arsenate reductase
+Go0011779,1068615,BACTERIAL,Escherichia coli O104:H4 11-4522,Escherichia coli,Acetate producer
+Go0011779,1068615,BACTERIAL,Escherichia coli O104:H4 11-4522,Escherichia coli,Ethanol production
+Go0011781,1068617,BACTERIAL,Escherichia coli O104:H4 11-4632 C1,Escherichia coli,Acetate producer
+Go0011781,1068617,BACTERIAL,Escherichia coli O104:H4 11-4632 C1,Escherichia coli,Ethanol production
+Go0011782,1068618,BACTERIAL,Escherichia coli O104:H4 11-4632 C2,Escherichia coli,Acetate producer
+Go0011782,1068618,BACTERIAL,Escherichia coli O104:H4 11-4632 C2,Escherichia coli,Ethanol production
+Go0011783,1068619,BACTERIAL,Escherichia coli O104:H4 11-4632 C3,Escherichia coli,Acetate producer
+Go0011783,1068619,BACTERIAL,Escherichia coli O104:H4 11-4632 C3,Escherichia coli,Ethanol production
+Go0011784,1068620,BACTERIAL,Escherichia coli O104:H4 11-4632 C4,Escherichia coli,Acetate producer
+Go0011784,1068620,BACTERIAL,Escherichia coli O104:H4 11-4632 C4,Escherichia coli,Ethanol production
+Go0011785,1068621,BACTERIAL,Escherichia coli O104:H4 11-4632 C5,Escherichia coli,Acetate producer
+Go0011785,1068621,BACTERIAL,Escherichia coli O104:H4 11-4632 C5,Escherichia coli,Ethanol production
+Go0011790,1010804,BACTERIAL,Escherichia coli O5 U1-41,Escherichia coli,Ethanol production
+Go0011790,1010804,BACTERIAL,Escherichia coli O5 U1-41,Escherichia coli,Lactose fermenting
+Go0011790,1010804,BACTERIAL,Escherichia coli O5 U1-41,Escherichia coli,Respiratory arsenate reductase
+Go0011791,1010805,BACTERIAL,Escherichia coli O6 Bi7458-41,Escherichia coli,Ethanol production
+Go0011791,1010805,BACTERIAL,Escherichia coli O6 Bi7458-41,Escherichia coli,Lactose fermenting
+Go0011791,1010805,BACTERIAL,Escherichia coli O6 Bi7458-41,Escherichia coli,Respiratory arsenate reductase
+Go0011792,1010806,BACTERIAL,Escherichia coli O8 G3404-41,Escherichia coli,Ethanol production
+Go0011792,1010806,BACTERIAL,Escherichia coli O8 G3404-41,Escherichia coli,Lactose fermenting
+Go0011792,1010806,BACTERIAL,Escherichia coli O8 G3404-41,Escherichia coli,Respiratory arsenate reductase
+Go0011793,1010807,BACTERIAL,Escherichia coli O9 Bi316-42,Escherichia coli,Ethanol production
+Go0011793,1010807,BACTERIAL,Escherichia coli O9 Bi316-42,Escherichia coli,Lactose fermenting
+Go0011793,1010807,BACTERIAL,Escherichia coli O9 Bi316-42,Escherichia coli,Respiratory arsenate reductase
+Go0011867,1036672,BACTERIAL,Advenella kashmirensis WT001,Advenella kashmirensis,Sulfur oxidizer
+Go0011896,1006003,BACTERIAL,Citrobacter freundii ATCC 8090,Citrobacter freundii,Agroclavine producer
+Go0011896,1006003,BACTERIAL,Citrobacter freundii ATCC 8090,Citrobacter freundii,Aminoacid degrading
+Go0011896,1006003,BACTERIAL,Citrobacter freundii ATCC 8090,Citrobacter freundii,Bacteriocins producer
+Go0011898,1005048,BACTERIAL,Collimonas fungivorans Ter331,Collimonas fungivorans,Chitin degradation
+Go0011915,1010820,BACTERIAL,Escherichia coli SEQ895,Escherichia coli,Ethanol production
+Go0011915,1010820,BACTERIAL,Escherichia coli SEQ895,Escherichia coli,Lactose fermenting
+Go0011915,1010820,BACTERIAL,Escherichia coli SEQ895,Escherichia coli,Respiratory arsenate reductase
+Go0011937,1027364,BACTERIAL,Edwardsiella tarda DT,Edwardsiella tarda,Lactose fermenting
+Go0011940,1027372,BACTERIAL,Enterococcus faecalis OG1X,Enterococcus faecalis,Lactose fermenting
+Go0011999,1010816,BACTERIAL,Escherichia coli 3350-73 (13a),Escherichia coli,Lactose fermenting
+Go0012005,1052004,BACTERIAL,Granulibacter bethesdensis CGDNIH3,Granulibacter bethesdensis,Acetate oxidizer
+Go0012035,1010821,BACTERIAL,Escherichia coli 5.3169,Escherichia coli,Lactose fermenting
+Go0012039,1010825,BACTERIAL,Escherichia coli 6.168,Escherichia coli,Lactose fermenting
+Go0012049,981211,BACTERIAL,Helicobacter pylori 8A3,Helicobacter pylori,Hydrogen metabolizer
+Go0012050,981210,BACTERIAL,Helicobacter pylori BCS100H1,Helicobacter pylori,Hydrogen metabolizer
+Go0012051,981220,BACTERIAL,Helicobacter pylori NQ1671,Helicobacter pylori,Hydrocarbons metabolizer
+Go0012052,981215,BACTERIAL,Helicobacter pylori NQ1701,Helicobacter pylori,Hydrogen oxidizer
+Go0012053,981217,BACTERIAL,Helicobacter pylori NQ1707,Helicobacter pylori,Hydrogen oxidizer
+Go0012054,981213,BACTERIAL,Helicobacter pylori NQ1712,Helicobacter pylori,Hydrogen oxidizer
+Go0012055,981212,BACTERIAL,Helicobacter pylori NQ315,Helicobacter pylori,Hydrogen oxidizer
+Go0012056,981214,BACTERIAL,Helicobacter pylori NQ352,Helicobacter pylori,Hydrogen oxidizer
+Go0012057,981219,BACTERIAL,Helicobacter pylori NQ367,Helicobacter pylori,Hydrogen oxidizer
+Go0012058,981216,BACTERIAL,Helicobacter pylori NQ392,Helicobacter pylori,Hydrogen oxidizer
+Go0012059,981218,BACTERIAL,Helicobacter pylori NQ4060,Helicobacter pylori,Hydrogen oxidizer
+Go0012060,981221,BACTERIAL,Helicobacter pylori NQ4191,Helicobacter pylori,Hydrogen oxidizer
+Go0012061,102617,BACTERIAL,Helicobacter pylori SS1,Helicobacter pylori,Hydrogen oxidizer
+Go0012062,1031535,BACTERIAL,Helicobacter pylori SS1_190,Helicobacter pylori,Hydrogen oxidizer
+Go0012087,1010822,BACTERIAL,Escherichia coli 8.2256,Escherichia coli,Lactose fermenting
+Go0012089,1010824,BACTERIAL,Escherichia coli 85.0143,Escherichia coli,Lactose fermenting
+Go0012090,1010823,BACTERIAL,Escherichia coli 85.1284,Escherichia coli,Lactose fermenting
+Go0012103,1037908,BACTERIAL,Klebsiella pneumoniae 1162281,Klebsiella pneumoniae,Lactose fermenting
+Go0012104,1037890,BACTERIAL,Klebsiella pneumoniae JH1,Klebsiella pneumoniae,Lactose fermenting
+Go0012113,1423815,BACTERIAL,Lactobacillus versmoldensis KCTC 3814,Lactobacillus versmoldensis,Homofermentative
+Go0012145,1074493,BACTERIAL,Sphingobium yanoikuyae XLDN2-5,Sphingobium yanoikuyae,Degrades aromatic hydrocarbons
+Go0012164,1344584,ARCHAEAL,Archaeoglobus fulgidus 7324,Archaeoglobus fulgidus,Sulfate reducer
+Go0012345,858423,BACTERIAL,Bradyrhizobium arachidis USDA 3384,Bradyrhizobium arachidis,Nitrogen fixation
+Go0012346,406819,BACTERIAL,Burkholderia sp. SJ98,Burkholderia sp. SJ98,Chlorophenol degrading
+Go0012346,406819,BACTERIAL,Burkholderia sp. SJ98,Burkholderia sp. SJ98,Degrades aromatic hydrocarbons
+Go0012346,406819,BACTERIAL,Burkholderia sp. SJ98,Burkholderia sp. SJ98,Degrades organic material
+Go0012352,13134,BACTERIAL,Magnetospirillum sp. CP2,Magnetospirillum sp. CP2,Chlorate-reducer
+Go0012352,13134,BACTERIAL,Magnetospirillum sp. CP2,Magnetospirillum sp. CP2,Fatty-acid-oxidizer
+Go0012474,1072569,BACTERIAL,Salmonella enterica enterica sv. Paratyphi A GZ9A00052,Salmonella enterica,Acetate producer
+Go0012474,1072569,BACTERIAL,Salmonella enterica enterica sv. Paratyphi A GZ9A00052,Salmonella enterica,Ethanol production
+Go0012475,1072570,BACTERIAL,Salmonella enterica enterica sv. Paratyphi A JX05-19,Salmonella enterica,Acetate producer
+Go0012475,1072570,BACTERIAL,Salmonella enterica enterica sv. Paratyphi A JX05-19,Salmonella enterica,Ethanol production
+Go0012476,1072571,BACTERIAL,Salmonella enterica enterica sv. Paratyphi A YN09620,Salmonella enterica,Acetate producer
+Go0012476,1072571,BACTERIAL,Salmonella enterica enterica sv. Paratyphi A YN09620,Salmonella enterica,Ethanol production
+Go0012477,1072572,BACTERIAL,Salmonella enterica enterica sv. Paratyphi A ZJ98-53,Salmonella enterica,Acetate producer
+Go0012477,1072572,BACTERIAL,Salmonella enterica enterica sv. Paratyphi A ZJ98-53,Salmonella enterica,Ethanol production
+Go0012495,203534,BACTERIAL,Dechlorobacter hydrogenophilus LT-1,Dechlorobacter hydrogenophilus,Chlorate-reducer
+Go0012495,203534,BACTERIAL,Dechlorobacter hydrogenophilus LT-1,Dechlorobacter hydrogenophilus,Fatty-acid-oxidizer
+Go0012495,203534,BACTERIAL,Dechlorobacter hydrogenophilus LT-1,Dechlorobacter hydrogenophilus,Nitrate reducer
+Go0012496,28196,BACTERIAL,Arcobacter sp. CAB,Arcobacter sp. CAB,Chlorate-reducer
+Go0012497,100767,BACTERIAL,Pseudomonas sp. PK,Pseudomonas sp. PK,Chlorate-reducer
+Go0012497,100767,BACTERIAL,Pseudomonas sp. PK,Pseudomonas sp. PK,Fatty-acid-oxidizer
+Go0012497,100767,BACTERIAL,Pseudomonas sp. PK,Pseudomonas sp. PK,Nitrate reducer
+Go0012498,100868,BACTERIAL,Magnetospirillum sp. WD,Magnetospirillum sp. WD,Chlorate-reducer
+Go0012498,100868,BACTERIAL,Magnetospirillum sp. WD,Magnetospirillum sp. WD,Fatty-acid-oxidizer
+Go0012498,100868,BACTERIAL,Magnetospirillum sp. WD,Magnetospirillum sp. WD,Nitrate reducer
+Go0012506,1052677,BACTERIAL,Escherichia coli O104:H4 H112180282,Escherichia coli,Acetate producer
+Go0012506,1052677,BACTERIAL,Escherichia coli O104:H4 H112180282,Escherichia coli,Ethanol production
+Go0012507,1069643,BACTERIAL,Escherichia coli O104:H4 H112180283,Escherichia coli,Acetate producer
+Go0012507,1069643,BACTERIAL,Escherichia coli O104:H4 H112180283,Escherichia coli,Ethanol production
+Go0012513,1073571,BACTERIAL,Paenibacillus riograndensis SBR5,Paenibacillus riograndensis,Nitrogen fixation
+Go0012540,146937,BACTERIAL,Azospira sp. ZAP,Azospira sp. ZAP,Chlorate-reducer
+Go0012540,146937,BACTERIAL,Azospira sp. ZAP,Azospira sp. ZAP,Fatty-acid-oxidizer
+Go0012541,1114962,BACTERIAL,Actinoalloteichus spitiensis RMV-1378,Actinoalloteichus spitiensis,Acid-producing
+Go0012542,1114961,BACTERIAL,Rhodococcus rhodochrous BKS6-46,Rhodococcus rhodochrous,Acid-producing
+Go0012621,1051632,BACTERIAL,Sulfobacillus acidophilus TPY,Sulfobacillus acidophilus,Iron oxidizer
+Go0012621,1051632,BACTERIAL,Sulfobacillus acidophilus TPY,Sulfobacillus acidophilus,Sulphide oxidizer
+Go0012622,1051075,BACTERIAL,Paracoccus denitrificans SD1,Paracoccus denitrificans,Hydrogen oxidizer
+Go0012622,1051075,BACTERIAL,Paracoccus denitrificans SD1,Paracoccus denitrificans,Stores polyhydroxybutyrate
+Go0012725,1069533,BACTERIAL,Streptococcus infantarius infantarius CJ18,Streptococcus infantarius,Lactose fermenting
+Go0012771,1288298,BACTERIAL,Roseovarius mucosus DSM 17069,Roseovarius mucosus,Acetate oxidizer
+Go0012783,1129896,BACTERIAL,Rhodococcus opacus M213,Rhodococcus opacus,Naphthalene-degrading
+Go0012817,1056818,BACTERIAL,Teredinibacter turnerae T8415,Teredinibacter turnerae,Cellulose degrader
+Go0012817,1056818,BACTERIAL,Teredinibacter turnerae T8415,Teredinibacter turnerae,Dinitrogen-fixing
+Go0012824,1054860,BACTERIAL,"Streptomyces purpureus KA281, ATCC 21405",Streptomyces purpureus,Bottromycin producer
+Go0012824,1054860,BACTERIAL,"Streptomyces purpureus KA281, ATCC 21405",Streptomyces purpureus,Chloramphenicol producer
+Go0012824,1054860,BACTERIAL,"Streptomyces purpureus KA281, ATCC 21405",Streptomyces purpureus,Fradicin producer
+Go0012839,1033992,BACTERIAL,Pseudomonas oleovorans MOIL14HWK12,Pseudomonas oleovorans,Nitrogen fixation
+Go0012840,1033993,BACTERIAL,Pseudomonas sp. MOIL14HWK12:I1,Pseudomonas sp. MOIL14HWK12:I1,Nitrogen fixation
+Go0012841,1033994,BACTERIAL,Pseudomonas sp. MOIL14HWK12:I2,Pseudomonas sp. MOIL14HWK12:I2,Nitrogen fixation
+Go0012860,1056820,BACTERIAL,Teredinibacter turnerae T7902,Teredinibacter turnerae,Cellulose degrader
+Go0012860,1056820,BACTERIAL,Teredinibacter turnerae T7902,Teredinibacter turnerae,Dinitrogen-fixing
+Go0012931,1056817,BACTERIAL,Teredinibacter turnerae T8602,Teredinibacter turnerae,Cellulose degrader
+Go0012931,1056817,BACTERIAL,Teredinibacter turnerae T8602,Teredinibacter turnerae,Dinitrogen-fixing
+Go0012955,1110509,ARCHAEAL,Methanothrix harundinacea 6Ac,Methanothrix harundinacea,Methanogen
+Go0012959,1158291,BACTERIAL,"Thiomonas sp. FB-6, DSM 25805",Thiomonas sp. FB-6,Iron oxidizer
+Go0012960,1158292,BACTERIAL,"Thiomonas sp. FB-Cd, DSM 25617",Thiomonas sp. FB-Cd,Iron oxidizer
+Go0012961,1159870,BACTERIAL,"Bordetella sp. FB-8, DSM 24873",Bordetella sp. FB-8,Iron oxidizer
+Go0012962,1158293,BACTERIAL,Oxalobacteraceae bacterium AB_14,Oxalobacteraceae bacterium AB_14,Manganese oxidizer
+Go0012969,1120975,BACTERIAL,Alkalibacter saccharofermentans DSM 14828,Alkalibacter saccharofermentans,Saccharolytic
+Go0012979,1120984,BACTERIAL,Amycolatopsis taiwanensis DSM 45107,Amycolatopsis taiwanensis,Nitrate reducer
+Go0012982,1120988,BACTERIAL,Anaerobiospirillum succiniciproducens DSM 6400,Anaerobiospirillum succiniciproducens,Saccharolytic
+Go0012993,36863,BACTERIAL,"Ideonella dechloratans Anox B, ATCC 51718",Ideonella dechloratans,Chlorate-reducer
+Go0012993,36863,BACTERIAL,"Ideonella dechloratans Anox B, ATCC 51718",Ideonella dechloratans,Fatty-acid-oxidizer
+Go0012994,100761,BACTERIAL,Dechloromarinus chlorophilus NSS,Dechloromarinus chlorophilus,Chlorate-reducer
+Go0012995,548156,BACTERIAL,Propionivibrio militaris MP,Propionivibrio militaris,Chlorate-reducer
+Go0013004,1121478,BACTERIAL,Diaphorobacter oryzae DSM 22780,Diaphorobacter oryzae,Denitrifying
+Go0013005,1121479,BACTERIAL,Pseudodonghicola xiamenensis DSM 18339,Pseudodonghicola xiamenensis,Nitrate reducer
+Go0013007,1121481,BACTERIAL,Dyadobacter alkalitolerans DSM 23607,Dyadobacter alkalitolerans,Nitrate reducer
+Go0013008,1121482,BACTERIAL,Dyadobacter beijingensis DSM 21582,Dyadobacter beijingensis,Nitrate reducer
+Go0013021,1121867,BACTERIAL,Enterovibrio calviensis DSM 14347,Enterovibrio calviensis,Nitrate reducer
+Go0013024,1121870,BACTERIAL,Chryseobacterium tenax DSM 16811,Chryseobacterium tenax,Nitrate reducer
+Go0013025,1121871,BACTERIAL,Eremococcus coleocola DSM 15696,Eremococcus coleocola,Nitrate reducer
+Go0013033,604331,BACTERIAL,Meiothermus rufus DSM 22234,Meiothermus rufus,Nitrate reducer
+Go0013035,1122223,BACTERIAL,Meiothermus timidus DSM 17022,Meiothermus timidus,Nitrate reducer
+Go0013045,523845,ARCHAEAL,Methanothermococcus thermolithotrophicus DSM 2095,Methanothermococcus thermolithotrophicus,Methanogen
+Go0013046,1122233,ARCHAEAL,Methermicoccus shengliensis DSM 18856,Methermicoccus shengliensis,Methanogen
+Go0013053,1122239,BACTERIAL,Microbacterium luticocti DSM 19459,Microbacterium luticocti,Nitrate reducer
+Go0013054,1122240,BACTERIAL,Microvirgula aerodenitrificans DSM 15089,Microvirgula aerodenitrificans,Nitrate reducer
+Go0013066,1122599,BACTERIAL,Neptunomonas japonica DSM 18939,Neptunomonas japonica,Nitrate reducer
+Go0013068,1122601,BACTERIAL,Nesiotobacter exalbescens DSM 16456,Nesiotobacter exalbescens,Nitrate reducer
+Go0013076,1122609,BACTERIAL,Nocardioides halotolerans DSM 19273,Nocardioides halotolerans,Nitrate reducer
+Go0013077,1122610,BACTERIAL,Nocardioides insulae DSM 17944,Nocardioides insulae,Nitrate reducer
+Go0013081,1122613,BACTERIAL,Oceanicaulis alexandrii DSM 11625,Oceanicaulis alexandrii,Nitrate reducer
+Go0013082,1122614,BACTERIAL,Pseudooceanicola nanhaiensis DSM 18065,Pseudooceanicola nanhaiensis,Nitrate reducer
+Go0013083,1122615,BACTERIAL,Oceanobacter kriegii DSM 6294,Oceanobacter kriegii,Nitrate reducer
+Go0013090,1122622,BACTERIAL,Ornithinimicrobium pekingense DSM 21552,Ornithinimicrobium pekingense,Nitrate reducer
+Go0013097,1122919,BACTERIAL,Paenibacillus ginsengihumi DSM 21568,Paenibacillus ginsengihumi,Nitrate reducer
+Go0013099,1122921,BACTERIAL,Paenibacillus massiliensis 2301065,Paenibacillus massiliensis,Nitrate reducer
+Go0013100,1122922,BACTERIAL,Paenibacillus panacisoli DSM 21345,Paenibacillus panacisoli,Nitrate reducer
+Go0013105,1122927,BACTERIAL,Paenibacillus terrigena DSM 21567,Paenibacillus terrigena,Nitrate reducer
+Go0013106,1122928,BACTERIAL,Paludibacterium yongneupense DSM 18731,Paludibacterium yongneupense,Nitrate reducer
+Go0013107,1122929,BACTERIAL,Pannonibacter phragmitetus DSM 14782,Pannonibacter phragmitetus,Nitrate reducer
+Go0013110,1122932,BACTERIAL,Paracoccus kocurii DSM 8536,Paracoccus kocurii,Nitrate reducer
+Go0013126,1035196,BACTERIAL,Peptostreptococcus anaerobius DSM 2949,Peptostreptococcus anaerobius,Saccharolytic
+Go0013127,1122951,BACTERIAL,Perlucidibaca piscinae DSM 21586,Perlucidibaca piscinae,Nitrate reducer
+Go0013128,1122952,BACTERIAL,Persicirhabdus sediminis DSM 22463,Persicirhabdus sediminis,Nitrate reducer
+Go0013129,1122953,BACTERIAL,Petrotoga halophila DSM 16923,Petrotoga halophila,Sulfur reducer
+Go0013131,156203,BACTERIAL,Petrotoga olearia DSM 13574,Petrotoga olearia,Sulfur reducer
+Go0013135,1122959,BACTERIAL,Photobacterium halotolerans DSM 18316,Photobacterium halotolerans,Nitrate reducer
+Go0013139,1122962,BACTERIAL,Pleomorphomonas koreensis DSM 23070,Pleomorphomonas koreensis,Nitrogen fixation
+Go0013142,1385511,BACTERIAL,Pontibacillus marinus BH030004,Pontibacillus marinus,Nitrate reducer
+Go0013145,1122969,BACTERIAL,Ponticoccus litoralis DSM 18986,Ponticoccus litoralis,Nitrate reducer
+Go0013155,1122980,BACTERIAL,Prevotella baroniae DSM 16972,Prevotella baroniae,Saccharolytic
+Go0013161,1122986,BACTERIAL,Prevotella maculosa DSM 19339,Prevotella maculosa,Saccharolytic
+Go0013162,1122987,BACTERIAL,Prevotella micans DSM 21469,Prevotella micans,Saccharolytic
+Go0013163,1122988,BACTERIAL,Prevotella nanceiensis DSM 19126,Prevotella nanceiensis,Saccharolytic
+Go0013167,1122992,BACTERIAL,"Prevotella timonensis 4401737, DSM 22865",Prevotella timonensis,Saccharolytic
+Go0013168,1122994,BACTERIAL,Propionibacterium acidifaciens DSM 21887,Propionibacterium acidifaciens,Saccharolytic
+Go0013180,1123006,BACTERIAL,Propionivibrio pelophilus DSM 12018,Propionivibrio pelophilus,Nitrate reducer
+Go0013200,1123025,BACTERIAL,Pseudonocardia spinosispora DSM 44797,Pseudonocardia spinosispora,Nitrate reducer
+Go0013204,1123029,BACTERIAL,Pseudoxanthobacter soli DSM 19599,Pseudoxanthobacter soli,Nitrogen fixation
+Go0013209,1123033,BACTERIAL,Psychrobacter lutiphocae DSM 21542,Psychrobacter lutiphocae,Nitrate reducer
+Go0013210,1123034,BACTERIAL,Psychrobacter phenylpyruvicus DSM 7000,Psychrobacter phenylpyruvicus,Nitrate reducer
+Go0013216,1123054,BACTERIAL,Rheinheimera perlucida DSM 18276,Rheinheimera perlucida,Nitrate reducer
+Go0013217,1123055,BACTERIAL,Pararheinheimera texasensis DSM 17496,Pararheinheimera texasensis,Nitrate reducer
+Go0013219,293050,BACTERIAL,Rhodococcus kroppenstedtii DSM 44908,Rhodococcus kroppenstedtii,Nitrate reducer
+Go0013222,1123059,BACTERIAL,Robiginitomaculum antarcticum DSM 21748,Robiginitomaculum antarcticum,Nitrate reducer
+Go0013224,1123061,BACTERIAL,Roseomonas lacus DSM 19439,Roseomonas lacus,Nitrate reducer
+Go0013227,1123065,BACTERIAL,Ruania albidiflava DSM 18029,Ruania albidiflava,Nitrate reducer
+Go0013230,1123069,BACTERIAL,Rubellimicrobium thermophilum DSM 16684,Rubellimicrobium thermophilum,Cellobiose-degrading
+Go0013231,1123070,BACTERIAL,Rubritalea marina DSM 17716,Rubritalea marina,Nitrate reducer
+Go0013243,1123228,BACTERIAL,Saccharospirillum impatiens DSM 12546,Saccharospirillum impatiens,Nitrate reducer
+Go0013247,1123232,BACTERIAL,Salinicoccus kunmingensis DSM 17847,Salinicoccus kunmingensis,Nitrate reducer
+Go0013254,1123239,BACTERIAL,Salsuginibacillus kocurii DSM 18087,Salsuginibacillus kocurii,Nitrate reducer
+Go0013256,1123241,BACTERIAL,Nakamurella lactea DSM 19367,Nakamurella lactea,Nitrate reducer
+Go0013267,713585,BACTERIAL,Thioalkalivibrio paradoxus ARh 1,Thioalkalivibrio paradoxus,Sulfur oxidizer
+Go0013273,1123226,BACTERIAL,Saccharibacillus kuerlensis DSM 22868,Saccharibacillus kuerlensis,Nitrate reducer
+Go0013274,1123247,BACTERIAL,Sediminimonas qiaohouensis DSM 21189,Sediminimonas qiaohouensis,Nitrate reducer
+Go0013281,1117647,BACTERIAL,Simiduia agarivorans SA1,Simiduia agarivorans,Nitrate reducer
+Go0013292,1123265,BACTERIAL,Sphingobacterium thalpophilum DSM 11723,Sphingobacterium thalpophilum,Nitrate reducer
+Go0013297,1123269,BACTERIAL,"Sphingomonas sanxanigenens DSM 19645, NX02",Sphingomonas sanxanigenens,Nitrate reducer
+Go0013298,1123270,BACTERIAL,Sphingopyxis baekryungensis DSM 16222,Sphingopyxis baekryungensis,Nitrate reducer
+Go0013321,205326,BACTERIAL,Clostridium estertheticum laramiense DSM 14864,Clostridium estertheticum,Saccharolytic
+Go0013323,47679,BACTERIAL,Sporomusa sphaeroides E,Sporomusa sphaeroides,Acetogen
+Go0013324,84022,BACTERIAL,"Clostridium aceticum, DSM 1496",Clostridium aceticum,Acetogen
+Go0013334,1123293,BACTERIAL,Stackebrandtia albiflava DSM 45044,Stackebrandtia albiflava,Nitrate reducer
+Go0013366,1123325,BACTERIAL,Sulfurihydrogenibium subterraneum DSM 15120,Sulfurihydrogenibium subterraneum,Nitrate reducer
+Go0013367,1123326,BACTERIAL,Sulfurospirillum arcachonense DSM 9755,Sulfurospirillum arcachonense,Sulfur reducer
+Go0013384,1345695,BACTERIAL,Clostridium saccharobutylicum DSM 13864,Clostridium saccharobutylicum,Solvent producer
+Go0013410,1121265,BACTERIAL,Caminibacter hydrogeniphilus DSM 14510,Caminibacter hydrogeniphilus,Hydrogen oxidizer
+Go0013410,1121265,BACTERIAL,Caminibacter hydrogeniphilus DSM 14510,Caminibacter hydrogeniphilus,Sulfur reducer
+Go0013417,1121272,BACTERIAL,Catelliglobosispora koreensis DSM 44566,Catelliglobosispora koreensis,Nitrate reducer
+Go0013431,38313,BACTERIAL,Shewanella algae ACDC,Shewanella algae,Chlorate-reducer
+Go0013438,1121878,BACTERIAL,Ferrimonas futtsuensis DSM 18154,Ferrimonas futtsuensis,Selenate reducer
+Go0013439,1121879,BACTERIAL,Ferrimonas kyonanensis DSM 18153,Ferrimonas kyonanensis,Selenate reducer
+Go0013491,1121881,BACTERIAL,Ferrithrix thermotolerans DSM 19514,Ferrithrix thermotolerans,Iron oxidizer
+Go0013491,1121881,BACTERIAL,Ferrithrix thermotolerans DSM 19514,Ferrithrix thermotolerans,Iron reducer
+Go0013500,1121889,BACTERIAL,Flavobacterium filum DSM 17961,Flavobacterium filum,Nitrate reducer
+Go0013501,1121890,BACTERIAL,Flavobacterium frigidarium DSM 17623,Flavobacterium frigidarium,Xylan degrader
+Go0013519,1116375,BACTERIAL,Vibrio sp. EJY3,Vibrio sp. EJY3,Saccharolytic
+Go0013534,1121102,BACTERIAL,Campylobacter ureolyticus DSM 20703,Campylobacter ureolyticus,Nitrate reducer
+Go0013535,1121103,BACTERIAL,Balneatrix alpica DSM 16621,Balneatrix alpica,Nitrate reducer
+Go0013549,99656,BACTERIAL,Lachnoclostridium fimetarium DSM 9179,Lachnoclostridium fimetarium,Saccharolytic
+Go0013570,570952,BACTERIAL,Fodinicurvata sediminis DSM 21159,Fodinicurvata sediminis,Nitrate reducer
+Go0013574,1121908,BACTERIAL,Fusibacter paucivorans DSM 12116,Fusibacter paucivorans,Thiosulfate reducer
+Go0013575,1121909,BACTERIAL,Gaetbulibacter saemankumensis DSM 17032,Gaetbulibacter saemankumensis,Nitrate reducer
+Go0013577,1121911,BACTERIAL,Garciella nitratireducens DSM 15102,Garciella nitratireducens,Nitrate reducer
+Go0013577,1121911,BACTERIAL,Garciella nitratireducens DSM 15102,Garciella nitratireducens,Thiosulfate reducer
+Go0013579,1121913,BACTERIAL,Gelria glutamica DSM 14054,Gelria glutamica,Saccharolytic
+Go0013582,483547,BACTERIAL,Geoalkalibacter subterraneus Red1,Geoalkalibacter subterraneus,Acetate oxidizer
+Go0013582,483547,BACTERIAL,Geoalkalibacter subterraneus Red1,Geoalkalibacter subterraneus,Iron reducer
+Go0013582,483547,BACTERIAL,Geoalkalibacter subterraneus Red1,Geoalkalibacter subterraneus,Metal reducer
+Go0013605,1121116,BACTERIAL,Brachymonas chironomi DSM 19884,Brachymonas chironomi,Nitrate reducer
+Go0013612,1121123,BACTERIAL,Brevundimonas aveniformis DSM 17977,Brevundimonas aveniformis,Nitrate reducer
+Go0013617,1121127,BACTERIAL,Paraburkholderia nodosa DSM 21604,Paraburkholderia nodosa,Nitrogen fixation
+Go0013653,1121928,BACTERIAL,Gordonia shandongensis DSM 45094,Gordonia shandongensis,Nitrate reducer
+Go0013654,1121929,BACTERIAL,Gracilibacillus lacisalsi DSM 19029,Gracilibacillus lacisalsi,Nitrate reducer
+Go0013659,1121934,BACTERIAL,Gulosibacter molinativorax DSM 13485,Gulosibacter molinativorax,Nitrate reducer
+Go0013664,1121939,BACTERIAL,Halomonas anticariensis FP35,Halomonas anticariensis,Nitrate reducer
+Go0013702,1121943,BACTERIAL,Halomonas lutea DSM 23508,Halomonas lutea,Nitrate reducer
+Go0013704,1121945,ARCHAEAL,Halorubrum ezzemoulense DSM 17463,Halorubrum ezzemoulense,Nitrate reducer
+Go0013705,1121946,BACTERIAL,Hamadaea tsunoensis DSM 44101,Hamadaea tsunoensis,Nitrate reducer
+Go0013711,1121952,BACTERIAL,Humibacter albus DSM 18994,Humibacter albus,Nitrate reducer
+Go0013759,1121388,BACTERIAL,Derxia gummosa DSM 723,Derxia gummosa,Nitrogen fixer- aerobic
+Go0013806,1121390,BACTERIAL,Desulfacinum hydrothermale DSM 13146,Desulfacinum hydrothermale,Sulfate reducer
+Go0013807,1121391,BACTERIAL,Desulfacinum infernum DSM 9756,Desulfacinum infernum,Sulfate reducer
+Go0013808,1121392,BACTERIAL,Desulfatibacillum aliphaticivorans DSM 15576,Desulfatibacillum aliphaticivorans,Sulfate reducer
+Go0013809,1121393,BACTERIAL,Desulfatibacillum alkenivorans DSM 16219,Desulfatibacillum alkenivorans,Sulfate reducer
+Go0013810,1121394,BACTERIAL,Desulfatirhabdium butyrativorans DSM 18734,Desulfatirhabdium butyrativorans,Sulfate reducer
+Go0013810,1121394,BACTERIAL,Desulfatirhabdium butyrativorans DSM 18734,Desulfatirhabdium butyrativorans,Thiosulfate reducer
+Go0013812,1121396,BACTERIAL,Desulfobacter curvatus DSM 3379,Desulfobacter curvatus,Sulfate reducer
+Go0013812,1121396,BACTERIAL,Desulfobacter curvatus DSM 3379,Desulfobacter curvatus,Thiosulfate reducer
+Go0013813,2292,BACTERIAL,Desulfobacter latus DSM 3381,Desulfobacter latus,Sulfate reducer
+Go0013814,1121398,BACTERIAL,Desulfobacter vibrioformis DSM 8776,Desulfobacter vibrioformis,Sulfate reducer
+Go0013815,1121399,BACTERIAL,Desulfatiglans anilini DSM 4660,Desulfatiglans anilini,Sulfate reducer
+Go0013818,1121402,BACTERIAL,Desulfobulbus elongatus DSM 2908,Desulfobulbus elongatus,Sulfate reducer
+Go0013819,1121403,BACTERIAL,Desulfobulbus japonicus DSM 18378,Desulfobulbus japonicus,Sulfate reducer
+Go0013820,1121404,BACTERIAL,Desulfobulbus mediterraneus DSM 13871,Desulfobulbus mediterraneus,Sulfate reducer
+Go0013823,1121407,BACTERIAL,Desulfofaba fastidiosa DSM 15249,Desulfofaba fastidiosa,Sulfate reducer
+Go0013824,1121408,BACTERIAL,Desulfofaba gelida DSM 12344,Desulfofaba gelida,Sulfate reducer
+Go0013825,1121409,BACTERIAL,Desulfofustis glycolicus DSM 9705,Desulfofustis glycolicus,Sulfate reducer
+Go0013826,1121410,BACTERIAL,Desulfoluna butyratoxydans DSM 19427,Desulfoluna butyratoxydans,Sulfate reducer
+Go0013827,1121411,BACTERIAL,Desulfomicrobium escambiense DSM 10707,Desulfomicrobium escambiense,Sulfate reducer
+Go0013827,1121411,BACTERIAL,Desulfomicrobium escambiense DSM 10707,Desulfomicrobium escambiense,Thiosulfate reducer
+Go0013836,1122157,BACTERIAL,Laribacter hongkongensis DSM 14985,Laribacter hongkongensis,Nitrate reducer
+Go0013837,1122158,BACTERIAL,Leeia oryzae DSM 17879,Leeia oryzae,Nitrate reducer
+Go0013878,1286171,BACTERIAL,Peptoclostridium acidaminophilum al-2,Peptoclostridium acidaminophilum,Acetate producer
+Go0013878,1286171,BACTERIAL,Peptoclostridium acidaminophilum al-2,Peptoclostridium acidaminophilum,Aminoacid degrading
+Go0013882,1121412,BACTERIAL,Desulfomicrobium thermophilum DSM 16697,Desulfomicrobium thermophilum,Sulfate reducer
+Go0013883,1121413,BACTERIAL,Desulfonatronovibrio hydrogenovorans DSM 9292,Desulfonatronovibrio hydrogenovorans,Sulfate reducer
+Go0013885,1121415,BACTERIAL,Desulfonauticus autotrophicus DSM 4206,Desulfonauticus autotrophicus,Sulfate reducer
+Go0013886,1121416,BACTERIAL,Desulfopila aestuarii DSM 18488,Desulfopila aestuarii,Sulfate reducer
+Go0013889,1121419,BACTERIAL,Desulfosporosinus hippei DSM 8344,Desulfosporosinus hippei,Sulfate reducer
+Go0013890,1121420,BACTERIAL,Desulfosporosinus lacus DSM 15449,Desulfosporosinus lacus,Sulfate reducer
+Go0013890,1121420,BACTERIAL,Desulfosporosinus lacus DSM 15449,Desulfosporosinus lacus,Thiosulfate reducer
+Go0013891,1121421,BACTERIAL,Desulfotomaculum aeronauticum DSM 10349,Desulfotomaculum aeronauticum,Thiosulfate reducer
+Go0013892,1121422,BACTERIAL,Desulfallas alcoholivorax DSM 16058,Desulfallas alcoholivorax,Sulfate reducer
+Go0013893,1121423,BACTERIAL,Desulfohalotomaculum alkaliphilum DSM 12257,Desulfohalotomaculum alkaliphilum,Sulfate reducer
+Go0013895,1121425,BACTERIAL,Desulfofundulus australicus DSM 11792,Desulfofundulus australicus,Sulfate reducer
+Go0013899,1121429,BACTERIAL,Desulfotomaculum putei DSM 12395,Desulfotomaculum putei,Sulfate reducer
+Go0013900,1121430,BACTERIAL,Desulfofundulus thermocisternus DSM 10259,Desulfofundulus thermocisternus,Sulfate reducer
+Go0013902,1121432,BACTERIAL,Desulfofundulus thermosubterraneus DSM 16057,Desulfofundulus thermosubterraneus,Sulfate reducer
+Go0013907,1122175,BACTERIAL,Leucobacter chironomi DSM 19883,Leucobacter chironomi,Nitrate reducer
+Go0013921,1122190,BACTERIAL,Mannheimia granulomatis DSM 19156,Mannheimia granulomatis,Nitrate reducer
+Go0013923,1122192,BACTERIAL,Marinactinospora thermotolerans DSM 45154,Marinactinospora thermotolerans,Nitrate reducer
+Go0013928,1120935,BACTERIAL,Actinokineospora inagensis DSM 44258,Actinokineospora inagensis,Nitrate reducer
+Go0013937,1120945,BACTERIAL,Actinomyces neuii neuii DSM 8576,Actinomyces neuii,Nitrate reducer
+Go0013957,1121435,BACTERIAL,Desulfocurvibacter africanus DSM 2603,Desulfocurvibacter africanus,Sulfate reducer
+Go0013958,1121436,BACTERIAL,Desulfovibrio alaskensis DSM 16109,Desulfovibrio alaskensis,Sulfate reducer
+Go0013958,1121436,BACTERIAL,Desulfovibrio alaskensis DSM 16109,Desulfovibrio alaskensis,Thiosulfate reducer
+Go0013959,1121438,BACTERIAL,Desulfovibrio alcoholivorans DSM 5433,Desulfovibrio alcoholivorans,Sulfate reducer
+Go0013961,1121440,BACTERIAL,Desulfovibrio aminophilus DSM 12254,Desulfovibrio aminophilus,Aminoacid degrading
+Go0013961,1121440,BACTERIAL,Desulfovibrio aminophilus DSM 12254,Desulfovibrio aminophilus,Sulfate reducer
+Go0013962,1121441,BACTERIAL,Desulfovibrio bastinii DSM 16055,Desulfovibrio bastinii,Sulfate reducer
+Go0013964,1121443,BACTERIAL,Desulfovibrio cuneatus DSM 11391,Desulfovibrio cuneatus,Sulfate reducer
+Go0013966,1121445,BACTERIAL,Desulfovibrio desulfuricans desulfuricans DSM 642,Desulfovibrio desulfuricans,Sulfate reducer
+Go0013969,1121448,BACTERIAL,"Desulfovibrio gigas DSM 1382, ATCC 19364",Desulfovibrio gigas,Sulfate reducer
+Go0013970,1121449,BACTERIAL,Desulfovibrio gracilis DSM 16080,Desulfovibrio gracilis,Sulfate reducer
+Go0013972,1121451,BACTERIAL,"Desulfovibrio hydrothermalis AM13, DSM 14728",Desulfovibrio hydrothermalis,Sulfate reducer
+Go0013974,1121453,BACTERIAL,Desulfovibrio inopinatus DSM 10711,Desulfovibrio inopinatus,Sulfate reducer
+Go0013974,1121453,BACTERIAL,Desulfovibrio inopinatus DSM 10711,Desulfovibrio inopinatus,Thiosulfate reducer
+Go0013979,1122196,BACTERIAL,Marinitoga okinawensis DSM 17373,Marinitoga okinawensis,Sulfur reducer
+Go0013986,1122203,BACTERIAL,Marinococcus halotolerans DSM 16375,Marinococcus halotolerans,Nitrate reducer
+Go0013991,1122209,BACTERIAL,Marinospirillum alkaliphilum DSM 21637,Marinospirillum alkaliphilum,Nitrate reducer
+Go0013993,1122211,BACTERIAL,Marinospirillum insulare DSM 21763,Marinospirillum insulare,Nitrate reducer
+Go0013994,1122212,BACTERIAL,Marinospirillum minutulum DSM 6287,Marinospirillum minutulum,Nitrate reducer
+Go0014004,1120957,BACTERIAL,Aggregatibacter actinomycetemcomitans sv. C DSM 8324,Aggregatibacter actinomycetemcomitans,Nitrate reducer
+Go0014017,1120970,BACTERIAL,Aliagarivorans taiwanensis DSM 22990,Aliagarivorans taiwanensis,Nitrate reducer
+Go0014027,1121456,BACTERIAL,Desulfovibrio longus DSM 6739,Desulfovibrio longus,Sulfate reducer
+Go0014027,1121456,BACTERIAL,Desulfovibrio longus DSM 6739,Desulfovibrio longus,Thiosulfate reducer
+Go0014028,1121457,BACTERIAL,Halodesulfovibrio marinisediminis DSM 17456,Halodesulfovibrio marinisediminis,Sulfate reducer
+Go0014029,1121458,BACTERIAL,Desulfovibrio mexicanus DSM 13116,Desulfovibrio mexicanus,Sulfate reducer
+Go0014030,1121459,BACTERIAL,Desulfovibrio oxyclinae DSM 11498,Desulfovibrio oxyclinae,Sulfate reducer
+Go0014030,1121459,BACTERIAL,Desulfovibrio oxyclinae DSM 11498,Desulfovibrio oxyclinae,Sulfur reducer
+Go0014030,1121459,BACTERIAL,Desulfovibrio oxyclinae DSM 11498,Desulfovibrio oxyclinae,Thiosulfate reducer
+Go0014031,1121460,BACTERIAL,Desulfovibrio paquesii DSM 16681,Desulfovibrio paquesii,Hydrogen metabolizer
+Go0014031,1121460,BACTERIAL,Desulfovibrio paquesii DSM 16681,Desulfovibrio paquesii,Sulfate reducer
+Go0014031,1121460,BACTERIAL,Desulfovibrio paquesii DSM 16681,Desulfovibrio paquesii,Thiosulfate reducer
+Go0014032,1121461,BACTERIAL,Desulfovibrio psychrotolerans DSM 19430,Desulfovibrio psychrotolerans,Sulfate reducer
+Go0014033,1121462,BACTERIAL,Desulfovibrio putealis DSM 16056,Desulfovibrio putealis,Sulfate reducer
+Go0014034,1121463,BACTERIAL,Desulfovibrio senezii DSM 8436,Desulfovibrio senezii,Sulfate reducer
+Go0014035,1121464,BACTERIAL,Desulfovibrio sulfodismutans DSM 3696,Desulfovibrio sulfodismutans,Sulfate reducer
+Go0014037,1121466,BACTERIAL,Desulfovibrio vietnamensis DSM 10520,Desulfovibrio vietnamensis,Sulfate reducer
+Go0014037,1121466,BACTERIAL,Desulfovibrio vietnamensis DSM 10520,Desulfovibrio vietnamensis,Thiosulfate reducer
+Go0014038,1121467,BACTERIAL,Desulfovibrio zosterae DSM 11974,Desulfovibrio zosterae,Sulfate reducer
+Go0014039,1121468,BACTERIAL,Desulfovirgula thermocuniculi DSM 16036,Desulfovirgula thermocuniculi,Sulfate reducer
+Go0014040,1121469,BACTERIAL,Desulfurella kamchatkensis DSM 10409,Desulfurella kamchatkensis,Sulfate reducer
+Go0014043,1121472,BACTERIAL,Desulfurispora thermophila DSM 16022,Desulfurispora thermophila,Sulfate reducer
+Go0014044,240166,BACTERIAL,Desulfurobacterium pacificum DSM 15522,Desulfurobacterium pacificum,Sulfur reducer
+Go0014044,240166,BACTERIAL,Desulfurobacterium pacificum DSM 15522,Desulfurobacterium pacificum,Thiosulfate reducer
+Go0014047,1121476,BACTERIAL,Dethiosulfatibacter aminovorans DSM 17477,Dethiosulfatibacter aminovorans,Sulfur reducer
+Go0014047,1121476,BACTERIAL,Dethiosulfatibacter aminovorans DSM 17477,Dethiosulfatibacter aminovorans,Thiosulfate reducer
+Go0014111,106370,BACTERIAL,Frankia casuarinae CcI3,Frankia casuarinae,Nitrogen fixation
+Go0014193,1123501,BACTERIAL,Wenxinia marina DSM 24838,Wenxinia marina,Nitrate reducer
+Go0014227,1033732,BACTERIAL,Alistipes senegalensis JC50,Alistipes senegalensis,Succinic acid production
+Go0014232,1088721,BACTERIAL,Novosphingobium pentaromativorans US6-1,Novosphingobium pentaromativorans,Degrades aromatic hydrocarbons
+Go0014287,172088,BACTERIAL,Bradyrhizobium sp. th.b2,Bradyrhizobium sp. th.b2,Nitrogen fixation
+Go0014527,1122947,BACTERIAL,Pelosinus fermentans R7,Pelosinus fermentans,Iron reducer
+Go0014981,1117941,BACTERIAL,Lactococcus lactis lactis NCDO 2118,Lactococcus lactis,Prototrophic
+Go0015228,1109445,BACTERIAL,Pseudomonas stutzeri SDM-LAC,Pseudomonas stutzeri,Denitrifying
+Go0015576,864803,BACTERIAL,"Clostridium beijerinckii SA-1, ATCC 35702",Clostridium beijerinckii,Solvent producer
+Go0015581,1045012,BACTERIAL,Hungateiclostridium clariflavum 4-2a,Hungateiclostridium clariflavum,Cellulose degrader
+Go0015628,267377,ARCHAEAL,Methanococcus maripaludis S2,Methanococcus maripaludis,Hydrogenotrophic
+Go0015628,267377,ARCHAEAL,Methanococcus maripaludis S2,Methanococcus maripaludis,Methanogen
+Go0015628,267377,ARCHAEAL,Methanococcus maripaludis S2,Methanococcus maripaludis,Nitrogen fixation
+Go0015824,162176,BACTERIAL,Azospira sp. KJ,Azospira sp. KJ,Chlorate-reducer
+Go0015824,162176,BACTERIAL,Azospira sp. KJ,Azospira sp. KJ,Fatty-acid-oxidizer
+Go0015910,903524,BACTERIAL,Isoptericola variabilis J5,Isoptericola variabilis,Cellulose degrader
+Go0015910,903524,BACTERIAL,Isoptericola variabilis J5,Isoptericola variabilis,Xylan degrader
+Go0015937,1125863,BACTERIAL,Deferrisoma camini S3R1,Deferrisoma camini,Iron reducer
+Go0016180,632292,BACTERIAL,Caldicellulosiruptor hydrothermalis 108,Caldicellulosiruptor hydrothermalis,Biomass degrader
+Go0016180,632292,BACTERIAL,Caldicellulosiruptor hydrothermalis 108,Caldicellulosiruptor hydrothermalis,Cellulose degrader
+Go0016180,632292,BACTERIAL,Caldicellulosiruptor hydrothermalis 108,Caldicellulosiruptor hydrothermalis,Nitrogen producer
+Go0016181,632518,BACTERIAL,Caldicellulosiruptor owensensis OL,Caldicellulosiruptor owensensis,Biomass degrader
+Go0016181,632518,BACTERIAL,Caldicellulosiruptor owensensis OL,Caldicellulosiruptor owensensis,Cellulose degrader
+Go0016181,632518,BACTERIAL,Caldicellulosiruptor owensensis OL,Caldicellulosiruptor owensensis,Nitrogen producer
+Go0016203,1138384,BACTERIAL,Hungateiclostridium thermocellum AD2,Hungateiclostridium thermocellum,Cellulose degrader
+Go0016215,1091507,BACTERIAL,Citrobacter freundii ADS47,Citrobacter freundii,Nitrate reducer
+Go0016336,1136177,BACTERIAL,Lactobacillus pentosus KCA1,Lactobacillus pentosus,Lactose fermenting
+Go0016393,1050222,BACTERIAL,Paenibacillus sp. Aloe-11,Paenibacillus sp. Aloe-11,Nitrogen fixation
+Go0016438,940265,BACTERIAL,Acetobacter pasteurianus pasteurianus LMG 1262,Acetobacter pasteurianus,Acid-producing
+Go0016438,940265,BACTERIAL,Acetobacter pasteurianus pasteurianus LMG 1262,Acetobacter pasteurianus,Nitrogen fixation
+Go0016491,1138452,BACTERIAL,Bacillus megaterium NCT-2,Bacillus megaterium,Saprotroph
+Go0016501,1134454,BACTERIAL,Cutibacterium acnes HL096PA1,Cutibacterium acnes,Nitrate reducer
+Go0016609,1127120,BACTERIAL,Klebsiella oxytoca pKOX_NDM1,Klebsiella oxytoca,Ethanol production
+Go0016610,1134455,BACTERIAL,Klebsiella oxytoca 11492-1,Klebsiella oxytoca,Ethanol production
+Go0016619,1108963,BACTERIAL,Lactobacillus salivarius SMXD51,Lactobacillus salivarius,Homofermentative
+Go0016675,1123519,BACTERIAL,"Pseudomonas stutzeri JM3000, DSM 10701",Pseudomonas stutzeri,Nitrogen fixation
+Go0016676,1051974,BACTERIAL,Granulibacter bethesdensis CGDNIH2,Granulibacter bethesdensis,Acetate oxidizer
+Go0016915,1132497,ARCHAEAL,Sulfolobus islandicus M.16.2,Sulfolobus islandicus,Sulfide oxidizer
+Go0016916,1132498,ARCHAEAL,Sulfolobus islandicus M.16.12,Sulfolobus islandicus,Sulfide oxidizer
+Go0016917,1132499,ARCHAEAL,Sulfolobus islandicus M.16.13,Sulfolobus islandicus,Sulfide oxidizer
+Go0016949,1132500,ARCHAEAL,Sulfolobus islandicus M.16.22,Sulfolobus islandicus,Sulfide oxidizer
+Go0016950,1132501,ARCHAEAL,Sulfolobus islandicus M.16.23,Sulfolobus islandicus,Sulfide oxidizer
+Go0016951,1132502,ARCHAEAL,Sulfolobus islandicus M.16.30,Sulfolobus islandicus,Sulfide oxidizer
+Go0016952,1132503,ARCHAEAL,Sulfolobus islandicus M.16.40,Sulfolobus islandicus,Sulfide oxidizer
+Go0016953,1132504,ARCHAEAL,Sulfolobus islandicus M.16.43,Sulfolobus islandicus,Sulfide oxidizer
+Go0016954,1132505,ARCHAEAL,Sulfolobus islandicus M.16.46,Sulfolobus islandicus,Sulfide oxidizer
+Go0016955,1132506,ARCHAEAL,Sulfolobus islandicus M.16.47,Sulfolobus islandicus,Sulfide oxidizer
+Go0017275,1064515,BACTERIAL,Dolichospermum circinale ACFR02,Dolichospermum circinale,Nitrogen fixation
+Go0017288,1071390,BACTERIAL,Acinetobacter sp. NBRC 100985,Acinetobacter sp. NBRC 100985,Lactose fermenting
+Go0017330,566679,BACTERIAL,Bradyrhizobium sp. ORS 375,Bradyrhizobium sp. ORS 375,Nitrogen fixation
+Go0017607,1094508,BACTERIAL,"Thermoanaerobacterium saccharolyticum JW/SL-YS485, DSM 8691",Thermoanaerobacterium saccharolyticum,Xylan degrader
+Go0017728,1114921,BACTERIAL,Citrobacter werkmanii NBRC 105721,Citrobacter werkmanii,Lactose fermenting
+Go0017797,1128399,BACTERIAL,Rhizobium phaseoli Ch24-10,Rhizobium phaseoli,Nitrogen fixation
+Go0017864,1133569,BACTERIAL,Lactobacillus vini DSM 20605,Lactobacillus vini,Homofermentative
+Go0017918,1134912,BACTERIAL,Methylocystis parvus OBBP,Methylocystis parvus,Nitrogen fixation
+Go0018176,499,BACTERIAL,Thermomicrobium sp. HL1,Thermomicrobium sp. HL1,Denitrifying
+Go0018904,203119,BACTERIAL,Hungateiclostridium thermocellum ATCC 27405,Hungateiclostridium thermocellum,Cellulose degrader
+Go0018904,203119,BACTERIAL,Hungateiclostridium thermocellum ATCC 27405,Hungateiclostridium thermocellum,Ethanogenic
+Go0018926,1402,BACTERIAL,Bacillus licheniformis 1.1B,Bacillus licheniformis,Acetate oxidizer
+Go0019017,1123388,BACTERIAL,Thermus igniterrae ATCC 700962,Thermus igniterrae,Nitrate reducer
+Go0019167,1167006,BACTERIAL,Desulfocapsa sulfexigens DSM 10523,Desulfocapsa sulfexigens,Sulfur metabolizing
+Go0019174,1352929,BACTERIAL,Frankia sp. CcI6,Frankia sp. CcI6,Nitrogen fixer- aerobic
+Go0019211,1398,BACTERIAL,Bacillus coagulans GBI-30,Bacillus coagulans,Auxotroph
+Go0019211,1398,BACTERIAL,Bacillus coagulans GBI-30,Bacillus coagulans,Sugars fermentor
+Go0019211,1398,BACTERIAL,Bacillus coagulans GBI-30,Bacillus coagulans,Xylose fermenting
+Go0019307,169679,BACTERIAL,Clostridium saccharobutylicum NCP 195,Clostridium saccharobutylicum,Solvent producer
+Go0019308,1520,BACTERIAL,Clostridium beijerinckii BAS/B3/I/124,Clostridium beijerinckii,Solvent producer
+Go0019309,1262449,BACTERIAL,"Clostridium pasteurianum DSM 525, ATCC 6013",Clostridium pasteurianum,Nitrogen fixer- anaerobic
+Go0019310,192952,ARCHAEAL,Methanosarcina mazei Go1,Methanosarcina mazei,Methanogen
+Go0019380,1464546,BACTERIAL,Acidiphilium sp. JA12-A1,Acidiphilium sp. JA12-A1,Iron reducer
+Go0019440,1402,BACTERIAL,Bacillus licheniformis Hankey B13,Bacillus licheniformis,Acetate oxidizer
+Go0019441,1402,BACTERIAL,Bacillus licheniformis DSM 1969,Bacillus licheniformis,Acetate oxidizer
+Go0019442,1402,BACTERIAL,Bacillus licheniformis DSM 1913,Bacillus licheniformis,Acetate oxidizer
+Go0019448,169679,BACTERIAL,Clostridium saccharobutylicum NCP 258,Clostridium saccharobutylicum,Solvent producer
+Go0019485,1247726,BACTERIAL,Advenella mimigardefordensis DPN7,Advenella mimigardefordensis,Succinic acid production
+Go0019486,1095771,BACTERIAL,Ruminococcus massiliensis JC304,Ruminococcus massiliensis,Acetate producer
+Go0019572,1046624,BACTERIAL,Lactococcus lactis lactis IO-1,Lactococcus lactis,Homofermentative
+Go0019759,1156914,BACTERIAL,Helicobacter pylori NAB47,Helicobacter pylori,Hydrogen metabolizer
+Go0019760,1156915,BACTERIAL,Helicobacter pylori NAD1,Helicobacter pylori,Hydrogen metabolizer
+Go0019767,1163744,BACTERIAL,Helicobacter pylori Alsk48,Helicobacter pylori,Hydrogen metabolizer
+Go0020136,1402,BACTERIAL,Bacillus licheniformis 51.1,Bacillus licheniformis,Acetate oxidizer
+Go0020137,1402,BACTERIAL,Bacillus licheniformis FDA BT1 Tracy I,Bacillus licheniformis,Acetate oxidizer
+Go0020468,477184,BACTERIAL,Achromobacter arsenitoxydans SY8,Achromobacter arsenitoxydans,Arsenite oxidizer
+Go0020469,1088868,BACTERIAL,Commensalibacter intestini A911,Commensalibacter intestini,Nitrate reducer
+Go0020491,1110694,BACTERIAL,Pantoea agglomerans IG1,Pantoea agglomerans,Nitrogen fixation
+Go0020501,1235461,BACTERIAL,Sinorhizobium meliloti GR4,Sinorhizobium meliloti,Nitrogen fixation
+Go0020501,1235461,BACTERIAL,Sinorhizobium meliloti GR4,Sinorhizobium meliloti,Nitrogen fixer- anaerobic
+Go0020563,1107882,BACTERIAL,Mesorhizobium alhagi CCNWXJ12-2,Mesorhizobium alhagi,Nitrogen fixation
+Go0020572,1156918,BACTERIAL,Alcaligenes faecalis faecalis NCIB 8687,Alcaligenes faecalis,Arsenite oxidizer
+Go0020573,1156919,BACTERIAL,Achromobacter piechaudii HLE,Achromobacter piechaudii,Ammonia-oxidizer
+Go0020615,1162668,BACTERIAL,Leptospirillum ferrooxidans C2-3,Leptospirillum ferrooxidans,Iron oxidizer
+Go0020627,1161913,BACTERIAL,Herbaspirillum lusitanum P6-12,Herbaspirillum lusitanum,Nitrogen fixation
+Go0020642,335659,BACTERIAL,Bradyrhizobium sp. S23321,Bradyrhizobium sp. S23321,Nitrogen fixation
+Go0020674,1114960,BACTERIAL,Rhodococcus pyridinivorans AK37,Rhodococcus pyridinivorans,Oil degrading
+Go0020881,1685,BACTERIAL,Bifidobacterium breve SC95,Bifidobacterium breve,Lactose fermenting
+Go0021073,1177186,BACTERIAL,Bacillus amyloliquefaciens plantarum M27,Bacillus amyloliquefaciens,Nitrate reducer
+Go0021165,1682,BACTERIAL,Bifidobacterium longum infantis SC142,Bifidobacterium longum,Lactose fermenting
+Go0021180,1685,BACTERIAL,Bifidobacterium breve SC154,Bifidobacterium breve,Lactose fermenting
+Go0021181,1681,BACTERIAL,Bifidobacterium bifidum SC555,Bifidobacterium bifidum,Lactose fermenting
+Go0021182,1679,BACTERIAL,Bifidobacterium longum longum SC596,Bifidobacterium longum,Lactose fermenting
+Go0021183,1679,BACTERIAL,Bifidobacterium longum longum SC664,Bifidobacterium longum,Lactose fermenting
+Go0021184,1385940,BACTERIAL,Bifidobacterium breve JCM 7019,Bifidobacterium breve,Lactose fermenting
+Go0021185,1684,BACTERIAL,Bifidobacterium asteroides ATCC 25910,Bifidobacterium asteroides,Lactose fermenting
+Go0021188,218983,BACTERIAL,Glaciecola sp. ANT9081,Glaciecola sp. ANT9081,Degrades organic material
+Go0021188,218983,BACTERIAL,Glaciecola sp. ANT9081,Glaciecola sp. ANT9081,Utilize carbohydrates
+Go0021532,477228,BACTERIAL,Pseudomonas stutzeri TS44,Pseudomonas stutzeri,Arsenite oxidizer
+Go0021722,28890,ARCHAEAL,Euryarchaeota sp. AmaM,(null),Methanogen
+Go0021795,53321,BACTERIAL,Desulfocapsa thiozymogenes DSM 7269,Desulfocapsa thiozymogenes,Sulfur metabolizing
+Go0021811,1195236,BACTERIAL,Ruminiclostridium cellobioparum termitidis CT1112,Ruminiclostridium cellobioparum,Cellulose degrader
+Go0022543,533244,BACTERIAL,Cylindrospermopsis raciborskii CS-509,Cylindrospermopsis raciborskii,Nitrogen fixation
+Go0022654,533241,BACTERIAL,Cylindrospermopsis raciborskii CS-506,Cylindrospermopsis raciborskii,Nitrogen fixation
+Go0023303,1129897,BACTERIAL,Nitrolancea hollandica Lb,Nitrolancea hollandica,Nitrite-oxidizer
+Go0023335,1423751,BACTERIAL,Lactobacillus gigeriorum CRBIP 24.85,Lactobacillus gigeriorum,Homofermentative
+Go0023734,169679,BACTERIAL,Clostridium saccharobutylicum BAS/B3/SW/136,Clostridium saccharobutylicum,Solvent producer
+Go0024857,1122954,BACTERIAL,Petrotoga mexicana DSM 14811,Petrotoga mexicana,Sulfate reducer
+Go0024857,1122954,BACTERIAL,Petrotoga mexicana DSM 14811,Petrotoga mexicana,Sulfur reducer
+Go0024857,1122954,BACTERIAL,Petrotoga mexicana DSM 14811,Petrotoga mexicana,Thiosulfate reducer
+Go0024857,1122954,BACTERIAL,Petrotoga mexicana DSM 14811,Petrotoga mexicana,Xylan degrader
+Go0025021,1328314,BACTERIAL,Azotobacter chroococcum X50Fred,Azotobacter chroococcum,Dinitrogen-fixing
+Go0025490,32047,BACTERIAL,Synechococcus leopoliensis UTEX 625a,Synechococcus leopoliensis,Carbon fixation
+Go0026274,345632,BACTERIAL,Geobacter pickeringii G13,Geobacter pickeringii,Acetate oxidizer
+Go0026274,345632,BACTERIAL,Geobacter pickeringii G13,Geobacter pickeringii,Metal reducer
+Go0026463,1268072,BACTERIAL,Paenibacillus sabinae T27,Paenibacillus sabinae,Nitrogen fixation
+Go0026735,1423796,BACTERIAL,Lactobacillus rennini DSM 20253,Lactobacillus rennini,Homofermentative
+Go0026854,1423812,BACTERIAL,Lactobacillus uvarum DSM 19971,Lactobacillus uvarum,Homofermentative
+Go0026855,1423777,BACTERIAL,Lactobacillus oeni DSM 19972,Lactobacillus oeni,Homofermentative
+Go0026866,1423774,BACTERIAL,Lactobacillus nantensis DSM 16982,Lactobacillus nantensis,Homofermentative
+Go0027241,1423801,BACTERIAL,Lactobacillus satsumensis DSM 16230,Lactobacillus satsumensis,Homofermentative
+Go0027271,319238,BACTERIAL,Sediminicola luteus CNI-3,Sediminicola luteus,Nitrate reducer
+Go0027507,1236961,BACTERIAL,Diaphorobacter nitroreducens JCM 11421,Diaphorobacter nitroreducens,Denitrifying
+Go0027525,1423770,BACTERIAL,Lactobacillus mindensis DSM 14500,Lactobacillus mindensis,Homofermentative
+Go0028406,1423754,BACTERIAL,Lactobacillus hamsteri DSM 5661,Lactobacillus hamsteri,Homofermentative
+Go0028721,1236954,BACTERIAL,Bacillus mannanilyticus JCM 10596,Bacillus mannanilyticus,Mannan lysing
+Go0028836,46225,BACTERIAL,Moraxella saccharolytica LMG 1039,Moraxella saccharolytica,Gelatin hydrolysis positive
+Go0029043,2260,ARCHAEAL,Pyrococcus chitonophagus DSM 10152,Pyrococcus chitonophagus,Chitin degradation
+Go0029169,1587,BACTERIAL,Lactobacillus suntoryeus LMG 22464,Lactobacillus suntoryeus,Homofermentative
+Go0029173,1423718,BACTERIAL,Lactobacillus agilis DSM 20509,Lactobacillus agilis,Homofermentative
+Go0030243,657014,BACTERIAL,Litorimicrobium taeanense DSM 22007,Litorimicrobium taeanense,Gelatin hydrolysis negative
+Go0030848,499207,BACTERIAL,Syntrophaceticus schinkii Sp3,Syntrophaceticus schinkii,Acetate oxidizer
+Go0031020,1423809,BACTERIAL,Lactobacillus taiwanensis DSM 21401,Lactobacillus taiwanensis,Homofermentative
+Go0031172,1423759,BACTERIAL,Lactobacillus hordei DSM 19519,Lactobacillus hordei,Homofermentative
+Go0031306,1423755,BACTERIAL,Lactobacillus hayakitensis DSM 18933,Lactobacillus hayakitensis,Homofermentative
+Go0031753,1322246,BACTERIAL,Pseudodesulfovibrio piezophilus C1TLV30,Pseudodesulfovibrio piezophilus,Sulfate reducer
+Go0031895,1423744,BACTERIAL,Lactobacillus floricola DSM 23037,Lactobacillus floricola,Homofermentative
+Go0032281,1336240,BACTERIAL,Shewanella colwelliana ATCC 39565,Shewanella colwelliana,Melanin producer
+Go0032288,1262391,BACTERIAL,Aeromonas hydrophila HS01,Aeromonas hydrophila,Degrades aromatic hydrocarbons
+Go0032288,1262391,BACTERIAL,Aeromonas hydrophila HS01,Aeromonas hydrophila,Iron reducer
+Go0032288,1262391,BACTERIAL,Aeromonas hydrophila HS01,Aeromonas hydrophila,PCP-degrading
+Go0032702,1423827,BACTERIAL,Lactobacillus kefiranofaciens kefiranofaciens DSM 5016,Lactobacillus kefiranofaciens,Homofermentative
+Go0033755,1236903,ARCHAEAL,Methanosarcina mazei Tuc01,Methanosarcina mazei,Methanogen
+Go0033857,335283,BACTERIAL,Nitrosomonas eutropha Nm 57,Nitrosomonas eutropha,Ammonia-oxidizer
+Go0033857,335283,BACTERIAL,Nitrosomonas eutropha Nm 57,Nitrosomonas eutropha,Nitrifying
+Go0033997,1123347,BACTERIAL,Tenacibaculum ovolyticum DSM 18103,Tenacibaculum ovolyticum,Nitrate reducer
+Go0034041,1191699,BACTERIAL,Bacillus oryziterrae ZYK,Bacillus oryziterrae,Nitrate reducer
+Go0034118,247490,BACTERIAL,Planctomycetaceae bacterium KSU-1,Planctomycetaceae bacterium KSU-1,Ammonia-oxidizer
+Go0034621,1204713,BACTERIAL,Arhodomonas sp. Seminole,Arhodomonas sp. Seminole,Benzene degradation
+Go0035083,28205,BACTERIAL,Dictyoglomus sp. OB1-4,Dictyoglomus sp.,Xylan degrader
+Go0035269,1423758,BACTERIAL,Lactobacillus hominis CRBIP 24.179,Lactobacillus hominis,Homofermentative
+Go0035270,1423790,BACTERIAL,Lactobacillus pasteurii CRBIP 24.76,Lactobacillus pasteurii,Homofermentative
+Go0035461,1423144,BACTERIAL,Phaeobacter gallaeciensis BS107,Phaeobacter gallaeciensis,Acetate oxidizer
+Go0035492,1288313,BACTERIAL,Gluconobacter oxydans DSM 3504,Gluconobacter oxydans,Acetate producer
+Go0036465,1123237,BACTERIAL,Salipiger mucosus DSM 16094,Salipiger mucosus,Acetate oxidizer
+Go0036960,1166130,BACTERIAL,Enterobacter sp. R4-368,Enterobacter sp. R4-368,Nitrogen fixation
+Go0037417,43263,BACTERIAL,Pseudomonas alcaligenes OT69,Pseudomonas alcaligenes,Degrades crude oil
+Go0039646,1413210,BACTERIAL,Orenia metallireducens Z6,Orenia metallireducens,Iron reducer
+Go0039739,1333857,BACTERIAL,Microbacterium maritypicum MF109,Microbacterium maritypicum,Degrades crude oil
+Go0039741,1333855,BACTERIAL,Pseudomonas aeruginosa WC55,Pseudomonas aeruginosa,Degrades aromatic hydrocarbons
+Go0039742,1333856,BACTERIAL,Pseudomonas stutzeri MF28,Pseudomonas stutzeri,Degrades crude oil
+Go0040139,683305,BACTERIAL,Frankia sp. BMG5.23,Frankia sp. BMG5.23,Nitrogen fixer- aerobic
+Go0040356,1333853,BACTERIAL,Stenotrophomonas maltophilia MF89,Stenotrophomonas maltophilia,Degrades crude oil
+Go0040514,573497,BACTERIAL,Frankia sp. Cc1.17,Frankia sp. Cc1.17,Nitrogen fixer- aerobic
+Go0040609,682957,BACTERIAL,Paenibacillus sophorae S27,Paenibacillus sophorae,Nitrogen fixer- anaerobic
+Go0041040,1242253,BACTERIAL,Lactobacillus pobuzihii E100301,Lactobacillus pobuzihii,Homofermentative
+Go0041496,1286106,BACTERIAL,Methylophaga lonarensis MPL,Methylophaga lonarensis,Haloalkalophile
+Go0041496,1286106,BACTERIAL,Methylophaga lonarensis MPL,Methylophaga lonarensis,Methylotrophic
+Go0041667,1316937,BACTERIAL,Clostridium diolis DSM 15410,Clostridium diolis,Propionate metabolism
+Go0042370,1321609,BACTERIAL,Variovorax boronicumulans NBRC 103145,Variovorax boronicumulans,Boron accumulating
+Go0042541,457427,BACTERIAL,Streptomyces himastatinicus ATCC 53653,Streptomyces himastatinicus,Himastatin producer
+Go0042563,106370,BACTERIAL,Frankia casuarinae Thr,Frankia casuarinae,Nitrogen fixer- aerobic
+Go0042647,326297,BACTERIAL,Shewanella amazonensis SB2B,Shewanella amazonensis,Metal reducer
+Go0043190,1348973,BACTERIAL,Bacillus azotoformans MEV2011,Bacillus azotoformans,Denitrifying
+Go0043335,1029756,BACTERIAL,Hyphomicrobium nitrativorans NL23,Hyphomicrobium nitrativorans,Denitrifying
+Go0043335,1029756,BACTERIAL,Hyphomicrobium nitrativorans NL23,Hyphomicrobium nitrativorans,Methanol degrading
+Go0043396,1334629,BACTERIAL,Myxococcus fulvus 124B02,Myxococcus fulvus,Aminoacid degrading
+Go0043600,993692,BACTERIAL,Lactobacillus kimchiensis DSM 24716,Lactobacillus kimchiensis,Homofermentative
+Go0043636,517425,BACTERIAL,Salisediminibacterium halotolerans CGMCC 1.7654,Salisediminibacterium halotolerans,Haloalkalophile
+Go0043773,1379258,BACTERIAL,Aquimarina longa SW024,Aquimarina longa,Fatty-acid-oxidizer
+Go0044418,1121433,BACTERIAL,Desulfovermiculus halophilus DSM 18834,Desulfovermiculus halophilus,Sulfate reducer
+Go0044733,1354268,BACTERIAL,Obesumbacterium proteus ATCC 12841,Obesumbacterium proteus,Sugars fermentor
+Go0045092,981405,BACTERIAL,Frankia sp. Allo2,Frankia sp. Allo2,Nitrogen fixer- aerobic
+Go0046688,258230,BACTERIAL,Frankia sp. CeD,Frankia sp. CeD,Nitrogen fixer- aerobic
+Go0047020,39774,BACTERIAL,Methylomicrobium agile ATCC 35068,Methylomicrobium agile,Methane oxidation
+Go0047351,1121439,BACTERIAL,Desulfovibrio alkalitolerans DSM 16529,Desulfovibrio alkalitolerans,Sulfate reducer
+Go0048456,1406314,BACTERIAL,Klebsiella pneumoniae pneumoniae PittNDM01,Klebsiella pneumoniae,Lactose fermenting
+Go0050741,13134,BACTERIAL,Magnetospirillum sp. CP3,Magnetospirillum sp. CP3,Chlorate-reducer
+Go0050741,13134,BACTERIAL,Magnetospirillum sp. CP3,Magnetospirillum sp. CP3,Fatty-acid-oxidizer
+Go0050743,100762,BACTERIAL,Azospirillum sp. TTI,Azospirillum sp. TTI,Chlorate-reducer
+Go0050743,100762,BACTERIAL,Azospirillum sp. TTI,Azospirillum sp. TTI,Fatty-acid-oxidizer
+Go0050915,169679,BACTERIAL,Clostridium saccharobutylicum NCP 162,Clostridium saccharobutylicum,Solvent producer
+Go0072558,258594,BACTERIAL,Rhodopseudomonas palustris CGA009,Rhodopseudomonas palustris,Carbon dioxide fixation
+Go0072558,258594,BACTERIAL,Rhodopseudomonas palustris CGA009,Rhodopseudomonas palustris,Pollutant degrader
+Go0072739,1355022,BACTERIAL,Bacillus safensis VK,Bacillus safensis,Iron reducer
+Go0072739,1355022,BACTERIAL,Bacillus safensis VK,Bacillus safensis,PAH-degrading
+Go0072739,1355022,BACTERIAL,Bacillus safensis VK,Bacillus safensis,Sulfur reducer
+Go0074644,1434105,ARCHAEAL,Methanosarcina baltica GS1-A,Methanosarcina baltica,Methanogen
+Go0075296,1432050,BACTERIAL,Rhizobium etli bv. mimosae IE4771,Rhizobium etli,Nitrogen fixation
+Go0075730,1348655,BACTERIAL,Lactococcus lactis cremoris NBRC 100676,Lactococcus lactis,Lactose fermenting
+Go0076455,39441,ARCHAEAL,Methanobrevibacter arboriphilicus DH1,Methanobrevibacter arboriphilicus,Methanogen
+Go0076622,169679,BACTERIAL,Clostridium saccharobutylicum L1-8,Clostridium saccharobutylicum,Solvent producer
+Go0081454,1028801,BACTERIAL,Neorhizobium galegae bv. officinalis HAMBI 1141,Neorhizobium galegae,Nitrogen fixation
+Go0081455,1028800,BACTERIAL,Neorhizobium galegae bv. orientalis HAMBI 540,Neorhizobium galegae,Nitrogen fixation
+Go0085248,1520,BACTERIAL,Clostridium beijerinckii BAS/B2,Clostridium beijerinckii,Solvent producer
+Go0085249,1520,BACTERIAL,Clostridium beijerinckii NCP260,Clostridium beijerinckii,Solvent producer
+Go0085286,1217799,BACTERIAL,Dehalogenimonas alkenigignens IP3-3,Dehalogenimonas alkenigignens,Dehalogenation
+Go0087953,1732,BACTERIAL,Eubacterium oxidoreducens DSM 3217,Eubacterium oxidoreducens,Acetate producer
+Go0087955,1485544,BACTERIAL,Ferriphaselus sp. R-1,Ferriphaselus sp. R-1,Iron oxidizer
+Go0087969,1423798,BACTERIAL,Lactobacillus ruminis DSM 20403,Lactobacillus ruminis,Homofermentative
+Go0087972,294671,ARCHAEAL,Methanobrevibacter olleyae DSM 16632,Methanobrevibacter olleyae,Methanogen
+Go0088098,266835,BACTERIAL,Mesorhizobium japonicum MAFF 303099,Mesorhizobium japonicum,Nitrogen fixation
+Go0088227,1121324,BACTERIAL,Peptoclostridium litorale W6,Peptoclostridium litorale,Acetogen
+Go0088228,1497,BACTERIAL,Clostridium formicaceticum A1,Clostridium formicaceticum,Acetogen
+Go0088893,115783,BACTERIAL,Geobacter thiogenes ATCC BAA-34,Geobacter thiogenes,Acetate oxidizer
+Go0088893,115783,BACTERIAL,Geobacter thiogenes ATCC BAA-34,Geobacter thiogenes,Sulfur producer
+Go0088907,92487,BACTERIAL,Thiothrix eikelboomii ATCC 49788,Thiothrix eikelboomii,Sulfur metabolizing
+Go0088958,29367,BACTERIAL,Clostridium puniceum BL70/20,Clostridium puniceum,Solvent producer
+Go0090598,1509,BACTERIAL,"Clostridium sporogenes 388, DSM 795",Clostridium sporogenes,Aminoacid degrading
+Go0091477,1423806,BACTERIAL,Lactobacillus sucicola JCM 15457,Lactobacillus sucicola,Homofermentative
+Go0091699,910450,BACTERIAL,Prochloron didemni P3-Palau,Prochloron didemni,Patellamides producer
+Go0091700,910450,BACTERIAL,Prochloron didemni P4-Palau,Prochloron didemni,Patellamides producer
+Go0093151,1291734,BACTERIAL,Lactobacillus nasuensis JCM 17158,Lactobacillus nasuensis,Homofermentative
+Go0093327,1437824,BACTERIAL,Castellaniella defragrans 65Phen,Castellaniella defragrans,Monoterpene oxidizer
+Go0093934,384678,BACTERIAL,Paracoccus sulfuroxidans CGMCC 1.5364,Paracoccus sulfuroxidans,Sulfide oxidizer
+Go0093978,1603606,BACTERIAL,Desulfuromonas soudanensis WTL,Desulfuromonas soudanensis,Acetate oxidizer
+Go0094804,1458425,BACTERIAL,Serpentinomonas raichei H1,Serpentinomonas raichei,Acetate oxidizer
+Go0095180,2325,BACTERIAL,Thermoanaerobacter kivui DSM 2030,Thermoanaerobacter kivui,Acetate producer
+Go0095180,2325,BACTERIAL,Thermoanaerobacter kivui DSM 2030,Thermoanaerobacter kivui,Hydrocarbon-oxidizing
+Go0095293,1856,BACTERIAL,Frankia torreyi CpI1-S,Frankia torreyi,Nitrogen fixer- aerobic
+Go0095386,1262449,BACTERIAL,Clostridium pasteurianum ATCC6013,Clostridium pasteurianum,Nitrogen fixer- anaerobic
+Go0096120,1511746,BACTERIAL,Thermoanaerobacter sp. YS13,Thermoanaerobacter sp. YS13,Ethanogenic
+Go0096817,314279,BACTERIAL,Nitrosococcus oceani C-27,Nitrosococcus oceani,Ammonia-oxidizer
+Go0097559,1229,BACTERIAL,Nitrosococcus oceani AFC132,Nitrosococcus oceani,Ammonia-oxidizer
+Go0097559,1229,BACTERIAL,Nitrosococcus oceani AFC132,Nitrosococcus oceani,Denitrifying
+Go0097559,1229,BACTERIAL,Nitrosococcus oceani AFC132,Nitrosococcus oceani,Nitrifying
+Go0099517,666685,BACTERIAL,Rhodanobacter denitrificans FW104-R3,Rhodanobacter denitrificans,Denitrifying
+Go0099517,666685,BACTERIAL,Rhodanobacter denitrificans FW104-R3,Rhodanobacter denitrificans,Metal reducer
+Go0099519,1524468,BACTERIAL,Rhodanobacter sp. FW104-R5,Rhodanobacter sp. FW104-R5,Denitrifying
+Go0099519,1524468,BACTERIAL,Rhodanobacter sp. FW104-R5,Rhodanobacter sp. FW104-R5,Metal reducer
+Go0099520,416169,BACTERIAL,Rhodanobacter thiooxydans FW104-T7,Rhodanobacter thiooxydans,Denitrifying
+Go0099520,416169,BACTERIAL,Rhodanobacter thiooxydans FW104-T7,Rhodanobacter thiooxydans,Metal reducer
+Go0099521,1524464,BACTERIAL,Rhodanobacter sp. FW104-R8,Rhodanobacter sp. FW104-R8,Denitrifying
+Go0099521,1524464,BACTERIAL,Rhodanobacter sp. FW104-R8,Rhodanobacter sp. FW104-R8,Metal reducer
+Go0099522,1524463,BACTERIAL,Rhodanobacter sp. FW510-T8,Rhodanobacter sp. FW510-T8,Denitrifying
+Go0099522,1524463,BACTERIAL,Rhodanobacter sp. FW510-T8,Rhodanobacter sp. FW510-T8,Metal reducer
+Go0099523,1524462,BACTERIAL,Rhodanobacter sp. FW510-R10,Rhodanobacter sp. FW510-R10,Denitrifying
+Go0099523,1524462,BACTERIAL,Rhodanobacter sp. FW510-R10,Rhodanobacter sp. FW510-R10,Metal reducer
+Go0099524,1525219,BACTERIAL,Rhodanobacter sp. FW510-R12,Rhodanobacter sp. FW510-R12,Denitrifying
+Go0099524,1525219,BACTERIAL,Rhodanobacter sp. FW510-R12,Rhodanobacter sp. FW510-R12,Metal reducer
+Go0101166,1459636,ARCHAEAL,Candidatus Nitrososphaera evergladensis SR1,Candidatus Nitrososphaera evergladensis SR1,Ammonia-oxidizer
+Go0101179,1216932,BACTERIAL,Clostridium bornimense M2/40,Clostridium bornimense,Lactose fermenting
+Go0101274,113653,ARCHAEAL,Geoglobus ahangari 234,Geoglobus ahangari,Acetate oxidizer
+Go0102832,1121424,BACTERIAL,Desulfotomaculum arcticum DSM 17038,Desulfotomaculum arcticum,Sulfate reducer
+Go0102843,407022,BACTERIAL,Pseudosphingobacterium domesticum DSM 18733,Pseudosphingobacterium domesticum,Nitrate reducer
+Go0102857,415015,BACTERIAL,Proteiniborus ethanoligenes DSM 21650,Proteiniborus ethanoligenes,Nitrate reducer
+Go0102858,498292,BACTERIAL,Flavobacterium swingsii DSM 21789,Flavobacterium swingsii,Nitrate reducer
+Go0102865,1121426,BACTERIAL,Desulfallas geothermicus DSM 3669,Desulfallas geothermicus,Sulfate reducer
+Go0102899,1121431,BACTERIAL,Desulfallas thermosapovorans DSM 6562,Desulfallas thermosapovorans,Sulfate reducer
+Go0102903,57664,BACTERIAL,Desulfuromonas thiophila DSM 8987,Desulfuromonas thiophila,Acetate oxidizer
+Go0102903,57664,BACTERIAL,Desulfuromonas thiophila DSM 8987,Desulfuromonas thiophila,Sulfur reducer
+Go0103114,1520,BACTERIAL,Clostridium beijerinckii 4J9,Clostridium beijerinckii,Solvent producer
+Go0103130,1560,BACTERIAL,Moorella thermoautotrophica JW701/3,Moorella thermoautotrophica,Acetate producer
+Go0103130,1560,BACTERIAL,Moorella thermoautotrophica JW701/3,Moorella thermoautotrophica,Acetogen
+Go0103130,1560,BACTERIAL,Moorella thermoautotrophica JW701/3,Moorella thermoautotrophica,Carbon dioxide fixation
+Go0103153,1520,BACTERIAL,Clostridium beijerinckii NRRL B-591,Clostridium beijerinckii,Solvent producer
+Go0103155,1520,BACTERIAL,Clostridium beijerinckii A-21,Clostridium beijerinckii,Solvent producer
+Go0103157,1520,BACTERIAL,Clostridium beijerinckii NRRL B-596,Clostridium beijerinckii,Solvent producer
+Go0103158,1520,BACTERIAL,Clostridium beijerinckii ATCC 39058,Clostridium beijerinckii,Solvent producer
+Go0103164,1520,BACTERIAL,Clostridium beijerinckii Ng 34,Clostridium beijerinckii,Solvent producer
+Go0103165,1520,BACTERIAL,Clostridium beijerinckii NRRL B-528,Clostridium beijerinckii,Solvent producer
+Go0103166,1488,BACTERIAL,Clostridium acetobutylicum Weizman,Clostridium acetobutylicum,Solvent producer
+Go0103167,84029,BACTERIAL,Clostridium roseum Wis 42-A,Clostridium roseum,Solvent producer
+Go0103178,1520,BACTERIAL,Clostridium beijerinckii 59B,Clostridium beijerinckii,Solvent producer
+Go0103623,116849,BACTERIAL,Azomonas agilis DSM 375,Azomonas agilis,Nitrogen fixation
+Go0103624,53254,BACTERIAL,Bosea thiooxidans DSM 9653,Bosea thiooxidans,Sulfur oxidizer
+Go0103923,876,BACTERIAL,Desulfovibrio desulfuricans desulfuricans NCIMB 8338,Desulfovibrio desulfuricans,Sulfate reducer
+Go0103931,880,BACTERIAL,Desulfovibrio salexigens NCIMB 8308,Desulfovibrio salexigens,Sulfate reducer
+Go0104087,46680,BACTERIAL,Pseudomonas nitroreducens DPB,Pseudomonas nitroreducens,Nitrate reducer
+Go0104088,46680,BACTERIAL,Pseudomonas nitroreducens B,Pseudomonas nitroreducens,Nitrate reducer
+Go0104094,1485,BACTERIAL,Clostridium sp. 1,Clostridium sp. 1,Xylan degrader
+Go0104095,1485,BACTERIAL,Clostridium sp. 2,Clostridium sp. 2,Xylan degrader
+Go0104096,541000,BACTERIAL,Ruminococcaceae sp. 3,Ruminococcaceae sp. 3,Xylan degrader
+Go0105378,1485,BACTERIAL,Clostridium sp. 4,Clostridium sp. 4,Xylan degrader
+Go0105379,1485,BACTERIAL,Clostridium sp. 5,Clostridium sp. 5,Xylan degrader
+Go0105380,1485,BACTERIAL,Clostridium sp. 6,Clostridium sp. 6,Xylan degrader
+Go0105381,1485,BACTERIAL,Clostridium sp. 7,Clostridium sp. 7,Xylan degrader
+Go0105962,65959,BACTERIAL,Acetobacter pomorum DmCS_004,Acetobacter pomorum,Acetotrophic
+Go0106435,1538640,BACTERIAL,Smithella sp. F21,Smithella sp. F21,Alkane degrader
+Go0106921,1235834,BACTERIAL,Enterobacter sacchari MJ18,Enterobacter sacchari,Nitrogen fixation
+Go0107589,1121915,BACTERIAL,Geoalkalibacter ferrihydriticus DSM 17813,Geoalkalibacter ferrihydriticus,Iron reducer
+Go0107741,2317,ARCHAEAL,Methanosphaera stadtmanae WGK6,Methanosphaera stadtmanae,Methanogen
+Go0107748,2317,ARCHAEAL,Methanosphaera stadtmanae RFMS,Methanosphaera stadtmanae,Methanogen
+Go0107750,319238,BACTERIAL,Sediminicola luteus PMAOS-27,Sediminicola luteus,Nitrate reducer
+Go0110139,442899,BACTERIAL,Halolactibacillus alkaliphilums CGMCC 1.6843,Halolactibacillus alkaliphilums,Haloalkalophile
+Go0113869,1582439,ARCHAEAL,Nitrosopumilus piranensis D3C,Nitrosopumilus piranensis,Ammonia-oxidizer
+Go0113870,1580092,ARCHAEAL,Nitrosopumilus adriaticus NF5,Nitrosopumilus adriaticus,Ammonia-oxidizer
+Go0123267,1423824,BACTERIAL,Lactobacillus delbrueckii indicus DSM 15996,Lactobacillus delbrueckii,Homofermentative
+Go0123276,1618,BACTERIAL,Lactobacillus mali ATCC 27304,Lactobacillus mali,Homofermentative
+Go0123290,449659,BACTERIAL,Lactobacillus pobuzihii NBRC 103219,Lactobacillus pobuzihii,Homofermentative
+Go0123291,1254,BACTERIAL,Pediococcus lolii DSM 19927,Pediococcus lolii,Homofermentative
+Go0123299,1046596,BACTERIAL,Lactobacillus mali DSM 20444,Lactobacillus mali,Homofermentative
+Go0123303,1242253,BACTERIAL,Lactobacillus pobuzihii E100301,Lactobacillus pobuzihii,Homofermentative
+Go0123305,1291052,BACTERIAL,Lactobacillus sharpeae DSM 20505,Lactobacillus sharpeae,Homofermentative
+Go0123311,1423719,BACTERIAL,Lactobacillus algidus DSM 15638,Lactobacillus algidus,Homofermentative
+Go0123312,1423725,BACTERIAL,Lactobacillus aquaticus DSM 21051,Lactobacillus aquaticus,Homofermentative
+Go0123313,1423730,BACTERIAL,Lactobacillus camelliae DSM 22697,Lactobacillus camelliae,Homofermentative
+Go0123322,1423751,BACTERIAL,Lactobacillus gigeriorum DSM 23908,Lactobacillus gigeriorum,Homofermentative
+Go0123325,1423758,BACTERIAL,Lactobacillus hominis DSM 23910,Lactobacillus hominis,Homofermentative
+Go0123326,1423762,BACTERIAL,Lactobacillus jensenii DSM 20557,Lactobacillus jensenii,Homofermentative
+Go0123328,1423767,BACTERIAL,Lactobacillus kitasatonis DSM 16761,Lactobacillus kitasatonis,Homofermentative
+Go0123330,1423769,BACTERIAL,Lactobacillus manihotivorans DSM 13343,Lactobacillus manihotivorans,Homofermentative
+Go0123334,1423775,BACTERIAL,Lactobacillus nodensis DSM 19682,Lactobacillus nodensis,Homofermentative
+Go0123342,1423790,BACTERIAL,Lactobacillus pasteurii DSM 23907,Lactobacillus pasteurii,Homofermentative
+Go0123345,1423799,BACTERIAL,Lactobacillus salivarius DSM 20555,Lactobacillus salivarius,Homofermentative
+Go0123348,1423806,BACTERIAL,Lactobacillus sucicola DSM 21376,Lactobacillus sucicola,Homofermentative
+Go0123350,1423810,BACTERIAL,Lactobacillus thailandensis DSM 22698,Lactobacillus thailandensis,Homofermentative
+Go0123353,1423815,BACTERIAL,Lactobacillus versmoldensis DSM 14857,Lactobacillus versmoldensis,Homofermentative
+Go0144365,1716143,BACTERIAL,Pseudodesulfovibrio indicus J2,Pseudodesulfovibrio indicus,Sulfate reducer
+Go0145581,1191975,BACTERIAL,Endozoicomonas sp. Ez289,Endozoicomonas sp. Ez289,Undefined
+Go0145582,1191983,BACTERIAL,Endozoicomonas sp. Ez302,Endozoicomonas sp. Ez302,Undefined
+Go0145583,1113916,BACTERIAL,Hahella sp. NBRC 102623,Hahella sp. NBRC 102623,Undefined
+Go0145611,1871174,BACTERIAL,Endozoicomonas sp. PII-02,Endozoicomonas sp. PII-02,Undefined
+Go0145612,1871175,BACTERIAL,Endozoicomonas sp. VI-13,Endozoicomonas sp. VI-13,Undefined
+Go0145624,376490,BACTERIAL,Desulfovibrio bizertensis MKS,Desulfovibrio bizertensis,Sulfate reducer
+Go0145625,885,BACTERIAL,Desulfovibrio sp. BMSR,Desulfovibrio sp. BMSR,Sulfate reducer
+Go0145757,77022,BACTERIAL,Cylindrospermopsis raciborskii MVCC14,Cylindrospermopsis raciborskii,Carbon dioxide fixation
+Go0145814,1838280,BACTERIAL,Desulfotomaculum copahuensis CINDEFI1,Desulfotomaculum copahuensis,Sulfate reducer
+Go0145836,12914,ARCHAEAL,Acidianus sp. DS-80,Acidianus sp. DS80,Sulfur metabolizing
+Go0146111,497725,BACTERIAL,Kosakonia oryzae Ola 51,Kosakonia oryzae,Nitrogen fixation
+Go0302677,1814290,BACTERIAL,Nitrosococcus wardiae D1FHS,Nitrosococcus wardiae,Ammonia-oxidizer
+Go0302677,1814290,BACTERIAL,Nitrosococcus wardiae D1FHS,Nitrosococcus wardiae,Denitrifying
+Go0302677,1814290,BACTERIAL,Nitrosococcus wardiae D1FHS,Nitrosococcus wardiae,Nitrifying
+Go0305283,631220,BACTERIAL,Desulfovibrio sp. G11,Desulfovibrio sp. G11,Sulfate reducer
+Go0336202,29581,BACTERIAL,Janthinobacterium lividum ERGS5:01,Janthinobacterium lividum,Undefined
+Go0336203,104087,BACTERIAL,Pseudomonas frederiksbergensis ERDD5:01,Pseudomonas frederiksbergensis,Undefined
+Go0336320,492670,BACTERIAL,Bacillus velezensis 2A-2B,Bacillus velezensis,Undefined
+Go0357115,1886027,BACTERIAL,Mucilaginibacter sp. PPCGB 2223,Mucilaginibacter sp. PPCGB 2223,Polymer degrader
+Go0357222,192421,BACTERIAL,Planococcus maritimus SAMP,Planococcus maritimus,Bacteriocins producer
+Go0357229,383690,ARCHAEAL,Geogemma barossii 121,Geogemma barossii 121,Iron reducer
+Go0357234,1048380,BACTERIAL,Fusibacter sp. 3D3,Fusibacter sp. 3D3,Arsenate-respiring
+Go0357285,1273541,ARCHAEAL,Pyrodictium delaneyi hulk,Pyrodictium delaneyi,Iron reducer
+Go0358204,1936003,BACTERIAL,Phycisphaerae bacterium ST-NAGAB-D1,Phycisphaerae bacterium ST-NAGAB-D1,Sugars fermentor
+Go0358364,517424,BACTERIAL,Salsuginibacillus halophilus CGMCC 1.07653,Salsuginibacillus halophilus,Haloalkalophile
+Go0358480,283686,BACTERIAL,Kosakonia radicincitans GXGL-4A,Kosakonia radicincitans,Nitrogen fixation
+Go0367166,936599,BACTERIAL,Bacillus sp. GZB,Bacillus sp. GZB,Degrades organic material
+Go0367242,1287055,BACTERIAL,Brachyspira hampsonii bv. I NSH-16,Brachyspira hampsonii,Undefined
+Go0368025,202746,BACTERIAL,Sulfurimonas sp. CVO,Sulfurimonas sp. CVO,Sulfide oxidizer
+Go0369216,1981983,BACTERIAL,Citrobacter sp. L55,Citrobacter sp.,Arsenate-respiring
+Go0369638,471,BACTERIAL,Acinetobacter calcoaceticus CA16,Acinetobacter calcoaceticus,Undefined
+Go0372727,28108,BACTERIAL,Alteromonas macleodii BGP14,Alteromonas macleodii,MTBE degrader
+Go0383714,229007,BACTERIAL,Halomonas ventosae NRS2HaP1,Halomonas ventosae,Auxotroph
+Go0390082,1377992,ARCHAEAL,Halovenus sp. WSH3,Halovenus sp. WSH3,Carbon monoxide oxidizer
+Go0390083,43927,ARCHAEAL,Halobaculum sp. WSA2,Halobaculum sp. WSA2,Carbon monoxide oxidizer
+Go0390084,121871,ARCHAEAL,Haloterrigena sp. P1A,Haloterrigena sp. P1A,Carbon monoxide oxidizer
+Go0390085,1081782,BACTERIAL,Paraburkholderia hiiakae I2,Paraburkholderia hiiakae,Carbon monoxide oxidizer
+Go0390086,580937,BACTERIAL,Paraburkholderia metrosideri DNBP6-1,Paraburkholderia metrosideri,Carbon monoxide oxidizer
+Go0390087,1081790,BACTERIAL,Paraburkholderia peleae PP52-1,Paraburkholderia peleae,Carbon monoxide oxidizer
+Go0390781,414771,BACTERIAL,Paenibacillus donghaensis KCTC 13049,Paenibacillus donghaensis,Xylan degrader
+Go0401503,1915388,BACTERIAL,Achromobacter sp. KAs 3-5,Achromobacter sp. KAs 3-5,Acid-producing
+Go0402240,53358,BACTERIAL,Intrasporangium calvum C5,Intrasporangium calvum,Denitrifying
+Go0403198,222,BACTERIAL,Achromobacter sp. Culture B,Achromobacter sp. Culture B,Sulfur oxidizer
+Go0403283,196180,BACTERIAL,Anoxybacillus kamchatkensis NASTPD13,Anoxybacillus kamchatkensis,Xylan degrader
+Go0418769,1500538,BACTERIAL,Teredinibacter waterburyi Bs02,Teredinibacter waterburyi,Cellulose degrader
+Go0418830,580370,BACTERIAL,Zetaproteobacteria bacterium EBB1,Zetaproteobacteria bacterium EBB1,Iron oxidizer
+Go0446186,1898979,BACTERIAL,Sodalis lignotolerans 159R,Sodalis lignotolerans,Lignin degrader
+Go0451720,1177755,BACTERIAL,Methyloligella halotolerans VKM B-2706,Methyloligella halotolerans,Methylotrophic
+Go0453510,59893,BACTERIAL,Paenibacillus peoriae NMA1017,Paenibacillus peoriae,Utilize carbohydrates
+Go0454182,2054902,BACTERIAL,Rhodococcus sp. AQ5-07,Rhodococcus sp. AQ5-07,Degrades aromatic hydrocarbons
+Go0454931,1266720,BACTERIAL,Moorella stamsii DSM 26217,Moorella stamsii,Carbon monoxide oxidizer
+Go0455517,1670455,ARCHAEAL,Sulfodiicoccus acidiphilus HS-1,Sulfodiicoccus acidiphilus,Utilize carbohydrates
+Go0460239,1512,BACTERIAL,Lachnoclostridium symbiosum LT0011,Lachnoclostridium symbiosum,Undefined
+Go0481300,105612,BACTERIAL,Lactobacillus algidus CMTALT10,Lactobacillus algidus,Homofermentative
+Go0481398,1364,BACTERIAL,Lactococcus piscium CMTALT02,Lactococcus piscium,Homofermentative
+Go0490543,1364,BACTERIAL,Lactococcus piscium CMTALT17,Lactococcus piscium,Homofermentative
+Go0491134,2243,ARCHAEAL,Halobacterium sp. PCN9,Halobacterium sp. PCN9,Carbon monoxide oxidizer
+Go0512701,399,BACTERIAL,Neorhizobium galegae HAMBI 2581,Neorhizobium galegae,Nitrogen fixation
+Go0526522,2558903,BACTERIAL,Neokomagataea sp. Ta1,Neokomagataea sp. Ta1,Undefined
+Go0527906,574347,BACTERIAL,Modicisalibacter sp. Wilcox,Modicisalibacter sp. Wilcox,Benzene degradation
+Go0531756,1419739,BACTERIAL,Shewanella sp. TC10,Shewanella sp. TC10,Undefined
+Go0531759,796585,BACTERIAL,Thermithiobacillus sp. ParkerM,Thermithiobacillus sp. ParkerM,Carbon dioxide fixation
+Go0531760,1461376,BACTERIAL,Pseudomonas sp. T,Pseudomonas sp. T,Sulfur oxidizer
+Go0531761,2635962,BACTERIAL,Thermithiobacillus sp. IF,Thermithiobacillus sp. IF,Sulfur oxidizer
+Go0531762,2635962,BACTERIAL,Thermithiobacillus sp. GBa,Thermithiobacillus sp. GBa,Sulfur oxidizer
+Go0531763,2635962,BACTERIAL,Thermithiobacillus sp. GBb,Thermithiobacillus sp. GBb,Sulfur oxidizer

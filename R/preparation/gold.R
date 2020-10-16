@@ -143,8 +143,10 @@ gol$d2 <- gsub("Î¼m", "", gol$d2)
 # gol[c("d1", "d1_unit")][!is.na(gol$d1),]
 # gol[c("d2", "d2_unit")][!is.na(gol$d2),]
 
-gol$d1[gol$GOLD_ID == "Go0003681"] <- "2-5"
-gol$d2[gol$GOLD_ID == "Go0003681"] <- "0.7-10"
+gol$d1[gol$GOLD_ORGANISM_ID == "3681"] <- "2-5"
+gol$d2[gol$GOLD_ORGANISM_ID == "3681"] <- "0.7-10"
+gol$d2[gol$GOLD_ORGANISM_ID == "6072"] <- "0.8-1.2"
+
 
 # Split out lower and upper dimensions
 d1 <- data.frame(do.call(rbind, strsplit(gol$d1, "-")))
@@ -306,6 +308,40 @@ for(i in 1:nrow(gol)) {
 }
 
 
+#############################
+# UPDATE 06/10/2020
+# Add new GOLD pathway data 
+#############################
+
+pa <- read.csv("data/raw/gold/GOLD_Organism_Metabolism_08252020.csv")
+
+#Remove not needed column and concatenate pathways for each organism
+pa2 <- pa %>% select(-GOLD_ID, -SPECIES, -DOMAIN) %>% 
+  filter(!(METABOLISM == "Undefined")) %>%
+  distinct(NCBI_TAXONOMY_ID, METABOLISM, .keep_all = TRUE) %>%
+  group_by(NCBI_TAXONOMY_ID, ORGANISM_NAME) %>% 
+  summarise(pathways = paste0(METABOLISM, collapse=", ")) 
+
+# Extract species not currently in gol (add later)
+remaining <- pa2 %>% filter(!(NCBI_TAXONOMY_ID %in% gol$NCBI_TAXONOMY_ID))  
+
+#Convert gol tax id to integer
+gol$NCBI_TAXONOMY_ID <- as.integer(gol$NCBI_TAXONOMY_ID)
+
+#Join new data to main df
+gol <- gol %>% 
+  left_join(pa2[,c("NCBI_TAXONOMY_ID","pathways")], by = "NCBI_TAXONOMY_ID")
+
+#Add remaining data to main df
+
+new <- data.frame(matrix(nrow = nrow(remaining), ncol = ncol(gol)))
+names(new) <- names(gol)
+new[,c("NCBI_TAXONOMY_ID","ORGANISM_NAME","pathways")] <- remaining[,c("NCBI_TAXONOMY_ID","ORGANISM_NAME","pathways")]
+
+gol <- gol %>% bind_rows(new)
+
+rm(new,remaining)
+#############################
 
 #update column names to standard for merger
 colnames(gol)[which(names(gol) == "ORGANISM_NAME")] <- "org_name"
@@ -326,7 +362,7 @@ gol$isolation_source <- apply(gol[cc], 1, function(x) paste(x[!is.na(x)], collap
 gol$isolation_source <- tolower(gol$isolation_source)
 
 #Reduce to needed columns
-gol2 <- gol[,c("tax_id","org_name","STRAIN","GENBANK_16S_ID","metabolism","gram_stain","sporulation","cell_shape","motility","isolation_source","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","genome_size","GENOME_STATUS")]
+gol2 <- gol[,c("tax_id","org_name","STRAIN","GENBANK_16S_ID","metabolism","gram_stain","sporulation","cell_shape","motility","isolation_source","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","genome_size","GENOME_STATUS","pathways")]
 
 #Remove any fully duplicated rows
 gol2 <- unique(gol2[, names(gol2)])
@@ -336,7 +372,7 @@ gol2[gol2 == ""] <- NA
 gol2[gol2 == " "] <- NA
 
 #Remove any rows with no categorical information
-cols <- c("metabolism","gram_stain","sporulation","cell_shape","motility","isolation_source","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","genome_size")
+cols <- c("metabolism","gram_stain","sporulation","cell_shape","motility","isolation_source","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","genome_size","pathways")
 # Remove rows with no categorical data
 gol2 <- gol2[rowSums(is.na(gol2[cols])) != length(cols), ]
 
