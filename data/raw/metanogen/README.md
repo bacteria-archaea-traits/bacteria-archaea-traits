@@ -1,7 +1,7 @@
 # Metanogen notes
 
 This data was obtained from the PhyMet2 database (online): 
-http://metanogen.biotech.uni.wroc.pl/
+http://phymet2.biotech.uni.wroc.pl/
 
 The data can be downloaded directly from source as follows:
 
