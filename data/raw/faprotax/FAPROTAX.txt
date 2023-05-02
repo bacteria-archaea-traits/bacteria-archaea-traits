@@ -1,6 +1,6 @@
 # FAPROTAX: Functional Annotation of Prokaryotic Taxa
-# Version: 1.2.1
-# Copyright (c) 2019, Stilianos Louca
+# Version: 1.2.6
+# Copyright (c) 2022, Stilianos Louca
 #
 #
 #
@@ -5301,6 +5301,8 @@ human_pathogens_nosocomia			elements:C; main_element:C; electron_donor:C; electr
 *Corynebacterium*jeikeium*							# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 306537.1, NCBI Taxon ID: 306537, Disease: Nosocomial infections
 *Klebsiella*pneumoniae*								# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 1162296.3, NCBI Taxon ID: 1162296, Disease: Nosocomial infections
 *Empedobacter*brevis*								# DOI:10.1128/AAC.46.10.3223-3227.2002
+*Klebsiella*aerogenes*								# DOI:10.1093/ofid/ofz360.296
+*Enterobacter*aerogenes*							# DOI:10.1128/CMR.10.2.220
 
 
 human_pathogens_meningitis			elements:C; main_element:C; electron_donor:C; electron_acceptor:variable; aerobic:variable; exclusively_prokaryotic:no; light_dependent:no
@@ -5369,16 +5371,17 @@ human_pathogens_diarrhea			elements:C; main_element:C; electron_donor:C; electro
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 *Bacteroides*fragilis*								# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 295405.11, NCBI Taxon ID: 295405, Disease: Diarrhea, Abscesses
 *Brachyspira*pilosicoli*							# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 1161918.5, NCBI Taxon ID: 1161918, Disease: Diarrhea
+*Campylobacter*coli*								# DOI:10.3201/eid0809.10.3201/eid0809.010187
 *Campylobacter*jejuni*								# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 1310162.3, NCBI Taxon ID: 1310162, Disease: Diarrhea
 *Campylobacter*upsaliensis*							# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 306264.5, NCBI Taxon ID: 306264, Disease: Gastroenteritis, Diarrhea
 *Clostridium*difficile*								# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 1440056.3, NCBI Taxon ID: 1440056, Disease: Diarrhea
+*Clostridioides*difficile*							# DOI:10.7326/AITC201810020
 *Clostridium*spiroforme*							# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 428126.7, NCBI Taxon ID: 428126, Disease: Antibiotic-associated Diarrhea
 *Escherichia*coli*									# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 1116119.3, NCBI Taxon ID: 1116119, Disease: Diarrhea
 *Morganella*morganii*								# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 1239989.3, NCBI Taxon ID: 1239989, Disease: Diarrhea
 *Proteus*mirabilis*									# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 1245027.3, NCBI Taxon ID: 1245027, Disease: Diarrhea
 *Vibrio*cholerae*									# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 1055325.3, NCBI Taxon ID: 1055325, Disease: Cholera-like Diarrhea
 *Vibrio*mimicus*									# Pathosystems Resource Integration Centre (PATRIC). Genome ID: 756012.3, NCBI Taxon ID: 756012, Disease: Diarrhea, internal infections
-
 
 
 
@@ -5392,6 +5395,20 @@ add_group:human_pathogens_nosocomia
 add_group:human_pathogens_meningitis
 add_group:human_pathogens_gastroenteritis
 add_group:human_pathogens_diarrhea
+*Staphylococcus*pseudintermedius*					# DOI:10.3389/fcimb.2018.00221
+*Fusobacterium*necrophorum*							# DOI:10.1128/CMR.00011-07
+*Fusobacterium*necrophorum subsp. funduliforme*		# DOI:10.1128/CMR.00011-07
+*Pasteurella*multocida*								# DOI:10.1016/s0363-5023(82)80013-0
+*Leptospira*borgpetersenii*							# DOI:10.1073/pnas.0603979103
+*Leptospira*borgpetersenii str. 4E*					# DOI:10.1073/pnas.0603979103
+*Klebsiella*quasipneumoniae*						# DOI:10.1128/AAC.02513-18
+*Legionella*pneumophila*							# DOI:10.1172/JCI109874
+*Propionibacterium*acnes*							# DOI:10.12688/f1000research.15659.1
+*Cutibacterium*acnes*								# DOI:10.12688/f1000research.15659.1
+*Leptospira*interrogans*							# DOI:10.1038/nature01597
+*Neisseria*gonorrhoeae*								# DOI:10.1128/CMR.00010-14
+*Mycobacteroides*abscessus*							# DOI:10.1128/JCM.00155-12
+*Enterobacter*cloacae*								# DOI:10.1093/ofid/ofz360.296
 *Arcobacter*cryaerophilus*							# DOI:10.1128/JCM.42.4.1851–1852.2004
 *Arcobacter*butzleri*								# DOI:10.1128/JCM.42.4.1851–1852.2004
 *Pantoea*agglomerans*								# DOI:10.1128/JCM.00632-07
@@ -5470,7 +5487,6 @@ add_group:human_pathogens_diarrhea
 *Mycobacterium*fortuitum*							# DOI:10.1099/00207713-50-2-575
 *Mycobacterium*peregrinum*							# DOI:10.1128/JCM.43.12.5925-5935.2005
 *Stenotrophomonas*									# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2B, Gammaproteobacteria
-*Moraxellaceae*Acinetobacter*						# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2B, Gammaproteobacteria
 *Mycobacterium*leprae*								# DOI:10.1038/ng.477
 *Mycobacterium*tuberculosis*						# DOI:10.1038/31159
 *Coxiellaceae*Coxiella*								# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2B, Gammaproteobacteria
@@ -5667,6 +5683,22 @@ fish_parasites			elements:C; main_element:C; electron_donor:C; electron_acceptor
 
 human_gut			elements:C; main_element:C; electron_donor:C; electron_acceptor:variable; aerobic:variable; exclusively_prokaryotic:no; light_dependent:no
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*Blautia*wexlerae*									# DOI:10.1186/s12876-015-0330-2
+*Blautia*wexlerae DSM 19850*						# DOI:10.1186/s12876-015-0330-2
+*Bacteroides*faecichinchillae*						# DOI:10.1186/s12876-015-0330-2
+*Bacteroides*thetaiotaomicron*						# DOI:10.1186/s12876-015-0330-2
+*Clostridium*bolteae*								# DOI:10.1186/s12876-015-0330-2
+*Flavonifractor*plautii*							# DOI:10.1186/s12876-015-0330-2
+*Blautia*hydrogenotorophica*						# DOI:10.1186/s12876-015-0330-2
+*Coprococcus*catus*									# DOI:10.1186/s12876-015-0330-2
+*Eubacterium*ventriosum*							# DOI:10.1186/s12876-015-0330-2
+*Ruminococcus*bromii*								# DOI:10.1186/s12876-015-0330-2
+*Ruminococcus*obeum*								# DOI:10.1186/s12876-015-0330-2
+*Lactobacillus*ruminis*								# DOI:10.1186/s12866-015-0403-y
+*Bacteroides*salyersae*								# DOI:10.1128/JCM.42.12.5565-5570.2004
+*Bacteroides*nordii*								# DOI:10.1128/JCM.42.12.5565-5570.2004
+*Akkermansia*muciniphila*							# DOI:10.1099/ijs.0.02873-0
+*Bacteroides*xylanisolvens*							# DOI:10.1099/ijs.0.65504-0
 *Campylobacter*concisus*							# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
 *Klebsiella*pneumoniae*								# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
 *Escherichia*coli*									# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
@@ -5805,6 +5837,15 @@ Bacteroides*thetaiotaomicron* 						# DOI:10.1038/nature08821
 
 
 
+human_associated			elements:variable; main_element:variable; electron_donor:variable; electron_acceptor:variable; aerobic:variable; exclusively_prokaryotic:no; light_dependent:no
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+add_group:human_gut
+add_group:human_pathogens_all
+*Streptococcus*salivarius*							# DOI:10.1128/AEM.03133-13
+*Lactobacillus*crispatus*							# DOI:10.1099/mic.0.000238
+
+
+
 mammal_gut			elements:C; main_element:C; electron_donor:C; electron_acceptor:variable; aerobic:variable; exclusively_prokaryotic:no; light_dependent:no
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 add_group:human_gut
@@ -5820,6 +5861,13 @@ add_group:fish_parasites
 add_group:human_gut
 add_group:human_pathogens_all
 add_group:invertebrate_parasites
+*Staphylococcus*delphini*							# DOI:10.3201/eid2003.130139
+*Fusobacterium*necrophorum*							# DOI:10.1128/CMR.00011-07
+*Staphylococcus*pseudintermedius*					# DOI:10.1080/21505594.2018.1426964
+*Leptospira*interrogans*							# DOI:10.1038/nature01597
+*Enterococcus*hirae*								# DOI:10.1016/j.nmni.2015.08.003
+*Enterococcus*durans*								# DOI:10.1046/j.1365-2672.2002.01586.x
+*Enterococcus*villorum*								# DOI:10.1046/j.1365-2672.2002.01586.x
 *Helicobacter*canis*								# DOI:10.1099/00221287-139-10-2495
 *Arcobacter*molluscorum*							# DOI:10.1016/j.syapm.2010.10.001
 *Arcobacter*bivalviorum*							# DOI:10.1016/j.syapm.2012.01.002
@@ -5908,6 +5956,7 @@ plant_pathogen			elements:C; main_element:C; electron_donor:C; electron_acceptor
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 *Pantoea*agglomerans*								# DOI:10.1128/JCM.00632-07
 *Clavibacter*michiganensis*							# DOI:10.1016/j.jbiotec.2003.07.011
+*Clavibacter*michiganensis subsp. michiganensis*	# DOI:10.1016/j.jbiotec.2003.07.011
 *Xanthomonas*campestris*							# DOI:10.1111/nph.12187
 *Xanthomonas*citri*									# DOI:10.1128/AEM.03091-14
 *Erwinia*amylovora*									# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
@@ -6219,7 +6268,6 @@ aromatic_hydrocarbon_degradation			elements:C,H; main_element:C; electron_donor:
 *Mycobacterium*pyrenivorans*						# DOI:10.1099/ijs.0.03003-0
 *Flavobacteriales*Yeosuana*							# Garrity, Brenner, Krieg and Staley (2011) Bergey's Manual of Systematic Bacteriology, vol. 4
 *Flavobacteriaceae*Yeosuana*						# Garrity, Brenner, Krieg and Staley (2011) Bergey's Manual of Systematic Bacteriology, vol. 4. Legacy taxonomy
-*Geothrix*fermentans*								# DOI:10.1099/00207713-49-4-1615
 *Mycobacterium*frederiksbergense*					# Garrity, Brenner, Krieg and Staley (2012) Bergey's Manual of Systematic Bacteriology, vol. 5
 *Mycobacterium*fluoranthenivorans*					# Garrity, Brenner, Krieg and Staley (2012) Bergey's Manual of Systematic Bacteriology, vol. 5
 *Mycobacterium*hodleri*								# Garrity, Brenner, Krieg and Staley (2012) Bergey's Manual of Systematic Bacteriology, vol. 5
@@ -7929,11 +7977,51 @@ chloroplasts			elements:C,O; main_element:C; electron_donor:O; electron_acceptor
 
 
 
-cyanobacteria			elements:C,O; main_element:C; electron_donor:O; electron_acceptor:C; aerobic:variable; exclusively_prokaryotic:yes; light_dependent:yes
+nonphotosynthetic_cyanobacteria			elements:C; main_element:C; electron_donor:C; aerobic:variable; exclusively_prokaryotic:yes; light_dependent:no
 # non-chloroplasts
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-*cyanobacteria*
+*Cyanobacteria*Vampirovibrionia*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Vampirivibrionia*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Melainabacteria*						# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Sericytochromatia*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Blackallbacteria*					# DOI:10.1016/j.freeradbiomed.2019.03.029
 subtract_group:chloroplasts
+
+
+photosynthetic_cyanobacteria			elements:C,O; main_element:C; electron_donor:O; electron_acceptor:C; aerobic:variable; exclusively_prokaryotic:yes; light_dependent:yes
+# non-chloroplasts
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*Bacteria*Cyanobacteriia*							# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Bacteria*Oxyphotobacteria*							# DOI:10.1126/science.aal3794  and  DOI:10.1111/gbi.12200
+*Cyanobacteria*Cyanobacteriales*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Phormidesmiales*						# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Psueudophormidiales*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Leptolyngbyales*						# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Neosynechococcales*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*PCC-7407*							# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Thermosynechococcales*				# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Synechococcales_B*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Synechococcales*						# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Limnotrichales*						# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Synechococcales_A*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Gloeomargaritales*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Pseudanabaenales*					# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Eurycoccales*						# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Gloeobacterales*						# DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Oscillatoriales*						# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Chroococcidiopsidales*				# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Gloeobacteria*						# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Gloeoemargaritales*					# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Nostocales*							# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Oscillatoriophycideae*				# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Pleurocapsales*						# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Spirulinales*						# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Lusitaniella*						# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Sinocapsaceae*						# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Candidatus Aurora*					# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+*Cyanobacteria*Chroococcales*						# NCBI taxonomy and DOI:10.1016/j.freeradbiomed.2019.03.029
+subtract_group:chloroplasts
+subtract_group:nonphotosynthetic_cyanobacteria
 
 
 
@@ -8115,7 +8203,7 @@ add_group:anoxygenic_photoautotrophy_Fe_oxidizing
 
 oxygenic_photoautotrophy			elements:C,O; main_element:C; electron_donor:O; electron_acceptor:C; aerobic:yes; exclusively_prokaryotic:no; light_dependent:yes
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-add_group:cyanobacteria
+add_group:photosynthetic_cyanobacteria
 
 
 
@@ -8531,8 +8619,6 @@ Roseospira*mediosalina*								# Garrity, Brenner, Krieg and Staley (2005) Berge
 *Proteobacteria*Herbaspirillum*						# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
 *Oxalobacteraceae*Herbaspirillum*					# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2. Legacy taxonomy
 *Herbaspirillum*seropedicae*						# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
-*Gammaproteobacteria*Massilia*						# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
-*Oxalobacteraceae*Massilia*							# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2. Legacy taxonomy
 *Bordetella*bronchiseptica*							# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
 *Bordetella*parapertussis*v							# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
 *Ralstonia*paucula*									# Garrity, Brenner, Krieg and Staley (2005) Bergey's Manual of Systematic Bacteriology, vol. 2
