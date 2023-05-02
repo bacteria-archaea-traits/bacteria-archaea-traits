@@ -4,7 +4,7 @@
 #for implementation >2000 will need to be translated manually 
 
 # Open original dataset
-pas <- read_csv("data/raw/pasteur/Collections_Pasteur.csv")
+pas <- read_xls("data/raw/pasteur/Collections_Pasteur.xls")
 
 #Get useful columns without having to bother with problematic column names
 pas2 <- pas[,c(3,22,32)]
@@ -65,7 +65,6 @@ pas5 <- pas4 %>% filter(!(org_name %in% duplicated & is.na(isolation_source) )) 
 pas6 <- pas5 %>% left_join(nam, by=c("org_name"="name_txt")) %>%
   filter(!is.na(tax_id)) %>%
   select(tax_id,org_name,isolation_source,metabolism) 
-
 
 #Save master data
 write.csv(pas6, "output/prepared_data/pasteur.csv", row.names=FALSE)

@@ -3,6 +3,10 @@
 if (!"tidyverse" %in% installed.packages()) install.packages("tidyverse")
 library("tidyverse")
 
+if (!"readxl" %in% installed.packages()) install.packages("readxl")
+library("readxl")
+
+
 # if (!"parallel" %in% installed.packages()) install.packages("parallel")
 # library("parallel")
 
