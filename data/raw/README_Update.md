@@ -1,22 +1,27 @@
 ### Manual Extraction from Publications
 
-| dataset  | Last Updated | Notes/Changes 
+### Manual Extraction from Publications
+
+#### dataset with no notes/changes
+- Amend-Shock
+- bacdive-microa
+- bergeys
+- campedelli
+- fierer
+- Roden-jin
+- schulz-jorgensen
+- silva
+
+#### dataset with Notes/changes
+| dataset  | Last Updated | Notes/Changes
 | ------------- | ------------- | ------------- |
-| Amend-Shock  | 2020-01-30 | - 
-| bacdive-microa  | 2019-09-25 | - 
-| bergeys  | 2019-09-25 | - 
-| campedelli  | 2019-09-25 | - 
 | cockrey  | 2019-09-25 | New related publication: https://www.utas.edu.au/profiles/staff/tia/Ross-Corkrey
 | edirisinghe  | 2019-09-25 | `Dataset not used.` No preparation script for preparing the dataset.
 | edwards  | 2019-09-25 | New publications: https://sites.google.com/site/kyleedwardsresearch/resume
-| engqvist  | 2019-09-25 | - 
-| fierer  | 2019-09-25 | - 
 | kremer  | 2019-09-25 | New publication: https://aslopubs.onlinelibrary.wiley.com/authored-by/ContribAuthorRaw/Kremer/Colin+T.
 | nielsensl  | 2019-09-25 | Obtained from the author.
 | pochlorococcus | 2019-09-25 | Obtained directly from Author.
-| Roden-jin  | 2020-01-20 | -
-| schulz-jorgensen | 2020-10-15 | - 
-| silva | 2019-09-25 | - 
+
 
 ### Online datasets
 | dataset  | Last Updated | Notes/Changes 
@@ -30,7 +35,7 @@
 
 
 
-### Regularly updated datasets
+#### Regularly updated datasets
 
 | dataset  | Last Updated | Changes 
 | ------------- | ------------- | ------------- |
@@ -39,7 +44,7 @@
 | rrndb  | 2023-05-01 | <li>The rrndb version change from `5.4` to `5.8`</li><li>Rows changed from `8522` to `28140`</li><li>Prepated data: rows changed from `5669` to `11143`</li>
 | faprotax  | 2023-05-02 | <li>Dataset changed to version 1.2.6 from 1.2.1</li><li>Prepared dataset: rows changed from `9026` to `9021`</li>
 
-### Other changes: 
+#### Other changes: 
 | dataset  | Last Updated | Changes 
 | ------------- | ------------- | ------------- |
 | patric  | 2023-05-01 | <li>New data link: `ftp://ftp.bvbrc.org/RELEASE_NOTES/genome_metadata`</li>
