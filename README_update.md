@@ -30,7 +30,7 @@
 | kegg  | 2019-09-25 | - 
 | mediadb  | 2019-09-25 | sql dumb dataset: No changes.
 | metanogen  | 2019-09-25 | url changed: http://phymet2.biotech.uni.wroc.pl/
-| microbe-directory  | 2019-09-25 | Unmaintained website: https://microbe.directory/
+| microbe-directory  | 2019-09-25 | repository: https://github.com/microbe-directory/microbe-directory
 
 
 
