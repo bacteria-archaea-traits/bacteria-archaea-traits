@@ -19,8 +19,10 @@ if(exists("CONSTANT_BASE_PHYLOGENY") & !is.na(CONSTANT_BASE_PHYLOGENY) & CONSTAN
 ############################################################
 
 # Remove all species with "sp" and "sp." in them
+## remove sp. also in org_name
 if(CONSTANT_BASE_PHYLOGENY == "NCBI") {
-  df <- filter(df, !grepl("+[[:space:]]+sp[.]+", species))
+  df <- filter(df, !(grepl("+[[:space:]]+sp[.]+", species) |  grepl("+[[:space:]]+sp[.]+", org_name))
+               )
 }
 
 ############################################################

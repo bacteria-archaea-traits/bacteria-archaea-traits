@@ -9,6 +9,7 @@ colnames(mid)[which(names(mid) == "gram_stain")] <- "gram_stain"
 colnames(mid)[which(names(mid) == "spore_forming")] <- "sporulation"
 colnames(mid)[which(names(mid) == "optimal_temperature")] <- "optimum_tmp"
 colnames(mid)[which(names(mid) == "optimal_ph")] <- "optimum_ph"
+colnames(mid)[which(names(mid) == "pathogenicity")] <- "cogem_classification"
 
 #Restrict output to kingdom Bacteria and Archaea
 mid2 <- mid[mid$kingdom %in% c("Bacteria","Archaea"),]
@@ -22,7 +23,7 @@ mid2[!is.na(mid2$optimum_ph) & mid2$optimum_ph < 0,"optimal_ph"] <- NA
 mid3 <- merge(mid2, nam, by.x="org_name", by.y="name_txt", all.x=TRUE)
 
 #Select required columns
-mid4 <- mid3[,c("tax_id","org_name","name_class","sporulation","gram_stain","optimum_tmp","optimum_ph")]
+mid4 <- mid3[,c("tax_id","org_name","name_class","sporulation","gram_stain","optimum_tmp","optimum_ph", "cogem_classification")]
 
 # Remove rows with no matching tax_id
 mid4 <- mid4[!is.na(mid4$tax_id),]

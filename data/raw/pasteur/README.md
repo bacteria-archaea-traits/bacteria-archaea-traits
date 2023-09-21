@@ -7,7 +7,11 @@ Download data from below page as follows:
 
 https://catalogue-crbip.pasteur.fr/recherche_catalogue.xhtml
 
+<<<<<<< HEAD
+1) Sekect "Bacteria" in the search field named "Type of microorganism"
+=======
 1) Select "Bacteries" in the search field named "Type of microorganism"
+>>>>>>> origin/update_condensed_species_NCBI_2023
 2) At the bottom of the results page locate and click the link "Export under Excel" 
 
 ## Changes
