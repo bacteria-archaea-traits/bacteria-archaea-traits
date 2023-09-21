@@ -178,7 +178,6 @@ condensed_cogem_trait <- function(data, trait, minProp){
     
     #Remove duplicated rows in lookup table
     cat <- cat[!duplicated(cat$New) ,c("New", "Priority", "Category")]
-    print(cat)
     
     # Attach grouping cateogories and priorities by the trait value
     # Note: Translated trait values are stored in the lookup table column "New"
@@ -186,7 +185,6 @@ condensed_cogem_trait <- function(data, trait, minProp){
     var1 <- trait
     var2 <- "New"
     ruling <- ruling %>% inner_join(cat, by = setNames(nm=var1, var2))
-    print(ruling)
     # Count number of distinct categories for each species 
     # (if more than one, the data is contradictory)
     
@@ -320,18 +318,37 @@ condensed_cogem_trait <- function(data, trait, minProp){
   return(get_max_cogem_class %>%bind_rows(results))
 }
 
+## condensing categorical
+
 condense_categorical_traits <- function(df,data,minProp,trait,priority=FALSE){
-  
-  if(trait == "cogem_classification") {
+  if(trait == "cogem_classification") { 
     results <- condensed_cogem_trait(data, trait, minProp)
-  } else { 
-    # Get the categorical proportions for each species.
-    t3 <- .get_props(data, trait, minProp)
+  } else {
+    # Count occurences of each trait value for each species
+    t <- data %>% group_by(species,.data[[trait]]) %>% 
+      filter(!is.na(.data[[trait]])) %>% 
+      summarise(n = n())
+    
+    # Count number of different trait values
+    t2 <- t %>% group_by(species) %>% 
+      summarise(total = sum(n))
+    
+    # Join total count with per variable count
+    t3 <- inner_join(t,t2, by = "species")
+    
+    # Calculate proportional representation of each trait value out of total
+    t3 <- t3 %>% mutate(prop = n / total * 100)
     
     #Get maximum proportion for any given species
     #If two identical values exists, the first value will be selected
+    results <- t3 %>% group_by(species) %>%
+      filter(prop > minProp) %>%
+      top_n(n=1,prop) %>% 
+      filter(!duplicated(species))
+    
     #Reduce decimal places
-    results <- .get_majority_props(t3, minProp)
+    results <- results %>% mutate(prop = sprintf("%0.1f",prop))
+    
     
     ######
     # This section deals with data that was not resolved in above
@@ -340,31 +357,18 @@ condense_categorical_traits <- function(df,data,minProp,trait,priority=FALSE){
     # Get any species that were not processed above 
     # and check if rules can help decide what to keep
     
-    ruling <- t3 %>% filter(!(species %in% results$species))
+    ruling <- t3 %>% filter(!(species %in% results$species)) %>% 
+      mutate(prop = sprintf("%0.1f",prop))
     
+    ##### Ruling by categories.
+    results <- .ruling_categorical_with_cat(ruling, results, trait, priority)
     
-    if(nrow(ruling)>0) {
-      
-      print(sprintf("Data for %s species require processing using category and priority tables",length(unique(ruling$species))))
-      print(ruling)
-      #Use priority ruling to decide which terms to keep
-      #Categories and priorities values are located in the respective
-      #traits renaming table
-      
-      cat <- .load_category(trait)
-      
-      ruling <- .ruling_categorical_with_cat(cat, ruling, trait, priority)
-      print(names(ruling))
-      print(names(results))
-      results <- results %>% bind_rows(ruling)
-    }
   }
-  #####
   #Attach to original data frame for data transfer
   
   #Change name of trait column to fixed
   colnames(results)[which(names(results) == trait)] <- "trait"
-  
+  print(names(results))
   # Join columns on to main data frame by species, 
   df <- df %>% left_join(results, by = "species")
   
