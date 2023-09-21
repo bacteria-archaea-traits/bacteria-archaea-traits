@@ -241,6 +241,6 @@ pat4$reference <- "doi.org/10.1093/nar/gkw1017"
 # Fix gc_content values where reported as 0-1 instead of %
 pat4$gc_content[!is.na(pat4$gc_content) & pat4$gc_content < 1] <- pat4$gc_content[!is.na(pat4$gc_content) & pat4$gc_content < 1]*100
 
-
+# 
 #Save master data
 write.csv(pat4, "output/prepared_data/patric.csv", row.names=FALSE, quote=TRUE)

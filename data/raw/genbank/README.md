@@ -11,3 +11,7 @@ This file is generated using the browser ("Genome information by organism") and 
 ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/prokaryotes.txt
 
 This is the main prokaryote data file from genbank which is updated regularly.
+
+Issues: 
+- https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/ the download pages is not working as supposed, it only return the number of columns instead of all the dataset. 
+- Downloading with new NLM page, worked. 

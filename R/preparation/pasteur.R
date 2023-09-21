@@ -66,7 +66,6 @@ pas6 <- pas5 %>% left_join(nam, by=c("org_name"="name_txt")) %>%
   filter(!is.na(tax_id)) %>%
   select(tax_id,org_name,isolation_source,metabolism, cogem_classification) 
 
-
 #Save master data
 write.csv(pas6, "output/prepared_data/pasteur.csv", row.names=FALSE)
 
