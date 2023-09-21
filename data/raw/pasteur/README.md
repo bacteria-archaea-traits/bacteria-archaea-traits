@@ -7,7 +7,7 @@ Download data from below page as follows:
 
 https://catalogue-crbip.pasteur.fr/recherche_catalogue.xhtml
 
-1) Sekect "Bacteries" in the search field named "Type of microorganism"
+1) Sekect "Bacteria" in the search field named "Type of microorganism"
 2) At the bottom of the results page locate and click the link "Export under Excel" 
 
 

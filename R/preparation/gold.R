@@ -290,6 +290,12 @@ gol$TEMPERATURE_OPTIMUM <- gsub(" ", "", gol$TEMPERATURE_OPTIMUM, fixed = TRUE) 
 gol$TEMPERATURE_OPTIMUM <- gsub("to", "-", gol$TEMPERATURE_OPTIMUM)
 gol$TEMPERATURE_OPTIMUM <- gsub(",", "-", gol$TEMPERATURE_OPTIMUM)
 
+## Fixing data issues with SYMBIOTIC_RELATIONSHIP
+gol$SYMBIOTIC_RELATIONSHIP <- gsub("28C|70C|^Peltigera membranacea cyanobiont$|Thermophile", "", 
+                                   gol$SYMBIOTIC_RELATIONSHIP)
+gol$SYMBIOTIC_RELATIONSHIP <- gsub("Syntrophic", "Mutualistic", 
+                                   gol$SYMBIOTIC_RELATIONSHIP)
+
 gol$TEMPERATURE_OPTIMUM[gol$TEMPERATURE_OPTIMUM == "2025"] <- "20-25"
 
 #Trim all white space
@@ -361,8 +367,8 @@ cc <- c("ECOSYSTEM","ECOSYSTEM_CATEGORY","ECOSYSTEM_TYPE","ECOSYSTEM_SUBTYPE","S
 gol$isolation_source <- apply(gol[cc], 1, function(x) paste(x[!is.na(x)], collapse = ", "))
 gol$isolation_source <- tolower(gol$isolation_source)
 
-#Reduce to needed columns
-gol2 <- gol[,c("tax_id","org_name","STRAIN","GENBANK_16S_ID","metabolism","gram_stain","sporulation","cell_shape","motility","isolation_source","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","genome_size","GENOME_STATUS","pathways")]
+#Reduce to needed columns ( Including SYMBIOTIC_RELATIONSHIP relationship )
+gol2 <- gol[,c("tax_id","org_name","STRAIN","GENBANK_16S_ID","metabolism","gram_stain","sporulation","cell_shape","motility","isolation_source","optimum_tmp","d1_lo","d1_up","d2_lo","d2_up","genome_size","GENOME_STATUS","pathways", "SYMBIOTIC_RELATIONSHIP")]
 
 #Remove any fully duplicated rows
 gol2 <- unique(gol2[, names(gol2)])
