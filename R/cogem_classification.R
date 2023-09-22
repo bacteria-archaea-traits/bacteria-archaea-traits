@@ -17,6 +17,9 @@ condensed_cogem_trait <- function(data, trait, minProp){
   
   t3 <- .get_props(data, trait) 
   results <- .get_majority_props(t3, minProp)
+  t <- t3 %>% filter(!(species %in% results$species)) %>% 
+            group_by(species) %>% top_n(1)
+  return(t)
   return(results)
 }
 
