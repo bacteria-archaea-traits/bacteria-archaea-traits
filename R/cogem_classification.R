@@ -14,12 +14,13 @@
 #' pathogenicity is assigned to highest BSL level: BSL-1 becomes BSL-2
 
 condensed_cogem_trait <- function(data, trait, minProp){
-  
   t3 <- .get_props(data, trait) 
   results <- .get_majority_props(t3, minProp)
-  t <- t3 %>% filter(!(species %in% results$species)) %>% 
-            group_by(species) %>% top_n(1)
-  return(t)
+  
+  get_max_cogem_class <- t3 %>% filter(!species %in% results$species) %>%
+    select(c(species, n, total, prop, trait)) %>%
+    group_by(species) %>% top_n(1)
+  results <- get_max_cogem_class %>%bind_rows(results)
   return(results)
 }
 
@@ -218,13 +219,4 @@ condensed_cogem_trait <- function(data, trait, minProp){
   
   ## get the most dominate group
   return(t3)
-}
-
-condensed_cogem_trait <- function(data, trait, minProp){
-  t3 <- .get_props(data, trait) 
-  results <- .get_majority_props(t3, minProp)
-  get_max_cogem_class <- t3 %>% filter(!species %in% results$species) %>%
-    group_by(species) %>% top_n(1, cogem_classification)
-  
-  return(get_max_cogem_class %>%bind_rows(results))
 }

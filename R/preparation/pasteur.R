@@ -10,7 +10,7 @@ pas <- read_xls("data/raw/pasteur/Collections_Pasteur.xls")
 pas2 <- pas[,c(3,22,32, 29)]
 
 #Rename columns
-names(pas2) <- c("org_name","isolation_source","metabolism", "cogem_classification")
+names(pas2) <- c("org_name","isolation_source","metabolism","cogem_classification")
 
 #Only keep unique combitions of the three columns
 pas3 <- pas2 %>% distinct(org_name,isolation_source,metabolism, cogem_classification)

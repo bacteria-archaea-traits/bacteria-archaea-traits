@@ -77,3 +77,16 @@ The deleted species are shown below:
 | 1649257	| Mycobacterium arcueilense	| Mycobacterium
 | 1544867	| Burkholderia ultramafica	| Burkholderia
 | 1544861	| Burkholderia novacaledonica	| Burkholderia
+
+## Condensing cogem_classification (biohazard safety levels)
+
+- While condensing the BSL labels into species levels, it was realized that 3 species had contradicting labels. As shown below. To remedy, we used the highest BSL class as the label for that class.
+
+| Species	| BSL-Level	
+| ------------- | ------------- 
+|Enterococcus columbae   |  1 
+|Enterococcus columbae   |  2     
+|Francisella tularensis  |  2   
+|Francisella tularensis  |  3     
+|Gallibacterium anatis   |  1   
+|Gallibacterium anatis   |  2     

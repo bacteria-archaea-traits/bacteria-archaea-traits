@@ -80,6 +80,7 @@ for(i in 1:length(CONSTANT_ALL_DATA_COLUMNS)) {
   df_final[!(df_final$species %in% multi) & is.na(df_final[,trait]),trait_count] <- 0
   df_final[!(df_final$species %in% multi) & is.na(df_final[,trait]), trait_val] <- NA
 }
+
  
 
 # Concatenate all data sources for each species
@@ -512,6 +513,19 @@ for(i in 1:length(CONSTANT_ALL_DATA_COLUMNS)) {
   #Go through all single row species and remove inserted counts where no trait information
   df_final[is.na(df_final[,trait]), trait_count] <- 0
 }
+
+## Merging the dataframe with pathogens list
+datasets <- c(
+  "data/raw/liamp-shaw/PathogenVsHostDB-2019-05-30.csv",
+  "data/raw/phi_base_pathogen/pathogen_species_list.csv"
+)
+print(sprintf("Joining the condensed species with pathogens consensus list"))
+pathogens <- pathogenicity_consensus_by_dataset(datasets = datasets, df)
+
+df_final <- df_final %>% left_join(pathogens, by = "species",
+                                   relationship = "one-to-one") %>%
+  rename(species_tax_id = species_tax_id.x) %>% select(-c(species_tax_id.y))
+print(sprintf("The unique pathogens are %s: no. of pathogens added is: %s", nrow(pathogens), nrow(df_final %>% filter(!is.na(pathogen)))))
 
 #######################
 #Save final data frame#

@@ -6,9 +6,8 @@ library("tidyverse")
 if (!"readxl" %in% installed.packages()) install.packages("readxl")
 library("readxl")
 
-
-# if (!"parallel" %in% installed.packages()) install.packages("parallel")
-# library("parallel")
+#if (!"parallel" %in% installed.packages()) install.packages("parallel")
+#library("parallel")
 
 # Online data extractions
 
@@ -28,3 +27,12 @@ library("pdftools")
 
 if (!"jsonlite" %in% installed.packages()) install.packages("jsonlite")
 library("jsonlite")
+
+library(future.apply) 
+library(parallel)
+library(tabulizer)
+library(dplyr)
+library(tidyr)
+library(tibble)
+library(purrr)
+library(janitor)

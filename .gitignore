@@ -10,7 +10,8 @@ genome_metadata.txt
 
 # Manuscript files
 doc/
-analyses/
+analysis/
 figs/
 hug/
 prepared_phylo/
+output.txt
