@@ -1,0 +1,18 @@
+Attribute_source,Confidence_in_curation,Evidence,evidence_priority,confidence_priority,data_source_priority
+Asnicar_2021,medium,igc,3,2,6
+BacDive,high,exp,4,3,12
+BacMap,low,nas,1,1,1
+Barcenilla_2000,high,exp,4,3,12
+Bergey's Manual,high,exp,4,3,12
+Browne_2021,high,exp,4,3,12
+Gibson_2018,high,exp,4,3,12
+HeaverS_2018,high,exp,4,3,12
+Hilt_2014,high,exp,4,3,12
+Kegg,medium,igc,3,2,6
+Madin_2020,medium,tas,2,2,4
+Microbial Fatty Acid Compositions,high,exp,4,3,12
+MiDAS,high,exp,4,3,12
+OlsenI_2001,high,exp,4,3,12
+PATRIC,medium,igc,3,2,6
+ProTraits,medium,igc,3,2,6
+The Microbe Directory,low,nas,1,1,1

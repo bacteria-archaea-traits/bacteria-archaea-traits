@@ -513,11 +513,14 @@ for(i in 1:length(CONSTANT_ALL_DATA_COLUMNS)) {
   #Go through all single row species and remove inserted counts where no trait information
   df_final[is.na(df_final[,trait]), trait_count] <- 0
 }
+## Merging condensed species with bugphyzz
+df_final <- bugphyzz_filling_workflow(df_final, bugphyzz_to_condensed_species_mapping)
 
 ## Merging the dataframe with pathogens list
 datasets <- c(
   "data/raw/liamp-shaw/PathogenVsHostDB-2019-05-30.csv",
-  "data/raw/phi_base_pathogen/pathogen_species_list.csv"
+  "data/raw/phi_base_pathogen/pathogen_species_list.csv", 
+  "data/insect_plant_pathogens/PLaBAse_PLaBA-db.csv"
 )
 print(sprintf("Joining the condensed species with pathogens consensus list"))
 pathogens <- pathogenicity_consensus_by_dataset(datasets = datasets, df)
@@ -527,10 +530,14 @@ df_final <- df_final %>% left_join(pathogens, by = "species",
   rename(species_tax_id = species_tax_id.x) %>% select(-c(species_tax_id.y))
 print(sprintf("The unique pathogens are %s: no. of pathogens added is: %s", nrow(pathogens), nrow(df_final %>% filter(!is.na(pathogen)))))
 
+## Getting host associations (using host_group) for now
+host_associations <- 
+  host_association("output/prepared_references/consensus_pathogens.csv", df_final$species_tax_id)
+df_final <- df_final %>% inner_join(host_associations, by = "species_tax_id")
+
 #######################
 #Save final data frame#
 #######################
-
 
 #Save main data frame
 file <- sprintf("output/condensed_species_%s.csv",CONSTANT_BASE_PHYLOGENY)
