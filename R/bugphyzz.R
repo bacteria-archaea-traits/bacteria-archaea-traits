@@ -8,6 +8,7 @@
 
 ### Bugphyzz transformations mapping
 ## store in a json file.
+
 gram_stain_maps <-
   c(
     "gram stain negative" = "negative",
@@ -61,7 +62,7 @@ bugphyzz_to_condensed_species_mapping = tibble::tibble(
     "length"
   ),
   condensed_species = c(
-    "cogem_classification",
+    "biosafety_level",
     "metabolism",
     "gram_stain",
     "motility",
@@ -320,7 +321,7 @@ cached_physiologies <- memoise::memoise(bugphyzz::physiologies,
 
 bugphyzz_filling_workflow <- function(data, bugphyzz_to_condensed_species_mapping){
   results <- data
-  for(col in bugphyzz_to_condensed_species_mapping$bugphyzz){
+  for(col in c("biosafety level")){
    ##if statement to subset the graphs for 
    if (col %in% c("growth temperature", "optimal ph", "coding genes", "genome size")){
      results <- fill_missing_attribute_with_bugphyzz(col, data)

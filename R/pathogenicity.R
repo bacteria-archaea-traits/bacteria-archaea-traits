@@ -11,31 +11,45 @@
 #'
 #' @examples
 pathogenicity_consensus_by_dataset <- function(datasets, df){
-  
   shaw_pathogens <- .get_pathogenicity_by_liamp_shaw(datasets[1]) %>% distinct_all()
   phi_base_pathogens <- .get_pathogenicity_by_phi_base(datasets[2]) %>% distinct_all()
-  bsl_levels <- .get_cogem_bsl_lvl(df) %>% distinct_all()
+  plant_pathogens <-.get_plant_data(datasets[3]) %>% filter(plant_host_phenotype == "Phytopathogen") %>% 
+    select(-c(plant_host_phenotype)) %>% distinct_all()
+  cogem_bsl_levels <- rbind(
+    .get_cogem_bsl_lvl(df, "cogem_classification") %>% distinct_all(), 
+    .get_cogem_bsl_lvl(df, "biosafety_level") %>% distinct_all())
+  
+  insect_pathogens <- 
+    insectDisease::pathogen %>% 
+      filter(Group %in% c("Bacteria", "Mollicutes")) %>% 
+      inner_join(tax, by = join_by("PathTaxID" == "tax_id")) %>% 
+      select(c("species_tax_id", "species")) %>% distinct_all()
+  
   pathogens <-
     rbind(
-      shaw_pathogens %>% mutate(data_source = "Liamp-shaw"),
-      bsl_levels %>% mutate(data_source = "cogem_consensus_list_pasteur_microbe"),
-      phi_base_pathogens %>% mutate(data_source = "phi-base")
+      shaw_pathogens %>% mutate(data_source = "Liamp-shaw") ,
+      cogem_bsl_levels %>% mutate(data_source = "cogem_consensus_list_pasteur_microbe_bugphyzz", host = NA),
+      phi_base_pathogens %>% mutate(data_source = "phi-base", host = NA ),
+      plant_pathogens %>% mutate(data_source = "plant dataset", host = "plants"), 
+      insect_pathogens %>% mutate(data_source = "EDWIP", host = "insecta")
     ) %>%
-    mutate(pathogen = T) 
+    mutate(pathogen = T)
   write_csv(pathogens, "output/prepared_references/consensus_pathogens.csv")
   print(
     sprintf(
-      "Total Pathogens %s, From datasets: Shaw %s, cogem-pasteur-microbe %s phi_base %s",
+      "Total Pathogens %s, From datasets: Shaw %s, cogem-pasteur-microbe %s phi_base %s, plant pathogens %s, insect_pathogens %s",
       nrow(pathogens),
       nrow(shaw_pathogens),
-      nrow(bsl_levels),
-      nrow(phi_base_pathogens)
+      nrow(cogem_bsl_levels),
+      nrow(phi_base_pathogens),
+      nrow(plant_pathogens), 
+      nrow(insect_pathogens)
     )
   )
-  return(pathogens %>% select(-c(data_source)) %>% distinct_all())
+  return(pathogens %>% select(-c(data_source, host)) %>% distinct_all())
 }
-.get_cogem_bsl_lvl <- function(data) {
-  return(data %>% filter(cogem_classification > 1) %>% select(c(species_tax_id, species)))
+.get_cogem_bsl_lvl <- function(data, data_column) {
+  return(data %>% filter(!!as.symbol(data_column) > 1) %>% select(c(species_tax_id, species)))
 }
 
 #' Get pathogenic for shaw dataset
@@ -46,20 +60,20 @@ pathogenicity_consensus_by_dataset <- function(datasets, df){
 .get_pathogenicity_by_liamp_shaw <- function(data_file_path){
   
   pathogenic_species <- read_csv(data_file_path) %>% filter(Type == "Bacteria") %>%
-    filter(grepl("[H|h]uman", HostGroup)) %>%
     filter(Association %in% c("Pathogenic", "Pathogenic?")) %>%
-    select(c(Species, Association))
+    select(c(Species, HostGroup)) %>% mutate(host = stringr::str_to_lower(HostGroup))
   ## taxonomify
-  taxified_species <- taxizedb::name2taxid(unlist(pathogenic_species), out_type = "summary") %>%
-                          rename(tax_id = id, species = name) %>% 
-                          mutate(tax_id = as.double(tax_id))
-  
+  taxified_species <- pathogenic_species %>% select(c(Species, host)) %>% 
+                        inner_join(
+                          taxizedb::name2taxid(unlist(pathogenic_species$Species), out_type = "summary"), 
+                          by = join_by("Species" == "name")
+                        ) %>%
+                        rename(tax_id = id, species = Species) %>% 
+                        mutate(tax_id = as.double(tax_id))
   ## merge to get the species_tax_id
   pathogenic_species <- taxified_species %>% inner_join(tax, by = "tax_id") %>% 
-    select(c(species_tax_id, species.y)) %>% rename(species = species.y)
-  
+    select(c(species_tax_id, species.y, host)) %>% rename(species = species.y)
   return(pathogenic_species)
-  
 }
 
 #' Get pathogenic for shaw dataset
@@ -85,6 +99,29 @@ pathogenicity_consensus_by_dataset <- function(datasets, df){
   return(phi_base_data)
 }
 
+## getting plant_pathogens dataset. 
 
+.get_plant_data <- function(file_path){
+  plant_pathogens <- readr::read_csv(file_path) %>% 
+    rename(tax_id = "NCBI TAX ID", plant_host_phenotype = "HOST PHENOTYPE") %>% 
+    inner_join(tax, by = "tax_id") %>% select(c(species_tax_id, species, plant_host_phenotype))
+  return(plant_pathogens)
+}
 
-
+host_association <- function(consensus_host_path, df ) {
+  
+  consensus_hosts_associations <- readr::read_csv(consensus_host_path) %>% 
+    select(c(species_tax_id, host)) %>% distinct_all()
+  
+  consensus_hosts_associations <- df %>% 
+    left_join(consensus_hosts_associations, by = "species_tax_id") %>%
+    mutate(host = ifelse(!is.na(host), paste0("host_", host), "host_no"))
+  
+  hosts <- unique(consensus_hosts_associations$host)
+  
+  consensus_hosts_associations <- consensus_hosts_associations %>% 
+    mutate(host_value = ifelse(host %in% hosts, "host_associated" , NA)) %>% 
+    pivot_wider(names_from = host, values_from = host_value, values_fill = NA)
+  
+  return(consensus_hosts_associations)
+}

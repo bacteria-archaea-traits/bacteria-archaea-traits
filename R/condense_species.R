@@ -514,6 +514,7 @@ for(i in 1:length(CONSTANT_ALL_DATA_COLUMNS)) {
   df_final[is.na(df_final[,trait]), trait_count] <- 0
 }
 ## Merging condensed species with bugphyzz
+df_final <- df_final %>% mutate(biosafety_level = NA)
 df_final <- bugphyzz_filling_workflow(df_final, bugphyzz_to_condensed_species_mapping)
 
 ## Merging the dataframe with pathogens list
@@ -523,7 +524,7 @@ datasets <- c(
   "data/insect_plant_pathogens/PLaBAse_PLaBA-db.csv"
 )
 print(sprintf("Joining the condensed species with pathogens consensus list"))
-pathogens <- pathogenicity_consensus_by_dataset(datasets = datasets, df)
+pathogens <- pathogenicity_consensus_by_dataset(datasets = datasets, df_final)
 
 df_final <- df_final %>% left_join(pathogens, by = "species",
                                    relationship = "one-to-one") %>%
@@ -531,9 +532,9 @@ df_final <- df_final %>% left_join(pathogens, by = "species",
 print(sprintf("The unique pathogens are %s: no. of pathogens added is: %s", nrow(pathogens), nrow(df_final %>% filter(!is.na(pathogen)))))
 
 ## Getting host associations (using host_group) for now
-host_associations <- 
-  host_association("output/prepared_references/consensus_pathogens.csv", df_final$species_tax_id)
-df_final <- df_final %>% inner_join(host_associations, by = "species_tax_id")
+# host_associations <- 
+#    host_association("output/prepared_references/consensus_pathogens.csv", df_final %>% select(c(species_tax_id)))
+# df_final <- df_final %>% inner_join(host_associations, by = "species_tax_id")
 
 #######################
 #Save final data frame#
