@@ -513,6 +513,9 @@ for(i in 1:length(CONSTANT_ALL_DATA_COLUMNS)) {
   #Go through all single row species and remove inserted counts where no trait information
   df_final[is.na(df_final[,trait]), trait_count] <- 0
 }
+
+## Calling scripts for incorporating other datasets (bugphyzz), and defining additional columns (interaction_type, pathogen)
+
 ## Merging condensed species with bugphyzz
 df_final <- df_final %>% mutate(biosafety_level = NA)
 df_final <- bugphyzz_filling_workflow(df_final, bugphyzz_to_condensed_species_mapping)
@@ -521,15 +524,29 @@ df_final <- bugphyzz_filling_workflow(df_final, bugphyzz_to_condensed_species_ma
 datasets <- c(
   "data/raw/liamp-shaw/PathogenVsHostDB-2019-05-30.csv",
   "data/raw/phi_base_pathogen/pathogen_species_list.csv", 
-  "data/insect_plant_pathogens/PLaBAse_PLaBA-db.csv"
+  "data/insect_plant_pathogens/PLaBAse_PLaBA-db.csv", 
+  "data/raw/gcpathogen/gcpathogen_pathogens.csv"
 )
 print(sprintf("Joining the condensed species with pathogens consensus list"))
 pathogens <- pathogenicity_consensus_by_dataset(datasets = datasets, df_final)
 
+## creating pathogen column 
 df_final <- df_final %>% left_join(pathogens, by = "species",
                                    relationship = "one-to-one") %>%
   rename(species_tax_id = species_tax_id.x) %>% select(-c(species_tax_id.y))
 print(sprintf("The unique pathogens are %s: no. of pathogens added is: %s", nrow(pathogens), nrow(df_final %>% filter(!is.na(pathogen)))))
+df_final$pathogen[is.na(df_final$pathogen)] = "undefined"
+
+## Adding plants pathogens data in condensed_spp
+plant_pathgens <- merger_plant_pathogens_condensed_species(datasets[3])
+df_final <- df_final %>% left_join(plant_pathgens, by = "species_tax_id")
+cat(sprintf("The number of plant related bacteria added are %s \n", df_final %>% filter(!is.na(plant_host_phenotype)) %>% nrow()))
+
+## Adding interaction type to the condensed spp. 
+df_final <- bacteria_interaction_type(df_final)
+
+## gc_pathogens bsl 
+df_final <- gcpathogen(datasets[4], df_final)
 
 ## Getting host associations (using host_group) for now
 # host_associations <- 

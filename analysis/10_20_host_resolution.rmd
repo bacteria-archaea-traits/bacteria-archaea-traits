@@ -1,0 +1,39 @@
+Loading clean_up list
+```{r}
+#install.packages("here")
+library(here)
+```
+
+```{r}
+source("../../molevol_scripts/R/create_lineage_lookup.R")
+```
+
+```{r}
+create_lineage_lookup(lineage_file = "../data/rankedlineage.dmp", 
+                      outfile = "../output/ranked_lineage.tsv", taxonomic_rank = "species")
+```
+Ranked Lineage
+
+```{r}
+ranked_lineage <- read_tsv("../output/ranked_lineage.tsv")
+```
+
+```{r}
+eukaryota_ranked_lineage <- ranked_lineage %>% filter(!grepl("[B|b]acteria|[A|a]rchaea|[V|v]iruses", Lineage)) %>% head(1000)
+```
+
+```{r}
+count_elements_in_levels <- function(data, level_term) {
+  get_current_lineage <- data %>% filter(grepl(level_term, Lineage))
+  paste0(unlist(str_split(c, "Eukaryota")), collapse = "")
+}
+```
+
+Loading json data for dictionary
+
+```{r}
+
+```
+
+
+

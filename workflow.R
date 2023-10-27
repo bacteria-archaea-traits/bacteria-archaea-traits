@@ -5,7 +5,11 @@ source("R/packages.R")
 
 # Load functions
 source("R/functions.R")
-
+source("R/bugphyzz.R")
+source("R/cogem_classification.R")
+source("R/pathogenicity.R")
+source("R/utils.R")
+source("R/gc_pathogens.R")
 # Load settings
 source("R/settings.R")
 
@@ -13,7 +17,6 @@ source("R/settings.R")
 if (!file.exists("output/taxonomy/taxonomy_names.csv")) {
   download.file(url="https://ndownloader.figshare.com/files/14875220?private_link=ab40d2a35266d729698c", destfile = "output/taxonomy/taxonomy_names.csv")
 }
-
 
 if (!file.exists("data/raw/patric/genome_metadata.txt")) {
   download.file(url="ftp://ftp.bvbrc.org/RELEASE_NOTES/genome_metadata", destfile = "data/raw/patric/genome_metadata.txt")

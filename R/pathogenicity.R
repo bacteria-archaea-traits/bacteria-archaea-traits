@@ -1,20 +1,29 @@
 #'https://www.nature.com/articles/s41597-019-0090-x
 #'
 #' This function consolidates different dataset to derive a list of pathogens. The
-#' dataset being used here are shaw(https://github.com/liampshaw/Pathogen-host-range), 
+#' dataset being used here are 
+#' shaw(https://github.com/liampshaw/Pathogen-host-range), 
 #' phi-base pathogen (https://poc.molecularconnections.com/phibase-v2/#/home), and 
 #' cogem_research_report(https://cogem.net/)
-#'
+#' https://nmdc.cn/gcpathogen/
+#' insectDisease
+#' plant pathogens.
+#' 
 #' @param datasets List of dataset to explore
 #' @return consensus pathogens list
 #' @export
 #'
 #' @examples
 pathogenicity_consensus_by_dataset <- function(datasets, df){
+  
   shaw_pathogens <- .get_pathogenicity_by_liamp_shaw(datasets[1]) %>% distinct_all()
   phi_base_pathogens <- .get_pathogenicity_by_phi_base(datasets[2]) %>% distinct_all()
   plant_pathogens <-.get_plant_data(datasets[3]) %>% filter(plant_host_phenotype == "Phytopathogen") %>% 
     select(-c(plant_host_phenotype)) %>% distinct_all()
+  gc_pathogen <- readr::read_csv(datasets[4]) %>% select(c(taxonid, pathogenName)) %>% 
+    inner_join(tax, by = join_by("taxonid" == "species_tax_id")) %>% rename(species_tax_id=taxonid) %>%
+    select(c("species_tax_id", "species")) %>% distinct_all()
+  
   cogem_bsl_levels <- rbind(
     .get_cogem_bsl_lvl(df, "cogem_classification") %>% distinct_all(), 
     .get_cogem_bsl_lvl(df, "biosafety_level") %>% distinct_all())
@@ -31,19 +40,21 @@ pathogenicity_consensus_by_dataset <- function(datasets, df){
       cogem_bsl_levels %>% mutate(data_source = "cogem_consensus_list_pasteur_microbe_bugphyzz", host = NA),
       phi_base_pathogens %>% mutate(data_source = "phi-base", host = NA ),
       plant_pathogens %>% mutate(data_source = "plant dataset", host = "plants"), 
-      insect_pathogens %>% mutate(data_source = "EDWIP", host = "insecta")
+      insect_pathogens %>% mutate(data_source = "EDWIP", host = "insecta"), 
+      gc_pathogen %>% mutate(data_source="https://nmdc.cn/gcpathogen/", host = NA)
     ) %>%
     mutate(pathogen = T)
   write_csv(pathogens, "output/prepared_references/consensus_pathogens.csv")
   print(
     sprintf(
-      "Total Pathogens %s, From datasets: Shaw %s, cogem-pasteur-microbe %s phi_base %s, plant pathogens %s, insect_pathogens %s",
+      "Total Pathogens %s, From datasets: Shaw %s, cogem-pasteur-microbe %s phi_base %s, plant pathogens %s, insect_pathogens %s, gcpathogen: %s",
       nrow(pathogens),
       nrow(shaw_pathogens),
       nrow(cogem_bsl_levels),
       nrow(phi_base_pathogens),
       nrow(plant_pathogens), 
-      nrow(insect_pathogens)
+      nrow(insect_pathogens), 
+      nrow(gc_pathogen)
     )
   )
   return(pathogens %>% select(-c(data_source, host)) %>% distinct_all())
@@ -125,3 +136,13 @@ host_association <- function(consensus_host_path, df ) {
   
   return(consensus_hosts_associations)
 }
+
+merger_plant_pathogens_condensed_species <- function(file_path){
+  plants_bacteria <- .get_plant_data(file_path) %>% 
+    select(c(species_tax_id, plant_host_phenotype)) %>% distinct_all()
+  plants_bacteria <- plants_bacteria %>% group_by(species_tax_id) %>% 
+    mutate(plant_host_phenotype = paste0(unlist(unique(plant_host_phenotype)), collapse = ", ")) %>% distinct_all()
+  cat(sprintf("The unique plants related bacteria/archaeas are : %s \n", nrow(plants_bacteria)))
+  return(plants_bacteria)
+}
+
