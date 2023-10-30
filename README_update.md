@@ -90,3 +90,31 @@ The deleted species are shown below:
 |Francisella tularensis  |  3     
 |Gallibacterium anatis   |  1   
 |Gallibacterium anatis   |  2     
+
+
+## New Repository: 
+
+The source datasets are obtained from bacterial_archaea respository which are condensed_species, condensed_traits. Some of the dataset periodically changed example rrndb, which needs to be updated periodically. To have the most current dataset in condensed_traits/species. 
+
+The additional datasets incorporate in the condensed species are, and their corresponding scripts; 
+
+- Bugphyzz: bugphyzz.R
+
+The columns updated by using bugphyzz dataset are `growth temperature, optimal ph, coding genes, genome size, biosafety level, aerophilicity,gram stain , motility`. This adds an additional column in condensed species `biosafety_level`. 
+The bugphyzz.R script, get the species levels trait value for the above values. Incase of the conflicts, the values are choosen based on the dataset priorities, defined based on bugphyzz confidence and evidence table.
+
+- Cogem: cogem_classification.R
+
+The scripts adds an additional column to condensed_species called `cogem_classification`. For conflicts, the highest cogem value is choosen. 
+
+- gcPathogen: gc_pathogen.R (Additional gc_pathogen scraping scripts)
+
+The scripts incorpates the gcPathogen bsl levels to `biosafety_level`. In this cases, we only filling the missing biosafety levels to the column. 
+
+- liamp_shaw, plant_pathogens, insect_pathogens, phi_base: pathogenicity.R
+
+This datasets are used to infer the pathogenicity to be included in the condensed_species. This creates a new column `pathogen {TRUE, undefined}` indicating species pathogenicity.
+
+Analysis folder: 
+
+Currently contains different visualizations, and datasets explorartions. (No added )
