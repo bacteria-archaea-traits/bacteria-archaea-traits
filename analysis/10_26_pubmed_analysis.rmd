@@ -1,0 +1,266 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+Analysis pubmed count for pathogen search on all fields. 
+
+Attemp to parallelize pubmed search 
+```{r}
+library(doFuture)
+library(future)
+library(foreach)
+library(progress)
+
+
+pub_med_rentrez_search <- function(species_name, db) {
+  entrez_search_results <- 
+    entrez_search(
+      db="pubmed", 
+      term=paste0("(\"",species_name,"\"[ORGN]) AND pathogen[All Fields]"), 
+      api_key="df19bc23d3d79d49541955a397a244964007")
+  return(entrez_search_results$count)
+}
+pub_med_search_single <- function(species, output_file) {
+  pub_count <-pub_med_rentrez_search(species)
+  result <- tibble::tibble(species = c(species), pub_count = c(pub_count))
+  write.table(result, 
+              file = output_file, 
+              append = TRUE,
+              sep = ",", 
+              col.names = FALSE, 
+              row.names = FALSE, 
+              quote = FALSE)
+}
+```
+
+Loading the pubmed search and merging to condensed species
+```{r}
+condensed_spp <- readr::read_csv("../output/condensed_species_NCBI.csv")
+pubmed <- readr::read_csv("pub_med_results_v6.csv")
+colnames(pubmed) <- c("species", "pub_count")
+pubmed_search_results <- rbind(
+  pubmed, readr::read_csv("pub_med_results_v7.csv")) 
+
+pubmed_search_condensed_species <- condensed_spp %>% 
+  inner_join(pubmed_search_results, by = "species")
+```
+
+```{r}
+cray_run <- readr::read_rds("../../proj-path_traitspace/output/full_joined_dataset.RDS")
+cray_run_compare <- 
+  pubmed_search_results %>% inner_join(cray_run, by = "species") %>% select(c(species, pub_count, pubCount))
+same <- cray_run_compare %>% filter(pub_count == pubCount)
+print(
+  sprintf("Matchaed %s: unmatched %s",
+          nrow(same)/nrow(cray_run_compare),(nrow(cray_run_compare)-nrow(same))/nrow(cray_run_compare)))
+```
+
+```{r}
+pubmed_search_condensed_species <- pubmed_search_condensed_species %>% mutate(pub_count = log2(pub_count + 1))
+```
+
+Visualizing the pubmed vs pathogens, bsl, and host-association
+
+```{r}
+ggplot(pubmed_search_condensed_species , aes(y = pub_count )) + 
+  geom_boxplot() + 
+  facet_grid(~pathogen) + 
+  labs(title="Pubmed count without removing outliers", y= "log2 pub_count")
+```
+
+```{r}
+ggplot(pubmed_search_condensed_species %>% filter(!is.na(biosafety_level)) , aes(y = pub_count )) + 
+  geom_boxplot() + 
+  facet_grid(~biosafety_level) + 
+  labs(title="Pubmed count without removing outliers", y= "log2 pub_count")
+```
+
+```{r}
+pubmed_search_condensed_species <- pubmed_search_condensed_species %>% 
+  mutate(host_associated = ifelse(
+    grepl("host-associated", isolation_source_full), 
+    "host-associated", "Non-host-associated"))
+ggplot(pubmed_search_condensed_species , aes(y = pub_count )) + 
+  geom_boxplot() + 
+  facet_grid(~host_associated) + 
+  labs(title="Host-association with outliers", y="log2 pub_count")
+```
+
+Distributions of pub med search with outliers removed. 
+```{r}
+#' Get the dataset z-score
+#' Modified based on https://github.com/cmap/cmapR/blob/674fa27bb97bde75b492a5d262cef2ce321c6c3c/R/math.R#L19
+#' @param data 
+#' @param column 
+#' @param value 
+#'
+#' @return
+#' @export
+#'
+#' @examples
+z_score_calculation <- function(data, column="", value = "", min_mad=1e-6){
+  k <- 1.4826
+  if (value == ""){
+     subset_data <- data
+  } else {
+     subset_data <- data %>% filter(!!as.symbol(column) == value) 
+  }
+  
+  iqr <- IQR(subset_data$pub_count)
+  x_median<- stats::median(subset_data$pub_count)
+  abs_dev <- abs(subset_data$pub_count - x_median) 
+  mad <- stats::median(abs_dev) 
+  
+  if(mad == 0){
+    mad <- mean(abs_dev)*1.253314
+  } else {
+    mad <-k*mad
+  }
+  
+  print(sprintf("Median %s mad: %s, iqr: %s", x_median, mad, iqr))
+  subset_data <- subset_data %>% mutate(z_score = abs(x_median - pub_count)/(mad))
+  return(subset_data)
+}
+result_data <- NULL
+for (col in c(TRUE, "undefined")) {
+  condensed_species_with_zscore <- z_score_calculation(pubmed_search_condensed_species, "pathogen", col)
+  if(is.null(result_data)) {
+    result_data <- condensed_species_with_zscore
+  } else {
+    result_data <- rbind(result_data, condensed_species_with_zscore)
+  }
+}
+
+pubmed_search_no_outliers <- result_data %>% filter( z_score <= 3.5)
+ggplot(pubmed_search_no_outliers , aes(y = pub_count )) +
+  geom_boxplot() +
+  facet_grid(~pathogen) +
+  labs(title="Pubmed count distributions for pathogens", y = "log2 pub_count") 
+undefined_outliers <- result_data %>% 
+  filter(z_score > 3.5)
+ggplot(undefined_outliers, aes(x = pub_count )) +
+  geom_histogram(bins = 30) + 
+  facet_grid(~pathogen)
+  labs(title="Pathogens outliers distributions", x = "log2 pub_count")
+
+```
+
+Biosafety levels
+
+
+```{r}
+pubmed_search_condensed_species_bsl <- pubmed_search_condensed_species %>% filter(!is.na(biosafety_level))
+result_data <- NULL
+for (value in c(1:3)) {
+  condensed_species_with_zscore <- z_score_calculation(pubmed_search_condensed_species, "biosafety_level", value)
+  if(is.null(result_data)) {
+    result_data <- condensed_species_with_zscore
+  } else {
+    result_data <- rbind(result_data, condensed_species_with_zscore)
+  }
+}
+
+
+pubmed_search_no_outliers <- result_data %>% filter( z_score <= 3.5)
+ggplot(pubmed_search_no_outliers , aes(y = pub_count )) +
+  geom_boxplot() +
+  facet_grid(~biosafety_level) + 
+  labs(title="Pubmed count distributions for biosafety levels", y= "log2 pub_count")
+
+undefined_outliers <- result_data %>% 
+  filter(z_score > 3.5) %>% rbind(result_data %>% filter(biosafety_level == 3))
+ggplot(undefined_outliers, aes(x = pub_count )) +
+  geom_histogram(bins = 30) + 
+  facet_grid(~biosafety_level) + 
+  labs(title="BSL outlier distributions + BSL-3(had no outliers)", x= "log2 pub_count")
+```
+
+Host Association
+```{r}
+result_data <- z_score_calculation(pubmed_search_condensed_species, 
+                                                     column = "", 
+                                                     value = "")
+for (col in c("host-associated", "Non-host-associated")) {
+  condensed_species_with_zscore <- z_score_calculation(pubmed_search_condensed_species, "host_associated", col)
+  if(is.null(result_data)) {
+    result_data <- condensed_species_with_zscore
+  } else {
+    result_data <- rbind(result_data, condensed_species_with_zscore)
+  }
+}
+pubmed_search_no_outliers <- result_data %>% filter( z_score < 3.5)
+ggplot(pubmed_search_no_outliers , aes(y = pub_count )) +
+  geom_boxplot() +
+  facet_grid(~host_associated) + 
+  labs(title="Pubmed count distributions for host-association",  y= "log2 pub_count")
+undefined_outliers <- result_data %>% 
+  filter(z_score > 3.5)
+ggplot(undefined_outliers, aes(x = pub_count )) +
+  geom_histogram(bins = 30) + 
+  facet_grid(~host_associated) + 
+  labs(title="Outliers distributions",  x= "log2 pub_count")
+```
+How many things that we have not denoted as pathogens have lots of publications associated with them?
+
+```{r}
+undefined_condensed_spp <- pubmed_search_condensed_species %>% filter(pathogen == "undefined") %>% 
+  select(c(species, pathogen, pub_count))
+result_df <- data.frame(cut_off = numeric(), species_count = numeric())
+
+for (cut_off in c(1, 50, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 10000, 100000)){
+  species_count <- undefined_condensed_spp %>%
+    filter(pub_count >= cut_off) %>%
+    nrow()
+  result_df <- rbind(result_df, data.frame(cut_off = cut_off, species_count = species_count))
+  
+  print(sprintf("Cutoff %s pubmed publications %s", cut_off, species_count))
+}
+```
+
+```{r}
+ggplot(result_df, aes(x=as.factor(cut_off), y = species_count)) + 
+  geom_col() + 
+  geom_hline(yintercept = 355, color = "red") + 
+  geom_hline(yintercept = 45, show.legend = T, color = "blue") + 
+  annotate("text", x = 0 , y = 355, label = "355", color = "red", hjust = 0) + 
+  annotate("text", x = 0 , y = 45, label = "45", color = "blue", hjust =0) +
+  labs(x="cut_off", y = "species count above cutoff", 
+       title="Species (pathogen=Undefined ) with publications above cutoff")
+```
+
+```{r}
+pathogen_condensed_spp <- pubmed_search_condensed_species %>% filter(pathogen == TRUE) %>% 
+  select(c(species, pathogen, pub_count))
+result_df <- data.frame(cut_off = numeric(), species_count = numeric())
+
+for (cut_off in c(0, 1, 50, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 10000, 100000)){
+  species_count <- pathogen_condensed_spp %>%
+    filter(pub_count >= cut_off) %>%
+    nrow()
+  result_df <- rbind(result_df, data.frame(cut_off = cut_off, species_count = species_count))
+  
+  print(sprintf("Cutoff %s pubmed publications %s", cut_off, species_count))
+}
+
+ggplot(result_df, aes(x=as.factor(cut_off), y = species_count)) + 
+  geom_col() + 
+  labs(x="cut_off", y = "species count above cutoff", 
+       title="Species (pathogen=TRUE ) with publications above cutoff")
+```
+Combination of biosafety levels + pathogens (Visualization)
+```{r}
+pubmed_search_condensed_species <- pubmed_search_condensed_species %>% 
+  filter(!is.na(biosafety_level)) %>%
+  mutate(bsl_pathogens = paste0(sprintf("%s-%s", biosafety_level, pathogen)))
+ggplot(pubmed_search_condensed_species, aes(x = pub_count, fill=bsl_pathogens)) +
+  geom_density(alpha=0.6)+
+  labs(x="log2(pub_count)")
+```
+
+
+
+
+
+
+

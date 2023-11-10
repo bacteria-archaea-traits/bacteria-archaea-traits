@@ -99,6 +99,8 @@ df[df == "-Inf"] <- NA
 #Copy original df (for original trouble shooting)
 df2 <- df
 
+## retaining full isolations source
+df2["isolation_source_full"] <- df2$isolation_source
 
 #######################
 # TRANSLATE VARIABLES #
@@ -364,7 +366,7 @@ rm(ref,ref_ids)
 ############
 
 # Keep only required columns (defined in settings)
-df5 <- df4[,CONSTANT_FINAL_COLUMNS]
+df5 <- df4[,c(CONSTANT_FINAL_COLUMNS, "isolation_source_full")]
 
 #Convert any blank fields into NA
 df5[df5 == ""] <- NA

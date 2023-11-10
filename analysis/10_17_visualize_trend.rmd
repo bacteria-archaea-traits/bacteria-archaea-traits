@@ -1,0 +1,40 @@
+Visualizing numerical values change over 3 cogem classification levels; different levels
+
+```{r}
+cond_spp <- read_csv("../output/condensed_species_NCBI.csv")
+```
+
+```{r}
+cols <- append(CONSTANT_CONTINOUS_DATA_COLUMNS, c("cogem_classification", "species_tax_id"))
+cond_spp_long <- 
+  cond_spp %>% select(all_of(cols)) %>% 
+  pivot_longer(
+    cols = CONSTANT_CONTINOUS_DATA_COLUMNS, 
+    names_to = "traits", 
+    values_to = "traits_attribute"
+) %>% filter(!is.na(cogem_classification)) %>% 
+  mutate(cogem_classification = as.factor(cogem_classification))
+
+ggplot(cond_spp_long,
+       aes(x = cogem_classification, y = traits_attribute, color = cogem_classification))+
+  geom_violin(trim = TRUE) + 
+  facet_wrap(~traits, ncol = 3, scales = "free_y")
+```
+## Pathogens
+```{r}
+cols <- append(CONSTANT_CONTINOUS_DATA_COLUMNS, c("pathogen", "species_tax_id", "cogem_classification"))
+cond_spp_long <- 
+  cond_spp %>% select(all_of(cols)) %>% 
+  pivot_longer(
+    cols = CONSTANT_CONTINOUS_DATA_COLUMNS, 
+    names_to = "traits", 
+    values_to = "traits_attribute"
+) %>% filter(!is.na(cogem_classification)) %>%
+  mutate(pathogen = ifelse(!is.na(pathogen), "P", "Non-P")) %>% 
+  mutate(pathogen = as.factor(pathogen))
+
+ggplot(cond_spp_long ,
+       aes(x = pathogen, y = traits_attribute, color = pathogen))+
+  geom_violin(trim = TRUE) + 
+  facet_wrap(~traits, ncol = 3, scales = "free_y")
+```

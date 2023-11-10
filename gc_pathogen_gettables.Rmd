@@ -1,0 +1,54 @@
+
+# Transforming the python scripts to rscript
+
+The script is responsible for getting the pathogen tables from gc_pathogen. This can be generalize to get all the tables of interested. 
+
+The main api entry point is: 
+
+"https://nmdc.cn/gcpathogenapi/species/getallmetatable"
+
+```{r}
+URL = "https://nmdc.cn/gcpathogenapi/species/getallmetatable"
+suppressMessages(library(Biostrings))
+suppressMessages(library(httr2))
+
+```
+
+
+```{r}
+constructor_payload_params <- function(start_page, page_size) {
+  json_payload <- '{"otherType":"taxa","page":1,\
+                    "high":"","searchStrainName":"","searchAssembly":"",\
+                    "searchAssemblyLevel":"","searchAssemblyMethod":"",\
+                    "searchContigsEnd":"","searchContigsStart":"",\
+                    "searchCountry":"","searchDisease":"",\
+                    "searchHost":"","searchGene":"","searchIsoSource":"",\
+                    "searchLevel":"","searchMLST":"","searchPathogenName":"",\
+                    "searchSequencing":"","searchSubmitter":"","searchTaxonid":"",\
+                    "searchAroName":"","searchVFName":"","size":1,"type":"bacteria"}'
+  json_r_object <- jsonlite::fromJSON(json_payload)
+  json_r_object$page = start_page
+  json_r_object$size = page_size
+  return(json_r_object)
+}
+
+get_paginate_gcpathogen <- function(url, start_page, page_size){
+  httr2::request(base_url = url) %>%
+    httr2::req_headers("Content-Type" = "application/json") %>%
+    httr2::req_body_json()
+}
+
+```
+
+```{r}
+json_payload <- '{"otherType":"taxa","page":1,\
+                    "high":"","searchStrainName":"","searchAssembly":"",\
+                    "searchAssemblyLevel":"","searchAssemblyMethod":"",\
+                    "searchContigsEnd":"","searchContigsStart":"",\
+                    "searchCountry":"","searchDisease":"",\
+                    "searchHost":"","searchGene":"","searchIsoSource":"",\
+                    "searchLevel":"","searchMLST":"","searchPathogenName":"",\
+                    "searchSequencing":"","searchSubmitter":"","searchTaxonid":"",\
+                    "searchAroName":"","searchVFName":"","size":1,"type":"bacteria"}'
+print(json_payload)
+```

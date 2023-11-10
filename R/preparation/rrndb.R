@@ -1,7 +1,7 @@
 # rrnDB data preparation
 
 # Open original dataset
-rrn <- read.delim("data/raw/rrndb/rrnDB-5.4.tsv", as.is=TRUE)
+rrn <- read.delim("data/raw/rrndb/rrnDB-5.8.tsv", as.is=TRUE)
 
 rrn[rrn == ""] <- NA
 

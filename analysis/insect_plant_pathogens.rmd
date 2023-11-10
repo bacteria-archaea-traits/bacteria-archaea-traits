@@ -1,0 +1,277 @@
+
+#https://cran.r-project.org/web/packages/insectDisease/insectDisease.pdf
+
+#https://img.jgi.doe.gov/cgi-bin/m/main.cgi
+#https://img.jgi.doe.gov/data-processing.html
+
+#https://academic.oup.com/femsec/article/97/11/fiab142/6402898?login=true - substrate
+
+#https://opendata.eol.org/dataset/identifier-map
+
+#https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13440 -> taxadb
+#https://globalnames.org/apps/
+
+Datasets
+```{r}
+insect_interactions <- read_tsv("../data/insect_plant_pathogens/interactions.tsv")
+plant_pathogens <- read_csv("../data/insect_plant_pathogens/PLaBAse_PLaBA-db.csv")
+condensed_spp <- read_csv("../output/condensed_species_NCBI.csv")
+#full_data_dumb <- read_csv("~/Downloads/full_provider_ids.csv") %>% filter(resource_id == 676)
+#unambiguous_full_data_dumb <- full_data_dumb %>% group_by(page_id) %>% add_count(page_id) %>% 
+#  filter(n <= 1) %>% select(-c(n))
+```
+
+```{r}
+insect_interactions <- read_tsv("../data/insect_plant_pathogens/interactions.tsv")
+plant_pathogens <- read_csv("../data/insect_plant_pathogens/PLaBAse_PLaBA-db.csv")
+```
+Plant pathogens
+```{r}
+plant_pathogens_ncbi <- plant_pathogens %>% rename(tax_id = "NCBI TAX ID", host_phenotype = "HOST PHENOTYPE") 
+by <- join_by("tax_id"=="tax_id")
+
+## TO DO: use taxizedb
+
+plants_pathogens_comb <- plant_pathogens_ncbi %>% select(c(tax_id, host_phenotype)) %>% 
+  inner_join(tax, by=by)
+print(sprintf("Plants datasets present in tax %s", plants_pathogens_comb %>% nrow()))
+
+ggplot(plants_pathogens_comb, aes(x =host_phenotype)) + 
+  geom_bar() + coord_flip() + theme_minimal() +
+  labs(title="Distributions of pathogens on original taxified dataset.")
+
+## present in condensed_spp
+.get_presents_in_condensed_spp <-function(condensed_spp,data) {
+  return(data %>% filter(species %in% condensed_spp$species))
+}
+condensed_dataset <- .get_presents_in_condensed_spp(condensed_spp, plants_pathogens_comb)
+print(sprintf("Species available in trait_dataset %s", condensed_dataset %>% nrow()))
+
+ggplot(condensed_dataset, aes(x =host_phenotype)) + 
+  geom_bar() + coord_flip() + theme_minimal() + 
+  labs(title="Distributions of pathogens, found in condensed_species + plant_pathogens")
+```
+## Plant pathogens.
+```{r}
+
+
+```
+Insect Pathogens
+
+```{r}
+insects_data_columns <-c("EOL","page_id","targetTaxonName",
+                         "class","Association","cleanTargetTaxonName", "tax_id")
+#install.packages("insectDisease")
+## strategy: 
+#' 1. Use taxize getNCBI to get taxonomy hierachies.
+#' 2. Use the big file I got previously.
+
+insects_pathogens <-  insect_interactions %>% 
+  mutate(targetTaxonName_ = targetTaxonName) %>%
+  separate(targetTaxonName_, c("species", "genus")) %>% 
+  mutate(spec = ifelse(!is.na(species) & !is.na(genus), T, F)) %>%
+  filter(spec == T) %>% 
+  select(-c(species, genus, spec)) %>% 
+  filter(interactionTypeName == "hasPathogen") 
+print(sprintf("Pathogens with full names %s", insects_pathogens %>% nrow()))
+
+insects_pathogens <- insects_pathogens %>% 
+  filter(interactionTypeName == "hasPathogen")  %>%
+  select(c(targetTaxonId, targetTaxonName)) %>% distinct_all() %>% 
+  separate(targetTaxonId, c("EOL", "page_id")) %>% 
+  mutate(page_id = as.double(page_id)) %>% 
+  mutate(class = "Insecta", Association="pathogenic") %>% 
+  mutate(cleanTargetTaxonName = taxadb::clean_names(targetTaxonName)) %>% 
+  group_by(cleanTargetTaxonName) %>% 
+  add_count(cleanTargetTaxonName) %>% filter(n <= 1) %>% select(-c(n))
+
+print(sprintf("Pathogens with clean names no same name variants %s", 
+              insects_pathogens %>% nrow())) 
+
+insect_pathogens_eol <- 
+  insects_pathogens %>% filter(!is.na(EOL) | !is.na(page_id)) %>% 
+  group_by(page_id) %>% add_count(page_id) %>% filter(n<=1) %>% select(-c(n))
+
+print(sprintf("Pathogens with EOL concept taxon identifier %s", 
+              insect_pathogens_eol %>% nrow())) 
+
+## using inner-join for full_dump with unambiguous page_id
+insect_pathogens_eol_full_dump <- inner_join(insect_pathogens_eol,unambiguous_full_data_dumb,
+           by = "page_id", relationship="one-to-one") %>% 
+  mutate(tax_id = resource_pk ) %>%select(insects_data_columns)
+print(
+  sprintf("Resolved insect pathogens with eol using full_dump %s", insect_pathogens_eol_full_dump %>% nrow()))
+
+## resolving clean names (no variants)
+unresolved_insects_pathogens <- insects_pathogens %>% filter(
+  !cleanTargetTaxonName %in% insect_pathogens_eol_full_dump$cleanTargetTaxonName)
+print(sprintf("Unresolved insect pathogens %s", unresolved_insects_pathogens %>% nrow()))
+```
+
+```{r}
+## Unresolved clean names (no variants) with taxizedb
+taxizedb_resolved_names <- 
+  taxizedb::name2taxid(
+    unresolved_insects_pathogens$cleanTargetTaxonName, out_type="summary") %>% 
+  mutate(tax_id = id)
+print(sprintf("Resolved clean names with taxizedb %s", taxizedb_resolved_names %>% nrow()))
+#Merging the resolved names from taxizedb to unresolved_insects_pathogens
+by = join_by(cleanTargetTaxonName == name )
+taxizedb_resolved <- unresolved_insects_pathogens %>% 
+  inner_join(taxizedb_resolved_names, by = by, relations)  %>% select(insects_data_columns)
+```
+
+```{r}
+## join resolved with full_dump + taxizedb
+full_dump_taxizedb <- rbind(insect_pathogens_eol_full_dump, taxizedb_resolved)
+## resolving clean names (no variants)
+unresolved_insects_pathogens <- insects_pathogens %>% filter(
+  !cleanTargetTaxonName %in% full_dump_taxizedb$cleanTargetTaxonName)
+print(sprintf("Unresolved insect pathogens %s", unresolved_insects_pathogens %>% nrow()))
+```
+
+```{r}
+## taxonomy mapping
+df <- NULL
+for (tax_id in full_dump_taxizedb$tax_id){
+  ranks <- getNCBI(tax_id)
+  if(is.null(df)){
+    df = getNCBI(tax_id)
+  } else {
+    df <- rbind(df, ranks)
+  }
+}
+```
+
+```{r}
+full_dump_taxizedb_taxonomy_maps <- df %>% 
+  inner_join(full_dump_taxizedb, by = "tax_id")
+table(full_dump_taxizedb_taxonomy_maps$super_kingdom)
+```
+
+## Using InsectDisease
+```{r}
+pathogens <- insectDisease::pathogen %>% 
+   mutate(PathogenSpecies = taxadb::clean_names(PathogenSpecies))
+## insect dataset overlap with insect_interactions
+n <- length(intersect(pathogens$PathogenSpecies, insects_pathogens$cleanTargetTaxonName ))
+print(sprintf("Overlapp of insect_interactions to insect_disease: total %s percent: %s", n/nrow(insects_pathogens), n))
+
+print(sprintf("Insect pathogens in insectDisease dataset %s", pathogens %>% nrow()))
+resolved_with_insect_disease <- 
+  unresolved_insects_pathogens %>% 
+    inner_join(pathogens, by = join_by(cleanTargetTaxonName == PathogenSpecies)) 
+print(sprintf("Unresolved dataset contained in insectDisease %s", resolved_with_insect_disease %>% nrow()))
+print(table(resolved_with_insect_disease$Group))
+```
+
+### unresolved insect pathogens
+```{r}
+unresolved_insects_with_ncbi <- 
+  unresolved_insects_pathogens %>% 
+    filter(!cleanTargetTaxonName %in% resolved_with_insect_disease$cleanTargetTaxonName)
+## presents in cond
+```
+
+```{r}
+pathogens <- insectDisease::pathogen %>% 
+   mutate(PathogenSpecies = taxadb::clean_names(PathogenSpecies)) %>%
+  filter(Group %in% c("Bacteria", "Mollicutes")) %>% 
+  inner_join(tax, by = join_by("PathTaxID" == "tax_id")) %>% distinct_all()
+w <- condensed_spp %>% mutate(cleanTargetTaxonName = taxadb::clean_names(species)) %>%
+  filter(cleanTargetTaxonName %in% pathogens$PathogenSpecies)
+```
+
+
+```{r}
+print(table(full_dump_taxizedb_taxonomy_maps$super_kingdom))
+print(table(resolved_with_insect_disease$Group))
+```
+
+```{r}
+insect_pathogen_bacteria <- full_dump_taxizedb_taxonomy_maps %>% filter(super_kingdom == "Bacteria") %>%
+  select(c(cleanTargetTaxonName, tax_id))
+insect_pathogen_bacteria2 <- resolved_with_insect_disease %>% filter(Group %in% c("Bacteria", "Mollicutes")) %>% 
+  select(c(cleanTargetTaxonName, PathTaxID)) %>% mutate(tax_id = PathTaxID) %>%select(-c(PathTaxID))
+print(names(insect_pathogen_bacteria))
+print(names(insect_pathogen_bacteria2))
+```
+
+```{r}
+insect_bacteria <- rbind(insect_pathogen_bacteria, insect_pathogen_bacteria2)
+condensed_spp <- condensed_spp %>% mutate(cleanTargetTaxonName = taxadb::clean_names(species))
+insect_bacteria %>% filter(cleanTargetTaxonName %in% condensed_spp$cleanTargetTaxonName)
+```
+
+Insect interactions
+```{r}
+insect_interactions <- read_tsv("../data/insect_plant_pathogens/interactions.tsv")
+insects_pathogens <-  insect_interactions %>% 
+  mutate(targetTaxonName_ = targetTaxonName) %>%
+  separate(targetTaxonName_, c("species", "genus")) %>% 
+  mutate(spec = ifelse(!is.na(species) & !is.na(genus), T, F)) %>%
+  filter(spec == T) %>% 
+  select(-c(species, genus, spec)) %>% 
+  filter(interactionTypeName == "hasPathogen") 
+```
+
+```{r}
+pathogen_insect <- condensed_spp %>% inner_join(insects_pathogens, by = join_by("species"=="targetTaxonName")) %>%  
+  select(c(species, interactionTypeName, sourceTaxonName))
+write_csv(pathogen_insect, "insect_interactions_pathogen_host.csv")
+```
+
+https://ropensci.org/blog/2020/08/25/scientific-name-parsing/
+
+Extracting the plants pathogen hosts. 
+```{r}
+img_isolation_site <- plant_pathogens$`IMG ISOLATION SITE`
+plants_pathogens_host <- data.frame(ID=character(), plant_host=character())
+
+make_one_two_combinations <- function(string){
+  one_two_comb <- c()
+  reference_vec <- strsplit(string, " ")[[1]]
+  for (idx in 1:length(reference_vec)-1){
+    two_comb <-
+    paste0(paste(c(reference_vec[idx], reference_vec[idx+1]), collapse=" "))
+    one_two_comb <- append(one_two_comb, c(reference_vec[idx], two_comb))
+  }
+  
+  return(unique(one_two_comb))
+}
+get_all_combinations <- function(strs_vecs){
+  all_combinations <- c()
+  for (strs_vec in strs_vecs){
+    all_combinations <- append(all_combinations, make_one_two_combinations(strs_vec))
+  }
+  return(unique(all_combinations))
+}
+
+for (idx in 1:length(img_isolation_site)){
+  isolation_site <- img_isolation_site[[idx]]
+  
+  el <- tibble::tibble(plants_name =
+                         taxadb::clean_names(get_all_combinations(strsplit(img_isolation_site[[idx]], "\\|")[[1]])))
+  name2taxid_plants <- taxizedb::name2taxid(el$plants_name, out_type = 'summary')
+  if(nrow(name2taxid_plants) > 0){
+    taxized_db_plants <- unique(taxizedb::taxid2name(name2taxid_plants$id))
+    plants_hosts <- tibble::tibble(
+      ID = replicate(length(taxized_db_plants), plant_pathogens$ID[[idx]]), 
+      plant_host = taxized_db_plants )
+    
+  } else {
+    plants_hosts <- tibble::tibble(
+      ID = c(plant_pathogens$ID[[idx]]), 
+      plant_host = c(NA))
+  }
+  
+  plants_pathogens_host <- plants_pathogens_host %>% rbind(plants_hosts)
+}
+```
+
+```{r}
+plant_pathogens <- plant_pathogens %>% left_join(plants_pathogens_host %>% filter(plant_host != "root"), by = "ID")
+write_csv(plant_pathogens %>% select(c(ID, SPECIES, plant_host)), "extracted_plant_host.csv")
+```
+
+

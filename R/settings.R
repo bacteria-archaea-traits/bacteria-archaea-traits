@@ -31,7 +31,7 @@ CONSTANT_PREPARE_DATASETS <- c("amend-shock","bacdive-microa","campedelli","cork
 # Update these vectors as more columns/traits are added
 
 # Categorical traits
-CONSTANT_CATEGORICAL_DATA_COLUMNS <- c("gram_stain", "metabolism", "pathways", "carbon_substrates", "sporulation", "motility", "range_tmp", "range_salinity", "cell_shape", "isolation_source")
+CONSTANT_CATEGORICAL_DATA_COLUMNS <- c("gram_stain", "metabolism", "pathways", "carbon_substrates", "sporulation", "motility", "range_tmp", "range_salinity", "cell_shape", "isolation_source", "cogem_classification")
 
 # Continuous traits
 CONSTANT_CONTINOUS_DATA_COLUMNS <- c("d1_lo","d1_up", "d2_lo", "d2_up", "doubling_h", "genome_size", "gc_content", "coding_genes", "optimum_tmp", "optimum_ph", "growth_tmp", "rRNA16S_genes", "tRNA_genes")
@@ -54,7 +54,7 @@ CONSTANT_DATA_FOR_RENAMING <- c("cell_shape", "gram_stain", "isolation_source", 
 
 # List data that needs to be translated but that are in comma delimited form from original source
 # (i.e. each data point takes the form of 'x, y, z ...')
-CONSTANT_DATA_COMMA_CONCATENATED <- c("pathways","carbon_substrates")
+CONSTANT_DATA_COMMA_CONCATENATED <- c("pathways","carbon_substrates", "isolation_source_full")
 
 #Species names starting with 'Candidatus' are by definition uncultured organisms, 
 #but in some cases these still have various trait data assigned to them which would generally 
